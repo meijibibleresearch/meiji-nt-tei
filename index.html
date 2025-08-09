@@ -5,48 +5,32 @@
 <title>Meiji Bible — New Testament (TEI Collection)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
-  body { font-family: "Noto Serif JP", serif; margin: 0; }
-  header {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    align-items: center;
-    padding: .75rem 1rem;
-    border-bottom: 1px solid #e5e5e5;
-    background: #f8f8f8;
-  }
+  body { font-family: "Noto Serif JP", serif; margin: 2rem; }
+  label { font-weight: bold; margin-right: .5rem; }
   select, input[type="text"], button {
     font-size: 1rem;
     padding: .4rem .6rem;
+    margin-right: .5rem;
   }
-  iframe {
-    width: 100vw;
-    height: calc(100vh - 58px);
-    border: none;
-  }
-  .spacer { flex: 1; }
 </style>
 </head>
 <body>
-  <header>
-    <strong>New Testament</strong>
-    <label>
-      Book:&nbsp;
-      <select id="bookSelect"></select>
-    </label>
-    <div class="spacer"></div>
-    <input id="chapterJump" type="text" placeholder="Jump to xml:id (optional)" />
-    <button id="goBtn">Go</button>
-  </header>
+  <h1>Meiji Bible — New Testament</h1>
+  <p>Select a book from the dropdown to open it in the CANDRA viewer in a new tab.</p>
 
-  <!-- CANDRA viewer iframe -->
-  <iframe id="viewer" src="" allowfullscreen></iframe>
+  <label for="bookSelect">Book:</label>
+  <select id="bookSelect"></select>
+
+  <label for="chapterJump">Jump to xml:id (optional):</label>
+  <input id="chapterJump" type="text" placeholder="e.g., Matthew.CH1.V1" />
+
+  <button id="goBtn">Open in CANDRA</button>
 
   <script>
-    // Change this if CANDRA's URL changes, but keep '?file=' at the end
+    // Base CANDRA viewer URL
     const CANDRA_BASE = "https://candra.dhii.jp/nagasaki/tei/tei_viewer/?file=";
 
-    // List your TEI XML files here
+    // List of TEI XML files
     const BOOKS = {
       "Matthew":  "nt/Matthew.xml",
       "Mark":     "nt/Mark.xml",
@@ -78,11 +62,10 @@
     };
 
     const select = document.getElementById('bookSelect');
-    const iframe = document.getElementById('viewer');
     const jump = document.getElementById('chapterJump');
     const goBtn = document.getElementById('goBtn');
 
-    // Populate the dropdown
+    // Populate dropdown
     Object.entries(BOOKS).forEach(([label, href]) => {
       const opt = document.createElement('option');
       opt.value = href;
@@ -90,28 +73,18 @@
       select.appendChild(opt);
     });
 
-    function setViewer(href, fragment="") {
-      const fileURL = new URL(href, window.location.href).href; // absolute URL for GitHub Pages
-      iframe.src = CANDRA_BASE + encodeURIComponent(fileURL) +
+    // Open in CANDRA
+    function openCANDRA() {
+      const href = select.value;
+      const fragment = jump.value.trim();
+      const fileURL = new URL(href, window.location.href).href; // absolute URL
+      const viewerURL = CANDRA_BASE + encodeURIComponent(fileURL) +
         (fragment ? "#" + encodeURIComponent(fragment) : "");
-      // Update page URL so links can be shared
-      const url = new URL(window.location);
-      url.searchParams.set("book", href);
-      if (fragment) url.searchParams.set("target", fragment);
-      else url.searchParams.delete("target");
-      history.replaceState(null, "", url);
+      window.open(viewerURL, "_blank");
     }
 
-    // Load initial from URL params
-    const qs = new URLSearchParams(window.location.search);
-    const initial = qs.get("book") || Object.values(BOOKS)[0];
-    const target = qs.get("target") || "";
-    select.value = initial;
-    setViewer(initial, target);
-
-    select.addEventListener('change', () => setViewer(select.value));
-    goBtn.addEventListener('click', () => setViewer(select.value, jump.value.trim()));
-    jump.addEventListener('keydown', e => { if (e.key === "Enter") goBtn.click(); });
+    goBtn.addEventListener('click', openCANDRA);
+    jump.addEventListener('keydown', e => { if (e.key === "Enter") openCANDRA(); });
   </script>
 </body>
 </html>
