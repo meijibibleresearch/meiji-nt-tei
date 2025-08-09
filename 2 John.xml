@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>約翰第二書 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>約翰第二書 (2 John)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="[約翰第二書]" xml:id="[約翰第二書]">
+        <head>約翰第二書</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> 長老選を蒙れるクリアと其子等に書を贈る我誠に爾曹を愛す第我のみならず凡そ眞理を識る者は亦みな爾曹を愛せり</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> 爾曹を愛するは是われらの衷に在て恒に離れざる眞理に縁てなり</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> 爾曹は實と愛とに居て神すなはち父および父の子イエス・キリストより恩寵と慈悲と平康とを受べし／</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> われ爾の子等の中わが受し所の父の命のごとく眞理に遵ひて行む者の有を見て甚だ喜べり</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> クリアよ我いま爾に勸む互に相愛すべし此は新しき誡を書贈るに非ず即ち始より我儕が有る所の者なり</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> われら彼の誡に遵ひて行むは是すなはち愛なり爾曹が始より聞し如く愛に行むは是乃ち誡なり</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> そは惑に誘ふ者おほく世に出イエス・キリストの肉體と爲て臨り給へることを認はさず此惑に誘ふ者は乃ちキリストの敵なれば也</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> なんぢら我儕が勤勞し所の事を虚くせず全き賞を得んが爲に自ら愼むべし</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> 凡そキリストの教に居ずして人を導く者は神を有ずキリストの教にをる者は父および子を有り</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> 人もし此教を有ずして爾曹に來らば之を家に納ること勿れ彼に安かれと言なかれ</ab>
+<ab type="verse" n="11" xml:id="Acts.1.11"><hi rend="superscript">11</hi> 彼に安かれといふ者は共に其惡行に與する也／</ab>
+<ab type="verse" n="12" xml:id="Acts.1.12"><hi rend="superscript">12</hi> 我なほ多端あれども紙と墨とを以て爾曹に書おくるを欲ず我儕の喜樂の充滿せん爲に爾曹に至り口を對て語らんことを望む</ab>
+<ab type="verse" n="13" xml:id="Acts.1.13"><hi rend="superscript">13</hi> 爾の姉妹すなはち選を蒙れる者の兒女なんぢに安を問り〔アメン｜アーメン〕</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

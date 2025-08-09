@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>雅各書 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>雅各書 (James)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="[雅各書]" xml:id="[雅各書]">
+        <head>雅各書</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> 神および主イエス・キリストの僕ヤコブ各處に散をる十二の支派に安を問</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> わが兄弟よ若なんぢら各樣の試誘に遇ば之を喜ぶべき事とすべし</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> 蓋なんぢらの受る信仰の試みは爾曹をして忍耐を生ぜしむると知ばなり</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> なんぢら全く且備りて缺る所なからん爲に忍耐をして全く働かしめよ</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> 爾曹の中もし智慧足ざる者あらば夫の咎ることなく惜ことなくして衆人に予る神に求めよ然ば予られん</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> 然ど疑ふことなく信じて之を求むべし疑ふ者は風に撼されて飜へる海浪の如し</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> 斯の如き人は主より何物をも受ると想ふ勿れ</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> 斯の如き人は貳心にして其行ふ所の事すべて定準なし</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> 卑き兄弟は其高せらるる事を喜樂とせよ</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> 富る物は其卑せらるる事を喜樂とせよ蓋草の花の如く逝べければ也</ab>
+<ab type="verse" n="11" xml:id="Acts.1.11"><hi rend="superscript">11</hi> それ日出て熱し草を枯せば其花おち其美しき容きゆ富る者も亦かくの如く其爲ところ半にして己まづ亡ん</ab>
+<ab type="verse" n="12" xml:id="Acts.1.12"><hi rend="superscript">12</hi> 忍て試誘を受る者は福なり蓋こころみを經て善とせらるる時は生命の冕を受べければ也この冕は主己を愛する者に約束し給ひし所のもの也</ab>
+<ab type="verse" n="13" xml:id="Acts.1.13"><hi rend="superscript">13</hi> 誘るる者は神われを惡に誘ふと言なかれ神は惡に誘れず亦人をも惡に誘ひ給はず</ab>
+<ab type="verse" n="14" xml:id="Acts.1.14"><hi rend="superscript">14</hi> 人惡に誘るるは己の慾に引れて誘はるる也</ab>
+<ab type="verse" n="15" xml:id="Acts.1.15"><hi rend="superscript">15</hi> 慾すでに孕て罪をうみ罪すでに成て死を生</ab>
+<ab type="verse" n="16" xml:id="Acts.1.16"><hi rend="superscript">16</hi> わが愛する兄弟よ自ら欺く勿れ</ab>
+<ab type="verse" n="17" xml:id="Acts.1.17"><hi rend="superscript">17</hi> 凡の善賜と全き賜はみな上より諸の光明の父より降るなり父は變ること無また轉動て顯るる影もなき者なり</ab>
+<ab type="verse" n="18" xml:id="Acts.1.18"><hi rend="superscript">18</hi> われ己の旨に循ひ眞道を以て我儕を生り是我儕をして其造る所の物の中にて初に結べる果の如き者とならしめん爲なり／</ab>
+<ab type="verse" n="19" xml:id="Acts.1.19"><hi rend="superscript">19</hi> 是故に我が愛する兄弟よ人おのおの聽ことを速かにし語ることを徐し怒ことを徐すべし</ab>
+<ab type="verse" n="20" xml:id="Acts.1.20"><hi rend="superscript">20</hi> そは人の怒は神の義を行ふ事をせざれば也</ab>
+<ab type="verse" n="21" xml:id="Acts.1.21"><hi rend="superscript">21</hi> 然ば諸の汚穢と多の邪惡をすて柔和を以て爾曹その心に殖たる所の靈魂を救得る道を受べし</ab>
+<ab type="verse" n="22" xml:id="Acts.1.22"><hi rend="superscript">22</hi> なんぢら道を行ふ者となるべし徒これを聞のみにして自己を欺く者となる勿れ</ab>
+<ab type="verse" n="23" xml:id="Acts.1.23"><hi rend="superscript">23</hi> それ道を聞のみにして之を行はざる者は鏡に向て本來の面をみる人に似たり</ab>
+<ab type="verse" n="24" xml:id="Acts.1.24"><hi rend="superscript">24</hi> かれ己を照し觀て去のち直に其如何なる相貌なりしかを忘る</ab>
+<ab type="verse" n="25" xml:id="Acts.1.25"><hi rend="superscript">25</hi> 然ば自由なる全き律法を切々に觀て離れざる者は是功を行ふ者にして聞て忘るる者に非ず斯人その行ふところ福あらん</ab>
+<ab type="verse" n="26" xml:id="Acts.1.26"><hi rend="superscript">26</hi> 爾曹のうち誰か若みづから神に事る者と意ひて其舌に轡をつけず自ら其心を欺かば其事ることは徒然なり</ab>
+<ab type="verse" n="27" xml:id="Acts.1.27"><hi rend="superscript">27</hi> 神なる父の前に潔して穢なく事ることは孤子と寡婦を其患難の中に眷顧また自ら守て世に汚れざる是なり</ab>
+</div>
+<div type="chapter" n="2">
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="Acts.2.1"><hi rend="superscript">1</hi> わが兄弟よ爾曹榮の主イエス・キリストの信仰の道を守らんには人を偏視ること勿れ</ab>
+<ab type="verse" n="2" xml:id="Acts.2.2"><hi rend="superscript">2</hi> もし人金環をはめ美しき衣服を着て爾曹の會堂に來り又貧き人汚たる衣服を着て來らんに</ab>
+<ab type="verse" n="3" xml:id="Acts.2.3"><hi rend="superscript">3</hi> なんぢら美しき衣服を着たる人を顧みて爾この榮位に坐れと曰また貧者に爾彼處に立といひ或は我が足下に坐れと曰ば</ab>
+<ab type="verse" n="4" xml:id="Acts.2.4"><hi rend="superscript">4</hi> 爾曹は各人のうち區別を立また惡念を以て人を分ものに非ずや</ab>
+<ab type="verse" n="5" xml:id="Acts.2.5"><hi rend="superscript">5</hi> 我が愛する兄弟よ聽け神は斯世の貧者を選て信仰に富せ己を愛する者に約束し給ひし所の國を嗣べき者とならしめ給ふに非ずや</ab>
+<ab type="verse" n="6" xml:id="Acts.2.6"><hi rend="superscript">6</hi> 然るに爾曹貧者を藐視たり爾曹を陵辱また裁判所に曳ものは富者に非ずや</ab>
+<ab type="verse" n="7" xml:id="Acts.2.7"><hi rend="superscript">7</hi> 彼等は爾曹が稱らるる所の美名を讟す者に非ずや</ab>
+<ab type="verse" n="8" xml:id="Acts.2.8"><hi rend="superscript">8</hi> 爾曹もし聖書に載る所の己の如く爾の隣を愛すべしと云る貴き法を守らば其行ふところ善</ab>
+<ab type="verse" n="9" xml:id="Acts.2.9"><hi rend="superscript">9</hi> 然ど若し人を偏視ることをせば是罪を行ふなり律法爾曹を定めて罪人とせん</ab>
+<ab type="verse" n="10" xml:id="Acts.2.10"><hi rend="superscript">10</hi> 人律法を悉く守るとも若その一に躓かば此全を犯すなり</ab>
+<ab type="verse" n="11" xml:id="Acts.2.11"><hi rend="superscript">11</hi> それ姦淫する勿れと言る者また殺すこと勿れと言ば爾曹姦淫せずとも若し殺すことをせば律法を犯す者となる也</ab>
+<ab type="verse" n="12" xml:id="Acts.2.12"><hi rend="superscript">12</hi> なんぢら言ること行ふこと自由の律法に循て鞫を受んとする者の如くすべし</ab>
+<ab type="verse" n="13" xml:id="Acts.2.13"><hi rend="superscript">13</hi> 憐むことをせざる者は鞫かるる時また憐まるること無らん矜恤は鞫に勝なり／</ab>
+<ab type="verse" n="14" xml:id="Acts.2.14"><hi rend="superscript">14</hi> わが兄弟よ人自ら信仰ありと言て若し行なくば何の益あらん乎その信仰いかで彼を救ひ得んや</ab>
+<ab type="verse" n="15" xml:id="Acts.2.15"><hi rend="superscript">15</hi> もし兄弟あるひは姉妹裸躰にて日用の糧に乏からんに</ab>
+<ab type="verse" n="16" xml:id="Acts.2.16"><hi rend="superscript">16</hi> 爾曹のうち或人これに曰て安然にして行け願くは爾曹温かにして飽ことを得よと而して其身體に無てならぬ物を之に予ずば何の益あらん乎</ab>
+<ab type="verse" n="17" xml:id="Acts.2.17"><hi rend="superscript">17</hi> 此の如く信仰もし行を兼ざるときは乃ち死るなり</ab>
+<ab type="verse" n="18" xml:id="Acts.2.18"><hi rend="superscript">18</hi> 或人いはん爾信仰あり我行あり請なんぢが行を兼ざる信仰を我に示せ我は我が行に由て我が信仰を爾に示さんと</ab>
+<ab type="verse" n="19" xml:id="Acts.2.19"><hi rend="superscript">19</hi> なんぢ神は惟一なりと信ず如此信ずるは善し惡鬼も亦信じて戰慄り</ab>
+<ab type="verse" n="20" xml:id="Acts.2.20"><hi rend="superscript">20</hi> ああ愚なる人よ行を兼ざる信仰の死ることを爾知んと欲ふや</ab>
+<ab type="verse" n="21" xml:id="Acts.2.21"><hi rend="superscript">21</hi> 我儕の先祖アブラハムその子イサクを壇の上に獻て義とせられたるは行に由に非ずや</ab>
+<ab type="verse" n="22" xml:id="Acts.2.22"><hi rend="superscript">22</hi> その信仰行と共に働き且行に由て信仰全備を得たるを爾見べし</ab>
+<ab type="verse" n="23" xml:id="Acts.2.23"><hi rend="superscript">23</hi> これ聖書に録してアブラハム神を信ず其信仰を義とせられたりと有に應へり彼また神の友と稱れたり</ab>
+<ab type="verse" n="24" xml:id="Acts.2.24"><hi rend="superscript">24</hi> なんぢら人の義とせらるるは信仰にのみ由に非ず行に由ことを知なるべし</ab>
+<ab type="verse" n="25" xml:id="Acts.2.25"><hi rend="superscript">25</hi> また妓婦ラハブ使者を受これを他の途より去しめて義とせられたるは行に由に非ずや</ab>
+<ab type="verse" n="26" xml:id="Acts.2.26"><hi rend="superscript">26</hi> 身もし靈魂はなるれば死るごとく信仰も行ひ離れば死るなり</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="Acts.3.1"><hi rend="superscript">1</hi> わが兄弟よ爾曹多く師となる可らず蓋われら師たる者の審判を受ると尤も重と知ばなり</ab>
+<ab type="verse" n="2" xml:id="Acts.3.2"><hi rend="superscript">2</hi> われらは皆しばしば愆を爲る者なり人もし言に愆なくば是全人にして全體に轡を置得るなり</ab>
+<ab type="verse" n="3" xml:id="Acts.3.3"><hi rend="superscript">3</hi> 夫われら馬を己に馴はせんとして其口に轡を置ときは其全體を馭すべし</ab>
+<ab type="verse" n="4" xml:id="Acts.3.4"><hi rend="superscript">4</hi> 舟も亦その形は大く且狂風に追るるとも小舵を以て舵子の意の隨に之を運すなり</ab>
+<ab type="verse" n="5" xml:id="Acts.3.5"><hi rend="superscript">5</hi> 此の如く舌も亦小ものにして誇ること大なり視よ微火いかに大なる林を燃すを</ab>
+<ab type="verse" n="6" xml:id="Acts.3.6"><hi rend="superscript">6</hi> 舌は即ち火すなはち惡の世界なり舌は百體の中に備りありて全體を汚し又全世界を燃すなり舌の火は地獄より燃出</ab>
+<ab type="verse" n="7" xml:id="Acts.3.7"><hi rend="superscript">7</hi> その各類の獸禽昆蟲海に在もの皆制を受また既に人に制せられたり</ab>
+<ab type="verse" n="8" xml:id="Acts.3.8"><hi rend="superscript">8</hi> 然ど人たれも舌を制し能はず乃ち抑がたき惡にして死毒の充るもの也</ab>
+<ab type="verse" n="9" xml:id="Acts.3.9"><hi rend="superscript">9</hi> 我儕これを以て主なる父を祝また之をもて神の形に像りて造られたる人を詛ふ</ab>
+<ab type="verse" n="10" xml:id="Acts.3.10"><hi rend="superscript">10</hi> 祝と詛一の口より出わが兄弟よ此の如き〔事｜こと〕は有べきに非ず</ab>
+<ab type="verse" n="11" xml:id="Acts.3.11"><hi rend="superscript">11</hi> 泉の源は一穴より甘水と苦水を並に出さん乎</ab>
+<ab type="verse" n="12" xml:id="Acts.3.12"><hi rend="superscript">12</hi> わが兄弟よ無花果の樹橄欖の果を結び或は葡萄の樹無花果の果を結ぶことを得んや斯の如く泉の源鹹水と淡水を並に出すこと能はず</ab>
+<ab type="verse" n="13" xml:id="Acts.3.13"><hi rend="superscript">13</hi> 爾曹のうち智くして聰明ものは誰なるや柔和なる智慧を以て善行を彰すべし</ab>
+<ab type="verse" n="14" xml:id="Acts.3.14"><hi rend="superscript">14</hi> 然ど若なんぢら心の中に苦嫉と忿爭を懷かば是眞理に背なり眞理に背て誇る勿れ又謊る勿れ</ab>
+<ab type="verse" n="15" xml:id="Acts.3.15"><hi rend="superscript">15</hi> 斯る智慧は上より下るに非ず地に屬るもの情慾に屬るもの惡魔に屬るもの也</ab>
+<ab type="verse" n="16" xml:id="Acts.3.16"><hi rend="superscript">16</hi> そは娼嫉と忿爭ある所には亂と諸般の惡事とあれば也</ab>
+<ab type="verse" n="17" xml:id="Acts.3.17"><hi rend="superscript">17</hi> 然ど上よりの智慧は第一に潔く次に平和寛容柔順かつ矜恤と善果みち人を偏視ず亦僞なきもの也</ab>
+<ab type="verse" n="18" xml:id="Acts.3.18"><hi rend="superscript">18</hi> 義の果は平和を行ふ者の平和を以て種に由て結ぶなり</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="Acts.4.1"><hi rend="superscript">1</hi> 爾曹の中の戰鬪と爭競は何より來しや爾曹の百體の中に戰ふ所の慾より來しに非ずや</ab>
+<ab type="verse" n="2" xml:id="Acts.4.2"><hi rend="superscript">2</hi> 爾曹貪れども得ず殺ことをし嫉ことを爲ども得こと能はず爾曹爭競と戰鬪せり爾曹は求ざるに因て得ざる也</ab>
+<ab type="verse" n="3" xml:id="Acts.4.3"><hi rend="superscript">3</hi> なんぢら求てなほ得ざるは爾曹慾のために費さんとして妄に求るが故なり</ab>
+<ab type="verse" n="4" xml:id="Acts.4.4"><hi rend="superscript">4</hi> 姦淫を行ふ男女よ爾曹世を友とするは神に敵するなるを知ざらんや世の友とならん〔事｜こと〕を欲ふ者は神の敵なり</ab>
+<ab type="verse" n="5" xml:id="Acts.4.5"><hi rend="superscript">5</hi> 聖書に神の我儕の衷に住しめ給ふ靈熱心を以て我儕を愛むと言るを爾曹虚きことと意ふや</ab>
+<ab type="verse" n="6" xml:id="Acts.4.6"><hi rend="superscript">6</hi> 神更に大なる恩惠を予ふ此に由ていふ神は驕傲者を拒ぎ謙卑者に恩を予ふと</ab>
+<ab type="verse" n="7" xml:id="Acts.4.7"><hi rend="superscript">7</hi> 是故に爾曹神に服へ惡魔を拒げ然ばかれ〔爾曹｜なんぢら〕を逃去ん</ab>
+<ab type="verse" n="8" xml:id="Acts.4.8"><hi rend="superscript">8</hi> なんぢら神に近け然ば神なんぢらに近き給はん罪人よ爾曹の手を淨せよ二心の者よ爾曹の心を潔くせよ</ab>
+<ab type="verse" n="9" xml:id="Acts.4.9"><hi rend="superscript">9</hi> なんぢら苦め哀め哭なんぢらの笑を哀哭に易よ爾曹の歡樂を憂に易よ</ab>
+<ab type="verse" n="10" xml:id="Acts.4.10"><hi rend="superscript">10</hi> 自己を主の前に卑せよ然ば主なんぢらを高せん</ab>
+<ab type="verse" n="11" xml:id="Acts.4.11"><hi rend="superscript">11</hi> 兄弟よ互に謗る勿れ兄弟を謗〔或｜あるひ〕は兄弟を議する者は律法を謗り律法を議するなり爾もし律法を議せば律法を行ふ者に非ず律法を議する者なり</ab>
+<ab type="verse" n="12" xml:id="Acts.4.12"><hi rend="superscript">12</hi> 律法をたて人を議する者は惟一なり彼は救ふこと滅すことを爲得る也なんぢ誰なれば隣を議する乎</ab>
+<ab type="verse" n="13" xml:id="Acts.4.13"><hi rend="superscript">13</hi> われら今日明日某の邑にゆき彼處に一年とどまり賣買して利を得んといふ者よ</ab>
+<ab type="verse" n="14" xml:id="Acts.4.14"><hi rend="superscript">14</hi> なんぢら明日の事を知ず爾曹の生命は何ぞ暫く現れて遂に消る霧なり</ab>
+<ab type="verse" n="15" xml:id="Acts.4.15"><hi rend="superscript">15</hi> 爾曹の言ことに易て如此いへ主もし許し給はば我儕活て或は此事あるひは彼事を行んと</ab>
+<ab type="verse" n="16" xml:id="Acts.4.16"><hi rend="superscript">16</hi> 然ど今なんぢら驕りて誇ることを爲凡て此の如き誇は惡なり</ab>
+<ab type="verse" n="17" xml:id="Acts.4.17"><hi rend="superscript">17</hi> 人善を行ふ事を知て之を行はざるは罪なり</ab>
+</div>
+<div type="chapter" n="5">
+  <head>第5章</head>
+<ab type="verse" n="1" xml:id="Acts.5.1"><hi rend="superscript">1</hi> 富者よ爾曹既に來らんとする禍害を思て哭叫ぶべし</ab>
+<ab type="verse" n="2" xml:id="Acts.5.2"><hi rend="superscript">2</hi> 爾曹の財は朽なんぢらの衣服は蠧ひ</ab>
+<ab type="verse" n="3" xml:id="Acts.5.3"><hi rend="superscript">3</hi> 爾曹の金銀は銹腐れり此銹證を爲て爾曹を攻かつ火の如く爾曹の肉を蝕ん爾曹この末の日に在てなほ財を蓄ふることをせり</ab>
+<ab type="verse" n="4" xml:id="Acts.5.4"><hi rend="superscript">4</hi> 視よ爾曹が其田を穫せし雇人に予ざる値は叫び其刈し者の呼聲は既に萬軍の主の耳に入り</ab>
+<ab type="verse" n="5" xml:id="Acts.5.5"><hi rend="superscript">5</hi> なんぢら地に在て奢樂み屠らるる日に在て尚その心を悦ばせり</ab>
+<ab type="verse" n="6" xml:id="Acts.5.6"><hi rend="superscript">6</hi> なんぢら義者を罪に定め且これを殺せり彼なんぢらを拒ざりき／</ab>
+<ab type="verse" n="7" xml:id="Acts.5.7"><hi rend="superscript">7</hi> 兄弟よ忍て主の臨るを待べし視よ農夫地の貴き産を得を望みて前と後との雨を得まで久く忍て之を待り</ab>
+<ab type="verse" n="8" xml:id="Acts.5.8"><hi rend="superscript">8</hi> 爾曹も忍べ爾曹の心を堅せよ蓋主の臨り給ふこと近けば也</ab>
+<ab type="verse" n="9" xml:id="Acts.5.9"><hi rend="superscript">9</hi> 兄弟よ爾曹互に怨ること勿れ恐くは罪に定られん視よ鞫するもの門の前に立てり</ab>
+<ab type="verse" n="10" xml:id="Acts.5.10"><hi rend="superscript">10</hi> 兄弟よ爾曹主の名に託て語りし〔預言者｜預言者〕を苦と忍との式とすべし</ab>
+<ab type="verse" n="11" xml:id="Acts.5.11"><hi rend="superscript">11</hi> われら忍ぶ者は福なりと意ふ也なんぢら曾てヨブの忍を聞り主いかに彼に行給ひし乎その結局を見よ即ち主は慈悲深く且矜恤ある者〔也｜なり〕</ab>
+<ab type="verse" n="12" xml:id="Acts.5.12"><hi rend="superscript">12</hi> 兄弟よ一切誓ふ勿れ或は天あるひは地あるひは他物を指て誓ふ勿れ爾曹是を是とし否を否とすべし恐くは爾曹罪に定られん</ab>
+<ab type="verse" n="13" xml:id="Acts.5.13"><hi rend="superscript">13</hi> 爾曹のうち誰か苦む者ある乎あらば祈禱せよ誰か喜ぶ者あるか有ばその人讚美せよ</ab>
+<ab type="verse" n="14" xml:id="Acts.5.14"><hi rend="superscript">14</hi> 爾曹のうち誰か病る者ある乎あらば教會の長老等を招くべし彼等主の名に託て其人に膏を沃ぎ之が爲に祈ん</ab>
+<ab type="verse" n="15" xml:id="Acts.5.15"><hi rend="superscript">15</hi> それ信仰より出る祈禱は病者を救ふべし主これを起さん若し罪を犯しし事有ば赦れん</ab>
+<ab type="verse" n="16" xml:id="Acts.5.16"><hi rend="superscript">16</hi> なんぢら互に過ちを認らはし且病を瘳るることを得ん爲に互に祈るべし義者の篤き祈禱は力ある者なり</ab>
+<ab type="verse" n="17" xml:id="Acts.5.17"><hi rend="superscript">17</hi> エリヤは我儕と同情の人なり彼雨降ざることを切に祈りければ三年六ヶ月の間地に雨降ざりき</ab>
+<ab type="verse" n="18" xml:id="Acts.5.18"><hi rend="superscript">18</hi> また祈りければ天より雨ふりて地その産を萠出せり</ab>
+<ab type="verse" n="19" xml:id="Acts.5.19"><hi rend="superscript">19</hi> わが兄弟よ爾曹のうち或は眞の道より迷る者あらんに誰か之を引反さば</ab>
+<ab type="verse" n="20" xml:id="Acts.5.20"><hi rend="superscript">20</hi> 此人知べし罪人を其迷る道より引反すは乃ち其靈魂を死より救かつ多の罪を掩ふことを</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

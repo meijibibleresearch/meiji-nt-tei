@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>約翰默示録 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>約翰默示録 (Revelation)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="[約翰默示録]" xml:id="[約翰默示録]">
+        <head>約翰默示録</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> 此イエスキリストの默示すなはち神彼をして迅速に起るべき事を彼の僕等に示さしめんとて彼に賜ひし所なりイエス・キリスト其使を以て僕ヨハネに之を贈り示し給へり</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> ヨハネ神の道とイエス・キリストの證と其凡て見し所のものとを證す</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> この預言の書を讀者と之を聞て其中に記しある所を守る人々は福なり蓋時近ければ也／</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> ヨハネ書をアジアにある七の教會に贈る願くは今在し昔し在し後在す者および其寶座の前の七つの靈</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> 及び忠信なる證者死の中より首に生れし者天下の諸王は君たるイエス・キリストより爾曹恩寵と平安を受けよ願くは我儕を愛し其血を以て我儕の罪を洗潔め</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> 我儕をして王となし祭司と爲てその父の神に屬しむる者に榮光と權力世々窮なく有んことを〔アメン｜アーメン〕／</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> 視よ彼は雲に乘りて來る衆の目かれを見ん彼を刺たる者も亦これを見べし且地の諸族これが爲に哀哭ん〔アメン｜アーメン〕</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> 主たる神いひ給へり我はアルパ也オメガなり〔始め｜始〕なり終なり今あり昔あり後ある全能の者なり／</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> 我ヨハネ即ち爾曹の兄弟なんぢらと患難を共にしイエス・キリストの國および其忍耐を共にする者曩に神の道とイエスの證の爲にパトモスという島に居て</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> 主の日に我靈に感じて箛の如き大なる聲の我後に在を聞り</ab>
+<ab type="verse" n="11" xml:id="Acts.1.11"><hi rend="superscript">11</hi> 云く爾の見ところを書に録して之をアジアに在エペソ、スムルナ、ペルガモ、テアテラ、サルデス、ヒラデルヒヤ、ラオデキヤの七の教會に贈るべし</ab>
+<ab type="verse" n="12" xml:id="Acts.1.12"><hi rend="superscript">12</hi> われ身を轉して我に語る聲を觀んとし既に身を轉せば金の七の燈臺</ab>
+<ab type="verse" n="13" xml:id="Acts.1.13"><hi rend="superscript">13</hi> 又其七の燈臺の間に人の子の如き者あるを見たり其身には足まで垂る衣をき胸には金の帶を束ね</ab>
+<ab type="verse" n="14" xml:id="Acts.1.14"><hi rend="superscript">14</hi> 首と髮とは白こと羊の毛の如く雪の如く目は火焰の如し</ab>
+<ab type="verse" n="15" xml:id="Acts.1.15"><hi rend="superscript">15</hi> 足は爐に燒る眞鍮の如く聲は大水の響の如し</ab>
+<ab type="verse" n="16" xml:id="Acts.1.16"><hi rend="superscript">16</hi> 右の手には七の星をもち兩刃の利劔その口よりいで面は甚しく耀く日の如し</ab>
+<ab type="verse" n="17" xml:id="Acts.1.17"><hi rend="superscript">17</hi> 我これを見しとき死る者の如く其足下に仆れたり彼右の手を我に按て曰けるは懼るる勿れ我は首先なり末後なり</ab>
+<ab type="verse" n="18" xml:id="Acts.1.18"><hi rend="superscript">18</hi> 我は生者なり前に死しことあり視よ我は世々窮りなく生ん〔アメン｜アーメン〕我は陰府と死との鑰を持り</ab>
+<ab type="verse" n="19" xml:id="Acts.1.19"><hi rend="superscript">19</hi> なんぢ見し所および今ある所のこと後ある所のことを録すべし</ab>
+<ab type="verse" n="20" xml:id="Acts.1.20"><hi rend="superscript">20</hi> 其は爾が見し所の我が右の手の七の星また七の金の燈臺の奧義なり七の星は七の教會の使者七の燈臺は七の教會なり</ab>
+</div>
+<div type="chapter" n="2">
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="Acts.2.1"><hi rend="superscript">1</hi> 爾エペソの教會の使者に書おくるべし右の手に七の星を執また七の金の燈臺の間を行む者かくの如く言と</ab>
+<ab type="verse" n="2" xml:id="Acts.2.2"><hi rend="superscript">2</hi> 曰われ爾の行爲と勞苦と忍耐と爾が惡人を容る能ざると爾が曩に夫の自ら使徒なりと稱て實は使徒に非ざる者を試みて其妄言を見あらはしし事と</ab>
+<ab type="verse" n="3" xml:id="Acts.2.3"><hi rend="superscript">3</hi> 爾が忍耐する事と我名のために患難を忍びて倦ざりし事とを知</ab>
+<ab type="verse" n="4" xml:id="Acts.2.4"><hi rend="superscript">4</hi> 然ど我なんぢに責べき事あり爾初時の愛を離れたり</ab>
+<ab type="verse" n="5" xml:id="Acts.2.5"><hi rend="superscript">5</hi> なんぢ何處より墜しかを憶ひ悔改めて初の工を行へ然ずして爾もし悔改めずば我なんぢに到り爾の燈臺を其處より取除かん</ab>
+<ab type="verse" n="6" xml:id="Acts.2.6"><hi rend="superscript">6</hi> 然ども爾に一の取べき事ありニコライ宗の人の行爲を惡むことなり我も之を惡めり</ab>
+<ab type="verse" n="7" xml:id="Acts.2.7"><hi rend="superscript">7</hi> 耳ある者は靈の諸教會にいふ所を聽べし勝をうる者には我神の樂園にある生命の樹の實を食ふ事を許さん／</ab>
+<ab type="verse" n="8" xml:id="Acts.2.8"><hi rend="superscript">8</hi> なんぢ又スムルナの教會の使者に書おくるべし首先末後のもの死てまた生たる者かくの如く言と</ab>
+<ab type="verse" n="9" xml:id="Acts.2.9"><hi rend="superscript">9</hi> 曰われ爾の行爲と患難と貧乏とをしる貧乏とは雖ど爾は富り我また夫の自らユダヤ人なりと稱て實は非ざるサタンの會の者の褻瀆の言を知り</ab>
+<ab type="verse" n="10" xml:id="Acts.2.10"><hi rend="superscript">10</hi> なんぢ將に受んとする苦を懼るる勿れ惡魔まさに爾曹の中の者を獄に入て爾曹を試みんとす爾曹十日のあひだ患難を受べし爾死に至るまで忠信なれ然ば我生命の冕を爾に賜へん</ab>
+<ab type="verse" n="11" xml:id="Acts.2.11"><hi rend="superscript">11</hi> 耳ある者は靈の諸教會にいふ所を聽べし勝を得ものは第二の死の禍害を受ず／</ab>
+<ab type="verse" n="12" xml:id="Acts.2.12"><hi rend="superscript">12</hi> 爾ベルガモの教會の使者に書おくるべし兩刃の利劔をもつ者かくの如く言と</ab>
+<ab type="verse" n="13" xml:id="Acts.2.13"><hi rend="superscript">13</hi> 曰われ知なんぢが住處は即ちサタンの座位のある所なり爾は固く我名を保つ甞て我が忠信の證人アンテパス爾曹の中サタンの住ところにて殺されし時にも爾わが道を棄ざりき</ab>
+<ab type="verse" n="14" xml:id="Acts.2.14"><hi rend="superscript">14</hi> 然ども我なんぢに數件の責べき事あり爾曹の中バラムの教を保つ者あり先にバラム、バラクに教て礙物をイスラエルの民の前に置しむ即ちバラクをして彼等に偶像に獻し物を食はせ姦淫を行はしめたり</ab>
+<ab type="verse" n="15" xml:id="Acts.2.15"><hi rend="superscript">15</hi> また爾曹の中にニコライ宗の教を保つ者あり此教は我が惡む所なり</ab>
+<ab type="verse" n="16" xml:id="Acts.2.16"><hi rend="superscript">16</hi> なんぢ悔改めよ然ざれば我迅速に爾に到り我が口の劍をもて彼等と戰はん</ab>
+<ab type="verse" n="17" xml:id="Acts.2.17"><hi rend="superscript">17</hi> 耳ある者は靈の諸教會にいふ所を聽べし勝をうる者には我藏しあるマナを予へん亦白石の上に新しき名を記して之に予へん之を受る者の外に此名を知ものなし／</ab>
+<ab type="verse" n="18" xml:id="Acts.2.18"><hi rend="superscript">18</hi> 爾テアテラの教會の使者に書贈るべし神の子その目は火焰の如く其足は眞鍮の如なる者かくの如く言と</ab>
+<ab type="verse" n="19" xml:id="Acts.2.19"><hi rend="superscript">19</hi> 曰われ爾の行爲と愛と信仰と服役と忍耐とを知また爾が後に爲し工は始の工よりも多ことを知</ab>
+<ab type="verse" n="20" xml:id="Acts.2.20"><hi rend="superscript">20</hi> 然ども我なんぢに責べき事あり爾はかの自ら〔預言者｜預言者〕なりと稱て我が僕を教これを惑し姦淫を行はせ偶像に獻し物を食しむる婦イエザベルを容おけり</ab>
+<ab type="verse" n="21" xml:id="Acts.2.21"><hi rend="superscript">21</hi> われ曾て此女に悔改むべき機を予たれど其姦淫を悔改ることを爲ざりき</ab>
+<ab type="verse" n="22" xml:id="Acts.2.22"><hi rend="superscript">22</hi> 我かれを牀に投入ん又かれと淫する者も若その行を悔改めずば我これを大なる苦難の中に投入ん</ab>
+<ab type="verse" n="23" xml:id="Acts.2.23"><hi rend="superscript">23</hi> また死をもて彼の婦の兒女を殺さん之に因て諸教會は我が人の心腸を察り爾曹各々の行に循ひて報を爲ことを知ん</ab>
+<ab type="verse" n="24" xml:id="Acts.2.24"><hi rend="superscript">24</hi> 我この餘のテアテラの人いまだ此教を受ず所謂サタンの奧義を未だ識ざる爾曹に言われ他の任を爾曹に負せじ</ab>
+<ab type="verse" n="25" xml:id="Acts.2.25"><hi rend="superscript">25</hi> 只なんぢら有ところの者を我いたる時まで固く保つべし</ab>
+<ab type="verse" n="26" xml:id="Acts.2.26"><hi rend="superscript">26</hi> 勝を得て終に至るまで我が命ぜし事を守る者には我諸邦の民を治むる權威を賜へん</ab>
+<ab type="verse" n="27" xml:id="Acts.2.27"><hi rend="superscript">27</hi> 彼は鐵の杖をもて諸邦の民を牧り彼等を陶瓦の器の如く碎かん我わが父より受たる權威の如し</ab>
+<ab type="verse" n="28" xml:id="Acts.2.28"><hi rend="superscript">28</hi> 我また彼に曙の明星を賜へん</ab>
+<ab type="verse" n="29" xml:id="Acts.2.29"><hi rend="superscript">29</hi> 耳ある者は靈の諸教會にいふ所を聽べし</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="Acts.3.1"><hi rend="superscript">1</hi> 爾サルデスの教會の使者に書贈るべし神の七の靈を持また七の星を持もの此の如く言と曰われ爾の行爲をしる又なんぢに生る名ありて其實は死ることを知</ab>
+<ab type="verse" n="2" xml:id="Acts.3.2"><hi rend="superscript">2</hi> なんぢ目を醒し幾ど死んとする殘情を堅せよ我なんぢの行爲の我神の前に全きを見ざる也</ab>
+<ab type="verse" n="3" xml:id="Acts.3.3"><hi rend="superscript">3</hi> 是故に爾が受たるところ聞たる所を憶起これを守りて悔改めよ若し目を醒し居ずば我盜賊の如く爾に到らん爾わが何の時なんぢに到るかを知ざる也</ab>
+<ab type="verse" n="4" xml:id="Acts.3.4"><hi rend="superscript">4</hi> 然どもサルデスになほ數人いまだ其衣を汚さざる者あり彼等は白衣をきて我と同に行まん彼等は然するに足もの也</ab>
+<ab type="verse" n="5" xml:id="Acts.3.5"><hi rend="superscript">5</hi> 勝を得ものは白衣を着られん我それ名を生命の書より塗抹さず又わが父と其使等の前に彼が名を言陳ん</ab>
+<ab type="verse" n="6" xml:id="Acts.3.6"><hi rend="superscript">6</hi> 耳ある者は靈の諸教會にいふ所を聽べし／</ab>
+<ab type="verse" n="7" xml:id="Acts.3.7"><hi rend="superscript">7</hi> 爾ヒラデルヒアの教會の使者に書贈るべし聖もの誠なる者ダビデの鑰をもつ者かれ闢ば誰も闔ること能はず彼闔れば誰も闢こと能はず此者かくの如く言と</ab>
+<ab type="verse" n="8" xml:id="Acts.3.8"><hi rend="superscript">8</hi> 曰われ爾の行爲をしる視よ我れ門を爾の前に闢けり之を闔ることを得る者なし蓋なんぢ少く力ありて我言を守り我名を棄ざれば也</ab>
+<ab type="verse" n="9" xml:id="Acts.3.9"><hi rend="superscript">9</hi> 夫の自らユダヤ人と稱て實は非ず唯謊言をいふサタンの會の或者をして我これを爾の所に來らしめ爾の足の前に伏しめ我なんぢを愛せしことを知しめん</ab>
+<ab type="verse" n="10" xml:id="Acts.3.10"><hi rend="superscript">10</hi> 爾わが忍耐の言を守しにより我も亦なんぢを守りて地に住人を試みんが爲に全世界に臨んとする試煉の時に之を免れしむべし</ab>
+<ab type="verse" n="11" xml:id="Acts.3.11"><hi rend="superscript">11</hi> われ迅速に來らん爾が有ところの者を堅く保ちて爾の冕を人に奪るること勿れ</ab>
+<ab type="verse" n="12" xml:id="Acts.3.12"><hi rend="superscript">12</hi> 勝をうる者をば我神の殿の内の柱となさん此より再び出ることなし我また我神の名と吾神の京城すなはち天より我神の所より降る新しきエルサレムの名および我が新しき名を之に書さん</ab>
+<ab type="verse" n="13" xml:id="Acts.3.13"><hi rend="superscript">13</hi> 耳ある者は靈の諸教會の言ところを聽べし</ab>
+<ab type="verse" n="14" xml:id="Acts.3.14"><hi rend="superscript">14</hi> 爾ラオデキヤの教會の使者に書贈るべし〔アメン｜アーメン〕たる者忠信なる眞實の證者神の造化の始なる者かくの如く言と</ab>
+<ab type="verse" n="15" xml:id="Acts.3.15"><hi rend="superscript">15</hi> 曰われ爾が冷かにも有ず熱も有ざることを爾の行爲に由て知り我なんぢが冷かなるか或は熱からん事を願ふ</ab>
+<ab type="verse" n="16" xml:id="Acts.3.16"><hi rend="superscript">16</hi> 爾すでに温然して冷かにも有ず熱くも有ず是故に我なんぢを我が口より吐出さんとす</ab>
+<ab type="verse" n="17" xml:id="Acts.3.17"><hi rend="superscript">17</hi> なんぢ自ら我は富かつ豐になり乏しき所なしと稱て實は憫るもの憐むべきものまた貧く瞽ひ裸體なるを知ざれば</ab>
+<ab type="verse" n="18" xml:id="Acts.3.18"><hi rend="superscript">18</hi> われ爾に勸なんぢ富をなさんために我より火に燬たる金を買また己が裸體の恥の露れざらん爲に白衣を買て纏へ又見ことを得ん爲に目藥を買て目にぬれ</ab>
+<ab type="verse" n="19" xml:id="Acts.3.19"><hi rend="superscript">19</hi> 凡て我が愛する者は我これを責め之を懲す是故に爾勵て悔改めよ</ab>
+<ab type="verse" n="20" xml:id="Acts.3.20"><hi rend="superscript">20</hi> 視よ我戸の外に立て叩もし我聲を聞て戸を開く者あらば我その人の所に就ん而して我はその人と偕に其人は我と偕に食せん</ab>
+<ab type="verse" n="21" xml:id="Acts.3.21"><hi rend="superscript">21</hi> 勝をうる者には我さきに勝を得て我父と偕に其寶座に坐するが如く我と偕に我が寶座に坐することを許さん</ab>
+<ab type="verse" n="22" xml:id="Acts.3.22"><hi rend="superscript">22</hi> 耳ある者は靈の諸教會に言ところを聽べし</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="Acts.4.1"><hi rend="superscript">1</hi> 此後われ見しに天に門開けありたり我が初に聞る所の我に語れる箛の如き聲また我に語て曰ここに上れ我こののち起るべき事を爾に示さん</ab>
+<ab type="verse" n="2" xml:id="Acts.4.2"><hi rend="superscript">2</hi> われ直に靈に感じ天に一の寶座設ありて其寶座の上に坐する者あるを見たり</ab>
+<ab type="verse" n="3" xml:id="Acts.4.3"><hi rend="superscript">3</hi> その坐する者の貌は金剛石、赤瑪瑙の如く且その寶座の四圍に緑の玉の如き虹あり</ab>
+<ab type="verse" n="4" xml:id="Acts.4.4"><hi rend="superscript">4</hi> その寶座の四圍に又二十四の寶座あり二十四人の長老白衣をき首に金の冕を戴きて其寶座に坐するを見たり</ab>
+<ab type="verse" n="5" xml:id="Acts.4.5"><hi rend="superscript">5</hi> その中央の寶座の中より閃電迅雷および許多の聲いづ又その寶座の前に燃れる七の〔燈火｜火燈〕あり是神の七の靈なり</ab>
+<ab type="verse" n="6" xml:id="Acts.4.6"><hi rend="superscript">6</hi> 寶座の前に水晶に似たる玻璃の海の如きものあり寶座の正面とその四圍に四の活物あり前後ことごとく目なり</ab>
+<ab type="verse" n="7" xml:id="Acts.4.7"><hi rend="superscript">7</hi> 第一の活物は獅子の如く第二の活物は牛の如く第三の活物は面の貌人の如く第四の活物は飛鷲の如し</ab>
+<ab type="verse" n="8" xml:id="Acts.4.8"><hi rend="superscript">8</hi> この四の活物おのおの六の翼あり其内外ことごとく目なり此もの夜る晝る息ずしていふ聖かな聖かな聖かな昔し在し今在し後います主たる全能の神と</ab>
+<ab type="verse" n="9" xml:id="Acts.4.9"><hi rend="superscript">9</hi> この活物寶座に坐する所の世々窮なく生る者に榮を歸し之を尊び之に感謝せし時</ab>
+<ab type="verse" n="10" xml:id="Acts.4.10"><hi rend="superscript">10</hi> 二十四人の長老寶座に坐する者の前に伏この世々窮なく生る者を拜し己の冕を其寶座の前に投出し曰けるは</ab>
+<ab type="verse" n="11" xml:id="Acts.4.11"><hi rend="superscript">11</hi> 主よ爾は榮と尊貴と權威を受べき者なり爾は萬物を造り萬物は意旨に由て有ち且造れたり</ab>
+</div>
+<div type="chapter" n="5">
+  <head>第5章</head>
+<ab type="verse" n="1" xml:id="Acts.5.1"><hi rend="superscript">1</hi> 我また寶座に坐する者七の印にて封印せる内外に文字ある卷を其右の手に持るを見たり</ab>
+<ab type="verse" n="2" xml:id="Acts.5.2"><hi rend="superscript">2</hi> 我また一人の強き天の使大なる聲を發して誰か此卷を開き封印を解に堪る乎と宣傳るを見たり</ab>
+<ab type="verse" n="3" xml:id="Acts.5.3"><hi rend="superscript">3</hi> 然るに天にも地にも地の下にも此卷を開き又これを見ことを得る者なし</ab>
+<ab type="verse" n="4" xml:id="Acts.5.4"><hi rend="superscript">4</hi> 一人として此卷を開き又これを見に堪る者なきが故に我甚だしく哭り</ab>
+<ab type="verse" n="5" xml:id="Acts.5.5"><hi rend="superscript">5</hi> 彼の長老の一人われに曰けるは哭なかれユダの支派より出たる獅子ダビデの根すでに勝を得たれば此卷を開き又この七の封印を解ことを得なり</ab>
+<ab type="verse" n="6" xml:id="Acts.5.6"><hi rend="superscript">6</hi> われ寶座および四の活物のあひだ長老等の間に羔立をるを見たり此羔さきに殺されし事あるが如し之に七の角と七の目あり此目は全世界に遣はす神の七の靈なり</ab>
+<ab type="verse" n="7" xml:id="Acts.5.7"><hi rend="superscript">7</hi> この羔すすみて寶座に坐する者の右の手より卷を取り</ab>
+<ab type="verse" n="8" xml:id="Acts.5.8"><hi rend="superscript">8</hi> 卷を取るとき四の活物および二十四人の長老おのおの琴を執また香を盛たる金の香爐を執て羔の前に俯伏したり此香は聖徒等の祈禱なり</ab>
+<ab type="verse" n="9" xml:id="Acts.5.9"><hi rend="superscript">9</hi> この長老たち新しき歌を唱いひけるは爾は此卷を取その封印を解に堪る者なり蓋なんぢ曾て殺され其血をもて諸族、諸音、諸民、諸國の中より我儕を贖て神に歸せしめ</ab>
+<ab type="verse" n="10" xml:id="Acts.5.10"><hi rend="superscript">10</hi> 〔且｜かつ〕我儕の神の爲に我儕を王となし祭司と作給へば也われら地に王たるべし</ab>
+<ab type="verse" n="11" xml:id="Acts.5.11"><hi rend="superscript">11</hi> 我また見しに寶座と活物および長老等の四圍に衆の天の使の聲あるを聞り其數千々萬々</ab>
+<ab type="verse" n="12" xml:id="Acts.5.12"><hi rend="superscript">12</hi> かれら大聲に曰けるは曩に殺れたりし羔は權威、富、智慧、能力、尊敬、榮光、讚美を受べき者なり</ab>
+<ab type="verse" n="13" xml:id="Acts.5.13"><hi rend="superscript">13</hi> 我また天および地および地の下および海の上にある所の凡て造れたるもの又其中に在もの皆いへるを聞り曰く願くは讚美、尊敬、榮光、權力、寶座に坐する者と羔とに歸して世々窮なからんことを</ab>
+<ab type="verse" n="14" xml:id="Acts.5.14"><hi rend="superscript">14</hi> 是に於て四の活物〔アメン｜アーメン〕と曰り二十四人の長老伏て拜せり</ab>
+</div>
+<div type="chapter" n="6">
+  <head>第6章</head>
+<ab type="verse" n="1" xml:id="Acts.6.1"><hi rend="superscript">1</hi> 羔その一の封印を開しとき我觀しに活物の一つ雷の如き聲にて來れと曰を聞り</ab>
+<ab type="verse" n="2" xml:id="Acts.6.2"><hi rend="superscript">2</hi> われ觀しに一匹の白馬を見たり之に乘るもの弓を携ふ且冕を與られたり彼常に勝り又勝を得んとて出行り／</ab>
+<ab type="verse" n="3" xml:id="Acts.6.3"><hi rend="superscript">3</hi> また第二の封印を開し時われ第二の活物の來れと曰を聞り</ab>
+<ab type="verse" n="4" xml:id="Acts.6.4"><hi rend="superscript">4</hi> また一匹の赤馬いで來れり之に乘るもの地の平和を奪ひ且人々をして彼此に相殺しむる權を予られたり彼また巨なる刀を授けらる／</ab>
+<ab type="verse" n="5" xml:id="Acts.6.5"><hi rend="superscript">5</hi> また第三の封印を開し時第三の活物の來れと曰を聞り我觀しに一匹の黒馬を見たり之に乘るもの手に權衡を持り</ab>
+<ab type="verse" n="6" xml:id="Acts.6.6"><hi rend="superscript">6</hi> 我かの四の活物の中に聲あるを聞り曰く銀十五錢に小麥五合銀十五錢に大麥一升五合なり油と葡萄酒を傷ふ可らず／</ab>
+<ab type="verse" n="7" xml:id="Acts.6.7"><hi rend="superscript">7</hi> また第四の封印を開しとき第四の活物の來れと曰を聞り</ab>
+<ab type="verse" n="8" xml:id="Acts.6.8"><hi rend="superscript">8</hi> われ觀しに一匹の灰色たる馬を觀たり之に乘る者の名は死という陰府その後に隨へり彼等刀劔、饑饉、死亡および地の猛獸をもて世の人の四分の一を殺すの權を予られたり／</ab>
+<ab type="verse" n="9" xml:id="Acts.6.9"><hi rend="superscript">9</hi> また第五の封印を開しとき祭壇の下に曾て神の道のため及その立し證の爲に殺される者等の靈魂あるを見たり</ab>
+<ab type="verse" n="10" xml:id="Acts.6.10"><hi rend="superscript">10</hi> かれら大聲に呼り曰けるは聖誠の主よ何時まで地にすむ者等を審判せず且これに我儕の血の報をなし給ざる乎</ab>
+<ab type="verse" n="11" xml:id="Acts.6.11"><hi rend="superscript">11</hi> 爰に彼等各人に白衣を賜へて之に曰給ひけるは彼等の如く殺されんとする其同に勞ける兄弟等の數の盈るまで安んじて暫く待べし／</ab>
+<ab type="verse" n="12" xml:id="Acts.6.12"><hi rend="superscript">12</hi> また第六の封印を開し時われ觀しに大なる地震あり日は毛布の如く黒なり月は血の如くなれり</ab>
+<ab type="verse" n="13" xml:id="Acts.6.13"><hi rend="superscript">13</hi> 天の星は無花果の樹の大風に搖て未だ熟せざる其實の落るが如く地に隕</ab>
+<ab type="verse" n="14" xml:id="Acts.6.14"><hi rend="superscript">14</hi> 天は卷物を捲が如く去ゆき諸山諸島みな移てその處を離れたり</ab>
+<ab type="verse" n="15" xml:id="Acts.6.15"><hi rend="superscript">15</hi> 地の諸王また貴人、富者、將軍、勇士すべての奴隸すべての自主〔悉｜ことごと〕く洞に匿れ</ab>
+<ab type="verse" n="16" xml:id="Acts.6.16"><hi rend="superscript">16</hi> 山と巖とに曰けるは願くは我儕の上に墜〔我儕｜われら〕を掩ふて寶座に坐する者の面と羔の怒を避しめよ</ab>
+<ab type="verse" n="17" xml:id="Acts.6.17"><hi rend="superscript">17</hi> この羔の怒の大なる日すでに至れるなり誰か之に抵ることを得んや</ab>
+</div>
+<div type="chapter" n="7">
+  <head>第7章</head>
+<ab type="verse" n="1" xml:id="Acts.7.1"><hi rend="superscript">1</hi> 此後われ四人の天使地の四隅に立て地の四方の風を援とめ地の上にも海の上にも樹の上にも風を吹せざるを見たり</ab>
+<ab type="verse" n="2" xml:id="Acts.7.2"><hi rend="superscript">2</hi> 又この他に一人の天使活神の印を持て東より登り來るを見たり此使者かの地と海を傷ふことを許されたる四人の使者に向て大聲に呼り</ab>
+<ab type="verse" n="3" xml:id="Acts.7.3"><hi rend="superscript">3</hi> 我儕の神の僕の額に我儕が印するまでは地をも海をも樹をも傷ふ可らずと曰り</ab>
+<ab type="verse" n="4" xml:id="Acts.7.4"><hi rend="superscript">4</hi> 我印せられたる者の數を聞しにイスラエルの諸の支派のうち印せられたる者合せて十四萬四千あり</ab>
+<ab type="verse" n="5" xml:id="Acts.7.5"><hi rend="superscript">5</hi> ユダの支派にて一萬二千ルベンの支派にて一萬二千ガドの支派にて一萬二千</ab>
+<ab type="verse" n="6" xml:id="Acts.7.6"><hi rend="superscript">6</hi> アセルの支派にて一萬二千ナフタリの支派にて一萬二千マナセの支派にて一萬二千</ab>
+<ab type="verse" n="7" xml:id="Acts.7.7"><hi rend="superscript">7</hi> シメオンの支派にて一萬二千レビの支派にて一萬二千イサカルの支派にて一萬二千</ab>
+<ab type="verse" n="8" xml:id="Acts.7.8"><hi rend="superscript">8</hi> ゼブルンの支派にて一萬二千ヨセフの支派にて一萬二千ベニヤミンの支派にて一萬二千人〔也｜なり〕／</ab>
+<ab type="verse" n="9" xml:id="Acts.7.9"><hi rend="superscript">9</hi> 此後〔我｜われ〕觀しに諸國、諸族、諸民、諸音の中より誰も數へ盡すこと能ざるほどの許多の人白衣をき手に㯶櫚の葉をもち寶位と羔の前に來りて立り</ab>
+<ab type="verse" n="10" xml:id="Acts.7.10"><hi rend="superscript">10</hi> かれら大聲に呼り曰けるは救は寶座に坐せる我儕の神と羔より出るなり</ab>
+<ab type="verse" n="11" xml:id="Acts.7.11"><hi rend="superscript">11</hi> 天使みな寶座および長老等と四の活物との四圍に立て寶座に向ひ俯伏して神を拜し</ab>
+<ab type="verse" n="12" xml:id="Acts.7.12"><hi rend="superscript">12</hi> 曰けるは〔アメン｜アーメン〕願くは讚美、榮光、智慧、感謝、尊敬、權威、能力、世々窮なく我儕の神に歸せよ〔アメン｜アーメン〕</ab>
+<ab type="verse" n="13" xml:id="Acts.7.13"><hi rend="superscript">13</hi> 長老の一人われに曰けるは此白衣を着たる者は誰か且何處より來りし乎</ab>
+<ab type="verse" n="14" xml:id="Acts.7.14"><hi rend="superscript">14</hi> われ答けるは君よ爾これを知べし彼われに曰けるは彼等は大なる艱難を經て來れり曾て羔の血にて其衣を滌これを白なせる者なり</ab>
+<ab type="verse" n="15" xml:id="Acts.7.15"><hi rend="superscript">15</hi> 是故に彼等は神の寶座の前に在かつ神の殿にて夜晝神に事ふ寶座に坐する者は彼等の中に居給ふべし</ab>
+<ab type="verse" n="16" xml:id="Acts.7.16"><hi rend="superscript">16</hi> 彼等は重て飢ず重て渇ずまた日も熱氣も彼等を害はざる也</ab>
+<ab type="verse" n="17" xml:id="Acts.7.17"><hi rend="superscript">17</hi> そは寶座の前にある羔かれらを養ひ彼等を活る水の源に導き又神かれらの涙を其目より拭ひ給ふ可れば也</ab>
+</div>
+<div type="chapter" n="8">
+  <head>第8章</head>
+<ab type="verse" n="1" xml:id="Acts.8.1"><hi rend="superscript">1</hi> また第七の封印を開しとき天靜謐なりしこと凡そ半時</ab>
+<ab type="verse" n="2" xml:id="Acts.8.2"><hi rend="superscript">2</hi> われ神の前に立る七人の天使をみる彼等七の箛を予られたり</ab>
+<ab type="verse" n="3" xml:id="Acts.8.3"><hi rend="superscript">3</hi> また一人の天の使金の香爐を持來て祭壇の側に立かれ多の香を予られたり此は寶座の前にある金の祭壇の上に之を獻て諸の聖徒の祈禱に添しめん爲なり</ab>
+<ab type="verse" n="4" xml:id="Acts.8.4"><hi rend="superscript">4</hi> 香の烟聖徒の祈禱に添て天使の手より神の前に升れり</ab>
+<ab type="verse" n="5" xml:id="Acts.8.5"><hi rend="superscript">5</hi> この天使香爐を執これに祭壇の火を盛て地に傾けければ許多の聲迅雷と閃電および地震起れり／</ab>
+<ab type="verse" n="6" xml:id="Acts.8.6"><hi rend="superscript">6</hi> 七の箛を執る七人の天使箛をふく備を爲り</ab>
+<ab type="verse" n="7" xml:id="Acts.8.7"><hi rend="superscript">7</hi> 第一の天使箛を吹ければ血の雜たる雹と火と地に雨〔降｜降り〕地の三分の一焚亡また樹の三分の一焚亡凡ての青草も焚亡たり／</ab>
+<ab type="verse" n="8" xml:id="Acts.8.8"><hi rend="superscript">8</hi> 第二の天使箛を吹ければ火に焚る大なる山の如きもの海に投入られ海の三分の一血に變たり</ab>
+<ab type="verse" n="9" xml:id="Acts.8.9"><hi rend="superscript">9</hi> 海の中にある造られたる活物三分の一死船三分の一破壞たり／</ab>
+<ab type="verse" n="10" xml:id="Acts.8.10"><hi rend="superscript">10</hi> 第三の天使箛を吹ければ一の大なる星明燈の如くに燃て天より隕〔即｜すなは〕ち河の三分の一および水の源に隕たり</ab>
+<ab type="verse" n="11" xml:id="Acts.8.11"><hi rend="superscript">11</hi> この星の名は茵陳といふ水の三分の一は茵陳の如く苦く變り如此水の苦く變るに因て多の人死り</ab>
+<ab type="verse" n="12" xml:id="Acts.8.12"><hi rend="superscript">12</hi> 第四の天の使箛を吹ければ日の三分の一月の三分の一星の三分の一みな撃れて其三分の一すべて暗なり晝三分の一光なく夜も亦光なし</ab>
+<ab type="verse" n="13" xml:id="Acts.8.13"><hi rend="superscript">13</hi> われ見しに一の鷲穹蒼の中央を飛大なる聲にて呼をきく曰く後また三人の天使箛を吹んと爲により地に住者は禍なるかな禍なるかな禍なる哉</ab>
+</div>
+<div type="chapter" n="9">
+  <head>第9章</head>
+<ab type="verse" n="1" xml:id="Acts.9.1"><hi rend="superscript">1</hi> 第五の天使箛を吹ける時我天より地に隕たる一の星を見たり此星底なき坑の鑰を與られたり</ab>
+<ab type="verse" n="2" xml:id="Acts.9.2"><hi rend="superscript">2</hi> 彼底なき坑を啓ければ大なる爐の烟の如き煙坑より上り日と穹蒼とは此坑の烟の爲に暗なれり</ab>
+<ab type="verse" n="3" xml:id="Acts.9.3"><hi rend="superscript">3</hi> 多の蝗烟の中より地に出この蝗地の蠍の權の如き權を與らる</ab>
+<ab type="verse" n="4" xml:id="Acts.9.4"><hi rend="superscript">4</hi> 又地の草もろもろの青緑および諸の樹を傷ふこと勿ただ額に神の印なき人々を傷ふべしと命ぜられたり</ab>
+<ab type="verse" n="5" xml:id="Acts.9.5"><hi rend="superscript">5</hi> 且これに人を殺ことを許さず惟五ヶ月の間かれらを苦むる事を許れたり其痛苦は人蠍に刺れたる時の痛苦の如し</ab>
+<ab type="verse" n="6" xml:id="Acts.9.6"><hi rend="superscript">6</hi> この時に人々死を求んと爲ども能はず死んことを願ども死は遁去べし</ab>
+<ab type="verse" n="7" xml:id="Acts.9.7"><hi rend="superscript">7</hi> 此蝗の状は戰のために備たる馬の如し頭には金の冕の如ものを戴き其面は人の面の如し</ab>
+<ab type="verse" n="8" xml:id="Acts.9.8"><hi rend="superscript">8</hi> 此に女の髮の如き髮あり其齒は獅子の齒の如し</ab>
+<ab type="verse" n="9" xml:id="Acts.9.9"><hi rend="superscript">9</hi> また鐵の胸當の如き胸當あり其翼の音は數多の馬の戰車を引て戰塲に馳るが如し</ab>
+<ab type="verse" n="10" xml:id="Acts.9.10"><hi rend="superscript">10</hi> 且これに蠍の尾の如き尾と蠆とあり此蝗五ヶ月のあひだ人を傷ふ權を有り</ab>
+<ab type="verse" n="11" xml:id="Acts.9.11"><hi rend="superscript">11</hi> この蝗に王あり底なき坑の使者なりヘブルの音にて其名をアバドンと云ギリシャの音にてアポリオンと云</ab>
+<ab type="verse" n="12" xml:id="Acts.9.12"><hi rend="superscript">12</hi> 一の禍すぎ去てなほ二の禍至らんとす／</ab>
+<ab type="verse" n="13" xml:id="Acts.9.13"><hi rend="superscript">13</hi> 第六の天の使箛を吹し時われ神の前なる金の祭壇の四角より出る聲ありて</ab>
+<ab type="verse" n="14" xml:id="Acts.9.14"><hi rend="superscript">14</hi> この箛を持る第六の天使に語をきく曰かの繋れて大河ユフラテの邊にある四人の使者を釋せ</ab>
+<ab type="verse" n="15" xml:id="Acts.9.15"><hi rend="superscript">15</hi> 乃ち四人の使者釋れたり年月日時に至りて人の三分の一を殺さん爲に之を備しもの也</ab>
+<ab type="verse" n="16" xml:id="Acts.9.16"><hi rend="superscript">16</hi> 騎兵の數に〔萬々｜万々〕あり我その數を聞り</ab>
+<ab type="verse" n="17" xml:id="Acts.9.17"><hi rend="superscript">17</hi> 〔我｜われ〕異象に此馬と之に乘る者を見しが其形状かくの如し彼等は火色、紫色、硫磺色の胸當を着馬の首は獅子の首の如く其口よりは火と煙と硫磺いづ</ab>
+<ab type="verse" n="18" xml:id="Acts.9.18"><hi rend="superscript">18</hi> 此馬の口より出る火と煙と硫磺と三のものの爲に人の三分の一殺れたり</ab>
+<ab type="verse" n="19" xml:id="Acts.9.19"><hi rend="superscript">19</hi> この馬の力量は口と尾にあり其尾は蛇の如にして首あり之を以て人を傷ふ也</ab>
+<ab type="verse" n="20" xml:id="Acts.9.20"><hi rend="superscript">20</hi> この禍にて殺れざる餘の人々は尚その手なす所を悔改めず惡鬼を拜し見こと聞こと行ことを得ざる金、銀、銅、石、木の偶像を拜し</ab>
+<ab type="verse" n="21" xml:id="Acts.9.21"><hi rend="superscript">21</hi> 又その兇殺、魔術、姦淫、盜竊を悔改めず</ab>
+</div>
+<div type="chapter" n="10">
+  <head>第10章</head>
+<ab type="verse" n="1" xml:id="Acts.10.1"><hi rend="superscript">1</hi> 我また一人の強き天使の雲を衣て天より降るを見たり虹その首にあり其面は日の如く其足は火の柱の如し</ab>
+<ab type="verse" n="2" xml:id="Acts.10.2"><hi rend="superscript">2</hi> 其手には展たる小き卷をとり其右の足を海の上にふみ左の足を地に履</ab>
+<ab type="verse" n="3" xml:id="Acts.10.3"><hi rend="superscript">3</hi> 獅子の吼る如く大聲に呼れり呼れるとき七の雷ありて聲を出せり</ab>
+<ab type="verse" n="4" xml:id="Acts.10.4"><hi rend="superscript">4</hi> 七の雷聲を發しし時われ之を書記さんとせしに天より出る聲ありて此七の雷の言ることは爾これを封じて書記す可らずと曰るを聞り</ab>
+<ab type="verse" n="5" xml:id="Acts.10.5"><hi rend="superscript">5</hi> 我が見る所の海と地に跨り立る天の使右の手を擧て天に向ひ</ab>
+<ab type="verse" n="6" xml:id="Acts.10.6"><hi rend="superscript">6</hi> 世々窮なく生る者即ち天および其中のもの地および其中のもの海および其中の物を造たる者を指て誓ひ曰けるは此のち時を延す可らず</ab>
+<ab type="verse" n="7" xml:id="Acts.10.7"><hi rend="superscript">7</hi> 第七の天使の聲を出すとき即ち箛を吹ときに至りて神その僕なる〔預言者｜預言者〕等に示し給ひし如く其奧義成就すべし</ab>
+<ab type="verse" n="8" xml:id="Acts.10.8"><hi rend="superscript">8</hi> 我が聞し所の天より出し聲また我に曰けるは行て夫海と地に跨り立る天使の手に持ところの展たる小き卷を取</ab>
+<ab type="verse" n="9" xml:id="Acts.10.9"><hi rend="superscript">9</hi> 我その天使の所に往て之に曰けるは請小き卷を我に予よ彼いひけるは此卷を取て食盡せ爾の腹苦く爲べし其口に入るときは蜜の如く甜らん</ab>
+<ab type="verse" n="10" xml:id="Acts.10.10"><hi rend="superscript">10</hi> われ天使の手より小き卷を取て之を食しに口に在し時は其甜こと蜜の如なりしが食盡しし時わが腹苦く爲たり</ab>
+<ab type="verse" n="11" xml:id="Acts.10.11"><hi rend="superscript">11</hi> かれ我に曰けるは爾再び諸民、諸國、諸音、諸王の事を預言すべし</ab>
+</div>
+<div type="chapter" n="11">
+  <head>第11章</head>
+<ab type="verse" n="1" xml:id="Acts.11.1"><hi rend="superscript">1</hi> われ杖の如き葦を予られたり天使われに曰けるは起て神の殿と香壇並に其處にて拜する者を度れ</ab>
+<ab type="verse" n="2" xml:id="Acts.11.2"><hi rend="superscript">2</hi> 殿の外の庭は殘して度る可らず蓋これを異邦人に予へ給ひたれば也かれら四十二ヶ月のあひだ聖城を蹂躙さん</ab>
+<ab type="verse" n="3" xml:id="Acts.11.3"><hi rend="superscript">3</hi> 我わが二人の證者に能を予ん彼等麻の衣を着て千二百六十日の間預言すべし</ab>
+<ab type="verse" n="4" xml:id="Acts.11.4"><hi rend="superscript">4</hi> 彼等は地を宰どる主の前に立る二の橄欖の樹二の燈臺なり</ab>
+<ab type="verse" n="5" xml:id="Acts.11.5"><hi rend="superscript">5</hi> もし彼等を害はんとする者あれば火その口より出て其敵を滅すなり若し彼等を害はんとする者あれば其者は此の如く殺るべし</ab>
+<ab type="verse" n="6" xml:id="Acts.11.6"><hi rend="superscript">6</hi> かれら預言する間天を閉て雨を降ざらしむるの權を有り亦水を血に變らせ且その心の任に幾回にても各樣の災殃を以て地を撃權を有り</ab>
+<ab type="verse" n="7" xml:id="Acts.11.7"><hi rend="superscript">7</hi> 彼等が其證をなし畢んとき底なき坑より上る獸ありて之と戰をなし勝て之を殺さん</ab>
+<ab type="verse" n="8" xml:id="Acts.11.8"><hi rend="superscript">8</hi> その屍は大なる邑の衢にあり此邑を譬てソドムと名け亦〔エジプト｜エヂプト〕と名く即ち主の十字架に懸られ給ひし所なり</ab>
+<ab type="verse" n="9" xml:id="Acts.11.9"><hi rend="superscript">9</hi> 諸民、諸族、諸音、諸國の者三日半の間かれらの屍を見かつ其屍を墓に葬ることを許さず</ab>
+<ab type="verse" n="10" xml:id="Acts.11.10"><hi rend="superscript">10</hi> 地にすむ者等かれらの死しに因て喜び樂み互に禮物を贈答せん蓋この二人の〔預言者｜預言者〕地に住ものを苦めたれば也</ab>
+<ab type="verse" n="11" xml:id="Acts.11.11"><hi rend="superscript">11</hi> 三日半ののち生の靈神より出て彼等の中に入かれら起て其足を立しかば之を見もの大に懼たり</ab>
+<ab type="verse" n="12" xml:id="Acts.11.12"><hi rend="superscript">12</hi> われ天より大なる聲ありて此に升れと彼等に言を聞り彼等雲に乘て天に升れり其敵これを見たり</ab>
+<ab type="verse" n="13" xml:id="Acts.11.13"><hi rend="superscript">13</hi> この時に大なる地震ありて邑の十分の一は傾れ此地震の爲に死し者七千人遺れる者等は大に懼れ榮を天の神に歸せり</ab>
+<ab type="verse" n="14" xml:id="Acts.11.14"><hi rend="superscript">14</hi> 第二の禍すぎ去り第三の禍速に來らんとす／</ab>
+<ab type="verse" n="15" xml:id="Acts.11.15"><hi rend="superscript">15</hi> 第七の天使箛を吹しとき天に大なる聲ありて曰〔此｜この〕世の諸の國は我儕の主および主のキリストの屬と爲りキリスト世々窮なく之を治め給はん</ab>
+<ab type="verse" n="16" xml:id="Acts.11.16"><hi rend="superscript">16</hi> 神の前に在て位に坐し居たる二十四人の長老俯伏して神を拜し</ab>
+<ab type="verse" n="17" xml:id="Acts.11.17"><hi rend="superscript">17</hi> 曰けるは今在し昔し在す全能の主たる神よ我儕感謝す爾すでに大なる權を執て政事を施し給ふに因</ab>
+<ab type="verse" n="18" xml:id="Acts.11.18"><hi rend="superscript">18</hi> 諸の國の民怒を懷けり爾の怒も亦至れり且死し者を審判して爾の僕なる〔預言者｜預言者〕及び聖徒ならびに大と小との別なく其名を懼るる者に賞を予へ地を亡す者を亡し給ふ時既に至れり</ab>
+<ab type="verse" n="19" xml:id="Acts.11.19"><hi rend="superscript">19</hi> 時に神の殿天に闢け殿の中に神の約束の櫃みゆ又閃電と聲と迅雷および地震と大なる雹と有き</ab>
+</div>
+<div type="chapter" n="12">
+  <head>第12章</head>
+<ab type="verse" n="1" xml:id="Acts.12.1"><hi rend="superscript">1</hi> 爰に大なる異象天に現はる一人の婦あり日を着月を足の下にふみ首に十二の星の冕を戴けり</ab>
+<ab type="verse" n="2" xml:id="Acts.12.2"><hi rend="superscript">2</hi> 彼すでに孕み居しが子を産んとして甚く苦み泣叫べり</ab>
+<ab type="verse" n="3" xml:id="Acts.12.3"><hi rend="superscript">3</hi> また一の異象天に現はる一條の大なる赤龍あり之に七の首の十の角あり其七の首に七の冕を戴けり</ab>
+<ab type="verse" n="4" xml:id="Acts.12.4"><hi rend="superscript">4</hi> その尾にて天の星三分の一を曳これを地に墮せり此龍子を産んとする婦の前にたち産を待て其子を食んとす</ab>
+<ab type="verse" n="5" xml:id="Acts.12.5"><hi rend="superscript">5</hi> 婦男子を生り其子鐵の杖をもて萬國の民を主理らんとす彼神と其寶座の下に擧られたり</ab>
+<ab type="verse" n="6" xml:id="Acts.12.6"><hi rend="superscript">6</hi> 婦のがれて野に往り神そこにて彼を千二百六十日のあひだ食はしめん爲に備給へる一の所あり</ab>
+<ab type="verse" n="7" xml:id="Acts.12.7"><hi rend="superscript">7</hi> 斯て天に戰起れりミカエルその使者を率て龍と戰ふ龍も亦その使者を率て之と戰ひしが</ab>
+<ab type="verse" n="8" xml:id="Acts.12.8"><hi rend="superscript">8</hi> 勝こと能ず且再び天に居ことを得ず</ab>
+<ab type="verse" n="9" xml:id="Acts.12.9"><hi rend="superscript">9</hi> 是に於て此大なる龍すなはち惡魔と呼れサタンと呼るる者全世界の人を惑す老蛇地に逐下さる其使者も亦ともに逐下されたり</ab>
+<ab type="verse" n="10" xml:id="Acts.12.10"><hi rend="superscript">10</hi> 天に大なる聲あるを聞り曰く我儕の神の救と能力と其國と神のキリストの權威今すでに至れり蓋われらの神の前に夜晝われらの兄弟を訴ふる者既に逐下されたれば也</ab>
+<ab type="verse" n="11" xml:id="Acts.12.11"><hi rend="superscript">11</hi> 我儕の兄弟は羔の血および己が證せし所の道に因て之に勝り彼等は死に至るまで其生命を惜ざりき</ab>
+<ab type="verse" n="12" xml:id="Acts.12.12"><hi rend="superscript">12</hi> 是故に天と天に居者は喜べ地と海は禍なる哉そは惡魔おのが時の幾時も無をしり大なる怒を懷て爾曹の所に下れば也／</ab>
+<ab type="verse" n="13" xml:id="Acts.12.13"><hi rend="superscript">13</hi> 龍おのが既に地に逐下されしを見て彼の男子を生る婦を窘せり</ab>
+<ab type="verse" n="14" xml:id="Acts.12.14"><hi rend="superscript">14</hi> この婦大なる鷲の二の翼を予られ野に飛て己が所に至り其處にて蛇を避一年と二年と半年のあひだ養はれたり</ab>
+<ab type="verse" n="15" xml:id="Acts.12.15"><hi rend="superscript">15</hi> 蛇その口より水を河の如く婦の後に吐て之を漂さんとせり</ab>
+<ab type="verse" n="16" xml:id="Acts.12.16"><hi rend="superscript">16</hi> 地婦を助け口を啓て龍の口より吐たる水を呑盡せり</ab>
+<ab type="verse" n="17" xml:id="Acts.12.17"><hi rend="superscript">17</hi> 龍婦を怒りてその餘の兒女すなはち神の誡を守りイエスの證を有つものと戰はんとて往り</ab>
+<ab type="verse" n="18" xml:id="Acts.12.18"><hi rend="superscript">18</hi> [13:1]われ海の砂の上に立て</ab>
+</div>
+<div type="chapter" n="13">
+  <head>第13章</head>
+<ab type="verse" n="1" xml:id="Acts.13.1"><hi rend="superscript">1</hi> 一匹の獸の海より出るを見たり之に七の首と十の角あり其角の上に十の冕を戴き其首に僭妄の名を書せり</ab>
+<ab type="verse" n="2" xml:id="Acts.13.2"><hi rend="superscript">2</hi> 我が見し所の獸その形は豹の如く其足は熊の足の如く其口は獅子の口の如し龍おのれの能力と座位と大なる權威を之に予たり</ab>
+<ab type="verse" n="3" xml:id="Acts.13.3"><hi rend="superscript">3</hi> 我この獸の一の首傷を受て幾ど死んとする状なるを見たり其死んとする状なりし傷愈ければ全世の人これを奇として從へり</ab>
+<ab type="verse" n="4" xml:id="Acts.13.4"><hi rend="superscript">4</hi> 龍その權威を獸に予しに因て人々龍を拜し又この獸を拜し曰けるは誰か此獸の如き者あらんや誰か之と交戰をなし得ものあらん乎</ab>
+<ab type="verse" n="5" xml:id="Acts.13.5"><hi rend="superscript">5</hi> この獸夸大なる言と讟す言とをいふ口を予られ又四十二ヶ月のあひだ働をなすべき權を予らる</ab>
+<ab type="verse" n="6" xml:id="Acts.13.6"><hi rend="superscript">6</hi> かれ口を啓て神を讟し其名と其幕屋および天にすむ者等を讟せり</ab>
+<ab type="verse" n="7" xml:id="Acts.13.7"><hi rend="superscript">7</hi> かれ聖徒等と戰ひ之に勝ことを許され又諸族、諸民、諸音、諸國を宰どる權威を予られたり</ab>
+<ab type="verse" n="8" xml:id="Acts.13.8"><hi rend="superscript">8</hi> 地に住る凡の人即ち世の始より殺され給ひし羔の生命の册に其名を録されざる者等は此獸を拜せん</ab>
+<ab type="verse" n="9" xml:id="Acts.13.9"><hi rend="superscript">9</hi> 耳ある者は之を聽べし</ab>
+<ab type="verse" n="10" xml:id="Acts.13.10"><hi rend="superscript">10</hi> 凡そ人を虜にする者は己また虜にせられ刀にて人を殺す者は己また刀にて殺さるべし聖徒の忍耐と信仰茲に在／</ab>
+<ab type="verse" n="11" xml:id="Acts.13.11"><hi rend="superscript">11</hi> 我また一匹の獸の地より出るを見たり之に二の角ありて羔の角の如し且その言ふこと龍の如し</ab>
+<ab type="verse" n="12" xml:id="Acts.13.12"><hi rend="superscript">12</hi> この獸先の獸の前にて先の獸の凡の權威をとり地と其上に住る者をして先に死んとする状なりし傷の愈たる獸を拜せしめたり</ab>
+<ab type="verse" n="13" xml:id="Acts.13.13"><hi rend="superscript">13</hi> また大なる奇徴をなし人々の前にて火を天より地に降し</ab>
+<ab type="verse" n="14" xml:id="Acts.13.14"><hi rend="superscript">14</hi> 且その權を得て獸の前に行ふ所の奇徴を以て地にすむ者を欺き彼等に語りて彼の刀傷を受てなほ活る獸の像を作らしむ</ab>
+<ab type="verse" n="15" xml:id="Acts.13.15"><hi rend="superscript">15</hi> 彼この獸の像に生命を予へ之をして言ふことを得しめ又その像を拜せざる者を悉く之に殺しむるの權を予られたり</ab>
+<ab type="verse" n="16" xml:id="Acts.13.16"><hi rend="superscript">16</hi> かれ衆人をして大小、貧富、自主、奴隸の別なく或は右の手或は額に印誌を受しむ</ab>
+<ab type="verse" n="17" xml:id="Acts.13.17"><hi rend="superscript">17</hi> 印誌すなはち獸の名あらざる者あるひは其名の數あらざる者は凡て貿易する事を得ざらしめたり</ab>
+<ab type="verse" n="18" xml:id="Acts.13.18"><hi rend="superscript">18</hi> 此獸の數目の義を知ものは智慧あり才智ある者は此獸の數を算よ獸の數は人の數なり其數は六百六十六なり</ab>
+</div>
+<div type="chapter" n="14">
+  <head>第14章</head>
+<ab type="verse" n="1" xml:id="Acts.14.1"><hi rend="superscript">1</hi> われ觀しに羔シオンの山に立り十四萬四千の人是と偕にあり皆その額に羔の名および羔の父の名を書せり</ab>
+<ab type="verse" n="2" xml:id="Acts.14.2"><hi rend="superscript">2</hi> われ天より聲あるを聞り衆の水の聲の如く大なる雷の聲の如し我が聞し此聲は琴を彈者の琴をひく琴の音なり</ab>
+<ab type="verse" n="3" xml:id="Acts.14.3"><hi rend="superscript">3</hi> かれら新しき歌を寶座の前および四の生物と長老等の前に歌ふ此歌は贖はるることを得て地より來れる十四萬四千人の外は學得ことなし</ab>
+<ab type="verse" n="4" xml:id="Acts.14.4"><hi rend="superscript">4</hi> 彼等は婦女と交りて其身を玷ざる潔者なり且羔の往ところ何處にても之に從ふ彼等は人の中より贖出されたる者にて神と羔に獻し初の果なり</ab>
+<ab type="verse" n="5" xml:id="Acts.14.5"><hi rend="superscript">5</hi> その口謊言なし彼等は疵なき者也／</ab>
+<ab type="verse" n="6" xml:id="Acts.14.6"><hi rend="superscript">6</hi> 我また一人の天使の穹蒼の中央を飛を見たり彼地にすむ者即ち諸國、諸族、諸音、諸民に宣傳ん爲に永遠ある所の福音を携へ</ab>
+<ab type="verse" n="7" xml:id="Acts.14.7"><hi rend="superscript">7</hi> 大なる聲にて曰けるは神を畏れ榮を之に歸せよ蓋神の審判し給ふとき既に至ればなり天地海及び水の源を造り給ひし者を拜せよ</ab>
+<ab type="verse" n="8" xml:id="Acts.14.8"><hi rend="superscript">8</hi> また一人の天使そのあとに從ひ往て曰けるは大なるバビロンは傾たり傾たり彼その姦淫に因て干る怒の酒を萬國の民にも飮しめたり</ab>
+<ab type="verse" n="9" xml:id="Acts.14.9"><hi rend="superscript">9</hi> 第三の天使かれらの後に從ひ往て大聲に曰けるは若し獸と其像を拜し其印誌を額あるひは手に受る者あらば</ab>
+<ab type="verse" n="10" xml:id="Acts.14.10"><hi rend="superscript">10</hi> 必ず神の怒りの酒を飮ん即ち神の怒の杯に物を雜ずして斟る者也また聖天使たち及び羔の前にて火と硫磺を以て苦めらるべし</ab>
+<ab type="verse" n="11" xml:id="Acts.14.11"><hi rend="superscript">11</hi> その苦めらるる烟上に騰て盡る時なし獸と其像を拜する者また其名の印誌を受る者は夜晝安からざるなり</ab>
+<ab type="verse" n="12" xml:id="Acts.14.12"><hi rend="superscript">12</hi> 神の誡とイエスを信ずる信仰を保つ聖徒の忍耐ここに在</ab>
+<ab type="verse" n="13" xml:id="Acts.14.13"><hi rend="superscript">13</hi> われ天より聲ありて我に言ふを聞り曰なんぢ此事を書せ今より後主に在て死る死人は福なり靈も亦いふ然かれらは其勞苦を止て息ん其功これに隨はんと／</ab>
+<ab type="verse" n="14" xml:id="Acts.14.14"><hi rend="superscript">14</hi> われ觀しに白雲あり其雲の上に人の子のごときもの首に金の冕を戴き手に利鎌を持て坐せり</ab>
+<ab type="verse" n="15" xml:id="Acts.14.15"><hi rend="superscript">15</hi> また一人の天使殿より出大なる聲にて雲の上に坐する者に曰けるは刈時すでに至れり地の穀物すでに熟したり爾の鎌を入て刈</ab>
+<ab type="verse" n="16" xml:id="Acts.14.16"><hi rend="superscript">16</hi> 雲の上に坐する者その鎌を地に入ければ地の穀物刈取れたり</ab>
+<ab type="verse" n="17" xml:id="Acts.14.17"><hi rend="superscript">17</hi> また一人の天使天にある殿より出かれも亦利鎌を持り</ab>
+<ab type="verse" n="18" xml:id="Acts.14.18"><hi rend="superscript">18</hi> また一人の火を掌る權威を有る天使祭壇より出大なる聲にて利鎌を持る者に曰けるは地の葡萄すでに熟したり爾の利鎌を入て葡萄の球を刈斂めよ</ab>
+<ab type="verse" n="19" xml:id="Acts.14.19"><hi rend="superscript">19</hi> 天使その鎌を地に入地の葡萄を刈斂めて神の怒の大なる醡に投入たり</ab>
+<ab type="verse" n="20" xml:id="Acts.14.20"><hi rend="superscript">20</hi> 城の外にて此醡を踐しに血醡より出て馬の轡に達ほどに至り廣れること七十五里に及べり</ab>
+</div>
+<div type="chapter" n="15">
+  <head>第15章</head>
+<ab type="verse" n="1" xml:id="Acts.15.1"><hi rend="superscript">1</hi> 我また大にして且奇なる異象の天に現れしを見たり七人の天使末後の七の災殃を持り神の怒は此にて盡る也</ab>
+<ab type="verse" n="2" xml:id="Acts.15.2"><hi rend="superscript">2</hi> 我また火の雜たる玻璃の海の如ものを見たり且獸と其像および其名の數に勝たる者神の琴を執て此玻璃の海の上に立るを見たり</ab>
+<ab type="verse" n="3" xml:id="Acts.15.3"><hi rend="superscript">3</hi> かれら神の僕モーセの歌と羔の歌を謳て曰けるは主全能の神なんぢの行爲は大なるかな妙なるかな萬民の王よ爾の道は義なるかな誠なる哉</ab>
+<ab type="verse" n="4" xml:id="Acts.15.4"><hi rend="superscript">4</hi> 主よ誰か爾を畏ざらんや誰か爾の名を崇ざらんや唯なんぢ聖し萬民の民なんぢの前に來りて拜せん爾の義き行爲すでに顯れたり／</ab>
+<ab type="verse" n="5" xml:id="Acts.15.5"><hi rend="superscript">5</hi> 此後われ觀しに天にて證の幕屋の殿闢たり</ab>
+<ab type="verse" n="6" xml:id="Acts.15.6"><hi rend="superscript">6</hi> 七の災殃を持る七の天使潔して光ある布をき胸に金の帶を束ねて此殿より出</ab>
+<ab type="verse" n="7" xml:id="Acts.15.7"><hi rend="superscript">7</hi> 四の活物の一この七人の天使に世々窮なく在す神の怒を盛る金の金椀を予ふ</ab>
+<ab type="verse" n="8" xml:id="Acts.15.8"><hi rend="superscript">8</hi> 神の榮光と權力より出る煙殿に滿たり七の天使の持る七の災殃の畢まで殿に入ことを得者なし</ab>
+</div>
+<div type="chapter" n="16">
+  <head>第16章</head>
+<ab type="verse" n="1" xml:id="Acts.16.1"><hi rend="superscript">1</hi> 我また殿より大なる聲いでて七の天使に語るを聞り曰く往て神の怒を盛る七の金椀を地に傾けよ</ab>
+<ab type="verse" n="2" xml:id="Acts.16.2"><hi rend="superscript">2</hi> 第一の使者ゆきてその金椀を地に傾けければ獸の印誌ある人と其像を拜する人とに惡かつ苦痛の腫物生たり</ab>
+<ab type="verse" n="3" xml:id="Acts.16.3"><hi rend="superscript">3</hi> 第二の使者その金椀を海に傾けければ海は死し者の血の如くなりて海にある活物みな死たり</ab>
+<ab type="verse" n="4" xml:id="Acts.16.4"><hi rend="superscript">4</hi> 第三の使者その金椀を河および水の源に傾けければ其水みな變て血と爲り</ab>
+<ab type="verse" n="5" xml:id="Acts.16.5"><hi rend="superscript">5</hi> われ水を掌る天使の云る言を聞り曰くいま在し昔し在す聖主よ爾かくの如く審判をなし給ふに因て義なり</ab>
+<ab type="verse" n="6" xml:id="Acts.16.6"><hi rend="superscript">6</hi> なんぢ聖徒と〔預言者｜預言者〕の血を流しし彼等に血を予て飮しむ彼等は之を受べき者なり</ab>
+<ab type="verse" n="7" xml:id="Acts.16.7"><hi rend="superscript">7</hi> 我また聲ありて祭壇より出るを聞り曰く然り主たる全能の神よ爾の審判は正かつ義なり</ab>
+<ab type="verse" n="8" xml:id="Acts.16.8"><hi rend="superscript">8</hi> 第四の使者その金椀を太陽の上に傾けければ太陽火を以て人を烤の權を予られたり</ab>
+<ab type="verse" n="9" xml:id="Acts.16.9"><hi rend="superscript">9</hi> 人々大熱に烤れて此等の災殃を掌どり給ふ神の名を詬り且悔改めず神に榮を歸せざりき</ab>
+<ab type="verse" n="10" xml:id="Acts.16.10"><hi rend="superscript">10</hi> 第五の使者その金椀を獸の座の上に傾けければ其國暗なり人みな痛苦に因て其舌を齧たり</ab>
+<ab type="verse" n="11" xml:id="Acts.16.11"><hi rend="superscript">11</hi> 又その痛苦と腫物との故に因て天の神を詬り己が行を悔改めざりき</ab>
+<ab type="verse" n="12" xml:id="Acts.16.12"><hi rend="superscript">12</hi> 第六の使者その金椀を大河ユフラテに傾けければ其水涸盡たり是東方の諸王の路を備ん爲なり</ab>
+<ab type="verse" n="13" xml:id="Acts.16.13"><hi rend="superscript">13</hi> 我また龍の口と獸の口〔及｜およ〕び僞り〔預言者｜預言者〕の口より蛙に似る三の汚たる靈の出るを見たり</ab>
+<ab type="verse" n="14" xml:id="Acts.16.14"><hi rend="superscript">14</hi> 此は惡魔の靈なり異なる跡を行ひて全地の諸王に就り彼等をして全能の神の大なる日の戰に集らしむ</ab>
+<ab type="verse" n="15" xml:id="Acts.16.15"><hi rend="superscript">15</hi> 視よ我盜賊の如して來らん裸裎にて行き羞處を見るること無らん爲に目を醒し衣を着をる者は福なり</ab>
+<ab type="verse" n="16" xml:id="Acts.16.16"><hi rend="superscript">16</hi> かの三の靈諸王たちをヘブルの音にてハルマゲドンとよぶ所に集たり</ab>
+<ab type="verse" n="17" xml:id="Acts.16.17"><hi rend="superscript">17</hi> 第七の使者その金椀を空中に傾けければ大なる聲天の殿の中なる寶座より出て曰けるは既に成り</ab>
+<ab type="verse" n="18" xml:id="Acts.16.18"><hi rend="superscript">18</hi> 此とき許多の聲迅雷閃電また大なる地震ありき人の地に出しより以來かくの如き大なる地震ありし事なし</ab>
+<ab type="verse" n="19" xml:id="Acts.16.19"><hi rend="superscript">19</hi> 大なる邑三になり異邦人の諸の城傾たり神大なるバビロンを憶起して之に己の劇き怒の酒を盛たる杯を予へ給へり</ab>
+<ab type="verse" n="20" xml:id="Acts.16.20"><hi rend="superscript">20</hi> 諸の島は遁去もろもろの山は見なく爲り</ab>
+<ab type="verse" n="21" xml:id="Acts.16.21"><hi rend="superscript">21</hi> また大なる雹天より人々の上に降り雹ごとに重さ約そ一タラントあり人々雹の災に因て神を詬れり蓋この災甚しく大なれば也</ab>
+</div>
+<div type="chapter" n="17">
+  <head>第17章</head>
+<ab type="verse" n="1" xml:id="Acts.17.1"><hi rend="superscript">1</hi> 七の金椀を持る七人の天使の其一人きたりて我に語て曰けるは來れ我なんぢに多の水の上に坐する大淫婦の〔審判｜審判〕を示さん</ab>
+<ab type="verse" n="2" xml:id="Acts.17.2"><hi rend="superscript">2</hi> 地の王等これと淫を行ひ地に住る者その淫亂の酒に醉たり</ab>
+<ab type="verse" n="3" xml:id="Acts.17.3"><hi rend="superscript">3</hi> われ靈に感じ携へられて野にゆき絳色の獸に乘る婦を見たり此獸あまねく體に僭妄の名あり又七の首と十の角あり</ab>
+<ab type="verse" n="4" xml:id="Acts.17.4"><hi rend="superscript">4</hi> この婦紫と緋の衣を纏ひ金と寶石と眞珠を以て身を飾り手に憎べきもの及び己が奸淫の穢を盛る金の杯を持</ab>
+<ab type="verse" n="5" xml:id="Acts.17.5"><hi rend="superscript">5</hi> その額に名を書せり云く奧義大なるバビロン地の淫婦と憎むべき者との母</ab>
+<ab type="verse" n="6" xml:id="Acts.17.6"><hi rend="superscript">6</hi> 我〔此｜この〕婦の聖徒の血に醉イエスの證を作し者等の血に醉たるを見たり我この婦を見て大に駭き異めり</ab>
+<ab type="verse" n="7" xml:id="Acts.17.7"><hi rend="superscript">7</hi> 天使われに曰けるは爾なにゆゑ駭くや我なんぢに此婦および之を乘する七の首十の角ある獸の奧義を語ん</ab>
+<ab type="verse" n="8" xml:id="Acts.17.8"><hi rend="superscript">8</hi> 爾が見し獸は昔には有しが今は無のち無底坑より上りて沈淪に往ん世の始より生命の册に其名を録されざる地に住るもの昔にあり今あらず後また出る獸を見て駭かん</ab>
+<ab type="verse" n="9" xml:id="Acts.17.9"><hi rend="superscript">9</hi> 爰に智慧の心あるべし此七つの首は婦の坐する七の山なり</ab>
+<ab type="verse" n="10" xml:id="Acts.17.10"><hi rend="superscript">10</hi> 七の王あり其五は既に傾て一は尚あり餘の一は未だ來らず來らば暫く止らん</ab>
+<ab type="verse" n="11" xml:id="Acts.17.11"><hi rend="superscript">11</hi> 昔に在て今あらざる獸は第八なり即ち七の王より出し者にて終に沈淪に往ん</ab>
+<ab type="verse" n="12" xml:id="Acts.17.12"><hi rend="superscript">12</hi> 爾が見し十の角は十の王なり彼等は未だ國を得ざれども此獸と偕に一時のあひだ王の如き權威を執べし</ab>
+<ab type="verse" n="13" xml:id="Acts.17.13"><hi rend="superscript">13</hi> 彼等はみな同心にて己が能力と權威を彼の獸に予ふ</ab>
+<ab type="verse" n="14" xml:id="Acts.17.14"><hi rend="superscript">14</hi> かれら羔と戰はん而して羔これに勝なり蓋羔は諸の主の主王の王これと偕にある者はみな召れ選れたる忠信の者なるに因</ab>
+<ab type="verse" n="15" xml:id="Acts.17.15"><hi rend="superscript">15</hi> 天使また我にいふ淫婦の坐する所の爾が見し水は庶民、群衆、諸國、諸音なり</ab>
+<ab type="verse" n="16" xml:id="Acts.17.16"><hi rend="superscript">16</hi> 爾が見し十の角と獸は夫の淫婦を憾み之をして荒墟かつ裸裎に爲しむ又その肉を食ひ火を以て之を焚べし</ab>
+<ab type="verse" n="17" xml:id="Acts.17.17"><hi rend="superscript">17</hi> 蓋〔彼等｜かれら〕に神おのが旨に循ふの心を予へ彼等をして心を同うせしめ且神の言の悉く成まで其國を獸に予しめ給へば也</ab>
+<ab type="verse" n="18" xml:id="Acts.17.18"><hi rend="superscript">18</hi> 爾が見し婦は地の諸王に王たる大なる城邑なり</ab>
+</div>
+<div type="chapter" n="18">
+  <head>第18章</head>
+<ab type="verse" n="1" xml:id="Acts.18.1"><hi rend="superscript">1</hi> 此後われ又一人の天使の大なる權威を有て天より降るを見その榮地を照し輝けり</ab>
+<ab type="verse" n="2" xml:id="Acts.18.2"><hi rend="superscript">2</hi> かれ大なる聲にて呼り曰けるは大なるバビロン傾たり傾たり今惡魔の住處また各樣の汚たる靈および穢たる憎べき鳥の巣と爲り</ab>
+<ab type="verse" n="3" xml:id="Acts.18.3"><hi rend="superscript">3</hi> そは萬國の民かれが奸淫に因て干る怒の酒をのみ地の諸王かれと淫を行ひ地の商賣かれが甚しき奢華に由て富を致ば也／</ab>
+<ab type="verse" n="4" xml:id="Acts.18.4"><hi rend="superscript">4</hi> 我また天より聲あるを聞り曰わが民よ爾かれの罪に共に與り〔また｜又〕彼の災に共に遇これを免れんが爲その中を出べし</ab>
+<ab type="verse" n="5" xml:id="Acts.18.5"><hi rend="superscript">5</hi> それ彼が罪は積りて天に至り神その不義を心に記給へり</ab>
+<ab type="verse" n="6" xml:id="Acts.18.6"><hi rend="superscript">6</hi> 彼が爾曹に爲し如く彼に爲その行を照し倍して之に報い彼が斟予し杯に爾曹また倍して之に斟予へよ</ab>
+<ab type="verse" n="7" xml:id="Acts.18.7"><hi rend="superscript">7</hi> 彼が自ら高ぶり自ら奢れる如く亦痛苦悲哀を彼に予へよ彼心の中に謂われは女王の位に坐す我は寡婦に非ず我かならず悲哀に遇じと</ab>
+<ab type="verse" n="8" xml:id="Acts.18.8"><hi rend="superscript">8</hi> 是故に諸の災殃一日の間に彼の身に來らん即ち死、悲哀、饑饉なり彼また火にて焚盡されん蓋〔彼｜かれ〕を鞫給ふ主たる神は能力ある者なれば也</ab>
+<ab type="verse" n="9" xml:id="Acts.18.9"><hi rend="superscript">9</hi> 彼と婬を行ひ彼と共に奢華くらしし地の諸王彼が焚るる煙を見て之が爲に哭き哀まん</ab>
+<ab type="verse" n="10" xml:id="Acts.18.10"><hi rend="superscript">10</hi> この諸王かれが受る痛苦を畏れ遙に離れ立て曰ん哀き哉哀き哉大なる邑バビロン堅固なる邑爾が受る審判一時の間に至れりと</ab>
+<ab type="verse" n="11" xml:id="Acts.18.11"><hi rend="superscript">11</hi> 地の商賣これが爲に哭哀めり蓋かれらの貨物を買人なければ也</ab>
+<ab type="verse" n="12" xml:id="Acts.18.12"><hi rend="superscript">12</hi> その貨物は金銀、寶石、眞珠、細麻布、紫にて染し物、絹、緋に染し物各樣の香木、象牙各樣の器皿價貴き木〔或｜あるひ〕は眞鍮〔或｜あるひ〕は鐵あるひは蝋石にて作る各樣の器皿</ab>
+<ab type="verse" n="13" xml:id="Acts.18.13"><hi rend="superscript">13</hi> また肉桂、香料、香膏、沒藥、乳香、葡萄酒、油、麥粉、麥、牛、羊、馬、車、奴隸および人の魂なり</ab>
+<ab type="verse" n="14" xml:id="Acts.18.14"><hi rend="superscript">14</hi> バビロン爾が心嗜る果穀の熟期すでに過去すべての奢れる華美のもの既に亡ぶ復これを見ざるべし</ab>
+<ab type="verse" n="15" xml:id="Acts.18.15"><hi rend="superscript">15</hi> 此等の物を販ひバビロンの爲に富を致しし者等バビロンの受る苦を畏れ遙に離れ立て哭哀み曰けるは</ab>
+<ab type="verse" n="16" xml:id="Acts.18.16"><hi rend="superscript">16</hi> 哀き哉哀き哉細麻布と紫にて染し物と緋に染し物とを纏ひ金、寶石、眞珠にて飾たる大なる城邑よ此の如き大なる富一時の間に消滅んとは</ab>
+<ab type="verse" n="17" xml:id="Acts.18.17"><hi rend="superscript">17</hi> [17-18]凡の舟長海を航る人々及び舟子と海に由て生業を作ものバビロンの燃る烟を見はるかに離れ立て喊叫いひけるは何の邑か此大なる邑に比ぶ可んや</ab>
+<ab type="verse" n="18" xml:id="Acts.18.18"><hi rend="superscript">18</hi> *[17-18]凡の舟長海を航る人々及び舟子と海に由て生業を作ものバビロンの燃る烟を見はるかに離れ立て喊叫いひけるは何の邑か此大なる邑に比ぶ可んや</ab>
+<ab type="verse" n="19" xml:id="Acts.18.19"><hi rend="superscript">19</hi> また塵を首の上に散布し哭哀つつ叫び曰けるは哀き哉哀き哉この大なる邑その奢侈に由て凡て海に舟を有る者の富を得たる此邑一時の間に滅しこと</ab>
+<ab type="verse" n="20" xml:id="Acts.18.20"><hi rend="superscript">20</hi> 天よ聖徒、使徒、〔預言者｜預言者〕よ爾曹これを喜べし神なんぢらの爲に之〔を審判｜に報をなし〕給へる也</ab>
+<ab type="verse" n="21" xml:id="Acts.18.21"><hi rend="superscript">21</hi> 一人の強き天の使磨の如き巨なる石を取これを海に投て曰けるは大なる城バビロン此の如く烈しく打仆されて再び顯るる事なからん</ab>
+<ab type="verse" n="22" xml:id="Acts.18.22"><hi rend="superscript">22</hi> バビロンよ爾の中に琴をひき樂を奏し笛をふき箛を鳴す聲重ねて聞えず各樣の工人重ねて見えず磨の音重ねて聞えず</ab>
+<ab type="verse" n="23" xml:id="Acts.18.23"><hi rend="superscript">23</hi> 火燈の光かさねて輝ず新郎新婦の聲かさねて聞えざるべし蓋なんぢの中の商人は地の尊貴者なれば也また萬國の民なんぢの魔術に惑されたれば也</ab>
+<ab type="verse" n="24" xml:id="Acts.18.24"><hi rend="superscript">24</hi> 〔預言者｜預言者〕聖徒および凡て地に在て殺されたる者の血は此邑に見えたり</ab>
+</div>
+<div type="chapter" n="19">
+  <head>第19章</head>
+<ab type="verse" n="1" xml:id="Acts.19.1"><hi rend="superscript">1</hi> 此後われ許多の人の呼が如き大なる聲の天に在を聞り曰ハレルヤ救と榮と權力は我儕の神の有ち給ふ所なり</ab>
+<ab type="verse" n="2" xml:id="Acts.19.2"><hi rend="superscript">2</hi> その審判は直かつ義なり蓋神かの淫亂に因て世界を汚したる大淫婦を鞫き己が僕等の血の報を求て之を罰し給へば也</ab>
+<ab type="verse" n="3" xml:id="Acts.19.3"><hi rend="superscript">3</hi> かれら再ハレルヤと言り淫婦を焚火の烟のぼりて世々熄時なし</ab>
+<ab type="verse" n="4" xml:id="Acts.19.4"><hi rend="superscript">4</hi> 二十四人の長老および四の活物寶座に座し給ふ所の神を伏拜て〔アメン｜アーメン〕ハレルヤと言へり</ab>
+<ab type="verse" n="5" xml:id="Acts.19.5"><hi rend="superscript">5</hi> 聲寶座より出ていふ神の僕よ神を畏るる者よ大と小との別なく皆われらの神を讚美すべし</ab>
+<ab type="verse" n="6" xml:id="Acts.19.6"><hi rend="superscript">6</hi> 我おほくの人の聲の如く多の水の音の如く大なる雷の聲の如き聲を聞り曰ハレルヤ夫主〔なる｜たる〕全能の神は王なり</ab>
+<ab type="verse" n="7" xml:id="Acts.19.7"><hi rend="superscript">7</hi> われら喜び樂もて神を崇めん蓋羔の婚姻の期すでに至り其婦すでに自ら備をなし畢たれば也</ab>
+<ab type="verse" n="8" xml:id="Acts.19.8"><hi rend="superscript">8</hi> 婦は潔して光ある細布を衣ことを許さる此細布は聖徒の義なり</ab>
+<ab type="verse" n="9" xml:id="Acts.19.9"><hi rend="superscript">9</hi> 天使われに曰けるは羔の婚姻の筵に招れたる者は福なりと書記せ又われに曰これ神の眞の言なり</ab>
+<ab type="verse" n="10" xml:id="Acts.19.10"><hi rend="superscript">10</hi> 我その足下に俯伏して拜せんと爲ければ彼我にいふ然すべからず愼めよ我も爾と同く僕なり亦イエスの證を有つ爾の兄弟と同く僕なり爾ただ神を拜せよイエスの證を立る靈と預言の靈と殊なる事なし／</ab>
+<ab type="verse" n="11" xml:id="Acts.19.11"><hi rend="superscript">11</hi> 我また天の闢を觀しに一匹の白馬あり之に乘るもの忠信また誠實と稱らる彼は義を以て審判と戰爭を爲せり</ab>
+<ab type="verse" n="12" xml:id="Acts.19.12"><hi rend="superscript">12</hi> その目は火焰の如く其首は多の冕を冠れり又録せる名あり彼の外に之を識者なし</ab>
+<ab type="verse" n="13" xml:id="Acts.19.13"><hi rend="superscript">13</hi> かれ血に染たる衣を纏へり彼の名は神の言と云</ab>
+<ab type="verse" n="14" xml:id="Acts.19.14"><hi rend="superscript">14</hi> 天にある諸軍皎く輝ける細布をき白馬に乘て之に從へり</ab>
+<ab type="verse" n="15" xml:id="Acts.19.15"><hi rend="superscript">15</hi> 彼の口より利劍いづ之を以て列國の民を撃かつ鐵の杖を以て列國の民を牧らん彼また全能の神の甚しき怒の醡を踐</ab>
+<ab type="verse" n="16" xml:id="Acts.19.16"><hi rend="superscript">16</hi> 彼が衣と股に録せる名あり曰く諸王の王諸主の主</ab>
+<ab type="verse" n="17" xml:id="Acts.19.17"><hi rend="superscript">17</hi> 我また一人の天使の日の中に立るを見たり彼空中に飛鳥に大なる聲にて呼曰けるは爾曹神の大なる筵に集り來り</ab>
+<ab type="verse" n="18" xml:id="Acts.19.18"><hi rend="superscript">18</hi> 諸王の肉將軍の肉勇士の肉馬と之に乘る者の肉および自主奴隸大と小との別なく凡の人の肉を食へ</ab>
+<ab type="verse" n="19" xml:id="Acts.19.19"><hi rend="superscript">19</hi> 我かの獸地の諸王および其軍隊の既に集りて白馬に乘る者および其軍隊と戰はんと爲を見たり</ab>
+<ab type="verse" n="20" xml:id="Acts.19.20"><hi rend="superscript">20</hi> 獸と僞の〔預言者｜預言者〕と共に擒にせらる此僞の〔預言者｜預言者〕は前に獸の前にて異なる跡を行ひ獸の印誌を受たる者および其像を拜する者を惑しし者なり此二のもの生ながら硫磺にて燃る火の池に投入られ</ab>
+<ab type="verse" n="21" xml:id="Acts.19.21"><hi rend="superscript">21</hi> その餘の者は白馬に乘る者の口より出る所の劍にて殺れたり諸の鳥かれらの肉を食ひて飽り</ab>
+</div>
+<div type="chapter" n="20">
+  <head>第20章</head>
+<ab type="verse" n="1" xml:id="Acts.20.1"><hi rend="superscript">1</hi> われ一人の天使底なき坑の鑰と大なる鏈を手に携へて天より降るを見たり</ab>
+<ab type="verse" n="2" xml:id="Acts.20.2"><hi rend="superscript">2</hi> かれ惡魔と稱へサタンと稱る龍すなはち老蛇を執て之を千年のあひだ縛置んとす</ab>
+<ab type="verse" n="3" xml:id="Acts.20.3"><hi rend="superscript">3</hi> 之を底なき坑に投入れ閉こめて其上に封をなし千年過るまで諸國の民を惑すこと莫らしむ其後かならず暫時のあひだ釋放さるべし</ab>
+<ab type="verse" n="4" xml:id="Acts.20.4"><hi rend="superscript">4</hi> 我おほくの座位を見しに其上に坐する者あり彼等審判の權を予らる又イエスの證および神の道の爲に首斬れたる者の靈魂を見たり此は獸と其像を拜せず其印誌を額あるひは手に受ざりし者の靈魂なり皆生てキリストと共に千年の間王と作り</ab>
+<ab type="verse" n="5" xml:id="Acts.20.5"><hi rend="superscript">5</hi> 其他の死人は千年終まで甦らざる也これ第一の復生なり</ab>
+<ab type="verse" n="6" xml:id="Acts.20.6"><hi rend="superscript">6</hi> この第一の復生に與る者は福なり是聖者なり此輩の上に第二の死は權を執こと能ず彼等は神とキリストの祭司と作キリストと共に千年の間王たるべし／</ab>
+<ab type="verse" n="7" xml:id="Acts.20.7"><hi rend="superscript">7</hi> 千年終てサタン其囚より釋放さるべし</ab>
+<ab type="verse" n="8" xml:id="Acts.20.8"><hi rend="superscript">8</hi> かれ出て地の四方の列邦ゴグとマゴグを惑し之を集て戰しめんとす彼等の數は海の沙の如し</ab>
+<ab type="verse" n="9" xml:id="Acts.20.9"><hi rend="superscript">9</hi> かれら地に遍く滿て聖徒の陣營と愛らせるる城とを圍む此時に火天より降りて彼等を焚盡せり</ab>
+<ab type="verse" n="10" xml:id="Acts.20.10"><hi rend="superscript">10</hi> 彼等を惑しし惡魔火と硫磺の池に投入られたり即ち獸および僞の〔預言者｜預言者〕の居ところ也ここは夜も晝も患難痛苦ありて世々熄時なし／</ab>
+<ab type="verse" n="11" xml:id="Acts.20.11"><hi rend="superscript">11</hi> われ白き大なる寶座と之に坐する者とを見る地と天と其前を遁て再び留るべき處を得ず</ab>
+<ab type="verse" n="12" xml:id="Acts.20.12"><hi rend="superscript">12</hi> 我また死し者の大と小との別なく皆神の前に立を見たり其處に書ありて展く別に又一の書ありて展これ生命の書なり死し者は皆書に録せる所の事に由その行に循ひて審判を受る也</ab>
+<ab type="verse" n="13" xml:id="Acts.20.13"><hi rend="superscript">13</hi> 海その中の死人を出し死と陰府と其中の死人を出せり彼等おのおの其行に循ひて審判を受たり</ab>
+<ab type="verse" n="14" xml:id="Acts.20.14"><hi rend="superscript">14</hi> 死と陰府と火の池に投入られたり是第二の死なり</ab>
+<ab type="verse" n="15" xml:id="Acts.20.15"><hi rend="superscript">15</hi> 凡て生命の書に録されざる者も亦火の池に投入られたり</ab>
+</div>
+<div type="chapter" n="21">
+  <head>第21章</head>
+<ab type="verse" n="1" xml:id="Acts.21.1"><hi rend="superscript">1</hi> われ新しき天と新しき地を見たり先の天と先の地は既に過さり海も亦有ことなし</ab>
+<ab type="verse" n="2" xml:id="Acts.21.2"><hi rend="superscript">2</hi> われ聖城なる新しきエルサレム備整ひ神の所を出て天より降るを見その状は新婦その新郎を迎ん爲に修飾たるが如し</ab>
+<ab type="verse" n="3" xml:id="Acts.21.3"><hi rend="superscript">3</hi> われ大なる聲の天より出るを聞り云く神の幕屋人の間にあり神人と共に住人神の民となり神また人と共に在して其神と爲給ふなり</ab>
+<ab type="verse" n="4" xml:id="Acts.21.4"><hi rend="superscript">4</hi> 神かれらの目の涕を悉く拭とり復死あらず哀み哭き痛み有ことなし蓋前事すでに過去ばなり</ab>
+<ab type="verse" n="5" xml:id="Acts.21.5"><hi rend="superscript">5</hi> 寶座に坐する者われに曰けるは見よ我萬物を新にせん又我に曰けるは爾これを書記せ蓋この言は信ず可して確實なれば也</ab>
+<ab type="verse" n="6" xml:id="Acts.21.6"><hi rend="superscript">6</hi> かれ我に曰けるは既に成り我はアルパ也オメガなり始なり終なり渇者には價なしに生命の水の源にて飮事を許さん</ab>
+<ab type="verse" n="7" xml:id="Acts.21.7"><hi rend="superscript">7</hi> 勝をうる者は此等の物を得て其業と爲ん我かれの神となり彼わが子と爲べし</ab>
+<ab type="verse" n="8" xml:id="Acts.21.8"><hi rend="superscript">8</hi> 然ど臆する者信ぜざる者憎む可もの人を殺すもの奸婬を行ふもの魔術をなす者偶像を拜する者および凡て謊を言ものは火と硫磺の燃る池にて其報を受べし是第二の死なり／</ab>
+<ab type="verse" n="9" xml:id="Acts.21.9"><hi rend="superscript">9</hi> 末後の七の災殃の盛る七の金椀を執る七人の天使の一人來りて我に語り曰けるは來れ我なんぢに羔の妻なる新婦を見せん</ab>
+<ab type="verse" n="10" xml:id="Acts.21.10"><hi rend="superscript">10</hi> われ靈に感じ天使に携へられて大なる高山に至れり此にて我に大なる城聖エルサレム神の榮を以て神の所を出て天より降るを示す</ab>
+<ab type="verse" n="11" xml:id="Acts.21.11"><hi rend="superscript">11</hi> 其城の光輝くこと至賓き玉の如く澄澈る金剛石の如し</ab>
+<ab type="verse" n="12" xml:id="Acts.21.12"><hi rend="superscript">12</hi> 此に大なる高き石垣ありて十二門り其門に十二の天使をれり門の上に名を書せりイスラエルの十二の支派の名なり</ab>
+<ab type="verse" n="13" xml:id="Acts.21.13"><hi rend="superscript">13</hi> 東に三の門あり北に三の門あり南に三の門あり西に三の門あり</ab>
+<ab type="verse" n="14" xml:id="Acts.21.14"><hi rend="superscript">14</hi> 城の石垣に十二の基址あり其上に羔の十二使徒の名あり</ab>
+<ab type="verse" n="15" xml:id="Acts.21.15"><hi rend="superscript">15</hi> 我に語れる者城と門と石垣とを測ん爲に金の竿を持ゐたり</ab>
+<ab type="verse" n="16" xml:id="Acts.21.16"><hi rend="superscript">16</hi> 城は四方にして長と闊と同じ天使竿を以て城を測しに六百里あり長さ闊高さ共に相等し</ab>
+<ab type="verse" n="17" xml:id="Acts.21.17"><hi rend="superscript">17</hi> 又その石垣を測りしに人の度に從へば百四十四キュビトあり人の度は天使の度と同じ</ab>
+<ab type="verse" n="18" xml:id="Acts.21.18"><hi rend="superscript">18</hi> 石垣は金剛石にて築き城は清潔なる玻璃の如き純金にて造れり</ab>
+<ab type="verse" n="19" xml:id="Acts.21.19"><hi rend="superscript">19</hi> 城の石垣の基址は各樣の玉にて飾れり第一の基址は金剛石第二は青玉第三は赤玉第四は緑の玉</ab>
+<ab type="verse" n="20" xml:id="Acts.21.20"><hi rend="superscript">20</hi> 第五は紅の瑪瑙第六は黄色の玉第七は薄き黄色なる玉第八は水色の玉第九は紅の玉第十は翡翠第十一は深紅の玉第十二は紫の玉なり</ab>
+<ab type="verse" n="21" xml:id="Acts.21.21"><hi rend="superscript">21</hi> 十二の門は十二の眞珠なり一の眞珠にて一の門を造り城の衢は澄澈る玻璃の如き純金なり</ab>
+<ab type="verse" n="22" xml:id="Acts.21.22"><hi rend="superscript">22</hi> われ城の中に殿あるを見ず蓋主たる全能の神および羔その殿なれば也</ab>
+<ab type="verse" n="23" xml:id="Acts.21.23"><hi rend="superscript">23</hi> また城に日月の照ことを需ず蓋神の榮光これを照し且羔城の月燈なれば也</ab>
+<ab type="verse" n="24" xml:id="Acts.21.24"><hi rend="superscript">24</hi> 萬の國の民この光に藉りて行まん地の諸王おのれの榮と尊貴とを以て此城に來らん</ab>
+<ab type="verse" n="25" xml:id="Acts.21.25"><hi rend="superscript">25</hi> その門は終日とぢず此に夜ある事なし</ab>
+<ab type="verse" n="26" xml:id="Acts.21.26"><hi rend="superscript">26</hi> 萬の民己の榮と尊貴とを以て此城に來らん</ab>
+<ab type="verse" n="27" xml:id="Acts.21.27"><hi rend="superscript">27</hi> 凡て潔らざる者と憎べき行を爲もの或は謊をいふ者は必ず此に入ことを得ず唯羔の生命の書に録されたる者のみ入なり</ab>
+</div>
+<div type="chapter" n="22">
+  <head>第22章</head>
+<ab type="verse" n="1" xml:id="Acts.22.1"><hi rend="superscript">1</hi> 天使生命の水の河を我に示せり其水澄澈りて水晶の如し神と羔の寶座より出</ab>
+<ab type="verse" n="2" xml:id="Acts.22.2"><hi rend="superscript">2</hi> 城の衢の中および河の左右に生命の樹あり十二種の果を結び一種を月ごとに結ぶ也其樹の葉は萬國の民を醫すべし</ab>
+<ab type="verse" n="3" xml:id="Acts.22.3"><hi rend="superscript">3</hi> 重て呪詛あることなし神と羔の寶座そこに在その僕これに事ん</ab>
+<ab type="verse" n="4" xml:id="Acts.22.4"><hi rend="superscript">4</hi> 僕ども神の面をみ神の名かれらの額に在べし</ab>
+<ab type="verse" n="5" xml:id="Acts.22.5"><hi rend="superscript">5</hi> 彼處には夜あることなく燈の光と日の光とを用ることなし蓋主なる神かれらを照し給へば也かれらは世々窮なく王たらん</ab>
+<ab type="verse" n="6" xml:id="Acts.22.6"><hi rend="superscript">6</hi> 天使また我に曰けるは此言は信ず可して誠實なり〔預言者｜預言者〕の靈魂の神なる主速かに成んと爲ことを其衆僕に示すために其使者を遣せり</ab>
+<ab type="verse" n="7" xml:id="Acts.22.7"><hi rend="superscript">7</hi> われ速に至らん此書の預言の言を守る者は福なり／</ab>
+<ab type="verse" n="8" xml:id="Acts.22.8"><hi rend="superscript">8</hi> 我ヨハネ此等の事を見聞せり之を見聞せしとき我に此等の事を示せる天使の足下に俯伏して拜せんと爲ければ</ab>
+<ab type="verse" n="9" xml:id="Acts.22.9"><hi rend="superscript">9</hi> かれ我にいふ然すべからず愼めよ我は爾と同く僕なり亦なんぢの兄弟なる〔預言者｜預言者〕及び此書の言を守る者と同く僕なり爾ただ神を拜せよ</ab>
+<ab type="verse" n="10" xml:id="Acts.22.10"><hi rend="superscript">10</hi> 彼また我に曰けるは此書の預言の言を封ずること勿れ蓋時近ければ也</ab>
+<ab type="verse" n="11" xml:id="Acts.22.11"><hi rend="superscript">11</hi> 不義者は不義なる任にし汚穢者は穢き任にし義者は義なる任にし聖者は聖き任にせよ</ab>
+<ab type="verse" n="12" xml:id="Acts.22.12"><hi rend="superscript">12</hi> われ速に至らん必ず報應あり各人の行ふ所に循ひて之に報べし</ab>
+<ab type="verse" n="13" xml:id="Acts.22.13"><hi rend="superscript">13</hi> 我はアルパ也オメガなり首先なり末後なり始なり終なり</ab>
+<ab type="verse" n="14" xml:id="Acts.22.14"><hi rend="superscript">14</hi> その衣を洗ひし者は福なり彼等は生命の樹の果を受ることを得また門より城に入ことを得べし</ab>
+<ab type="verse" n="15" xml:id="Acts.22.15"><hi rend="superscript">15</hi> 犬および魔術を爲もの奸淫を行ふもの人を殺すもの偶像を拜する者また凡て謊言を好て虚妄を行ふ者は城の外に居なり</ab>
+<ab type="verse" n="16" xml:id="Acts.22.16"><hi rend="superscript">16</hi> 我イエスわが使者を遣して此事を爾曹諸教會に證す我はダビデの根また其苗裔なり我は輝く曙の明星なり</ab>
+<ab type="verse" n="17" xml:id="Acts.22.17"><hi rend="superscript">17</hi> 靈と新婦といふ來れど之を聞者も來れといへ渇者は來るべし願ふ者は價なしに生命の水を飮べし</ab>
+<ab type="verse" n="18" xml:id="Acts.22.18"><hi rend="superscript">18</hi> 我この書の預言の言を聞者に證をなす若この書の預言の言に加る者あれば神この書に録す所の災を以て之に加へん</ab>
+<ab type="verse" n="19" xml:id="Acts.22.19"><hi rend="superscript">19</hi> 若この書の預言の言を削る者あれば神之をして此書に録す所の生命の樹の果と聖城とに與ること莫らしむ</ab>
+<ab type="verse" n="20" xml:id="Acts.22.20"><hi rend="superscript">20</hi> 此事を證する者いひけるは我必らず速かに至らん〔アメン｜アーメン〕主イエスよ來り給へ</ab>
+<ab type="verse" n="21" xml:id="Acts.22.21"><hi rend="superscript">21</hi> 願くは主イエスの恩寵すべての聖徒と共に在んことを</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

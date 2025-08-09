@@ -1,0 +1,761 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>馬可傳福音書 (Gospel of Mark)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding by</resp>
+          <name>Brenna Tanner</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+ <sourceDesc>
+ <bibl>
+        <title>馬可傳福音書 (Gospel of Mark)</title>
+        <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+        <respStmt>
+          <resp>Translated by</resp>
+          <name>James Curtis Hepburn et al.</name>
+        </respStmt>
+        <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+      </bibl>
+    </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+    <body>
+      <div type="book" n="Mark" xml:id="Mark">
+<head>馬可傳福音書</head>
+<div type="chapter" n="1" xml:id="Mark.1">
+<head>第1章</head>
+<ab type="verse" n="1" xml:id="Mark.1.1"><hi rend="superscript">1</hi> これ神の子イエス・キリストの福音の始なり </ab>
+<ab type="verse" n="2" xml:id="Mark.1.2"><hi rend="superscript">2</hi> 〔預言者｜預言者〕の録して視よ我なんぢの面前に我使を遣さん彼なんぢの前に其道を設くべし </ab>
+<ab type="verse" n="3" xml:id="Mark.1.3"><hi rend="superscript">3</hi> 野に呼る人の聲あり云く主の道を備へ其徑すぢを直せよと有が如く </ab>
+<ab type="verse" n="4" xml:id="Mark.1.4"><hi rend="superscript">4</hi> ヨハネ野に於てバプテスマを施し罪の赦を得させんが爲に悔改のバプテスマを宣傳たり </ab>
+<ab type="verse" n="5" xml:id="Mark.1.5"><hi rend="superscript">5</hi> ユダヤの全國およびエルサレムの人々かれに來りて各々その罪を認はしヨルダンといふ河にてバプテスマを受 </ab>
+<ab type="verse" n="6" xml:id="Mark.1.6"><hi rend="superscript">6</hi> ヨハネは駱駝の毛衣を着腰に皮帶をつかね蝗蟲と野蜜を食へり </ab>
+<ab type="verse" n="7" xml:id="Mark.1.7"><hi rend="superscript">7</hi> かれ宣傳けるは我より勝れる者わが後に來らん我は屈て其履の紐を解にも足ず </ab>
+<ab type="verse" n="8" xml:id="Mark.1.8"><hi rend="superscript">8</hi> 我は水をもて爾曹にバプテスマを施ししが彼は聖靈をもて爾曹にバプテスマを施すべし </ab>
+<ab type="verse" n="9" xml:id="Mark.1.9"><hi rend="superscript">9</hi> 當時イエス、ガリラヤのナザレより來りヨルダンにてヨハネよりバプテスマを受 </ab>
+<ab type="verse" n="10" xml:id="Mark.1.10"><hi rend="superscript">10</hi> 頓て水より上れるとき天開れ靈鴿の如く其上に降るを見たり </ab>
+<ab type="verse" n="11" xml:id="Mark.1.11"><hi rend="superscript">11</hi> 又天より聲ありて云なんぢは我が愛子わが悦ぶ所の者なりと／ </ab>
+<ab type="verse" n="12" xml:id="Mark.1.12"><hi rend="superscript">12</hi> 斯て靈ただちにイエスを野に往しむ </ab>
+<ab type="verse" n="13" xml:id="Mark.1.13"><hi rend="superscript">13</hi> かれ四十日野に在てサタンに試られ獸と共にをれり天の使等これに事ぬ／ </ab>
+<ab type="verse" n="14" xml:id="Mark.1.14"><hi rend="superscript">14</hi> ヨハネの囚れし後イエス、ガリラヤに至り神の國の福音を傳いひけるは </ab>
+<ab type="verse" n="15" xml:id="Mark.1.15"><hi rend="superscript">15</hi> 期は滿り神の國は近けり爾曹悔改めて福音を信ぜよ／ </ab>
+<ab type="verse" n="16" xml:id="Mark.1.16"><hi rend="superscript">16</hi> イエス、ガリラヤの湖の邊を歩る時シモンと其兄弟アンデレの湖に網うてるを見る彼等は漁者なり </ab>
+<ab type="verse" n="17" xml:id="Mark.1.17"><hi rend="superscript">17</hi> イエス彼等に曰けるは我に從へ我爾曹を人を漁る者とせん </ab>
+<ab type="verse" n="18" xml:id="Mark.1.18"><hi rend="superscript">18</hi> 彼等ただちに其網を棄て之に從へり </ab>
+<ab type="verse" n="19" xml:id="Mark.1.19"><hi rend="superscript">19</hi> 此より少し進行ゼベタイの子ヤコブとその兄弟ヨハネの舟に在て網つくろふを見て </ab>
+<ab type="verse" n="20" xml:id="Mark.1.20"><hi rend="superscript">20</hi> 直に彼等を召給ひしかば其父ゼベタイを傭人と共に舟に遺て彼に從へり／ </ab>
+<ab type="verse" n="21" xml:id="Mark.1.21"><hi rend="superscript">21</hi> 彼等カペナウムに至るイエス即ち安息日に會堂に入て教を爲しに </ab>
+<ab type="verse" n="22" xml:id="Mark.1.22"><hi rend="superscript">22</hi> 人々その教を駭き合り蓋學者の如ならず權威を有る者の如く教たまへば也 </ab>
+<ab type="verse" n="23" xml:id="Mark.1.23"><hi rend="superscript">23</hi> 其會堂に汚たる鬼に憑たる人ありて </ab>
+<ab type="verse" n="24" xml:id="Mark.1.24"><hi rend="superscript">24</hi> 喊叫いひけるは唉ナザレのイエスよ我儕は爾と何の與り有んや爾きたりて我儕を滅すか我なんぢは誰なる乎を知〔即はち｜すなはち〕神の聖なる者なり </ab>
+<ab type="verse" n="25" xml:id="Mark.1.25"><hi rend="superscript">25</hi> イエス之を責て曰けるは聲を發すこと勿れ其處を出よ </ab>
+<ab type="verse" n="26" xml:id="Mark.1.26"><hi rend="superscript">26</hi> 汚たる鬼その人を拘攣させ大聲に叫びて彼を出たり </ab>
+<ab type="verse" n="27" xml:id="Mark.1.27"><hi rend="superscript">27</hi> 衆人みな驚き相問て曰けるは是何事ぞや是いかなる新しき教ぞや汚たる鬼さへ權威をもて命じければ從へり </ab>
+<ab type="verse" n="28" xml:id="Mark.1.28"><hi rend="superscript">28</hi> 是に於てイエスの聲名徧くガリラヤの四方に播りぬ／ </ab>
+<ab type="verse" n="29" xml:id="Mark.1.29"><hi rend="superscript">29</hi> 彼等やがて會堂を出ヤコブ及ヨハネと共にシモン、アンデレの家に至しに </ab>
+<ab type="verse" n="30" xml:id="Mark.1.30"><hi rend="superscript">30</hi> シモンの岳母熱を病て臥ゐければ或人ただちに之をイエスに告 </ab>
+<ab type="verse" n="31" xml:id="Mark.1.31"><hi rend="superscript">31</hi> イエス往て其手をとり彼を起しければ熱たちまち去ぬ斯て其婦彼等に供事たり </ab>
+<ab type="verse" n="32" xml:id="Mark.1.32"><hi rend="superscript">32</hi> 夕かた日の落とき人々すべての病を患へるもの鬼に憑たる者をイエスに携へ來る </ab>
+<ab type="verse" n="33" xml:id="Mark.1.33"><hi rend="superscript">33</hi> その邑こぞりて門に集れり </ab>
+<ab type="verse" n="34" xml:id="Mark.1.34"><hi rend="superscript">34</hi> イエス各樣の病を患へる多の人々を醫し又多の鬼を逐出し鬼の言ふ事を許さざりき蓋鬼かれを識たるに因てなり／ </ab>
+<ab type="verse" n="35" xml:id="Mark.1.35"><hi rend="superscript">35</hi> 昧爽にイエス早く起人なき所にゆき其處にて祈禱せり </ab>
+<ab type="verse" n="36" xml:id="Mark.1.36"><hi rend="superscript">36</hi> シモンおよび彼と共に在し者等その跡を慕ゆき </ab>
+<ab type="verse" n="37" xml:id="Mark.1.37"><hi rend="superscript">37</hi> 彼に遇て曰けるは衆人みな爾を尋ぬ </ab>
+<ab type="verse" n="38" xml:id="Mark.1.38"><hi rend="superscript">38</hi> イエス彼等に曰けるは我は教を宣傳る爲に爾曹と偕に附近の郷村に往ん我これが爲に來れば也 </ab>
+<ab type="verse" n="39" xml:id="Mark.1.39"><hi rend="superscript">39</hi> イエス遍くガリラヤの國を經めぐり其會堂にて教を宣且鬼を逐出せり／ </ab>
+<ab type="verse" n="40" xml:id="Mark.1.40"><hi rend="superscript">40</hi> 癩病のもの一人かれに來りて跪き求ひ曰けるは爾もし聖意に適ときは我を潔く爲得べし </ab>
+<ab type="verse" n="41" xml:id="Mark.1.41"><hi rend="superscript">41</hi> イエス憫みて手をのべ彼に按て我意に適へり潔なれと </ab>
+<ab type="verse" n="42" xml:id="Mark.1.42"><hi rend="superscript">42</hi> 言やいな直に癩病はなれ其人きよまれり </ab>
+<ab type="verse" n="43" xml:id="Mark.1.43"><hi rend="superscript">43</hi> [43-44]イエス嚴く之を戒め愼みて何をも人に告る勿れ但ゆきて己が身を祭司に見せ其潔られし爲にモーセが命ぜし所の物を獻て彼等に證據をなせと言て去しめたり </ab>
+<ab type="verse" n="44" xml:id="Mark.1.44"><hi rend="superscript">44</hi> *[43-44]イエス嚴く之を戒め愼みて何をも人に告る勿れ但ゆきて己が身を祭司に見せ其潔られし爲にモーセが命ぜし所の物を獻て彼等に證據をなせと言て去しめたり </ab>
+<ab type="verse" n="45" xml:id="Mark.1.45"><hi rend="superscript">45</hi> 然ども彼いでて先この事を大に言つたへ語り廣めければイエス此後あらはに城に入がたく獨人なき所に居給ひしが人々四方より彼に來れり</ab>
+</div>
+<div type="chapter" n="2" xml:id="Mark.2">
+<head>第2章</head>
+<ab type="verse" n="1" xml:id="Mark.2.1"><hi rend="superscript">1</hi> 數日の後イエス復カペナウムに來しに </ab>
+<ab type="verse" n="2" xml:id="Mark.2.2"><hi rend="superscript">2</hi> 彼の室に居こと聞えければ直に多の人々集きたり門に立べき塲處さへもなき程なりきイエス彼等に教を宣 </ab>
+<ab type="verse" n="3" xml:id="Mark.2.3"><hi rend="superscript">3</hi> 此に癱瘋を病たる者を四人に舁せイエスに來れる者ありしが </ab>
+<ab type="verse" n="4" xml:id="Mark.2.4"><hi rend="superscript">4</hi> 群集によりて近づき難かりければ彼の居ところの屋蓋を取除き癱瘋の人を床のまま縋下せり </ab>
+<ab type="verse" n="5" xml:id="Mark.2.5"><hi rend="superscript">5</hi> イエス其信仰を見て癱瘋の人に曰けるは子よ爾の罪赦されたり </ab>
+<ab type="verse" n="6" xml:id="Mark.2.6"><hi rend="superscript">6</hi> 數人の學者ここに坐し居しが心中に謂けるは </ab>
+<ab type="verse" n="7" xml:id="Mark.2.7"><hi rend="superscript">7</hi> 斯人は何故かく惡口を言か神にあらずして誰か罪を赦すことを得ん </ab>
+<ab type="verse" n="8" xml:id="Mark.2.8"><hi rend="superscript">8</hi> イエス直に彼等が心中に斯の如き事を論ずるを自ら其心に知て彼等に曰けるは爾曹なんぞ心中に斯る事を論ずる乎 </ab>
+<ab type="verse" n="9" xml:id="Mark.2.9"><hi rend="superscript">9</hi> 癱瘋の人に爾の罪は赦されたりと言と起て爾の床を取て行と言と孰れ易や </ab>
+<ab type="verse" n="10" xml:id="Mark.2.10"><hi rend="superscript">10</hi> それ人の子地にて罪を赦すの權威あることを爾曹に知せんとて遂に癱瘋の人に </ab>
+<ab type="verse" n="11" xml:id="Mark.2.11"><hi rend="superscript">11</hi> 我なんぢに告おきて床を取なんぢの家に歸れと曰ければ </ab>
+<ab type="verse" n="12" xml:id="Mark.2.12"><hi rend="superscript">12</hi> その人ただちに起て床をとり衆人の前にいづ衆人みな駭き神を崇めて曰けるは我儕いまだ斯の如ことを見しことなし／ </ab>
+<ab type="verse" n="13" xml:id="Mark.2.13"><hi rend="superscript">13</hi> イエスまた海邊に往しに人々みな彼に來ければ是等を教ふ </ab>
+<ab type="verse" n="14" xml:id="Mark.2.14"><hi rend="superscript">14</hi> 此より進てアルパヨの子レビといふ者の税吏の役所に坐し居けるを見て我に從へと曰ければ彼たちて從へり／ </ab>
+<ab type="verse" n="15" xml:id="Mark.2.15"><hi rend="superscript">15</hi> 斯てイエスその家にて食する時おほくの税吏罪ある衆人イエス及び弟子と共に坐せり是等の者許多ありてイエスに從ひぬ </ab>
+<ab type="verse" n="16" xml:id="Mark.2.16"><hi rend="superscript">16</hi> 學者とパリサイの人かれが税吏および罪ある人と共に食するを見て其弟子に曰けるは何ゆゑ税吏罪ある人と共に食飮する乎 </ab>
+<ab type="verse" n="17" xml:id="Mark.2.17"><hi rend="superscript">17</hi> イエス聞て彼等に曰けるは廉強なる者は醫者の助を需ず唯病ある者これを需わが來しは義人を召ために非ず罪ある人を召て悔改させんが爲なり／ </ab>
+<ab type="verse" n="18" xml:id="Mark.2.18"><hi rend="superscript">18</hi> ヨハネの弟子及びパリサイの人つねに斷食する事ありければ彼等イエスに來いひけるはヨハネの弟子とパリサイの弟子は斷食するに爾の弟子は何ゆゑ斷食せざる乎 </ab>
+<ab type="verse" n="19" xml:id="Mark.2.19"><hi rend="superscript">19</hi> イエス彼等に曰けるは新郎の朋友その新郎と共にをる間に斷食することを得べき乎かれら新郎と共にをる間は斷食することを得じ </ab>
+<ab type="verse" n="20" xml:id="Mark.2.20"><hi rend="superscript">20</hi> 將來かれら新郎をとらるる日きたらん其日には斷食すべき也 </ab>
+<ab type="verse" n="21" xml:id="Mark.2.21"><hi rend="superscript">21</hi> 新しき布を舊衣に縫つくる者あらじ若し然せば其新に補へるもの舊を綻ばして其破かへつて惡なるべし </ab>
+<ab type="verse" n="22" xml:id="Mark.2.22"><hi rend="superscript">22</hi> 亦あたらしき酒を舊き革嚢にいるる者あらじ若し然せば新酒は其嚢を破裂て酒もれいで革嚢も亦壞るべし新酒は新しき革嚢に盛べきもの也／ </ab>
+<ab type="verse" n="23" xml:id="Mark.2.23"><hi rend="superscript">23</hi> 偖イエス安息日に麥の畠を過りしに其弟子あゆみつつ麥の穗を摘はじめければ </ab>
+<ab type="verse" n="24" xml:id="Mark.2.24"><hi rend="superscript">24</hi> パリサイの人彼に曰けるは彼等安息日に爲まじき事をするは何故ぞ </ab>
+<ab type="verse" n="25" xml:id="Mark.2.25"><hi rend="superscript">25</hi> イエス答けるはダビデ及び從に在し者の乏くして飢しとき行たる事を未だ讀ざる乎 </ab>
+<ab type="verse" n="26" xml:id="Mark.2.26"><hi rend="superscript">26</hi> 即ち祭司の長アビアタルのとき神殿に入て唯祭司の外は食まじき供物のパンを食かつ從に在し者にも與たり </ab>
+<ab type="verse" n="27" xml:id="Mark.2.27"><hi rend="superscript">27</hi> また彼等に曰けるは安息日は人の爲に設られたる者にして人は安息日の爲に設られたる者に非ず </ab>
+<ab type="verse" n="28" xml:id="Mark.2.28"><hi rend="superscript">28</hi> 然ば人の子は安息日にも主たる也</ab>
+</div>
+<div type="chapter" n="3" xml:id="Mark.3">
+<head>第3章</head>
+<ab type="verse" n="1" xml:id="Mark.3.1"><hi rend="superscript">1</hi> イエスまた會堂に入しに一手枯たる人ありけるが </ab>
+<ab type="verse" n="2" xml:id="Mark.3.2"><hi rend="superscript">2</hi> 衆人イエスを訟んとして彼は此人を安息日に醫すや否と窺へり </ab>
+<ab type="verse" n="3" xml:id="Mark.3.3"><hi rend="superscript">3</hi> イエス手枯たる人に曰けるは中に立よ </ab>
+<ab type="verse" n="4" xml:id="Mark.3.4"><hi rend="superscript">4</hi> また衆人に曰けるは安息日には善を行と惡を行と生るを救ると殺すと孰をか爲べき彼等默然たり </ab>
+<ab type="verse" n="5" xml:id="Mark.3.5"><hi rend="superscript">5</hi> イエス怒を含て環視し彼等が心の頑硬なるを憂へ手枯たる人に爾の手を伸よと曰ければ彼その手を伸ししに即ち他の手のごとく愈たり </ab>
+<ab type="verse" n="6" xml:id="Mark.3.6"><hi rend="superscript">6</hi> パリサイの人いでて如何してかイエスを殺さんと直にヘロデの黨に相謀りぬ／ </ab>
+<ab type="verse" n="7" xml:id="Mark.3.7"><hi rend="superscript">7</hi> イエスその弟子と共に海邊に退しに多の人々ガリラヤより彼に從へり又ユダヤ </ab>
+<ab type="verse" n="8" xml:id="Mark.3.8"><hi rend="superscript">8</hi> エルサレム、イドマヤ、ヨルダンの外またツロとシドンの邊より多の人々イエスの行し事を聞て彼に群り來る </ab>
+<ab type="verse" n="9" xml:id="Mark.3.9"><hi rend="superscript">9</hi> イエス人々の群集に因て擁なやまさるる事なからん爲に小舟を我に備おけと其弟子に曰り </ab>
+<ab type="verse" n="10" xml:id="Mark.3.10"><hi rend="superscript">10</hi> 是イエス數多の人々を愈ししに因て凡て病ある人々手にて彼に捫んとて擁逼しが故なり </ab>
+<ab type="verse" n="11" xml:id="Mark.3.11"><hi rend="superscript">11</hi> また汚たる鬼かれを見て其前に俯伏さけびて爾は神の子なりと曰しを </ab>
+<ab type="verse" n="12" xml:id="Mark.3.12"><hi rend="superscript">12</hi> イエス彼等に我を揚すこと勿れと嚴く戒めたり／ </ab>
+<ab type="verse" n="13" xml:id="Mark.3.13"><hi rend="superscript">13</hi> イエス山に登て其意に適ふ所の者を召しかば來りて彼に就り </ab>
+<ab type="verse" n="14" xml:id="Mark.3.14"><hi rend="superscript">14</hi> 是に於て十二人を立て己と偕に置また教を宣傳る爲に遣し </ab>
+<ab type="verse" n="15" xml:id="Mark.3.15"><hi rend="superscript">15</hi> かつ病を醫し鬼を逐出すの權威を授く </ab>
+<ab type="verse" n="16" xml:id="Mark.3.16"><hi rend="superscript">16</hi> 乃ちシモンをペテロと名け </ab>
+<ab type="verse" n="17" xml:id="Mark.3.17"><hi rend="superscript">17</hi> ゼベダイの子ヤコブと其兄弟ヨハネこの二人をボアネルゲと名く之を譯ば雷の子なり </ab>
+<ab type="verse" n="18" xml:id="Mark.3.18"><hi rend="superscript">18</hi> 又アンデレ、ピリポ、バルトロマイ、マタイ、トマス、アルバヨの子ヤコブ、タツダイ、カナンのシモン </ab>
+<ab type="verse" n="19" xml:id="Mark.3.19"><hi rend="superscript">19</hi> 又イスカリオテのユダ此はイエスを賣しし者なり </ab>
+<ab type="verse" n="20" xml:id="Mark.3.20"><hi rend="superscript">20</hi> 此等の者家に入しに多の人々又來り集りければ食する暇もなかりき </ab>
+<ab type="verse" n="21" xml:id="Mark.3.21"><hi rend="superscript">21</hi> 其親屬ききて彼は狂氣せりと言て之を拏んとて來る </ab>
+<ab type="verse" n="22" xml:id="Mark.3.22"><hi rend="superscript">22</hi> 又エルサレムより下れる學者等も彼はベルゼブルに憑れたり且鬼の王に藉て鬼を逐出すなりと曰り </ab>
+<ab type="verse" n="23" xml:id="Mark.3.23"><hi rend="superscript">23</hi> イエス彼等を召び譬を以て曰けるはサタンは何でサタンを逐出し得んや </ab>
+<ab type="verse" n="24" xml:id="Mark.3.24"><hi rend="superscript">24</hi> もし國おのれに悖て分爭はば其國立べからず </ab>
+<ab type="verse" n="25" xml:id="Mark.3.25"><hi rend="superscript">25</hi> また家おのれに悖て分爭はば其家立べからず </ab>
+<ab type="verse" n="26" xml:id="Mark.3.26"><hi rend="superscript">26</hi> 若サタン己に悖り起て分爭はば彼たつ可からず反て終るなるべし </ab>
+<ab type="verse" n="27" xml:id="Mark.3.27"><hi rend="superscript">27</hi> 誰にても勇士の家に入て其家具を奪んとせば先勇士を縛らざれば奪ふこと能はじ縛て後その家を奪ふべし </ab>
+<ab type="verse" n="28" xml:id="Mark.3.28"><hi rend="superscript">28</hi> われ誠に爾曹に告ん人の凡の罪を涜す所の褻涜は赦るべけれど </ab>
+<ab type="verse" n="29" xml:id="Mark.3.29"><hi rend="superscript">29</hi> 聖靈を涜す者は限なく赦さる可からず限なき刑罰に干らん </ab>
+<ab type="verse" n="30" xml:id="Mark.3.30"><hi rend="superscript">30</hi> 斯いへるは人々イエスを惡鬼に憑たりと言しが故なり／ </ab>
+<ab type="verse" n="31" xml:id="Mark.3.31"><hi rend="superscript">31</hi> その兄弟と母と來りて戸外にたち人を遣してイエスを呼しむ </ab>
+<ab type="verse" n="32" xml:id="Mark.3.32"><hi rend="superscript">32</hi> 多の人々イエスを環て坐したりしが彼に曰けるは視よ爾の母と兄弟戸外に在て爾を尋ぬ </ab>
+<ab type="verse" n="33" xml:id="Mark.3.33"><hi rend="superscript">33</hi> イエス答て曰けるは我母わが兄弟は誰ぞや </ab>
+<ab type="verse" n="34" xml:id="Mark.3.34"><hi rend="superscript">34</hi> 斯て側に坐する人々を環視して曰けるは我母わが兄弟を見よ </ab>
+<ab type="verse" n="35" xml:id="Mark.3.35"><hi rend="superscript">35</hi> それ神の旨に從ふ者は是わが兄弟わが姉妹わが母なり</ab>
+</div>
+<div type="chapter" n="4" xml:id="Mark.4">
+<head>第4章</head>
+<ab type="verse" n="1" xml:id="Mark.4.1"><hi rend="superscript">1</hi> イエスまた海邊にて教訓を始しに多の人々かれに集りければ彼舟に乘て坐し凡の人々は海に沿て岸に立り </ab>
+<ab type="verse" n="2" xml:id="Mark.4.2"><hi rend="superscript">2</hi> かれ譬をもて多の事を彼等に教ふ教て曰けるは </ab>
+<ab type="verse" n="3" xml:id="Mark.4.3"><hi rend="superscript">3</hi> 聽よ種播もの播んとて出 </ab>
+<ab type="verse" n="4" xml:id="Mark.4.4"><hi rend="superscript">4</hi> 播るとき或種は路の傍に遺しが空の鳥きたりて之を食へり </ab>
+<ab type="verse" n="5" xml:id="Mark.4.5"><hi rend="superscript">5</hi> 或種は土うすき磽地に遺しが土深からねば直に萠出たれど </ab>
+<ab type="verse" n="6" xml:id="Mark.4.6"><hi rend="superscript">6</hi> 日出しかば曝れ根なきが故に枯たり </ab>
+<ab type="verse" n="7" xml:id="Mark.4.7"><hi rend="superscript">7</hi> 或種は棘の中に遺しが棘そだちて之を蔽ければ實を結ばざりき </ab>
+<ab type="verse" n="8" xml:id="Mark.4.8"><hi rend="superscript">8</hi> また或種は沃壤に遺しが其苗はえいでて蕃り實を結ること或は三十倍或は六十倍〔或｜あるひ〕は百倍せり </ab>
+<ab type="verse" n="9" xml:id="Mark.4.9"><hi rend="superscript">9</hi> また彼等に曰けるは耳ありて聽ゆる者は聽べし／ </ab>
+<ab type="verse" n="10" xml:id="Mark.4.10"><hi rend="superscript">10</hi> 衆人の居ざりし時イエスの側に在し者と十二弟子と此譬を問しかば </ab>
+<ab type="verse" n="11" xml:id="Mark.4.11"><hi rend="superscript">11</hi> イエス彼等に曰けるは神の國の奧義を爾曹には知ことを賜へど他の者には凡て譬を以てす </ab>
+<ab type="verse" n="12" xml:id="Mark.4.12"><hi rend="superscript">12</hi> 是かれら視とき視ても見ず聽とき聽ても聰らず心を改めて其罪の赦を得ざらん爲なり </ab>
+<ab type="verse" n="13" xml:id="Mark.4.13"><hi rend="superscript">13</hi> また彼等に曰けるは爾曹この譬を知ざるか然ば如何して凡の譬を識ことを得んや </ab>
+<ab type="verse" n="14" xml:id="Mark.4.14"><hi rend="superscript">14</hi> それ播者は教を播なり </ab>
+<ab type="verse" n="15" xml:id="Mark.4.15"><hi rend="superscript">15</hi> 道の播れて路の傍に遺しものは人道を聽しとき直にサタン來て其心に播れたる道を奪取なり </ab>
+<ab type="verse" n="16" xml:id="Mark.4.16"><hi rend="superscript">16</hi> また磽地に播れたるものは人道を聽とき直に喜びて之を受 </ab>
+<ab type="verse" n="17" xml:id="Mark.4.17"><hi rend="superscript">17</hi> 然ども己に根なきが故ただ暫時のみ後道の爲に患難あるひは迫害に遇ときは忽ち礙く者なり </ab>
+<ab type="verse" n="18" xml:id="Mark.4.18"><hi rend="superscript">18</hi> 又棘の中に播れたるものは人ことばを聽ども </ab>
+<ab type="verse" n="19" xml:id="Mark.4.19"><hi rend="superscript">19</hi> 此世の思慮と貨財の惑または各樣の情欲いり來りて道を蔽により終に實を結ざる者なり </ab>
+<ab type="verse" n="20" xml:id="Mark.4.20"><hi rend="superscript">20</hi> 沃壤に播れたるものは人道を聽て之をうけ或は三十倍あるひは六十倍あるひは百倍の實を結ぶ者なり／ </ab>
+<ab type="verse" n="21" xml:id="Mark.4.21"><hi rend="superscript">21</hi> また彼等に曰けるは燈を持來りて斗の下あるひは牀の下に置もの有んや之を燭臺の上に置ならず乎 </ab>
+<ab type="verse" n="22" xml:id="Mark.4.22"><hi rend="superscript">22</hi> 隱て明瞭にならざるはなく藏て露れざる者はなし </ab>
+<ab type="verse" n="23" xml:id="Mark.4.23"><hi rend="superscript">23</hi> 耳ありて聽ゆる者は聽べし </ab>
+<ab type="verse" n="24" xml:id="Mark.4.24"><hi rend="superscript">24</hi> また彼等に曰けるは聽ところを愼めよ爾曹が度る所の量をもて爾曹も度らるべし聽たる爾曹にはなお加られん </ab>
+<ab type="verse" n="25" xml:id="Mark.4.25"><hi rend="superscript">25</hi> それ有る者はなほ與られ無有者は有る者をも取るる也／ </ab>
+<ab type="verse" n="26" xml:id="Mark.4.26"><hi rend="superscript">26</hi> また曰けるは神の國は人種を地に播が如し </ab>
+<ab type="verse" n="27" xml:id="Mark.4.27"><hi rend="superscript">27</hi> 日夜起臥する間に種はえいでて成長ども其然る故を知ず </ab>
+<ab type="verse" n="28" xml:id="Mark.4.28"><hi rend="superscript">28</hi> それ地は自から實を結ぶものにして初には苗つぎに穗いで穗の中に熟したる穀を結ぶ </ab>
+<ab type="verse" n="29" xml:id="Mark.4.29"><hi rend="superscript">29</hi> 既に熟ば穫時いたるに因て直に鎌を入さする也／ </ab>
+<ab type="verse" n="30" xml:id="Mark.4.30"><hi rend="superscript">30</hi> また曰けるは神の國は何に比へ何の譬を以て之を喩ん </ab>
+<ab type="verse" n="31" xml:id="Mark.4.31"><hi rend="superscript">31</hi> 一粒の芥種のごとし之を地に播ときは百樣の種より微けれど </ab>
+<ab type="verse" n="32" xml:id="Mark.4.32"><hi rend="superscript">32</hi> 既に播て萠出れば百樣の野菜よりは大くかつ巨なる枝を出して空の鳥その蔭に棲ほどに及なり／ </ab>
+<ab type="verse" n="33" xml:id="Mark.4.33"><hi rend="superscript">33</hi> イエス彼等の聽得ところに循ひ多かかる譬をもて教を彼等に語れり </ab>
+<ab type="verse" n="34" xml:id="Mark.4.34"><hi rend="superscript">34</hi> 譬に非ざれば彼等に語らずイエスその弟子と共に居るとき彼等に悉く之を解聽せり／ </ab>
+<ab type="verse" n="35" xml:id="Mark.4.35"><hi rend="superscript">35</hi> 偖その日の夕暮イエス彼等に向の岸に濟れと曰ければ </ab>
+<ab type="verse" n="36" xml:id="Mark.4.36"><hi rend="superscript">36</hi> 弟子たち人々を歸らせイエスの舟に在しを其まま之と偕に濟れり又他の小舟もともに往り </ab>
+<ab type="verse" n="37" xml:id="Mark.4.37"><hi rend="superscript">37</hi> 時に颶風おこり浪うちこみて殆ど舟に滿 </ab>
+<ab type="verse" n="38" xml:id="Mark.4.38"><hi rend="superscript">38</hi> イエス艄のかたに枕して寢たりしが弟子かれの目を醒して曰けるは師よ我儕が溺るるをも顧み給はざる乎 </ab>
+<ab type="verse" n="39" xml:id="Mark.4.39"><hi rend="superscript">39</hi> イエス起て風を斥め且海に靜りて穩かに爲と曰ければ風やみて大に和たり </ab>
+<ab type="verse" n="40" xml:id="Mark.4.40"><hi rend="superscript">40</hi> 斯て彼等に曰けるは何故かく懼るや爾曹何ぞ信なき乎 </ab>
+<ab type="verse" n="41" xml:id="Mark.4.41"><hi rend="superscript">41</hi> 彼等甚しく懼れ互に曰けるは風と海さへも順ふ是誰なるぞ耶</ab>
+</div>
+<div type="chapter" n="5" xml:id="Mark.5">
+<head>第5章</head>
+<ab type="verse" n="1" xml:id="Mark.5.1"><hi rend="superscript">1</hi> かれら海を濟てガダラ人の地に着 </ab>
+<ab type="verse" n="2" xml:id="Mark.5.2"><hi rend="superscript">2</hi> 舟よりイエスの上れるとき惡鬼に憑れたる人ただちに墓間より出て彼に遇 </ab>
+<ab type="verse" n="3" xml:id="Mark.5.3"><hi rend="superscript">3</hi> [3-4]この人は墓間を居處とせり屡次桎梏と鏈をもて繋ども鏈をうちきり桎梏を打碎くにより之を繋うる者なく亦誰も之を制し得もの無りき </ab>
+<ab type="verse" n="4" xml:id="Mark.5.4"><hi rend="superscript">4</hi> *[3-4]この人は墓間を居處とせり屡次桎梏と鏈をもと繋ども鏈をうちきり桎梏を打碎くにより之を繋うる者なく亦誰も之を制し得もの無りき </ab>
+<ab type="verse" n="5" xml:id="Mark.5.5"><hi rend="superscript">5</hi> 夜も晝も恆に山と墓間に於て喊喚また石をもて己が身に傷つけぬ </ab>
+<ab type="verse" n="6" xml:id="Mark.5.6"><hi rend="superscript">6</hi> 彼はるかにイエスを見て趨より之を拜し </ab>
+<ab type="verse" n="7" xml:id="Mark.5.7"><hi rend="superscript">7</hi> 大聲に呼りけるは至上神の子イエスよ我なんぢと何の與り有んや我神に託て求ふ我を苦むこと勿れ </ab>
+<ab type="verse" n="8" xml:id="Mark.5.8"><hi rend="superscript">8</hi> 是イエス惡鬼に人より出よと曰しに因てなり </ab>
+<ab type="verse" n="9" xml:id="Mark.5.9"><hi rend="superscript">9</hi> イエス彼に爾の名は何と問しに答けるは我儕おほきが故に我名をレギヨンと云 </ab>
+<ab type="verse" n="10" xml:id="Mark.5.10"><hi rend="superscript">10</hi> 切に此土地より我儕を逐出す勿れとイエスに求たり </ab>
+<ab type="verse" n="11" xml:id="Mark.5.11"><hi rend="superscript">11</hi> 茲に多の豕の群山に草を食ゐたりしが </ab>
+<ab type="verse" n="12" xml:id="Mark.5.12"><hi rend="superscript">12</hi> 凡の惡鬼かれに求て我儕を遣て豕に入せよと曰ければ </ab>
+<ab type="verse" n="13" xml:id="Mark.5.13"><hi rend="superscript">13</hi> イエス直に彼等に許せり汚たる鬼その人より出て豕に入しかば約そ二千匹ほどの群はげしく馳くだり山坡より海に落て海に溺ぬ </ab>
+<ab type="verse" n="14" xml:id="Mark.5.14"><hi rend="superscript">14</hi> 牧者ども逃ゆきて此事を邑また郷村に告ければ衆人其ありし事を視んとて出 </ab>
+<ab type="verse" n="15" xml:id="Mark.5.15"><hi rend="superscript">15</hi> イエスに來りて惡鬼に憑れたる者すなはちレギヨンを持たりし人の衣服をつけ慥なる心にて坐し居けるを見て懼あへり </ab>
+<ab type="verse" n="16" xml:id="Mark.5.16"><hi rend="superscript">16</hi> 此事を見し者ども惡鬼に憑れたりし者の事と豕の事を彼等に告ければ </ab>
+<ab type="verse" n="17" xml:id="Mark.5.17"><hi rend="superscript">17</hi> 頓てイエスに其境を出んことを求ぬ </ab>
+<ab type="verse" n="18" xml:id="Mark.5.18"><hi rend="superscript">18</hi> イエス舟に登んとせしとき惡鬼に憑たりし者ともに居んことを求けれども </ab>
+<ab type="verse" n="19" xml:id="Mark.5.19"><hi rend="superscript">19</hi> イエス許ずして彼に曰けるは爾の家に歸り親屬に往て主の爾に行し大なる事と爾を恤みし事を告よ </ab>
+<ab type="verse" n="20" xml:id="Mark.5.20"><hi rend="superscript">20</hi> 彼ゆきてイエスの己に行たまへる大なる事をデカポリスに言揚しければ衆人みな駭きあへり／ </ab>
+<ab type="verse" n="21" xml:id="Mark.5.21"><hi rend="superscript">21</hi> イエス舟に乘て復海の彼岸に濟しに大勢の人々彼に集るイエスは海に近をれり </ab>
+<ab type="verse" n="22" xml:id="Mark.5.22"><hi rend="superscript">22</hi> 會堂の宰ヤイロといふ人きたりイエスを見て其足下に伏 </ab>
+<ab type="verse" n="23" xml:id="Mark.5.23"><hi rend="superscript">23</hi> 切々に求いひけるは我いとけなき女死る瀕になりぬ之を救ん爲に來りて手を彼に按たまへ然ば女は生べし </ab>
+<ab type="verse" n="24" xml:id="Mark.5.24"><hi rend="superscript">24</hi> イエス彼と共に往とき衆多の人々彼に從ひて擁あへり </ab>
+<ab type="verse" n="25" xml:id="Mark.5.25"><hi rend="superscript">25</hi> 爰に十二年血漏を患たる婦あり </ab>
+<ab type="verse" n="26" xml:id="Mark.5.26"><hi rend="superscript">26</hi> 此婦おほくの醫者の爲に甚だ苦められ其所有をも盡く費しけれども何の益もなく轉て惡かりしが </ab>
+<ab type="verse" n="27" xml:id="Mark.5.27"><hi rend="superscript">27</hi> イエスの事を聞て群集の中より彼の後に來その衣に捫れり </ab>
+<ab type="verse" n="28" xml:id="Mark.5.28"><hi rend="superscript">28</hi> 是その衣にだに捫らば愈るべしと曰ばなり </ab>
+<ab type="verse" n="29" xml:id="Mark.5.29"><hi rend="superscript">29</hi> 斯て血の漏ること直にとまり既に疾いえしと其身に覺たり </ab>
+<ab type="verse" n="30" xml:id="Mark.5.30"><hi rend="superscript">30</hi> イエス自ら能力の己より出たるを知おほぜいの人々を顧みて曰けるは我衣に捫りし者は誰なる乎 </ab>
+<ab type="verse" n="31" xml:id="Mark.5.31"><hi rend="superscript">31</hi> 弟子かれに曰けるは群集の人々の爾に擁あふを見て我に捫りし者は誰ぞと曰たまふ乎 </ab>
+<ab type="verse" n="32" xml:id="Mark.5.32"><hi rend="superscript">32</hi> イエスこの事を行る婦を見んと環視しければ </ab>
+<ab type="verse" n="33" xml:id="Mark.5.33"><hi rend="superscript">33</hi> 婦おそれ戰慄おのが身にせられし事をしり來て彼の前に俯伏ことごとく實情を告 </ab>
+<ab type="verse" n="34" xml:id="Mark.5.34"><hi rend="superscript">34</hi> イエス彼に曰けるは女よ爾の信なんぢを救り安然にして往なんぢの疾いゆべし／ </ab>
+<ab type="verse" n="35" xml:id="Mark.5.35"><hi rend="superscript">35</hi> イエスこの事を言をるうちに會堂の宰の家より人々來りて曰けるは爾の女すでに死たり何ぞ師を煩はす乎 </ab>
+<ab type="verse" n="36" xml:id="Mark.5.36"><hi rend="superscript">36</hi> イエス直に其告る所の言をきき會堂の宰に曰けるは懼るる勿ただ信ぜよ </ab>
+<ab type="verse" n="37" xml:id="Mark.5.37"><hi rend="superscript">37</hi> イエス、ペテロとヤコブ及その兄弟ヨハネの外は誰にも共に往ことを許さざりき </ab>
+<ab type="verse" n="38" xml:id="Mark.5.38"><hi rend="superscript">38</hi> 既に會堂の宰の家に來りて人々の忙亂いたく哭泣を見る </ab>
+<ab type="verse" n="39" xml:id="Mark.5.39"><hi rend="superscript">39</hi> 入て彼等に曰けるは何ぞ忙亂かつ哭や女は死るに非ただ寢たる耳 </ab>
+<ab type="verse" n="40" xml:id="Mark.5.40"><hi rend="superscript">40</hi> 彼等イエスを哂笑ふイエス凡の人々を出し女の父母とその從へる者等を率つれ女の臥たる所に入 </ab>
+<ab type="verse" n="41" xml:id="Mark.5.41"><hi rend="superscript">41</hi> 女の手を執て之に曰けるはタリタクミ之を譯ば女よ我なんぢに命ず起よといふ義なり </ab>
+<ab type="verse" n="42" xml:id="Mark.5.42"><hi rend="superscript">42</hi> 直に女おきて行めり彼は年十二歳なり彼等はなはだ駭きぬ </ab>
+<ab type="verse" n="43" xml:id="Mark.5.43"><hi rend="superscript">43</hi> イエスこの事を人に知する勿れと嚴く戒め又女に食物を與よと命じたり</ab>
+</div>
+<div type="chapter" n="6" xml:id="Mark.6">
+<head>第6章</head>
+<ab type="verse" n="1" xml:id="Mark.6.1"><hi rend="superscript">1</hi> イエス此を去て故郷に到しに其弟子も彼に從ひぬ </ab>
+<ab type="verse" n="2" xml:id="Mark.6.2"><hi rend="superscript">2</hi> 安息日に及ければ會堂にて教をはじむ衆人これを聞て奇み曰けるは如何して此人に斯のごとき事あるか誰より此智慧を授られて如此ふしぎなる事をも其手より行か </ab>
+<ab type="verse" n="3" xml:id="Mark.6.3"><hi rend="superscript">3</hi> 彼は木匠に非ずやマリアの子ヤコブ、ヨセ、ユダとシモンの兄弟にして其姉妹も此に我儕と共に在に非ずや遂に人々〔彼｜かれ〕に礙けり </ab>
+<ab type="verse" n="4" xml:id="Mark.6.4"><hi rend="superscript">4</hi> イエス彼等に曰けるは〔預言者｜預言者〕はその故郷その親戚その室家の外に於は尊ばれざることなし </ab>
+<ab type="verse" n="5" xml:id="Mark.6.5"><hi rend="superscript">5</hi> イエス彼處にて患者に手を按ただ數人を醫しし外ふしぎなる事を行こと能ざりき </ab>
+<ab type="verse" n="6" xml:id="Mark.6.6"><hi rend="superscript">6</hi> また彼等の信ぜざるを奇み遂に諸郷を經巡て教をなせり／ </ab>
+<ab type="verse" n="7" xml:id="Mark.6.7"><hi rend="superscript">7</hi> イエス十二の弟子を召て彼等を二人づつ遣さんとして之に惡鬼を逐出す權威を授け </ab>
+<ab type="verse" n="8" xml:id="Mark.6.8"><hi rend="superscript">8</hi> 且かれらに命じけるは一の杖の外は旅の用意に何をも携なかれ旅袋糧食また金をも携ず </ab>
+<ab type="verse" n="9" xml:id="Mark.6.9"><hi rend="superscript">9</hi> ただ履をはき二の衣をきる勿れ </ab>
+<ab type="verse" n="10" xml:id="Mark.6.10"><hi rend="superscript">10</hi> また彼等に曰けるは何處にても人の家に入ばその所を去までは其處に居 </ab>
+<ab type="verse" n="11" xml:id="Mark.6.11"><hi rend="superscript">11</hi> 凡て爾曹を接ずなんぢらに聽ざる者には其處を去とき證のため足下の塵を拂へ我まことに爾曹に告ん審判の日いたらばソドムとゴモラは此邑よりも却て易かるべし </ab>
+<ab type="verse" n="12" xml:id="Mark.6.12"><hi rend="superscript">12</hi> 弟子たち出て人々に悔改む可ことを宣傳へ </ab>
+<ab type="verse" n="13" xml:id="Mark.6.13"><hi rend="superscript">13</hi> また多の惡鬼を逐出し又多の病る者に膏を沃て醫しぬ／ </ab>
+<ab type="verse" n="14" xml:id="Mark.6.14"><hi rend="superscript">14</hi> イエスの名播りければヘロデ王これを聞て曰けるはバプテスマを施ししヨハネ死より甦れる故に奇異なる能をなす也 </ab>
+<ab type="verse" n="15" xml:id="Mark.6.15"><hi rend="superscript">15</hi> 或人は之をエリヤなりといひ或は往昔の〔預言者｜預言者〕の如き〔預言者｜預言者〕なりと曰 </ab>
+<ab type="verse" n="16" xml:id="Mark.6.16"><hi rend="superscript">16</hi> ヘロデ之を聞て曰けるは是わが首斬し所のヨハネ也かれ死より甦りたる也 </ab>
+<ab type="verse" n="17" xml:id="Mark.6.17"><hi rend="superscript">17</hi> 曩にヘロデその兄弟ピリポの妻ヘロデヤの事に因て人を遣しヨハネを捕て獄に繋げり蓋ヘロデが彼の婦を娶しを </ab>
+<ab type="verse" n="18" xml:id="Mark.6.18"><hi rend="superscript">18</hi> ヨハネ諌て爾兄弟の妻を納は宜からずと曰るに因てなり </ab>
+<ab type="verse" n="19" xml:id="Mark.6.19"><hi rend="superscript">19</hi> ヘロデヤ彼を怨て殺さんと欲しかど能ざりき </ab>
+<ab type="verse" n="20" xml:id="Mark.6.20"><hi rend="superscript">20</hi> ヘロデはヨハネを義かつ善なる人と知て彼を敬ひ彼を保護かれに聞て多の事を行ひ且喜びて彼に聽ことをせり </ab>
+<ab type="verse" n="21" xml:id="Mark.6.21"><hi rend="superscript">21</hi> 斯てヘロデその誕生の日もろもろの大臣千人の長およびガリラヤの尊き人々に享宴をなせる機會の日いたりければ </ab>
+<ab type="verse" n="22" xml:id="Mark.6.22"><hi rend="superscript">22</hi> ヘロデヤの女きたりて舞をなしヘロデと其席に列れる人々を樂ましむ王その女に曰けるは何にても我に求へ爾が望ところの者は我なんぢに與ふべし </ab>
+<ab type="verse" n="23" xml:id="Mark.6.23"><hi rend="superscript">23</hi> 又彼に凡そ爾が求るものは我が領分の半に至るとも爾に與んと誓ふ </ab>
+<ab type="verse" n="24" xml:id="Mark.6.24"><hi rend="superscript">24</hi> 女いでて其母に何を求べき乎と曰ければ母乃ちバプテスマのヨハネが首と曰り </ab>
+<ab type="verse" n="25" xml:id="Mark.6.25"><hi rend="superscript">25</hi> 女ただちに急ぎ王にきたり求てバプテスマのヨハネが首を盆に載て即時に我に賜へと曰 </ab>
+<ab type="verse" n="26" xml:id="Mark.6.26"><hi rend="superscript">26</hi> 王甚だ憂けれども既に誓たると同席の者の故とをもて之を拒むことを欲ず </ab>
+<ab type="verse" n="27" xml:id="Mark.6.27"><hi rend="superscript">27</hi> 王ただちにヨハネの首を携來れと命じて兵卒を遣しければ彼ゆきて獄に於て之を斬 </ab>
+<ab type="verse" n="28" xml:id="Mark.6.28"><hi rend="superscript">28</hi> 其首を盆にのせ携來りて女に與ふ女は之を其母に與たり </ab>
+<ab type="verse" n="29" xml:id="Mark.6.29"><hi rend="superscript">29</hi> ヨハネの弟子等この事を聞て來り其屍を取て墓に葬りぬ／ </ab>
+<ab type="verse" n="30" xml:id="Mark.6.30"><hi rend="superscript">30</hi> 使徒等イエスに集りて行へる事と教し事とを悉く彼に告 </ab>
+<ab type="verse" n="31" xml:id="Mark.6.31"><hi rend="superscript">31</hi> イエス彼等に曰けるは爾曹衆を避て我と偕に暫く寂寞ところに往て休むべし是往來のもの多して食する暇も無りしが故なり </ab>
+<ab type="verse" n="32" xml:id="Mark.6.32"><hi rend="superscript">32</hi> かれら人を避舟にて寂寞ところに往り </ab>
+<ab type="verse" n="33" xml:id="Mark.6.33"><hi rend="superscript">33</hi> 其往を見て衆人おほくイエスをしり諸邑より歩行にて趨り彼等の往んとする所へ先ち往てイエスに集れり／ </ab>
+<ab type="verse" n="34" xml:id="Mark.6.34"><hi rend="superscript">34</hi> イエス出て多の人を見に彼等は牧者なき羊の如き者なるに因て之を憫み許多の事を教はじめぬ </ab>
+<ab type="verse" n="35" xml:id="Mark.6.35"><hi rend="superscript">35</hi> 時すでに暮景になりければ其弟子かれに來いひけるは此は寂寞ところにして時も既晩し </ab>
+<ab type="verse" n="36" xml:id="Mark.6.36"><hi rend="superscript">36</hi> 衆人の食ふべき物なきが故に其自ら四周の郷村に往てパンを市んが爲に彼等を去しめ給へ </ab>
+<ab type="verse" n="37" xml:id="Mark.6.37"><hi rend="superscript">37</hi> イエス答けるは爾曹これに食を與よ弟子かれに曰けるは我儕ゆきて銀二百のパンを市かれらに與て食しむ可か </ab>
+<ab type="verse" n="38" xml:id="Mark.6.38"><hi rend="superscript">38</hi> イエス彼等に曰けるはパンは幾何ある往て視よ彼等みて其數をしり五のパンと二の魚ありと答ふ </ab>
+<ab type="verse" n="39" xml:id="Mark.6.39"><hi rend="superscript">39</hi> イエス衆の人を組々にして青草の上に坐しめよと命じければ </ab>
+<ab type="verse" n="40" xml:id="Mark.6.40"><hi rend="superscript">40</hi> 或は百人或は五十人づつ列坐せり </ab>
+<ab type="verse" n="41" xml:id="Mark.6.41"><hi rend="superscript">41</hi> イエスその五のパンと二の魚をとり天を仰ぎ謝してパンをわり弟子に與て人々の前に陳しむ又二の魚を毎人に分與ぬ </ab>
+<ab type="verse" n="42" xml:id="Mark.6.42"><hi rend="superscript">42</hi> 衆人みな食て飽 </ab>
+<ab type="verse" n="43" xml:id="Mark.6.43"><hi rend="superscript">43</hi> そのパンと魚の餘屑を拾しに十二の筐に盈たり </ab>
+<ab type="verse" n="44" xml:id="Mark.6.44"><hi rend="superscript">44</hi> パンを食たる男およそ五千人なりき／ </ab>
+<ab type="verse" n="45" xml:id="Mark.6.45"><hi rend="superscript">45</hi> 直にイエスその弟子を強て舟に乘むかふの岸なるベテサイダへ先わたらしめ己は衆人を歸しむ </ab>
+<ab type="verse" n="46" xml:id="Mark.6.46"><hi rend="superscript">46</hi> 衆人を歸ししのち祈禱の爲に山に往り </ab>
+<ab type="verse" n="47" xml:id="Mark.6.47"><hi rend="superscript">47</hi> 日暮て舟は海の中に在イエスは獨り陸に居り </ab>
+<ab type="verse" n="48" xml:id="Mark.6.48"><hi rend="superscript">48</hi> 風逆ふに因て弟子等の舟を棹に勞たるを見て曉の四時ごろイエス海の上を履きたり彼等を過んとせしに </ab>
+<ab type="verse" n="49" xml:id="Mark.6.49"><hi rend="superscript">49</hi> 弟子その海を履るを見て變化の物ならんと意ひ叫びたり </ab>
+<ab type="verse" n="50" xml:id="Mark.6.50"><hi rend="superscript">50</hi> 蓋弟子みな之を見て懼しが故なりイエス直に彼等に語りて曰けるは心安かれ我なり懼るること勿れ </ab>
+<ab type="verse" n="51" xml:id="Mark.6.51"><hi rend="superscript">51</hi> 遂に舟に登しかば風やみぬ彼等心の中に駭き異めること甚だし </ab>
+<ab type="verse" n="52" xml:id="Mark.6.52"><hi rend="superscript">52</hi> 是其心の愚頑に因てパンの奇跡をも覺ざりし也／ </ab>
+<ab type="verse" n="53" xml:id="Mark.6.53"><hi rend="superscript">53</hi> 既に濟ゲネサレしいふ地に到て舟泊せり </ab>
+<ab type="verse" n="54" xml:id="Mark.6.54"><hi rend="superscript">54</hi> 彼等舟より出しに頓て人々イエスを知て </ab>
+<ab type="verse" n="55" xml:id="Mark.6.55"><hi rend="superscript">55</hi> 徧く其四方の地へ馳ゆき病る者を床の儘にて舁ひイエスの在す處々を聞出して之に就り </ab>
+<ab type="verse" n="56" xml:id="Mark.6.56"><hi rend="superscript">56</hi> 凡そイエスの至るところ或は郷あるひは邑あるひは村その街市に病る者を置て彼に其衣の裾にだに捫らせ給へと求り乃ち捫るほどの者はみな愈たり</ab>
+</div>
+<div type="chapter" n="7" xml:id="Mark.7">
+<head>第7章</head>
+<ab type="verse" n="1" xml:id="Mark.7.1"><hi rend="superscript">1</hi> パリサイの人と或學者たちエルサレムより來りてイエスの前に集り </ab>
+<ab type="verse" n="2" xml:id="Mark.7.2"><hi rend="superscript">2</hi> 彼の弟子の中に潔らざる手即ち盥ざる手にてパンを食する者ありしを見て之を責めたり </ab>
+<ab type="verse" n="3" xml:id="Mark.7.3"><hi rend="superscript">3</hi> 蓋パリサイの人とユダヤの人々はみな古の人の遺傳を守りて其手を潔あらざれば食せず </ab>
+<ab type="verse" n="4" xml:id="Mark.7.4"><hi rend="superscript">4</hi> 市より歸きたりて盥ざれば亦食せず此ほか杯椀鍋および牀を洗など多端の遺傳を受守れり </ab>
+<ab type="verse" n="5" xml:id="Mark.7.5"><hi rend="superscript">5</hi> 是に於てパリサイの人と學者等イエスに問けるは爾の弟子は何ゆゑ古の人の遺傳に遵はずして盥ざる手を以てパンを食する乎 </ab>
+<ab type="verse" n="6" xml:id="Mark.7.6"><hi rend="superscript">6</hi> イエス答て彼等に曰けるはイザヤは僞善者なる爾曹を指てよく預言せり其録しし言に此民は唇にて我を敬へども其心は我に遠かり </ab>
+<ab type="verse" n="7" xml:id="Mark.7.7"><hi rend="superscript">7</hi> 人の誡を教と爲て徒らに我を拜すと曰り </ab>
+<ab type="verse" n="8" xml:id="Mark.7.8"><hi rend="superscript">8</hi> 夫〔爾曹｜なんぢら〕は神の誡を棄て人の遺傳を守れり即ち鍋杯を洗おほく此の如き事を行ふ </ab>
+<ab type="verse" n="9" xml:id="Mark.7.9"><hi rend="superscript">9</hi> また彼等に曰けるは爾曹は實に己の遺傳を守んとて能も神の誡を棄る者なり </ab>
+<ab type="verse" n="10" xml:id="Mark.7.10"><hi rend="superscript">10</hi> モーセ曰けるは爾の父母を敬へ又父あるひは母を詈る者は殺るべしと </ab>
+<ab type="verse" n="11" xml:id="Mark.7.11"><hi rend="superscript">11</hi> 然ど爾曹は曰もし人父あるひは母に對て爾を養ふべき物はコルバン即ち禮物なりと曰ば事ずとも可と </ab>
+<ab type="verse" n="12" xml:id="Mark.7.12"><hi rend="superscript">12</hi> 而して人の其父あるひは母の爲に何をも行事を爾曹許ず </ab>
+<ab type="verse" n="13" xml:id="Mark.7.13"><hi rend="superscript">13</hi> 斯なんぢらは其教る所の遺傳をもて神の道を廢うす又おほく此類の事を行ふ／ </ab>
+<ab type="verse" n="14" xml:id="Mark.7.14"><hi rend="superscript">14</hi> イエスまた衆庶を召て彼等に曰けるは爾曹みな我言を聞て悟れ </ab>
+<ab type="verse" n="15" xml:id="Mark.7.15"><hi rend="superscript">15</hi> 外より人に入ものは人を汚すこと能はず然ど人より出るものは人を汚す也 </ab>
+<ab type="verse" n="16" xml:id="Mark.7.16"><hi rend="superscript">16</hi> 聽ゆる耳ある者は聽べし／ </ab>
+<ab type="verse" n="17" xml:id="Mark.7.17"><hi rend="superscript">17</hi> イエス衆庶を離れて室に入しに其弟子たとへの意を問ければ </ab>
+<ab type="verse" n="18" xml:id="Mark.7.18"><hi rend="superscript">18</hi> 彼等に曰けるは爾曹もなほ悟ざるか凡そ外より人に入ものの人を汚し能はざる事を知ざる乎 </ab>
+<ab type="verse" n="19" xml:id="Mark.7.19"><hi rend="superscript">19</hi> 蓋その心に入ず腹に入て厠に遺すなはち食ふ所のもの潔れり </ab>
+<ab type="verse" n="20" xml:id="Mark.7.20"><hi rend="superscript">20</hi> 又曰けるは人より出るものは是人を汚す </ab>
+<ab type="verse" n="21" xml:id="Mark.7.21"><hi rend="superscript">21</hi> 人の心より出るものは惡念、姦淫、苟合、兇殺 </ab>
+<ab type="verse" n="22" xml:id="Mark.7.22"><hi rend="superscript">22</hi> 盜竊、貪婪、惡慝、詭譎、好色、嫉妒、謗讟、驕傲、狂妄なり </ab>
+<ab type="verse" n="23" xml:id="Mark.7.23"><hi rend="superscript">23</hi> 是等の惡行はみな内より出て人を汚すもの也／ </ab>
+<ab type="verse" n="24" xml:id="Mark.7.24"><hi rend="superscript">24</hi> イエス此を去てツロとシドンの境にゆき家に入て人に知れざらん事を欲しが隱れ得ざりき </ab>
+<ab type="verse" n="25" xml:id="Mark.7.25"><hi rend="superscript">25</hi> そは惡鬼に憑たる幼き女を有る婦イエスの事を聞て來り其足下に伏たるに因てなり </ab>
+<ab type="verse" n="26" xml:id="Mark.7.26"><hi rend="superscript">26</hi> この婦は〔サイロピニケ｜サイロピニシヤ〕にうまれしギリシャの者なりしが惡鬼を其女より逐出し給はん事をイエスに求り </ab>
+<ab type="verse" n="27" xml:id="Mark.7.27"><hi rend="superscript">27</hi> イエス彼に曰けるは先兒女に飽しむべし兒女のパンを取て犬に投るは善らず </ab>
+<ab type="verse" n="28" xml:id="Mark.7.28"><hi rend="superscript">28</hi> 婦こたへて曰けるは主よ然されど犬も案の下に在て兒女の遺屑を食ふ也 </ab>
+<ab type="verse" n="29" xml:id="Mark.7.29"><hi rend="superscript">29</hi> イエス婦に曰けるは此言に因て歸れ惡鬼は爾の女より出たり </ab>
+<ab type="verse" n="30" xml:id="Mark.7.30"><hi rend="superscript">30</hi> 婦その家に歸しに惡鬼既に出て〔牀に女の｜女の牀に〕臥たるを見る／ </ab>
+<ab type="verse" n="31" xml:id="Mark.7.31"><hi rend="superscript">31</hi> イエス、ツロとシドンの地を去てデカポリスの地を過ガリラヤの海に至れり </ab>
+<ab type="verse" n="32" xml:id="Mark.7.32"><hi rend="superscript">32</hi> 人々聾の訥る者をイエスに携來りて手を按給はん事を求ければ </ab>
+<ab type="verse" n="33" xml:id="Mark.7.33"><hi rend="superscript">33</hi> イエス衆人を離れ之を外へ携ゆき指を其耳にさしいれ又唾して其舌に捫り </ab>
+<ab type="verse" n="34" xml:id="Mark.7.34"><hi rend="superscript">34</hi> 且天を仰て嘆じ其人に對てエッパタと曰これを譯ば啓よとの義なり </ab>
+<ab type="verse" n="35" xml:id="Mark.7.35"><hi rend="superscript">35</hi> 直に其耳ひらけ舌の絡ゆるみて正く言へり </ab>
+<ab type="verse" n="36" xml:id="Mark.7.36"><hi rend="superscript">36</hi> イエス之を人に告る勿れと彼等を戒むれば戒むるほど益言揚しぬ </ab>
+<ab type="verse" n="37" xml:id="Mark.7.37"><hi rend="superscript">37</hi> 衆人はなはだしく駭きて曰けるは此人の行し所ことごとく善あるひは聾を聽えさせ或は唖者を言はしめたり</ab>
+</div>
+<div type="chapter" n="8" xml:id="Mark.8">
+<head>第8章</head>
+<ab type="verse" n="1" xml:id="Mark.8.1"><hi rend="superscript">1</hi> 當時あつまれる人々甚だ多りしが何の食物も有ざりければイエス其弟子を召て曰けるは </ab>
+<ab type="verse" n="2" xml:id="Mark.8.2"><hi rend="superscript">2</hi> 我この多の人々を憫む既に三日〔われと共に｜われともに〕居しゆゑ今なにも食物なし </ab>
+<ab type="verse" n="3" xml:id="Mark.8.3"><hi rend="superscript">3</hi> もし飢しまま其家に歸さば途間にて憊ん其中に遠處より來れる者あれば也 </ab>
+<ab type="verse" n="4" xml:id="Mark.8.4"><hi rend="superscript">4</hi> その弟子かれに答けるは此野にて何處よりパンを得この人々を飽しめん乎 </ab>
+<ab type="verse" n="5" xml:id="Mark.8.5"><hi rend="superscript">5</hi> イエス彼等に問けるはパン幾何あるや七と答ふ </ab>
+<ab type="verse" n="6" xml:id="Mark.8.6"><hi rend="superscript">6</hi> イエス人々に命じて地に坐せしめ七のパンを取て謝し之をわり人々の前に陳しめんが爲その弟子に與ければ即ち人々の前に陳り </ab>
+<ab type="verse" n="7" xml:id="Mark.8.7"><hi rend="superscript">7</hi> また小き魚を些須もてり之をも祝して人々の前に陳と曰 </ab>
+<ab type="verse" n="8" xml:id="Mark.8.8"><hi rend="superscript">8</hi> 人々これを食て飽その餘屑を七の籃に拾り </ab>
+<ab type="verse" n="9" xml:id="Mark.8.9"><hi rend="superscript">9</hi> 之を食る者おほよそ四千人なり乃ちイエス之を歸しぬ／ </ab>
+<ab type="verse" n="10" xml:id="Mark.8.10"><hi rend="superscript">10</hi> イエス直に其弟子と共に舟に乘てダルマヌタの方に往しに </ab>
+<ab type="verse" n="11" xml:id="Mark.8.11"><hi rend="superscript">11</hi> パリサイの人いでて彼を試んがため天よりの休徴を求めて詰はじむ </ab>
+<ab type="verse" n="12" xml:id="Mark.8.12"><hi rend="superscript">12</hi> イエス心の中に深く歎息して曰けるは此世の人なんぞ休徴を求るや誠に我なんぢらに告ん休徴は此世の人に必ず與られじ </ab>
+<ab type="verse" n="13" xml:id="Mark.8.13"><hi rend="superscript">13</hi> イエス彼等を離れて復舟に乘むかふの岸に濟れり／ </ab>
+<ab type="verse" n="14" xml:id="Mark.8.14"><hi rend="superscript">14</hi> さて弟子パンを携ふることを忘ただ一のパンのみ舟に有き </ab>
+<ab type="verse" n="15" xml:id="Mark.8.15"><hi rend="superscript">15</hi> イエス彼等を戒めて曰けるは戒心してパリサイの人の麪酵とヘロデの麪酵を愼めよ </ab>
+<ab type="verse" n="16" xml:id="Mark.8.16"><hi rend="superscript">16</hi> 弟子たがひに論じて曰けるは是パンを携へざりし故ならん </ab>
+<ab type="verse" n="17" xml:id="Mark.8.17"><hi rend="superscript">17</hi> イエス之を知て彼等に曰けるは何ぞ互にパンを携へざりし事を論ずるや未だ悟ざるか爾曹の心なほ頑か </ab>
+<ab type="verse" n="18" xml:id="Mark.8.18"><hi rend="superscript">18</hi> 目ありて視ざるか耳ありて聽えざる乎また覺ざる乎 </ab>
+<ab type="verse" n="19" xml:id="Mark.8.19"><hi rend="superscript">19</hi> 我五千人に五のパンを擘あたへし時その餘屑を幾籃ひろひしや答けるは十二なり </ab>
+<ab type="verse" n="20" xml:id="Mark.8.20"><hi rend="superscript">20</hi> 又四千人に七のパンを擘あたへし時その餘屑を幾籃ひろひしや答けるは七なり </ab>
+<ab type="verse" n="21" xml:id="Mark.8.21"><hi rend="superscript">21</hi> イエス彼等に曰けるは何ぞ悟ざる乎／ </ab>
+<ab type="verse" n="22" xml:id="Mark.8.22"><hi rend="superscript">22</hi> イエス、〔ベテサイダ｜ベツサイダ〕に至ければ人々瞽者を携來りて之に手を按たまはん事を求り </ab>
+<ab type="verse" n="23" xml:id="Mark.8.23"><hi rend="superscript">23</hi> イエス瞽者の手を執て村の外へ携出その目に唾して手を彼に按とひけるは何か視るや </ab>
+<ab type="verse" n="24" xml:id="Mark.8.24"><hi rend="superscript">24</hi> 瞽者目を擧て曰けるは我この人々の歩行を見に樹の如し </ab>
+<ab type="verse" n="25" xml:id="Mark.8.25"><hi rend="superscript">25</hi> 遂にイエスまた兩手を彼の目に按その目を擧させければ乃ち愈て庶物あきらかに視たり </ab>
+<ab type="verse" n="26" xml:id="Mark.8.26"><hi rend="superscript">26</hi> イエス彼を其家に歸らせ曰けるは此村に入なかれ且この村人にも告る勿れ／ </ab>
+<ab type="verse" n="27" xml:id="Mark.8.27"><hi rend="superscript">27</hi> イエスその弟子と共にカイザリア、ピリピの諸村へゆく途間にて其弟子に問て曰けるは衆人は我を曰て誰とする乎 </ab>
+<ab type="verse" n="28" xml:id="Mark.8.28"><hi rend="superscript">28</hi> 答けるは或人はバプテスマのヨハネ或人は〔預言者｜預言者〕の一人なりと曰り </ab>
+<ab type="verse" n="29" xml:id="Mark.8.29"><hi rend="superscript">29</hi> イエス彼等に曰けるは爾曹は我を曰て誰とする乎ペテロ答けるは爾はキリストなり </ab>
+<ab type="verse" n="30" xml:id="Mark.8.30"><hi rend="superscript">30</hi> イエス彼等を戒めて我事を誰にも告る勿れと命じたり／ </ab>
+<ab type="verse" n="31" xml:id="Mark.8.31"><hi rend="superscript">31</hi> また人の子の必ず多の苦難をうけ長老祭司の長學者どもに棄られ且殺されて三日の後に甦ることを彼等に示し始たまへり </ab>
+<ab type="verse" n="32" xml:id="Mark.8.32"><hi rend="superscript">32</hi> 明に之を示し給しかばペテロ、イエスを援て諌んとせしに </ab>
+<ab type="verse" n="33" xml:id="Mark.8.33"><hi rend="superscript">33</hi> イエス回顧その弟子を視てペテロを戒め曰けるはサタンよ我後に退け爾は神の情を思ず反て人の情を思ふ／ </ab>
+<ab type="verse" n="34" xml:id="Mark.8.34"><hi rend="superscript">34</hi> 衆人と其弟子を共に召て彼等に曰けるは若し我に從はんと欲ふ者は己を棄その十字架を負て我に從へ </ab>
+<ab type="verse" n="35" xml:id="Mark.8.35"><hi rend="superscript">35</hi> そは生命を全うせんとする者は之を喪ひ我ため且福音の爲に生命を喪ふ者は之を得べければ也 </ab>
+<ab type="verse" n="36" xml:id="Mark.8.36"><hi rend="superscript">36</hi> もし人全世界を得とも其生命を喪はば何の益あらん乎 </ab>
+<ab type="verse" n="37" xml:id="Mark.8.37"><hi rend="superscript">37</hi> また人何をもて其生命に易んや </ab>
+<ab type="verse" n="38" xml:id="Mark.8.38"><hi rend="superscript">38</hi> 姦惡なる此世に於て我と我道を耻る者をば人の子も亦聖使と共に父の榮光をもて來る時之を耻べし</ab>
+</div>
+<div type="chapter" n="9" xml:id="Mark.9">
+<head>第9章</head>
+<ab type="verse" n="1" xml:id="Mark.9.1"><hi rend="superscript">1</hi> イエスまた彼等に曰けるは我まことに爾曹に告ん此に立ものの中に神の國の權威をもて來るを見までは死ざる者あり／ </ab>
+<ab type="verse" n="2" xml:id="Mark.9.2"><hi rend="superscript">2</hi> さて六日の後イエス、ペテロ、ヤコブ、ヨハネを伴ひ人を避て高山に登り給ひしが彼等の前にて其容貌かはり </ab>
+<ab type="verse" n="3" xml:id="Mark.9.3"><hi rend="superscript">3</hi> 其衣かがやき白こと甚だしくして雪の如く世上の布漂も斯しろくは爲能はざるべし </ab>
+<ab type="verse" n="4" xml:id="Mark.9.4"><hi rend="superscript">4</hi> エリヤとモーセと共に彼等に現れてイエスと語をれり </ab>
+<ab type="verse" n="5" xml:id="Mark.9.5"><hi rend="superscript">5</hi> ペテロ答てイエスに曰けるはラビ我儕ここに居は善われらに三の廬を建せ給へ一は主のため一はモーセのため一はエリヤの爲にせん </ab>
+<ab type="verse" n="6" xml:id="Mark.9.6"><hi rend="superscript">6</hi> 此は其謂ところを知ざりしなり彼等いたく懼しに因 </ab>
+<ab type="verse" n="7" xml:id="Mark.9.7"><hi rend="superscript">7</hi> 斯て雲彼等を蔽ひ聲雲より出て曰けるは此は我が愛子なり之に聽べし </ab>
+<ab type="verse" n="8" xml:id="Mark.9.8"><hi rend="superscript">8</hi> 頓て弟子環視ければイエスと己の外は一人をも見ざりき／ </ab>
+<ab type="verse" n="9" xml:id="Mark.9.9"><hi rend="superscript">9</hi> 山を下る時にイエス彼等に命じて人の子の死より甦る迄は爾曹の見し事を人に告る勿れと曰り </ab>
+<ab type="verse" n="10" xml:id="Mark.9.10"><hi rend="superscript">10</hi> 弟子等この言を守かつ互に論じ曰けるは死より甦ると云は何の事か </ab>
+<ab type="verse" n="11" xml:id="Mark.9.11"><hi rend="superscript">11</hi> 彼等イエスに問て曰けるはエリヤは前に來るべしと學者の曰るは何ぞや </ab>
+<ab type="verse" n="12" xml:id="Mark.9.12"><hi rend="superscript">12</hi> イエス答て曰けるは實にエリヤは前に來りて萬事を復振また人の子に就ては其各樣の苦難を受かつ輕慢らるる事を書しるされたり </ab>
+<ab type="verse" n="13" xml:id="Mark.9.13"><hi rend="superscript">13</hi> 然ど我なんぢらに告んエリヤ既に來しに彼に就て録されたりし如く人々意の任に之を待へり／ </ab>
+<ab type="verse" n="14" xml:id="Mark.9.14"><hi rend="superscript">14</hi> イエス弟子等の所にきたり多くの人々の彼等を環圍ると學者たちの彼等と論じをりしを見たり </ab>
+<ab type="verse" n="15" xml:id="Mark.9.15"><hi rend="superscript">15</hi> 衆人ただちに彼を見て駭き趨よりて禮をなせり </ab>
+<ab type="verse" n="16" xml:id="Mark.9.16"><hi rend="superscript">16</hi> イエス學者に問けるは弟子と何事を論ずる乎 </ab>
+<ab type="verse" n="17" xml:id="Mark.9.17"><hi rend="superscript">17</hi> 衆人のうち一人こたへけるは師よ我ものいはぬ惡鬼に憑れたる我子を爾に携來れり </ab>
+<ab type="verse" n="18" xml:id="Mark.9.18"><hi rend="superscript">18</hi> 惡鬼の憑時は彼傾跌され沫をふき齒を切て疲勞はつる也これを逐出さんことを我なんぢの弟子に請しかど彼等能ざりき </ab>
+<ab type="verse" n="19" xml:id="Mark.9.19"><hi rend="superscript">19</hi> イエス彼等に答て曰けるは噫信なき世なる哉いつまで我なんぢらと共に在んや何時まで我なんぢらを忍んや彼を我に携來れ </ab>
+<ab type="verse" n="20" xml:id="Mark.9.20"><hi rend="superscript">20</hi> 彼等その子を携來りしに惡鬼イエスを見て忽ち彼を拘攣しむ彼地に仆れ輾轉て沫を出ぬ </ab>
+<ab type="verse" n="21" xml:id="Mark.9.21"><hi rend="superscript">21</hi> イエスその父に問けるは幾何時より如此なりしや父いひけるは少時より也 </ab>
+<ab type="verse" n="22" xml:id="Mark.9.22"><hi rend="superscript">22</hi> 惡鬼しばしば之を火の中あるひは水の中に投入て殺んとせり爾もし爲ことを得ば我儕を憫みて助よ </ab>
+<ab type="verse" n="23" xml:id="Mark.9.23"><hi rend="superscript">23</hi> イエス彼に曰けるは爾もし信ずる事を得ば信ずる者に於て爲あたはざる事なし </ab>
+<ab type="verse" n="24" xml:id="Mark.9.24"><hi rend="superscript">24</hi> 其子の父ただちに聲をあげ涙を流して曰けるは主よ我信ず我が信なきを助たまへ </ab>
+<ab type="verse" n="25" xml:id="Mark.9.25"><hi rend="superscript">25</hi> イエス衆人の趨集るを見て惡鬼を叱いひけるは唖にして聾なる惡鬼よ我なんぢに命ず出て再び之に入なかれ </ab>
+<ab type="verse" n="26" xml:id="Mark.9.26"><hi rend="superscript">26</hi> 惡鬼さけびて大に彼を拘攣しめて出しかば彼死たる者の如なりぬ人々これを已に死りと云 </ab>
+<ab type="verse" n="27" xml:id="Mark.9.27"><hi rend="superscript">27</hi> イエスその手を執て扶ければ彼たてり／ </ab>
+<ab type="verse" n="28" xml:id="Mark.9.28"><hi rend="superscript">28</hi> イエス家に入しに其弟子ひそかに問けるは我儕これを逐出すこと能ざりしは何故ぞ </ab>
+<ab type="verse" n="29" xml:id="Mark.9.29"><hi rend="superscript">29</hi> イエス彼等に曰けるは此族は祈禱と斷食に非れば逐出すこと能ざる也／ </ab>
+<ab type="verse" n="30" xml:id="Mark.9.30"><hi rend="superscript">30</hi> 彼等ここを去てガリラヤを過この事をイエス人の知を欲ざりき </ab>
+<ab type="verse" n="31" xml:id="Mark.9.31"><hi rend="superscript">31</hi> 蓋その弟子に教て人の子は人の手に付され彼等に殺され殺されてのち第三日に甦るべしと曰たまふが故なり </ab>
+<ab type="verse" n="32" xml:id="Mark.9.32"><hi rend="superscript">32</hi> 其とき弟子等この言を曉らず亦問ことを恐たり／ </ab>
+<ab type="verse" n="33" xml:id="Mark.9.33"><hi rend="superscript">33</hi> 偖イエス、カペナウンに至り室に居て弟子に問けるは爾曹途間にて何を互に論ぜし乎 </ab>
+<ab type="verse" n="34" xml:id="Mark.9.34"><hi rend="superscript">34</hi> 弟子默然たり是途間にて互に論じ誰か大ならんとの爭ありければ也 </ab>
+<ab type="verse" n="35" xml:id="Mark.9.35"><hi rend="superscript">35</hi> イエス坐して其十二を召かれらに曰けるは若し首たらんと欲ふ者は凡の人の後となり且すべての人の使役とならん </ab>
+<ab type="verse" n="36" xml:id="Mark.9.36"><hi rend="superscript">36</hi> また孩提を取て彼等の中に立て之を抱き彼等に曰けるは </ab>
+<ab type="verse" n="37" xml:id="Mark.9.37"><hi rend="superscript">37</hi> 凡そ我名の爲に斯のごとき孩提の一人を接る者は即ち我を接るなり又われを接る者は即ち我を接るに非ず我を遣しし者を接るなり／ </ab>
+<ab type="verse" n="38" xml:id="Mark.9.38"><hi rend="superscript">38</hi> ヨハネ彼に答て曰けるは師よ我儕に從はざる者の爾の名に托て惡鬼を逐出せるを見しが我儕に從はざる故これを禁たり </ab>
+<ab type="verse" n="39" xml:id="Mark.9.39"><hi rend="superscript">39</hi> イエス曰けるは其人を禁る勿れ蓋わが名により異なる能を行ひて輕易しく我を誹得る者はあらじ </ab>
+<ab type="verse" n="40" xml:id="Mark.9.40"><hi rend="superscript">40</hi> 我儕に〔敵た｜敵〕はざる者は我儕に屬者なり </ab>
+<ab type="verse" n="41" xml:id="Mark.9.41"><hi rend="superscript">41</hi> 爾曹をキリストに屬者として我名の爲に一杯の水にても爾曹に飮する者は我まことに爾曹に告ん其人は賞を失はざる也 </ab>
+<ab type="verse" n="42" xml:id="Mark.9.42"><hi rend="superscript">42</hi> また凡そ我を信ずる小子の一人を礙する者は其首に磨を懸られて海に投入られん方その人の爲になほ善るべし </ab>
+<ab type="verse" n="43" xml:id="Mark.9.43"><hi rend="superscript">43</hi> 若し爾の一手なんぢを礙かさば之を斷され兩手ありて地獄すなはち滅ざる火に往んよりは殘缺にて永生に入は爾の爲に善こと也 </ab>
+<ab type="verse" n="44" xml:id="Mark.9.44"><hi rend="superscript">44</hi> 彼處に入ものの蟲つきず火きえず </ab>
+<ab type="verse" n="45" xml:id="Mark.9.45"><hi rend="superscript">45</hi> 若なんぢの一足なんぢを礙かさば之を斷され兩足ありて地獄すなはち滅ざる火に投入られんよりは跛にて永生に入は爾の爲に善なり </ab>
+<ab type="verse" n="46" xml:id="Mark.9.46"><hi rend="superscript">46</hi> 彼處に入ものの蟲つきず火きえず </ab>
+<ab type="verse" n="47" xml:id="Mark.9.47"><hi rend="superscript">47</hi> もし爾の一眼なんぢを礙かさば之を抉いだせ兩眼ありて地獄の火に投入られんよりは一眼にて神の國に入は爾の爲に善なり </ab>
+<ab type="verse" n="48" xml:id="Mark.9.48"><hi rend="superscript">48</hi> 彼處に入ものの蟲つきず火きえず </ab>
+<ab type="verse" n="49" xml:id="Mark.9.49"><hi rend="superscript">49</hi> 蓋すべての人は鹽をつくる如く火を以せられ凡の祭物は鹽をもて鹽つけらる </ab>
+<ab type="verse" n="50" xml:id="Mark.9.50"><hi rend="superscript">50</hi> 鹽は善ものなり然ど鹽もし其味を失はば何をもて之に味を加んや爾曹心の中に鹽を有て又たがひに睦み和ぐべし</ab>
+</div>
+<div type="chapter" n="10" xml:id="Mark.10">
+<head>第10章</head>
+<ab type="verse" n="1" xml:id="Mark.10.1"><hi rend="superscript">1</hi> イエス此を去ヨルダンの外を經てユダヤの境の内に來しに多の人々また彼に集りければ恆の如く彼等に教誨を爲たまへり </ab>
+<ab type="verse" n="2" xml:id="Mark.10.2"><hi rend="superscript">2</hi> パリサイの人來て彼を試み問けるは人その妻を出すは可か </ab>
+<ab type="verse" n="3" xml:id="Mark.10.3"><hi rend="superscript">3</hi> 答て曰けるはモーセは爾曹に何を命ぜし乎 </ab>
+<ab type="verse" n="4" xml:id="Mark.10.4"><hi rend="superscript">4</hi> 彼等曰けるはモーセは離縁状を書與へて之を出すことを許せり </ab>
+<ab type="verse" n="5" xml:id="Mark.10.5"><hi rend="superscript">5</hi> イエス答て彼等に曰けるはモーセ爾曹の心つれなきに因て此命を爲たる也 </ab>
+<ab type="verse" n="6" xml:id="Mark.10.6"><hi rend="superscript">6</hi> 然ど開闢のはじめ神人を男女に造り給へり </ab>
+<ab type="verse" n="7" xml:id="Mark.10.7"><hi rend="superscript">7</hi> 是故に人はその父母を離その妻に合て </ab>
+<ab type="verse" n="8" xml:id="Mark.10.8"><hi rend="superscript">8</hi> 二人のもの一體と成べし然ば二には非ず一體なり </ab>
+<ab type="verse" n="9" xml:id="Mark.10.9"><hi rend="superscript">9</hi> 是故に神の耦せ給へる者は人これを離すべからず／ </ab>
+<ab type="verse" n="10" xml:id="Mark.10.10"><hi rend="superscript">10</hi> 室に在て弟子等また此事を問ければ </ab>
+<ab type="verse" n="11" xml:id="Mark.10.11"><hi rend="superscript">11</hi> イエス彼等に曰けるは凡そ其妻を出して他の婦を娶る者は其妻に對して姦淫を行ふなり </ab>
+<ab type="verse" n="12" xml:id="Mark.10.12"><hi rend="superscript">12</hi> また婦もし其夫を出して他に嫁がば此婦も姦淫を行ふなり／ </ab>
+<ab type="verse" n="13" xml:id="Mark.10.13"><hi rend="superscript">13</hi> イエスに撫れんがため人々孩提を携來ければ弟子等その携來れる者を責めたり </ab>
+<ab type="verse" n="14" xml:id="Mark.10.14"><hi rend="superscript">14</hi> イエス之を見て怒を含かれらに曰けるは孩提を我に來せよ彼等を禁る勿れ神の國に居ものは斯の如き者なり </ab>
+<ab type="verse" n="15" xml:id="Mark.10.15"><hi rend="superscript">15</hi> 誠に我なんぢらに告ん凡そ孩提の如くに神の國を承ざる者は之に入ことを得ざる也 </ab>
+<ab type="verse" n="16" xml:id="Mark.10.16"><hi rend="superscript">16</hi> 即ち彼等を抱きて手をその上に按これを祝せり／ </ab>
+<ab type="verse" n="17" xml:id="Mark.10.17"><hi rend="superscript">17</hi> イエス途に出けるに一人はしり來りて跪き問けるは善師よ我かぎりなき生命を嗣ために何を行べき乎 </ab>
+<ab type="verse" n="18" xml:id="Mark.10.18"><hi rend="superscript">18</hi> イエス彼に曰けるは何ぞ我を善と稱や一人の外に善者はなし即ち神なり </ab>
+<ab type="verse" n="19" xml:id="Mark.10.19"><hi rend="superscript">19</hi> 誡は爾が識ところなり姦淫する勿れ殺なかれ盜なかれ妄の〔證｜証〕を立る勿れ拐騙なかれ爾の父と母を敬へ </ab>
+<ab type="verse" n="20" xml:id="Mark.10.20"><hi rend="superscript">20</hi> 答て曰けるは師よ是みな我が幼きより守れるもの也 </ab>
+<ab type="verse" n="21" xml:id="Mark.10.21"><hi rend="superscript">21</hi> イエス彼を見て愛み曰けるは爾なほ一を虧ゆきて其所有をうり貧者に施せ然ば天に於て財あらん而して來り十字架を操て我に從へ </ab>
+<ab type="verse" n="22" xml:id="Mark.10.22"><hi rend="superscript">22</hi> 彼この言に因て哀み憂て去ぬ彼は大なる産業を有る者なればなり </ab>
+<ab type="verse" n="23" xml:id="Mark.10.23"><hi rend="superscript">23</hi> イエス環視てその弟子に曰けるは財を有る者の神の國に入は如何に難かな </ab>
+<ab type="verse" n="24" xml:id="Mark.10.24"><hi rend="superscript">24</hi> 弟子この言を駭けりイエス復こたへて彼等に曰けるは小子よ財を恃む者の神の國に入は如何に難かな </ab>
+<ab type="verse" n="25" xml:id="Mark.10.25"><hi rend="superscript">25</hi> 富者の神の國に入よりは駱駝の針の孔を穿るは却て易し </ab>
+<ab type="verse" n="26" xml:id="Mark.10.26"><hi rend="superscript">26</hi> 弟子たち甚く駭き互に曰けるは然ば誰か救を受べき乎 </ab>
+<ab type="verse" n="27" xml:id="Mark.10.27"><hi rend="superscript">27</hi> イエス彼等を見て曰けるは是人には能ざる所なれど神に於ては然らず神は能ざる所なければ也 </ab>
+<ab type="verse" n="28" xml:id="Mark.10.28"><hi rend="superscript">28</hi> 是に於てペテロ彼に曰けるは我儕一切を舍て爾に從へり </ab>
+<ab type="verse" n="29" xml:id="Mark.10.29"><hi rend="superscript">29</hi> イエス答て曰けるは誠に爾曹に告ん我と福音の爲に家宅あるひは兄弟あるひは姉妹あるひは父あるひは母あるひは妻あるひは兒女あるひは田疇を舍る者は </ab>
+<ab type="verse" n="30" xml:id="Mark.10.30"><hi rend="superscript">30</hi> この世にて百倍を受ざる者なし即ち家宅、兄弟、姉妹、母、妻、兒女、田疇を迫害と共に受又後の世に窮なき生を受ん </ab>
+<ab type="verse" n="31" xml:id="Mark.10.31"><hi rend="superscript">31</hi> 然ど多の先なる者は後になり後なる者は先になるべし／ </ab>
+<ab type="verse" n="32" xml:id="Mark.10.32"><hi rend="superscript">32</hi> 〔偖｜さて〕彼等エルサレムに上る途間イエス弟子に先ち行ければ彼等おどろき且おそれて從へりイエス十二を伴ひて將に己に及んとする事を彼等に告給ひけるは </ab>
+<ab type="verse" n="33" xml:id="Mark.10.33"><hi rend="superscript">33</hi> 我儕エルサレムに上り人の子は祭司の長と學者等に付れん彼等これを死罪に定め異邦人に付し </ab>
+<ab type="verse" n="34" xml:id="Mark.10.34"><hi rend="superscript">34</hi> 又これを嘲弄し鞭ち唾し且これを殺ん斯て第三日に甦るべし／ </ab>
+<ab type="verse" n="35" xml:id="Mark.10.35"><hi rend="superscript">35</hi> ゼベタイの子ヤコブとヨハネ、イエスに來りて曰けるは師よ我儕が求る事を願くは我儕に成たまへ </ab>
+<ab type="verse" n="36" xml:id="Mark.10.36"><hi rend="superscript">36</hi> 彼等に曰けるは爾曹に我が何を成ん事を欲ふや </ab>
+<ab type="verse" n="37" xml:id="Mark.10.37"><hi rend="superscript">37</hi> 彼等いひけるは爾榮を得んとき我儕の一人を其右に一人を其左に坐せしめよ </ab>
+<ab type="verse" n="38" xml:id="Mark.10.38"><hi rend="superscript">38</hi> イエス彼等に曰けるは爾曹は求ふ所を知ず爾曹わが飮ところの杯を飮わが受る所のバプテスマを受得るや </ab>
+<ab type="verse" n="39" xml:id="Mark.10.39"><hi rend="superscript">39</hi> 彼等いひけるは能すべしイエス彼等に曰けるは爾曹は實に我が飮ところの杯を飮また我が受る所のバプテスマを受べし </ab>
+<ab type="verse" n="40" xml:id="Mark.10.40"><hi rend="superscript">40</hi> 然ど我が右左に坐する事は我が予ふべきに非ただ備られたる者は予らるべし </ab>
+<ab type="verse" n="41" xml:id="Mark.10.41"><hi rend="superscript">41</hi> 十人の弟子これを聞てヤコブとヨハネを憤れり </ab>
+<ab type="verse" n="42" xml:id="Mark.10.42"><hi rend="superscript">42</hi> イエス彼等を召て曰けるは異邦人の君と見る者は其民を治また大なる者どもは彼等の上に權を執これ爾曹が知ところ也 </ab>
+<ab type="verse" n="43" xml:id="Mark.10.43"><hi rend="superscript">43</hi> 然ど爾曹の中にては然す可らず爾曹のうち大ならんと欲ふ者は爾曹に役るる者とならん </ab>
+<ab type="verse" n="44" xml:id="Mark.10.44"><hi rend="superscript">44</hi> また爾曹のうち首たらんと欲ふ者は凡の人の僕とならん </ab>
+<ab type="verse" n="45" xml:id="Mark.10.45"><hi rend="superscript">45</hi> 蓋人の子の來るも人を役ふ爲に非ず反て人に役はれ且おほくの人に代その命を予て贖とならん爲なり／ </ab>
+<ab type="verse" n="46" xml:id="Mark.10.46"><hi rend="superscript">46</hi> 斯て彼等エリコに至りイエスその弟子と大なる群集の人々と共にエリコを出る時テマイの子なるバルテマイといふ瞽者路の旁に坐して乞ゐけるが </ab>
+<ab type="verse" n="47" xml:id="Mark.10.47"><hi rend="superscript">47</hi> ナザレのイエスなりと聞て呼り曰けるはダビデの裔イエスよ我を恤み給へ </ab>
+<ab type="verse" n="48" xml:id="Mark.10.48"><hi rend="superscript">48</hi> 多の人々これに緘默と戒めけれども愈よばはりてダビデの裔イエスよ我を恤み給へと曰ければ </ab>
+<ab type="verse" n="49" xml:id="Mark.10.49"><hi rend="superscript">49</hi> イエス立止りて彼を召と命じければ人々瞽者を召て彼に曰けるは心を安んぜよ起イエス爾を召 </ab>
+<ab type="verse" n="50" xml:id="Mark.10.50"><hi rend="superscript">50</hi> 瞽者その表衣を棄たちてイエスに來れり </ab>
+<ab type="verse" n="51" xml:id="Mark.10.51"><hi rend="superscript">51</hi> イエス答て彼に曰けるは爾われに何を爲れんと欲ふや瞽者いひけるは主よ見なん事を欲ふ </ab>
+<ab type="verse" n="52" xml:id="Mark.10.52"><hi rend="superscript">52</hi> イエス彼に曰けるは往なんぢの信仰なんぢを救へり直に彼〔見｜みゆ〕ることを得イエスに從ひて路を行り</ab>
+</div>
+<div type="chapter" n="11" xml:id="Mark.11">
+<head>第11章</head>
+<ab type="verse" n="1" xml:id="Mark.11.1"><hi rend="superscript">1</hi> かれら橄欖山のベテパゲとベタニヤに至りエルサレムに近ける時イエス二人の弟子を遣さんとして </ab>
+<ab type="verse" n="2" xml:id="Mark.11.2"><hi rend="superscript">2</hi> 彼等に曰けるは爾曹對面の村に往かしこに入ば頓て人の未だ乘ざる所の繋げる驢馬の子を見べし其を解て牽來れ </ab>
+<ab type="verse" n="3" xml:id="Mark.11.3"><hi rend="superscript">3</hi> もし誰か爾曹に何ゆゑ然する乎といふ者あらば主の用なりと曰さらば直に其を此に遺るべし </ab>
+<ab type="verse" n="4" xml:id="Mark.11.4"><hi rend="superscript">4</hi> 彼等ゆきて門の外の岐路に繋げる驢馬の子を見て之を解ければ </ab>
+<ab type="verse" n="5" xml:id="Mark.11.5"><hi rend="superscript">5</hi> 其處に立る人々のうち或人かれらに曰けるは此驢馬の子を解て如何する乎 </ab>
+<ab type="verse" n="6" xml:id="Mark.11.6"><hi rend="superscript">6</hi> 弟子イエスの命ぜし如く曰しかば遂に許たり </ab>
+<ab type="verse" n="7" xml:id="Mark.11.7"><hi rend="superscript">7</hi> 弟子驢馬の子をイエスに牽きたりて己が衣を其上に置ければイエスこれに乘り </ab>
+<ab type="verse" n="8" xml:id="Mark.11.8"><hi rend="superscript">8</hi> 人々おほくは其衣を路上に布あるひは樹の枝を伐て路上に布 </ab>
+<ab type="verse" n="9" xml:id="Mark.11.9"><hi rend="superscript">9</hi> かつ前にゆき後に從ふ人々呼り曰けるはホザナよ主の名に託て來る者は福なり </ab>
+<ab type="verse" n="10" xml:id="Mark.11.10"><hi rend="superscript">10</hi> 主の名に託て來る我儕の父なるダビデの國は福なり至上處にホザナよ／ </ab>
+<ab type="verse" n="11" xml:id="Mark.11.11"><hi rend="superscript">11</hi> イエス、エルサレムに至り聖殿に入て悉くみまはし時すでに暮に及ければ十二と偕にベタニヤに出往り／ </ab>
+<ab type="verse" n="12" xml:id="Mark.11.12"><hi rend="superscript">12</hi> 明日彼等ベタニヤより出し時イエス饑たり </ab>
+<ab type="verse" n="13" xml:id="Mark.11.13"><hi rend="superscript">13</hi> 遙に葉ある無花果の樹を見てその樹に何か有んとて來しに葉の他なにも見ざりき是無花果樹の時に非れば也 </ab>
+<ab type="verse" n="14" xml:id="Mark.11.14"><hi rend="superscript">14</hi> イエス此樹に對て今よりのち永久も爾の果を食ふ人あらざれといふ弟子これを聞り／ </ab>
+<ab type="verse" n="15" xml:id="Mark.11.15"><hi rend="superscript">15</hi> 彼等エルサレムに至りイエス殿に入てその中にをる賣買する者を殿より逐出し兌銀者の案、鴿を鬻者の椅子を倒し </ab>
+<ab type="verse" n="16" xml:id="Mark.11.16"><hi rend="superscript">16</hi> かつ器具を以て殿を過ることを許さず </ab>
+<ab type="verse" n="17" xml:id="Mark.11.17"><hi rend="superscript">17</hi> また彼等に諭て曰けるは我室は萬國の人の祈禱の室と稱らるべしと録されたるに非や然るに爾曹は之を盜賊の巣と爲り </ab>
+<ab type="verse" n="18" xml:id="Mark.11.18"><hi rend="superscript">18</hi> 學者と祭司の長これを聞て如何してかイエスを喪さんと謀しが彼を懼たり蓋人々みな其教に駭きたれば也／ </ab>
+<ab type="verse" n="19" xml:id="Mark.11.19"><hi rend="superscript">19</hi> 日くれてイエス城邑を出行り </ab>
+<ab type="verse" n="20" xml:id="Mark.11.20"><hi rend="superscript">20</hi> 翌朝かれら無花果の樹を過る時その根より盡く枯たるを見る </ab>
+<ab type="verse" n="21" xml:id="Mark.11.21"><hi rend="superscript">21</hi> ペテロ憶出てイエスに曰けるはラビ見よ詛し所の無花果樹は枯たり </ab>
+<ab type="verse" n="22" xml:id="Mark.11.22"><hi rend="superscript">22</hi> イエス答て彼等に曰けるは神を信ぜよ </ab>
+<ab type="verse" n="23" xml:id="Mark.11.23"><hi rend="superscript">23</hi> 誠に我なんぢらに告ん誰にても其心に疑ふ事なく其いふ所の言は必ず成べしと信じ此山に移て海に入といはば其言の如く成べし </ab>
+<ab type="verse" n="24" xml:id="Mark.11.24"><hi rend="superscript">24</hi> 是故に我なんぢらに告ん凡そ祈禱の時その求ふ所のものは必ず得べしと信ぜば必ず得べし </ab>
+<ab type="verse" n="25" xml:id="Mark.11.25"><hi rend="superscript">25</hi> 又なんぢら立て祈禱する時もし人を憾こと有ば之を免せ蓋天に在す爾曹の父に爾曹も亦その過を免されん爲なり </ab>
+<ab type="verse" n="26" xml:id="Mark.11.26"><hi rend="superscript">26</hi> もし爾曹免さずば天に在す爾曹の父も亦なんぢらの過を免し給はじ／ </ab>
+<ab type="verse" n="27" xml:id="Mark.11.27"><hi rend="superscript">27</hi> 彼等またエルサレムに至りイエス殿を行るとき祭司の長學者および長老等きたりて </ab>
+<ab type="verse" n="28" xml:id="Mark.11.28"><hi rend="superscript">28</hi> 彼に曰けるは何の權威を以て此事を行や誰が此事を行べき爲に爾に此權威を與しや </ab>
+<ab type="verse" n="29" xml:id="Mark.11.29"><hi rend="superscript">29</hi> イエス答て彼等に曰けるは我も一言なんぢらに問ん我に答よ然ば我なんぢらに何の權威を以て之を行といふ事を告べし </ab>
+<ab type="verse" n="30" xml:id="Mark.11.30"><hi rend="superscript">30</hi> ヨハネのバプテスマは天よりか人よりか我に答よ </ab>
+<ab type="verse" n="31" xml:id="Mark.11.31"><hi rend="superscript">31</hi> 彼等たがひに論じ曰けるは若し天よりと云ば然ば何故かれを信ぜざるかと曰ん </ab>
+<ab type="verse" n="32" xml:id="Mark.11.32"><hi rend="superscript">32</hi> もし人よりと云ば彼等民を懼たる也蓋民みなヨハネを〔預言者｜預言者〕と爲に因 </ab>
+<ab type="verse" n="33" xml:id="Mark.11.33"><hi rend="superscript">33</hi> 遂に答て知ずと曰イエス答て曰けるは我も何の權威を以て之を行か爾曹に〔語じ｜語らじ〕</ab>
+</div>
+<div type="chapter" n="12" xml:id="Mark.12">
+<head>第12章</head>
+<ab type="verse" n="1" xml:id="Mark.12.1"><hi rend="superscript">1</hi> イエス譬をもて彼等に語れり或人葡萄園を樹り籬を環し酒榨をほり塔をたて農夫に租與て他の國へ往しが </ab>
+<ab type="verse" n="2" xml:id="Mark.12.2"><hi rend="superscript">2</hi> 期いたりければ葡萄園の果を收取ん爲に僕を農夫の所に遣しけるに </ab>
+<ab type="verse" n="3" xml:id="Mark.12.3"><hi rend="superscript">3</hi> 農夫等これを執へ打撲きて徒く返しめたり </ab>
+<ab type="verse" n="4" xml:id="Mark.12.4"><hi rend="superscript">4</hi> また他の僕を彼等に遣ししに農夫等これを石にてうち首に傷つけ辱しめて返しむ </ab>
+<ab type="verse" n="5" xml:id="Mark.12.5"><hi rend="superscript">5</hi> 又ほかの者を遣ししに之をも殺せり又ほかに多く遣ししに或は撲あるひは殺しぬ </ab>
+<ab type="verse" n="6" xml:id="Mark.12.6"><hi rend="superscript">6</hi> 爰に一人の愛子ありけるが此わが子は敬ふならんと曰て遂に其子を遣ししに </ab>
+<ab type="verse" n="7" xml:id="Mark.12.7"><hi rend="superscript">7</hi> 農夫等たがひに曰けるは此は嗣子なり率これを殺さん然ば産業は我儕の者とならん </ab>
+<ab type="verse" n="8" xml:id="Mark.12.8"><hi rend="superscript">8</hi> 乃ち執へて之を殺し葡萄園の外に棄たり </ab>
+<ab type="verse" n="9" xml:id="Mark.12.9"><hi rend="superscript">9</hi> 然ば葡萄園の主人なにを爲べきか彼きたりて農夫等を打滅し葡萄園を他の人に託ふべし </ab>
+<ab type="verse" n="10" xml:id="Mark.12.10"><hi rend="superscript">10</hi> 工匠の棄たる石は屋の隅の首石と成り </ab>
+<ab type="verse" n="11" xml:id="Mark.12.11"><hi rend="superscript">11</hi> これ主の成たまへる事にして我儕の目に奇とする所なりと録されしを未だ讀ざる乎 </ab>
+<ab type="verse" n="12" xml:id="Mark.12.12"><hi rend="superscript">12</hi> 彼等この譬は己等を指て語れりと知イエスを執んとせしかども衆人を懼てイエスを去ゆけり／ </ab>
+<ab type="verse" n="13" xml:id="Mark.12.13"><hi rend="superscript">13</hi> 彼等イエスを其言に由て陷いれんとしてパリサイの人とヘロデの黨の中より數人を遣せり </ab>
+<ab type="verse" n="14" xml:id="Mark.12.14"><hi rend="superscript">14</hi> 遣されし者等イエスの所に來り曰けるは師よ爾は眞なる者なり又誰にも偏らざる事を我儕は知そは貌に依て人を取ず誠を以て神の道を教ればなり貢をカイザルに納るは宜や否われら納べきか納ざる可か </ab>
+<ab type="verse" n="15" xml:id="Mark.12.15"><hi rend="superscript">15</hi> イエスその實ならざるを知て彼等に曰けるは何ぞ我を試るやデナリを携來りて我に觀よ </ab>
+<ab type="verse" n="16" xml:id="Mark.12.16"><hi rend="superscript">16</hi> かれら携來りければイエス彼等に曰けるは此像と號は誰か答てカイザルなりと曰 </ab>
+<ab type="verse" n="17" xml:id="Mark.12.17"><hi rend="superscript">17</hi> イエス曰けるはカイザルの物はカイザルに歸し又神の物は神に歸すべし彼等これを奇とせり／ </ab>
+<ab type="verse" n="18" xml:id="Mark.12.18"><hi rend="superscript">18</hi> 復生なしと曰なせるサドカイの人きたりてイエスに問けるは </ab>
+<ab type="verse" n="19" xml:id="Mark.12.19"><hi rend="superscript">19</hi> 師よ我儕にモーセが書遺るには人の兄弟もし子なくして妻を留し死ばその兄弟この妻を娶て兄弟の裔を立べしと </ab>
+<ab type="verse" n="20" xml:id="Mark.12.20"><hi rend="superscript">20</hi> 爰に七人の兄弟ありしが長子妻をめとり子なくして死 </ab>
+<ab type="verse" n="21" xml:id="Mark.12.21"><hi rend="superscript">21</hi> 第二の者これを娶また子なくして死 </ab>
+<ab type="verse" n="22" xml:id="Mark.12.22"><hi rend="superscript">22</hi> 第三もまた然す七人みな之を娶たれど子なく終には此婦も死り </ab>
+<ab type="verse" n="23" xml:id="Mark.12.23"><hi rend="superscript">23</hi> 復生の時かれら甦らば此婦は誰の妻と爲べきか蓋七人おなじく之を娶たれば也 </ab>
+<ab type="verse" n="24" xml:id="Mark.12.24"><hi rend="superscript">24</hi> イエス答て彼等に曰けるは爾曹は聖書をも神の能をも知ざるに因て謬れるならず乎 </ab>
+<ab type="verse" n="25" xml:id="Mark.12.25"><hi rend="superscript">25</hi> それ死より甦る時は娶ず嫁がず天にある使者等の如し </ab>
+<ab type="verse" n="26" xml:id="Mark.12.26"><hi rend="superscript">26</hi> 死し者の甦る事に就てはモーセの書棘中の篇に神かれに語て我はアブラハムの神イサクの神ヤコブの神なりと曰たまひしを爾曹讀ざる乎 </ab>
+<ab type="verse" n="27" xml:id="Mark.12.27"><hi rend="superscript">27</hi> 神は死し者の神に非ず生る者の神なり爾曹大に謬れり／ </ab>
+<ab type="verse" n="28" xml:id="Mark.12.28"><hi rend="superscript">28</hi> 學者の一人〔彼等｜かれら〕の議論を聞てイエスの善これに應しを知きたり彼に問けるは諸誡のうち何れ首なる乎 </ab>
+<ab type="verse" n="29" xml:id="Mark.12.29"><hi rend="superscript">29</hi> イエス彼に答けるは諸誡の首はイスラエルよ聽け主なる我儕の神は即ち一の主なり </ab>
+<ab type="verse" n="30" xml:id="Mark.12.30"><hi rend="superscript">30</hi> なんぢ心を盡し精神を盡し意を盡し力を盡し主なる爾の神を愛すべし是誡の首なり </ab>
+<ab type="verse" n="31" xml:id="Mark.12.31"><hi rend="superscript">31</hi> 第二も亦これに同じ己の如く爾の隣を愛すべし斯より大なる誡なし </ab>
+<ab type="verse" n="32" xml:id="Mark.12.32"><hi rend="superscript">32</hi> 學者イエスに曰けるは善かな師よ爾神は即ち一にして他に神なしと曰しは誠なり </ab>
+<ab type="verse" n="33" xml:id="Mark.12.33"><hi rend="superscript">33</hi> また心を盡し智慧を盡し精神を盡し力を盡して之を愛し又おのれの如く隣を愛するは諸の燔祭と禮物よりも〔愈｜愈る〕なり </ab>
+<ab type="verse" n="34" xml:id="Mark.12.34"><hi rend="superscript">34</hi> イエス彼が道理を知る答を見て之に曰けるは爾神の國より遠からず此のち敢てイエスに問者なかりき／ </ab>
+<ab type="verse" n="35" xml:id="Mark.12.35"><hi rend="superscript">35</hi> イエス殿に在て教誨を爲る時かれらに答て曰けるは何ぞ學者はキリストをダビデの裔といふ乎 </ab>
+<ab type="verse" n="36" xml:id="Mark.12.36"><hi rend="superscript">36</hi> 夫ダビデ聖靈に感じて自いふ主わが主に曰けるは我なんぢの敵を爾の足凳となすまで我右に坐せよと </ab>
+<ab type="verse" n="37" xml:id="Mark.12.37"><hi rend="superscript">37</hi> 如此ダビデ自ら彼を主と稱たり然ば如何で其裔ならんや多の人々喜びてイエスに聞ことを爲り／ </ab>
+<ab type="verse" n="38" xml:id="Mark.12.38"><hi rend="superscript">38</hi> イエス教をなせる時かれらに曰けるは長き衣服を衣てあるき市上にて人の問安 </ab>
+<ab type="verse" n="39" xml:id="Mark.12.39"><hi rend="superscript">39</hi> 會堂の高坐筵席の上座を好 </ab>
+<ab type="verse" n="40" xml:id="Mark.12.40"><hi rend="superscript">40</hi> また嫠婦の家を呑いつはりて長き祈をする學者を謹防よ彼等の〔審判るる｜罪せらるる〕こと尤も重し／ </ab>
+<ab type="verse" n="41" xml:id="Mark.12.41"><hi rend="superscript">41</hi> イエス賽錢の箱に對て坐し人々の錢を箱に入るを見たまひしに多の富者は多く投入たり </ab>
+<ab type="verse" n="42" xml:id="Mark.12.42"><hi rend="superscript">42</hi> 一人の貧き嫠婦きたりてレプタ二を投入る此は四厘ほどに直れり </ab>
+<ab type="verse" n="43" xml:id="Mark.12.43"><hi rend="superscript">43</hi> イエスその弟子を召て彼等に曰けるは誠に我なんぢらに告ん箱に投入し凡の人々よりも此貧き嫠婦は多く投入たり </ab>
+<ab type="verse" n="44" xml:id="Mark.12.44"><hi rend="superscript">44</hi> そは彼等は皆その餘れる所を以て入この婦はその不足ところより其すべての所有すなはち全業を盡く入たれば也</ab>
+</div>
+<div type="chapter" n="13" xml:id="Mark.13">
+<head>第13章</head>
+<ab type="verse" n="1" xml:id="Mark.13.1"><hi rend="superscript">1</hi> イエス聖殿より出ければ一人の弟子かれに曰けるは師よ視たまへ此石この殿宇いかに盛んならず乎 </ab>
+<ab type="verse" n="2" xml:id="Mark.13.2"><hi rend="superscript">2</hi> イエス答て曰けるは爾曹この大なる殿宇を見か一の石も石の上に圯れずしては遺じ </ab>
+<ab type="verse" n="3" xml:id="Mark.13.3"><hi rend="superscript">3</hi> イエス橄欖山にて殿に對ひ坐し給しにペテロ、ヤコブ、ヨハネ、アンデレ竊に問けるは </ab>
+<ab type="verse" n="4" xml:id="Mark.13.4"><hi rend="superscript">4</hi> 何の時此事あるや又すべて此事の成ん時は如何なる兆あるや我儕に告たまへ </ab>
+<ab type="verse" n="5" xml:id="Mark.13.5"><hi rend="superscript">5</hi> イエス答て彼等に曰けるは人に欺かれざるやう愼めよ </ab>
+<ab type="verse" n="6" xml:id="Mark.13.6"><hi rend="superscript">6</hi> 蓋おほくの人わが名を冒來り我はキリストなりと曰て多の人を欺くべし </ab>
+<ab type="verse" n="7" xml:id="Mark.13.7"><hi rend="superscript">7</hi> 爾曹戰と戰の風聲を聞とき懼るる勿れ是等の事はみな有べきなり然ども末期は未だ至らず </ab>
+<ab type="verse" n="8" xml:id="Mark.13.8"><hi rend="superscript">8</hi> 民は起て民をせめ國は國を攻また隨在に地震あり饑饉、變亂あり是等は苦難の始なり </ab>
+<ab type="verse" n="9" xml:id="Mark.13.9"><hi rend="superscript">9</hi> 爾曹みづから愼めよ蓋なんぢら集議所に付され又會堂にて撻たれ且證を爲んため我事に因て侯および王の前に曳立らるべし </ab>
+<ab type="verse" n="10" xml:id="Mark.13.10"><hi rend="superscript">10</hi> 而して福音はまづ萬民に宣傳ざるを得ず </ab>
+<ab type="verse" n="11" xml:id="Mark.13.11"><hi rend="superscript">11</hi> 人なんぢらを曳解さば以前より何を言んと慮また思煩ふ勿れ惟なんぢら其とき賜ふ所の言を曰べし蓋ものいふ者は爾曹に非ず聖靈なり </ab>
+<ab type="verse" n="12" xml:id="Mark.13.12"><hi rend="superscript">12</hi> 兄弟は兄弟を死に付し父は子を付し亦子はその父母に逆ひて之を死しめ </ab>
+<ab type="verse" n="13" xml:id="Mark.13.13"><hi rend="superscript">13</hi> 又なんぢらは我名に縁て凡の人に憎るべし然ど終まで忍ぶ者は救るることを得ん </ab>
+<ab type="verse" n="14" xml:id="Mark.13.14"><hi rend="superscript">14</hi> 〔預言者｜預言者〕ダニエルが言し所の殘暴にくむ可ものの立べからざる所に立を見ば（讀者よく思べし）其時ユダヤにをる者は山に避けよ </ab>
+<ab type="verse" n="15" xml:id="Mark.13.15"><hi rend="superscript">15</hi> 屋上にをる者は室に下る勿れ又物を取んとて其家に入なかれ </ab>
+<ab type="verse" n="16" xml:id="Mark.13.16"><hi rend="superscript">16</hi> 田にをる者は其衣服を取んとて歸る勿れ </ab>
+<ab type="verse" n="17" xml:id="Mark.13.17"><hi rend="superscript">17</hi> 其日には孕る者と乳を哺する婦は禍なる哉 </ab>
+<ab type="verse" n="18" xml:id="Mark.13.18"><hi rend="superscript">18</hi> なんぢら冬にぐることを免れん爲に祈れ </ab>
+<ab type="verse" n="19" xml:id="Mark.13.19"><hi rend="superscript">19</hi> 其日に患難あらん此の如き患難は神の物を創造たまひし開闢より今に至るまで有ざりき亦後にも有じ </ab>
+<ab type="verse" n="20" xml:id="Mark.13.20"><hi rend="superscript">20</hi> もし主その日を減少し給ずば一人だに救るる者なし然ど主の選たまへる所の選れし者の爲に其日を減少し給ふべし </ab>
+<ab type="verse" n="21" xml:id="Mark.13.21"><hi rend="superscript">21</hi> 其時もしキリスト此にあり彼に在と爾曹にいふ者あるとも信ずる勿れ </ab>
+<ab type="verse" n="22" xml:id="Mark.13.22"><hi rend="superscript">22</hi> そは僞キリスト僞〔預言者｜預言者〕おこりて休徴と奇能を行ひ選れたる者をも欺くことを得ば欺くべければ也 </ab>
+<ab type="verse" n="23" xml:id="Mark.13.23"><hi rend="superscript">23</hi> なんぢら愼よ我預じめ爾曹に盡く之を告 </ab>
+<ab type="verse" n="24" xml:id="Mark.13.24"><hi rend="superscript">24</hi> 厥時この患難ののち日は晦く月は光を失ひ </ab>
+<ab type="verse" n="25" xml:id="Mark.13.25"><hi rend="superscript">25</hi> 天の星はおち天の勢ひ震ふべし </ab>
+<ab type="verse" n="26" xml:id="Mark.13.26"><hi rend="superscript">26</hi> 其とき人々は人の子の大なる權威と榮光を以て雲の中に現れ來るを見ん </ab>
+<ab type="verse" n="27" xml:id="Mark.13.27"><hi rend="superscript">27</hi> また其とき人の子その使者等を遣して地の極より天の極まで四方より其選れし者を集むべし </ab>
+<ab type="verse" n="28" xml:id="Mark.13.28"><hi rend="superscript">28</hi> 夫なんぢら無花果樹に由て譬を學その枝すでに柔かにして葉めぐめば夏の近を知 </ab>
+<ab type="verse" n="29" xml:id="Mark.13.29"><hi rend="superscript">29</hi> 此の如く爾曹も凡て是等の事を見ば時ちかく門口に至ると知 </ab>
+<ab type="verse" n="30" xml:id="Mark.13.30"><hi rend="superscript">30</hi> われ誠に爾曹に告ん是等の事ことごとく成までは此民は逝ざるべし </ab>
+<ab type="verse" n="31" xml:id="Mark.13.31"><hi rend="superscript">31</hi> 天地は廢ん然ど我言は廢じ </ab>
+<ab type="verse" n="32" xml:id="Mark.13.32"><hi rend="superscript">32</hi> 其日その時を知者は惟わが父のみなり天にある使者も子も誰も知者なし／ </ab>
+<ab type="verse" n="33" xml:id="Mark.13.33"><hi rend="superscript">33</hi> 此日いづれの時きたる乎を知ざれば爾曹つつしみて目を醒し祈禱せよ </ab>
+<ab type="verse" n="34" xml:id="Mark.13.34"><hi rend="superscript">34</hi> それ人の子は遠行せんとして其權を僕等に委ね各に爲べき事を任け又閽者に怠らず守れと命じて家をさる人の如し </ab>
+<ab type="verse" n="35" xml:id="Mark.13.35"><hi rend="superscript">35</hi> 是故に爾曹も怠らずして守れ蓋家の主人あるひは夕あるひは夜半あるひは鷄鳴時あるひは早晨に歸るかを知ざれば也 </ab>
+<ab type="verse" n="36" xml:id="Mark.13.36"><hi rend="superscript">36</hi> 恐くは不意の時きたりて爾曹が眠るを見ん </ab>
+<ab type="verse" n="37" xml:id="Mark.13.37"><hi rend="superscript">37</hi> われ怠らずして守れと爾曹に告るは即ち凡の人に告るなり</ab>
+</div>
+<div type="chapter" n="14" xml:id="Mark.14">
+<head>第14章</head>
+<ab type="verse" n="1" xml:id="Mark.14.1"><hi rend="superscript">1</hi> さて逾越即ち除酵節の二日前に祭司の長と學者たち詭計を以てイエスを執へ殺さんとし </ab>
+<ab type="verse" n="2" xml:id="Mark.14.2"><hi rend="superscript">2</hi> 曰けるは祭りの日には爲べからず恐くは民の中に亂起らん／ </ab>
+<ab type="verse" n="3" xml:id="Mark.14.3"><hi rend="superscript">3</hi> イエス、ベタニヤの癩病人シモンの家にて食し居たまへる時ある婦蝋石の盒に價貴きナルドの香膏を盛て携來り其盒を裂りイエスの頭に膏を沃たり </ab>
+<ab type="verse" n="4" xml:id="Mark.14.4"><hi rend="superscript">4</hi> 或人々互に怒を含いひけるは此膏を糜すは何故ぞや </ab>
+<ab type="verse" n="5" xml:id="Mark.14.5"><hi rend="superscript">5</hi> 之を鬻ば三百有奇のデナリを得て貧者に施すことを得んと此婦を言咎む </ab>
+<ab type="verse" n="6" xml:id="Mark.14.6"><hi rend="superscript">6</hi> イエス曰けるは彼に係る勿れ何ぞ此婦を擾すや我に善事を行へる也 </ab>
+<ab type="verse" n="7" xml:id="Mark.14.7"><hi rend="superscript">7</hi> 貧者は常に爾曹と偕に在ば爾曹意に隨せて彼等を濟ることを得べし我は恆に爾曹と偕に在ず </ab>
+<ab type="verse" n="8" xml:id="Mark.14.8"><hi rend="superscript">8</hi> 此婦は力を盡して作り蓋あらかじめ我を葬る爲わが身に膏を沃しなり </ab>
+<ab type="verse" n="9" xml:id="Mark.14.9"><hi rend="superscript">9</hi> 我まことに爾曹に告ん天の下いづくにても此福音を宣傳らるる處には此婦の行し事も亦その記念の爲に言傳らるべし </ab>
+<ab type="verse" n="10" xml:id="Mark.14.10"><hi rend="superscript">10</hi> さて十二の一人なるイスカリヲテのユダ、イエスを付さんとて祭司の長に往しに </ab>
+<ab type="verse" n="11" xml:id="Mark.14.11"><hi rend="superscript">11</hi> 彼等これを聞て悦び銀子を予んと約せしかばユダはイエスを付さんと機を窺へり／ </ab>
+<ab type="verse" n="12" xml:id="Mark.14.12"><hi rend="superscript">12</hi> 除酵節の首の日すなはち逾越の羔を殺すべき日弟子イエスに曰けるは逾越の食を何處へ往て我儕備ふべき乎 </ab>
+<ab type="verse" n="13" xml:id="Mark.14.13"><hi rend="superscript">13</hi> イエス二人の弟子を遣さんとして之に曰けるは京城に往さらば水を盛たる瓶を挈る人に遇べし之に從へ </ab>
+<ab type="verse" n="14" xml:id="Mark.14.14"><hi rend="superscript">14</hi> その入ところの家の主人に師いふ我弟子と偕に逾越を食すべき客房は安に在やと曰 </ab>
+<ab type="verse" n="15" xml:id="Mark.14.15"><hi rend="superscript">15</hi> 然れば彼陳設たる大なる樓房を爾曹に示べし我儕の爲に其處に備よ </ab>
+<ab type="verse" n="16" xml:id="Mark.14.16"><hi rend="superscript">16</hi> 弟子ゆきて京城に入しにイエスの曰たまへる如く遇しかば逾越の備をなせり </ab>
+<ab type="verse" n="17" xml:id="Mark.14.17"><hi rend="superscript">17</hi> 日暮てイエス十二の弟子と偕に來れり </ab>
+<ab type="verse" n="18" xml:id="Mark.14.18"><hi rend="superscript">18</hi> かれら席に就て食する時イエス曰けるは誠に我なんぢらに告ん我と偕に食する爾曹のうち一人われを賣すべし </ab>
+<ab type="verse" n="19" xml:id="Mark.14.19"><hi rend="superscript">19</hi> 彼等憂て各々イエスに言出けるは我なる乎また他の一人も曰けるは我なる乎 </ab>
+<ab type="verse" n="20" xml:id="Mark.14.20"><hi rend="superscript">20</hi> イエス答て曰けるは十二の中の一人われと共に手を盂に着る者是なり </ab>
+<ab type="verse" n="21" xml:id="Mark.14.21"><hi rend="superscript">21</hi> 人の子は己に就て録されたる如く逝ん然ど人の子を賣す者は禍なる哉その人は生ざりしならば幸なりし爲ん </ab>
+<ab type="verse" n="22" xml:id="Mark.14.22"><hi rend="superscript">22</hi> かれら食する時イエス、パンを取て祝し之を擘かれらに予て曰けるは取て食へ此は我身なり </ab>
+<ab type="verse" n="23" xml:id="Mark.14.23"><hi rend="superscript">23</hi> また杯を取て謝し彼等に予ければ皆この杯より飮り </ab>
+<ab type="verse" n="24" xml:id="Mark.14.24"><hi rend="superscript">24</hi> イエス曰けるは此は新約の我血にして衆の人の爲に流す所のもの也 </ab>
+<ab type="verse" n="25" xml:id="Mark.14.25"><hi rend="superscript">25</hi> 我まことに爾曹に告ん今よりのち新しきものを神の國にて飮ん日までは葡萄にて製るものを飮じ／ </ab>
+<ab type="verse" n="26" xml:id="Mark.14.26"><hi rend="superscript">26</hi> 彼等歌を詠て橄欖山に往り </ab>
+<ab type="verse" n="27" xml:id="Mark.14.27"><hi rend="superscript">27</hi> イエス彼等に曰けるは今夜なんぢら皆われに就て礙かん蓋われ牧者を撃ん其とき綿羊散べしと録されたれば也 </ab>
+<ab type="verse" n="28" xml:id="Mark.14.28"><hi rend="superscript">28</hi> 然ど我よみがへりて後なんぢらに先ちガリラヤに往べし </ab>
+<ab type="verse" n="29" xml:id="Mark.14.29"><hi rend="superscript">29</hi> ペテロ、イエスに曰けるは假令みな礙くとも我は然らず </ab>
+<ab type="verse" n="30" xml:id="Mark.14.30"><hi rend="superscript">30</hi> イエス彼に曰けるは我まことに爾に告ん今日この夜鷄二次鳴まへに爾三次われを知ずと曰ん </ab>
+<ab type="verse" n="31" xml:id="Mark.14.31"><hi rend="superscript">31</hi> 彼また力言いひけるは我は爾と偕に死るとも爾を知ずと曰じ弟子みな如此いへり </ab>
+<ab type="verse" n="32" xml:id="Mark.14.32"><hi rend="superscript">32</hi> 斯て彼等ゲツセマネといふ所に至りイエスその弟子に曰けるは祈る間ここに坐せよ </ab>
+<ab type="verse" n="33" xml:id="Mark.14.33"><hi rend="superscript">33</hi> 遂にペテロ、ヤコブ、ヨハネを伴ひゆき甚しく憂へ哀を催し </ab>
+<ab type="verse" n="34" xml:id="Mark.14.34"><hi rend="superscript">34</hi> 彼等に曰けるは我心いたく憂て〔死｜死る〕ばかりなり爾曹ここに待て目を醒し居 </ab>
+<ab type="verse" n="35" xml:id="Mark.14.35"><hi rend="superscript">35</hi> イエス少し進行て地にふし祈り曰けるは若かなはば此時を去しめ給へ </ab>
+<ab type="verse" n="36" xml:id="Mark.14.36"><hi rend="superscript">36</hi> また曰けるはアバ父よ爾に於ては凡の事能ざるなし此杯を我より取たまへ然ど我が欲ふ所を成んとするに非ず爾が欲ふ所に任せ給へ </ab>
+<ab type="verse" n="37" xml:id="Mark.14.37"><hi rend="superscript">37</hi> イエス來りて彼等の寢たるを見ペテロに曰けるはシモンなんぢ寢たるか一時も目を醒し居こと能ざる乎 </ab>
+<ab type="verse" n="38" xml:id="Mark.14.38"><hi rend="superscript">38</hi> 誘惑に入ぬやう目を醒かつ祈その心神は願なれど肉體よわき也 </ab>
+<ab type="verse" n="39" xml:id="Mark.14.39"><hi rend="superscript">39</hi> 復ゆきて同言を曰て祈れり </ab>
+<ab type="verse" n="40" xml:id="Mark.14.40"><hi rend="superscript">40</hi> 返りて復〔彼｜かれ〕らの寢たるを見る此は彼等その目倦たるなりイエスに何と對ふ可やを知ざりき </ab>
+<ab type="verse" n="41" xml:id="Mark.14.41"><hi rend="superscript">41</hi> 三次きたりて彼等に曰けるは今は寢て安め充分なり時いたれり人の子は罪人の手に賣さるる也 </ab>
+<ab type="verse" n="42" xml:id="Mark.14.42"><hi rend="superscript">42</hi> 起よ我儕ゆくべし我を賣す者近けり／ </ab>
+<ab type="verse" n="43" xml:id="Mark.14.43"><hi rend="superscript">43</hi> 斯いへる時ただちに十二の一人なるユダ刃と棒とを携たる多の人々と共に祭司の長學者及び長老の所より來る </ab>
+<ab type="verse" n="44" xml:id="Mark.14.44"><hi rend="superscript">44</hi> イエスを賣者かれらに號をなして曰けるは我が接吻する者は其なり之を執て愼と曳去よ </ab>
+<ab type="verse" n="45" xml:id="Mark.14.45"><hi rend="superscript">45</hi> 即ち來りてイエスに近よりラビ、ラビと曰て接吻せり </ab>
+<ab type="verse" n="46" xml:id="Mark.14.46"><hi rend="superscript">46</hi> 人々手をイエスに措て執ふ </ab>
+<ab type="verse" n="47" xml:id="Mark.14.47"><hi rend="superscript">47</hi> 傍に立る者の一人刃を拔て祭司の長の僕を撃その耳を削り </ab>
+<ab type="verse" n="48" xml:id="Mark.14.48"><hi rend="superscript">48</hi> イエス答て彼等に曰けるは刃と棒とをもち盜賊を執る如くして我を執に來る乎 </ab>
+<ab type="verse" n="49" xml:id="Mark.14.49"><hi rend="superscript">49</hi> われ日々なんぢらと共に殿にて教しに爾曹われを執ざりき然ど此は聖書に應せんが爲なり </ab>
+<ab type="verse" n="50" xml:id="Mark.14.50"><hi rend="superscript">50</hi> 弟子みなイエスを離て奔去ぬ </ab>
+<ab type="verse" n="51" xml:id="Mark.14.51"><hi rend="superscript">51</hi> 一少者その身にただ麻の夜具を蔽てイエスに從ひたりしが逮捕の者等これを執ければ </ab>
+<ab type="verse" n="52" xml:id="Mark.14.52"><hi rend="superscript">52</hi> かれ麻の夜具をすて裸にて逃去り／ </ab>
+<ab type="verse" n="53" xml:id="Mark.14.53"><hi rend="superscript">53</hi> 衆人イエスを祭司の長に携往けるに祭司の長長老および學者等ことごとく彼の所に集れり </ab>
+<ab type="verse" n="54" xml:id="Mark.14.54"><hi rend="superscript">54</hi> ペテロ遠く離れてイエスに從ひ祭司の長の庭の内まで入僕と共に坐して火に燠まり居り </ab>
+<ab type="verse" n="55" xml:id="Mark.14.55"><hi rend="superscript">55</hi> 祭司の長および議員みなイエスを殺んとして證を求れども得ず </ab>
+<ab type="verse" n="56" xml:id="Mark.14.56"><hi rend="superscript">56</hi> 多の人々イエスに妄の證を言出せども其證あはず </ab>
+<ab type="verse" n="57" xml:id="Mark.14.57"><hi rend="superscript">57</hi> 或人々たちて妄の證を言出しけるは </ab>
+<ab type="verse" n="58" xml:id="Mark.14.58"><hi rend="superscript">58</hi> かれ手を以て作たる此聖殿を毀ち三日の間に手を以て作ざる別の殿を建んと言しを我儕は聞り </ab>
+<ab type="verse" n="59" xml:id="Mark.14.59"><hi rend="superscript">59</hi> 如此いひしが其證また符ず </ab>
+<ab type="verse" n="60" xml:id="Mark.14.60"><hi rend="superscript">60</hi> 祭司の長中に立てイエスに問いひけるは爾答る言なき乎この人々の爾に立る證據は如何 </ab>
+<ab type="verse" n="61" xml:id="Mark.14.61"><hi rend="superscript">61</hi> イエス默然として何も答ざりければ祭司の長また彼に問て曰けるは爾は頌べき者の子キリストなる乎 </ab>
+<ab type="verse" n="62" xml:id="Mark.14.62"><hi rend="superscript">62</hi> イエス曰けるは然り人の子大權の右に坐し天の雲の中に現れ來るを爾曹みるべし </ab>
+<ab type="verse" n="63" xml:id="Mark.14.63"><hi rend="superscript">63</hi> 是に於て祭司の長その衣を裂て曰けるは我儕なんぞ復ほかに證據を求んや </ab>
+<ab type="verse" n="64" xml:id="Mark.14.64"><hi rend="superscript">64</hi> その褻涜たる言は爾曹も聞る所なり爾曹如何に意ふや彼等擧てイエスを死に當るべき者と擬たり </ab>
+<ab type="verse" n="65" xml:id="Mark.14.65"><hi rend="superscript">65</hi> 或者は彼に唾し又その面を掩ひ拳にて撃いひけるは預言せよ亦僕等も手の掌にて彼を批り </ab>
+<ab type="verse" n="66" xml:id="Mark.14.66"><hi rend="superscript">66</hi> ペテロ下庭に在しに祭司の長のある婢きたりて </ab>
+<ab type="verse" n="67" xml:id="Mark.14.67"><hi rend="superscript">67</hi> 其火に燠まり居を見つらつら彼を視て曰けるは爾もナザレのイエスと偕に在し </ab>
+<ab type="verse" n="68" xml:id="Mark.14.68"><hi rend="superscript">68</hi> ペテロ肯はずして曰けるは我これを知ず亦なんぢが言ところの事を識得ざるなり斯て庭門に出ければ鷄鳴ぬ </ab>
+<ab type="verse" n="69" xml:id="Mark.14.69"><hi rend="superscript">69</hi> その婢かれを見て傍に立る者に又いひけるは此人もかの黨の一人なり </ab>
+<ab type="verse" n="70" xml:id="Mark.14.70"><hi rend="superscript">70</hi> ペテロまた肯はず少頃して傍に立る者またペテロに曰けるは爾誠に彼の黨の一人なり蓋爾はガリラヤの人なり其方言これに合り </ab>
+<ab type="verse" n="71" xml:id="Mark.14.71"><hi rend="superscript">71</hi> 是に於てペテロ誓て我神の祟を受るとも爾曹が曰その人を我は識ざる也と曰しが </ab>
+<ab type="verse" n="72" xml:id="Mark.14.72"><hi rend="superscript">72</hi> 此とき鷄二次鳴ければペテロ、イエスの鷄二次なく前に三次我を識ずと曰んと言たまひし事を憶起し且これを思反して哭悲めり</ab>
+</div>
+<div type="chapter" n="15" xml:id="Mark.15">
+<head>第15章</head>
+<ab type="verse" n="1" xml:id="Mark.15.1"><hi rend="superscript">1</hi> 平旦に及び直に祭司の長長老學者たち凡の議員と共に議てイエスを繋り曳携てピラトに解せり </ab>
+<ab type="verse" n="2" xml:id="Mark.15.2"><hi rend="superscript">2</hi> ピラト彼に問けるは爾はユダヤ人の王なるやイエス答けるは爾が言る如し </ab>
+<ab type="verse" n="3" xml:id="Mark.15.3"><hi rend="superscript">3</hi> 祭司の長多端をもて彼を訟ふ </ab>
+<ab type="verse" n="4" xml:id="Mark.15.4"><hi rend="superscript">4</hi> ピラト復イエスに問て曰けるは何も答ざるか彼等が爾について證を立しこと幾何かりぞ乎 </ab>
+<ab type="verse" n="5" xml:id="Mark.15.5"><hi rend="superscript">5</hi> ピラトの奇と爲までにイエス何をも答ざりき </ab>
+<ab type="verse" n="6" xml:id="Mark.15.6"><hi rend="superscript">6</hi> 偖この節筵には彼等が求に任せて一人の囚人を赦すの例なり </ab>
+<ab type="verse" n="7" xml:id="Mark.15.7"><hi rend="superscript">7</hi> 時にバラバと云る者あり己と共に謀反せし黨と同く繋れ居たりしが彼等はその謀反のとき人を殺しし者等なり </ab>
+<ab type="verse" n="8" xml:id="Mark.15.8"><hi rend="superscript">8</hi> 人々聲を揚て呼り恆例の如せん事を求り </ab>
+<ab type="verse" n="9" xml:id="Mark.15.9"><hi rend="superscript">9</hi> ピラト彼等に答て曰けるはユダヤ人の王を爾曹に我が釋さん事を欲むや </ab>
+<ab type="verse" n="10" xml:id="Mark.15.10"><hi rend="superscript">10</hi> 是ピラト祭司の長等の嫉に因てイエスを解したりと知ばなり </ab>
+<ab type="verse" n="11" xml:id="Mark.15.11"><hi rend="superscript">11</hi> 祭司の長民どもにバラバを釋さん事を求と唆む </ab>
+<ab type="verse" n="12" xml:id="Mark.15.12"><hi rend="superscript">12</hi> ピラトまた答て彼等に曰けるは然ばユダヤ人の王と爾曹が稱る者には何を我が處ん事をなんぢら欲むや </ab>
+<ab type="verse" n="13" xml:id="Mark.15.13"><hi rend="superscript">13</hi> 彼等また叫びて之を十字架に釘よと曰 </ab>
+<ab type="verse" n="14" xml:id="Mark.15.14"><hi rend="superscript">14</hi> ピラト彼等に曰けるは彼なんの惡事を行しや彼等ますます叫びて之を十字架に釘よと曰 </ab>
+<ab type="verse" n="15" xml:id="Mark.15.15"><hi rend="superscript">15</hi> ピラト民の懽びを取んとしてバラバを彼等に釋しイエスを鞭ちて之を十字架に釘ん爲に付せり </ab>
+<ab type="verse" n="16" xml:id="Mark.15.16"><hi rend="superscript">16</hi> 兵卒等これを公廳に携ゆき全營を呼集め </ab>
+<ab type="verse" n="17" xml:id="Mark.15.17"><hi rend="superscript">17</hi> 彼に紫の袍をきせ棘にて冕を編て冠しめたり </ab>
+<ab type="verse" n="18" xml:id="Mark.15.18"><hi rend="superscript">18</hi> 斯て曰けるはユダヤ人の王安かれ </ab>
+<ab type="verse" n="19" xml:id="Mark.15.19"><hi rend="superscript">19</hi> また葦を以て其首を撃かつ唾し跪きて拜しぬ </ab>
+<ab type="verse" n="20" xml:id="Mark.15.20"><hi rend="superscript">20</hi> 嘲弄し畢て紫の衣をはぎ故の衣をきせて十字架に釘んとて曳往しが </ab>
+<ab type="verse" n="21" xml:id="Mark.15.21"><hi rend="superscript">21</hi> アレキサンデルとルフの父なるクレネのシモンと云るもの田間より來りて其處を經過りければ強て之にイエスの十字架を負せたり </ab>
+<ab type="verse" n="22" xml:id="Mark.15.22"><hi rend="superscript">22</hi> イエスをゴルゴダ譯ば即ち髑髏と云る所に携來り </ab>
+<ab type="verse" n="23" xml:id="Mark.15.23"><hi rend="superscript">23</hi> 沒藥を酒に和て飮せんと爲りしに之を受ざりき </ab>
+<ab type="verse" n="24" xml:id="Mark.15.24"><hi rend="superscript">24</hi> イエスを十字架に釘しのち誰が何を取んと鬮を拈てその衣服を分てり </ab>
+<ab type="verse" n="25" xml:id="Mark.15.25"><hi rend="superscript">25</hi> 朝の第九時にイエスを十字架に釘 </ab>
+<ab type="verse" n="26" xml:id="Mark.15.26"><hi rend="superscript">26</hi> その罪標をユダヤ人の王と書つく </ab>
+<ab type="verse" n="27" xml:id="Mark.15.27"><hi rend="superscript">27</hi> 二人の盜賊かれと共に一人は其右一人は其左に十字架に釘らる </ab>
+<ab type="verse" n="28" xml:id="Mark.15.28"><hi rend="superscript">28</hi> これ聖書に彼は罪人と共に算られたりと云しに應り </ab>
+<ab type="verse" n="29" xml:id="Mark.15.29"><hi rend="superscript">29</hi> 往來の者イエスを詬り首を搖て曰けるは噫聖殿を毀て之を三日に建る者よ </ab>
+<ab type="verse" n="30" xml:id="Mark.15.30"><hi rend="superscript">30</hi> 自己を救て十字架を下よ </ab>
+<ab type="verse" n="31" xml:id="Mark.15.31"><hi rend="superscript">31</hi> 祭司の長學者等も同く嘲弄して互に曰けるは人を救て自己を救ひ能ず </ab>
+<ab type="verse" n="32" xml:id="Mark.15.32"><hi rend="superscript">32</hi> イスラエルの王キリストは今十字架より下るべし然ば我儕見て之を信ぜん又ともに十字架に釘られたる者等も彼を詬れり </ab>
+<ab type="verse" n="33" xml:id="Mark.15.33"><hi rend="superscript">33</hi> 第十二時より三時に至るまで徧く地のうへ暗なりぬ </ab>
+<ab type="verse" n="34" xml:id="Mark.15.34"><hi rend="superscript">34</hi> 第三時にイエス大聲に呼りエリ、エリ、ラマサバクタニと曰これを譯ば吾神わが神何ぞ我を遺たまふ乎と云るなり </ab>
+<ab type="verse" n="35" xml:id="Mark.15.35"><hi rend="superscript">35</hi> 傍らに立たる者のうち或人これを聞て彼はエリヤを呼なりと曰 </ab>
+<ab type="verse" n="36" xml:id="Mark.15.36"><hi rend="superscript">36</hi> 一人はしり往て海絨をとり醋を漬せ之を葦に束て彼に飮しめ曰けるは俟エリヤ來りて彼を救ふや否こころむべし／ </ab>
+<ab type="verse" n="37" xml:id="Mark.15.37"><hi rend="superscript">37</hi> イエス大なる聲を發て氣絶 </ab>
+<ab type="verse" n="38" xml:id="Mark.15.38"><hi rend="superscript">38</hi> 殿の幔上より下まで裂て二と爲り </ab>
+<ab type="verse" n="39" xml:id="Mark.15.39"><hi rend="superscript">39</hi> イエスに對て立たる百夫の長かく呼り氣絶しを見て曰けるは誠に此人は神の子なり／ </ab>
+<ab type="verse" n="40" xml:id="Mark.15.40"><hi rend="superscript">40</hi> また遙に望ゐたる婦ありし其中に在し者はマグダラのマリアおよび年少ヤコブとヨセの母なるマリア又サロメなり </ab>
+<ab type="verse" n="41" xml:id="Mark.15.41"><hi rend="superscript">41</hi> 彼等はイエスのガリラヤに居たまひし時これに從ひ事し者等なり亦この他にも彼と共にエルサレムに上りし多の婦ゐたりき／ </ab>
+<ab type="verse" n="42" xml:id="Mark.15.42"><hi rend="superscript">42</hi> 是日は備節日にて安息日の前の日なりし故 </ab>
+<ab type="verse" n="43" xml:id="Mark.15.43"><hi rend="superscript">43</hi> 日暮るとき尊き議員なるアリマタヤのヨセフと云る者きたれり此人は神の國を慕る者なり彼はばからずピラトに往てイエスの屍を求たり </ab>
+<ab type="verse" n="44" xml:id="Mark.15.44"><hi rend="superscript">44</hi> ピラト、イエスの已に死るを奇み百人の長を呼て彼は死てより時を經たるや否やを問 </ab>
+<ab type="verse" n="45" xml:id="Mark.15.45"><hi rend="superscript">45</hi> 百夫の長より聞て之をしり屍をヨセフに予ふ </ab>
+<ab type="verse" n="46" xml:id="Mark.15.46"><hi rend="superscript">46</hi> ヨセフ枲布を買求め而してイエスを取下し之をその枲布にて裹み磐に鑿たる墓におき石を墓の門に轉し置り </ab>
+<ab type="verse" n="47" xml:id="Mark.15.47"><hi rend="superscript">47</hi> マグダラのマリア及ヨセの母なるマリア其屍を葬し處を見たり</ab>
+</div>
+<div type="chapter" n="16" xml:id="Mark.16">
+<head>第16章</head>
+<ab type="verse" n="1" xml:id="Mark.16.1"><hi rend="superscript">1</hi> 安息日過てマグダラのマリアとヤコブの母なるマリア及サロメ香料を買ととのへイエスに抹んとて來れり </ab>
+<ab type="verse" n="2" xml:id="Mark.16.2"><hi rend="superscript">2</hi> 七日の首の日いと早く日の出る時〔彼｜かれ〕ら墓に來り </ab>
+<ab type="verse" n="3" xml:id="Mark.16.3"><hi rend="superscript">3</hi> 互に曰けるは誰か我儕の爲に石を墓の門より轉し取もの有んか是その石はなはだ巨大なれば也 </ab>
+<ab type="verse" n="4" xml:id="Mark.16.4"><hi rend="superscript">4</hi> 斯て彼等目を擧れば石の已に轉あるを見る </ab>
+<ab type="verse" n="5" xml:id="Mark.16.5"><hi rend="superscript">5</hi> 墓に入りしに白衣をきたる少者の右の方に坐せるを見て駭き異めり </ab>
+<ab type="verse" n="6" xml:id="Mark.16.6"><hi rend="superscript">6</hi> 少者かれらに曰けるは駭き異む勿れ爾曹は十字架に釘られしナザレのイエスを尋ぬ彼は甦りて此に居ず彼を葬し處を見よ </ab>
+<ab type="verse" n="7" xml:id="Mark.16.7"><hi rend="superscript">7</hi> 且ゆきて其弟子とペテロに告よ彼は爾曹に先ちてガリラヤに往り爾曹かしこにて彼を見べし即ち其なんぢらに言しが如し </ab>
+<ab type="verse" n="8" xml:id="Mark.16.8"><hi rend="superscript">8</hi> 彼等いでて墓より奔れり且戰慄かつ駭き亦一言をも人に語ざりき是懼しが故なり／ </ab>
+<ab type="verse" n="9" xml:id="Mark.16.9"><hi rend="superscript">9</hi> イエス七日の首の日よあけごろ甦りて先マグダラのマリアに現る曩にイエス彼より七の惡鬼を逐出せり </ab>
+<ab type="verse" n="10" xml:id="Mark.16.10"><hi rend="superscript">10</hi> イエスと共に在し者の哭哀める時に此婦きたりて是等の事を告 </ab>
+<ab type="verse" n="11" xml:id="Mark.16.11"><hi rend="superscript">11</hi> 彼等イエスの活て此の婦に見え給ひしことを聞しが信ぜざりき </ab>
+<ab type="verse" n="12" xml:id="Mark.16.12"><hi rend="superscript">12</hi> 此後かれらの中二人の者郷村へ往けるが路を行ときイエス變たる貌にて彼等に現る </ab>
+<ab type="verse" n="13" xml:id="Mark.16.13"><hi rend="superscript">13</hi> この二人の者ゆきて他の弟子等に告けれども亦これを信ぜざりき／ </ab>
+<ab type="verse" n="14" xml:id="Mark.16.14"><hi rend="superscript">14</hi> 又その後十一の弟子の食しをる時に現れて彼等が信なきと其心の頑とを責め給へり是かれらイエスの甦り給るのち其を見し者の言ところを信ぜざりし故なり </ab>
+<ab type="verse" n="15" xml:id="Mark.16.15"><hi rend="superscript">15</hi> イエス彼等に曰けるは徧く世界を廻て凡の人に福音を宣傳よ </ab>
+<ab type="verse" n="16" xml:id="Mark.16.16"><hi rend="superscript">16</hi> 信じてバプテスマを受る者は救れ信ぜざる者は罪に定らるる也 </ab>
+<ab type="verse" n="17" xml:id="Mark.16.17"><hi rend="superscript">17</hi> 信ずる者には左の如き奇跡したがふべし我名に託て惡鬼を逐出し異邦の方言をいひ </ab>
+<ab type="verse" n="18" xml:id="Mark.16.18"><hi rend="superscript">18</hi> また蛇を操へ毒を飮とも害なく又手を病の者に按なば即ち愈ん／ </ab>
+<ab type="verse" n="19" xml:id="Mark.16.19"><hi rend="superscript">19</hi> 斯て主は彼等に語しのち天に擧られ神の右に坐しぬ </ab>
+<ab type="verse" n="20" xml:id="Mark.16.20"><hi rend="superscript">20</hi> 弟子たち徧く福音を宣傳ふ主も亦かれらに力を協せ其從ふ所の奇跡によりて道を堅うしたまへりアメン</ab>
+ </div>
+ </div>
+    </body>
+  </text>
+</TEI>

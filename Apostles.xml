@@ -1,0 +1,1131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>使徒行傳 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>使徒行傳 (Acts of the Apostles)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="使徒行傳" xml:id="使徒行傳">
+        <head>使徒行傳</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> 〔テヲピロ｜テヨピロ〕よ我すでに前書を作て凡そイエスの始て行へるところ教し所を録し</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> 其選たる使徒等に聖靈に託て命ぜしのち擧られし時にまで至れり</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> 夫イエスは苦難を受し後おほくの確據なる證を以て己の活たる事を現し四十日の間かれらに見え神の國の事に就て語り</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> また彼等と偕に集り居て命じけるは爾曹エルサレムを離ずして我に聞る所の父の約束し給ひし事を待べし</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> 蓋ヨハネは水を以てバプテスマを施たれども爾曹は久からずして聖靈によりバプテスマを受べければ也</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> 集れる者かれに問けるは主よ爾いま國をイスラエルに還さんと爲か</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> 彼等に曰けるは父の其權にて定たまへる時また期は爾曹が知べき所に非ず</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> 然ども聖靈なんぢらに臨に因て後爾曹能力を受エルサレム、ユダヤ全國サマリアおよび地の極にまで我が證人と爲べし</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> 此事を言畢しのち彼等の見が間に擧らる雲これを接て見ざらしめたり</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> イエスの昇れる時かれら天を仰ぎ視たりしに白衣を着たる二人の人ありて旁に立</ab>
+<ab type="verse" n="11" xml:id="Acts.1.11"><hi rend="superscript">11</hi> 曰けるはガリラヤ人よ何故に天を仰て立るや爾曹を離て天に擧られし此イエスは爾曹が彼の天に昇るを見たる其如く亦きたらん／</ab>
+<ab type="verse" n="12" xml:id="Acts.1.12"><hi rend="superscript">12</hi> 其時かれら橄欖と名る山よりエルサレムに歸る此山はエルサレムに近く約そ安息日に行うる程なり</ab>
+<ab type="verse" n="13" xml:id="Acts.1.13"><hi rend="superscript">13</hi> 已に入て樓に登れり此に留れる者はペテロ、ヤコブ、ヨハネ、アンデレ、ピリポ、トマス、バルトロマイ、マタイ、アルパｲの子ヤコブ、ゼロテと云るシモン、ヤコブの兄弟なるユダなり</ab>
+<ab type="verse" n="14" xml:id="Acts.1.14"><hi rend="superscript">14</hi> 凡此人々は婦等及びイエスの母マリア並イエスの兄弟と偕に心を合せて恒に祈禱を務たり／</ab>
+<ab type="verse" n="15" xml:id="Acts.1.15"><hi rend="superscript">15</hi> 當時ペテロ弟子等（其集れる者おほよそ百二十人なり）の中に立て曰けるは</ab>
+<ab type="verse" n="16" xml:id="Acts.1.16"><hi rend="superscript">16</hi> 人々兄弟よ聖靈ダビデの口によりてイエスを捕る者を導けるユダに就て預じめ語たる此聖書は必ず應ずべかりし也</ab>
+<ab type="verse" n="17" xml:id="Acts.1.17"><hi rend="superscript">17</hi> 蓋彼も我儕と共に列りて此職を任たれば也</ab>
+<ab type="verse" n="18" xml:id="Acts.1.18"><hi rend="superscript">18</hi> 斯人は不義の價をもて地所を買また倒に墮て眞中より裂れ其腸ことごとく流れ出たり</ab>
+<ab type="verse" n="19" xml:id="Acts.1.19"><hi rend="superscript">19</hi> 此事エルサレムに住る凡の人に知しかば其地所を方言にてアケルダマと呼これを譯ば血の地所なり</ab>
+<ab type="verse" n="20" xml:id="Acts.1.20"><hi rend="superscript">20</hi> 詩の篇に録して彼の家は墟くなれ其中に人を住居する勿れ彼の職は他人に得させよと云り</ab>
+<ab type="verse" n="21" xml:id="Acts.1.21"><hi rend="superscript">21</hi> 是故に主イエスの我儕が中に往來し給たる間</ab>
+<ab type="verse" n="22" xml:id="Acts.1.22"><hi rend="superscript">22</hi> 即ちヨハネのバプテスマより始われらを離て擧られし日に至るまで常に我儕と偕に在し者の中一人われらと共に其甦りし事の證人と爲べき也</ab>
+<ab type="verse" n="23" xml:id="Acts.1.23"><hi rend="superscript">23</hi> 是に於てバルサバと稱るヨセフ又の名はユストと云る者とマツテアとの二人を擧て</ab>
+<ab type="verse" n="24" xml:id="Acts.1.24"><hi rend="superscript">24</hi> 祈いひけるは衆人の心を識たまふ主よ願はくは奉事ことと使徒の職を得させんが爲に此二人のうち孰を選たまひしか示し給へ</ab>
+<ab type="verse" n="25" xml:id="Acts.1.25"><hi rend="superscript">25</hi> 既にユダは此職を離て其往べき所に往たり</ab>
+<ab type="verse" n="26" xml:id="Acts.1.26"><hi rend="superscript">26</hi> 斯て鬮を取しにマツテアに當ければ彼十一人の使徒等と共に列れり</ab>
+<div type="chapter" n="2">
+</div>
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="Acts.2.1"><hi rend="superscript">1</hi> ペンテコステの日に至て弟子等みな心を合せて一處に在しに</ab>
+<ab type="verse" n="2" xml:id="Acts.2.2"><hi rend="superscript">2</hi> 俄に天より迅風の如き響ありて彼等が坐する所の室に充り</ab>
+<ab type="verse" n="3" xml:id="Acts.2.3"><hi rend="superscript">3</hi> 焰の如もの現れ岐て彼等各人の上に止る</ab>
+<ab type="verse" n="4" xml:id="Acts.2.4"><hi rend="superscript">4</hi> 是に於て彼等はみな聖靈に滿され其聖靈の言しむるに隨ひて異なる諸國の方言を言はじめたり</ab>
+<ab type="verse" n="5" xml:id="Acts.2.5"><hi rend="superscript">5</hi> 時に敬虔あるユダヤ人天下の諸國より來てエルサレムに留れる者ありき</ab>
+<ab type="verse" n="6" xml:id="Acts.2.6"><hi rend="superscript">6</hi> 此〔音｜音〕おこりしに因おほくの人々集りけるが各人おのが方言を彼等の語れるを聞て躁あへり</ab>
+<ab type="verse" n="7" xml:id="Acts.2.7"><hi rend="superscript">7</hi> みな駭き異みつつ互に曰けるは視よ此語る者は凡てガリラヤ人ならず乎</ab>
+<ab type="verse" n="8" xml:id="Acts.2.8"><hi rend="superscript">8</hi> 如何して我儕おのおの生れし所の方言を彼等より聞か</ab>
+<ab type="verse" n="9" xml:id="Acts.2.9"><hi rend="superscript">9</hi> 我儕はパルテア人ひとメデア人エラム人およびメソポタミア、ユダヤ、カパドキア、ポント、アジア</ab>
+<ab type="verse" n="10" xml:id="Acts.2.10"><hi rend="superscript">10</hi> フルギア、パムフリア、エジプト又クレネに近きリブエの地などに住る者〔又｜また〕ロマより來て居もの或はユダヤ人及び其教に入し人</ab>
+<ab type="verse" n="11" xml:id="Acts.2.11"><hi rend="superscript">11</hi> 又クレテ人アラビヤ人なるに彼等が我儕の方言をもて神の大なる用を語るを聞かと</ab>
+<ab type="verse" n="12" xml:id="Acts.2.12"><hi rend="superscript">12</hi> 皆おどろき訝て互に曰けるは此は何なる故ぞや</ab>
+<ab type="verse" n="13" xml:id="Acts.2.13"><hi rend="superscript">13</hi> 或は嘲りて此人々は甘き葡萄酒に滿されたる者なりといふ人あり</ab>
+<ab type="verse" n="14" xml:id="Acts.2.14"><hi rend="superscript">14</hi> 是に於てペテロ十一人と偕にたち聲を揚て彼等に對いひけるはユダヤ人および凡てエルサレムに住る者よ爾曹よく我言を聞て之を知</ab>
+<ab type="verse" n="15" xml:id="Acts.2.15"><hi rend="superscript">15</hi> 今は晝の九時なれば爾曹の逆料ごとく此人々は醉る者に非ず</ab>
+<ab type="verse" n="16" xml:id="Acts.2.16"><hi rend="superscript">16</hi> これ即ち〔預言者｜預言者〕ヨエルに因て語れる所なり</ab>
+<ab type="verse" n="17" xml:id="Acts.2.17"><hi rend="superscript">17</hi> 神いひ給く末の世に至て我わが靈をもて凡の人に注ん爾曹の子女も預言すべし又なんぢらの幼者は異象をみ老者は夢を見べし</ab>
+<ab type="verse" n="18" xml:id="Acts.2.18"><hi rend="superscript">18</hi> 其とき我わが靈を我僕なる男女に注ん彼等も亦預言すべし</ab>
+<ab type="verse" n="19" xml:id="Acts.2.19"><hi rend="superscript">19</hi> われ上なる天に奇跡を現し下なる地に休徴を示さん即ち血あり火あり烟あるべし</ab>
+<ab type="verse" n="20" xml:id="Acts.2.20"><hi rend="superscript">20</hi> 主の大なる顯赫日の來ん前に日は暗く月は血に變ん</ab>
+<ab type="verse" n="21" xml:id="Acts.2.21"><hi rend="superscript">21</hi> 凡て主の名を呼頼む者は救るべし</ab>
+<ab type="verse" n="22" xml:id="Acts.2.22"><hi rend="superscript">22</hi> イスラエルの人々よ此等の言を聽それナザレのイエスは爾曹の知ごとく神かれに託て爾曹の中に行し妙なる能力と奇跡と休徴とを以て爾曹に證し給る所の人なり</ab>
+<ab type="verse" n="23" xml:id="Acts.2.23"><hi rend="superscript">23</hi> 此人は即ち神の定し旨と預め知たまふ所に應て解さる爾曹は無法の手をもて之を捕へ十字架に釘て殺せり</ab>
+<ab type="verse" n="24" xml:id="Acts.2.24"><hi rend="superscript">24</hi> 神は其死の苦を釋て之を甦らせ給へり彼は死に繋れ在べき者ならざれば也</ab>
+<ab type="verse" n="25" xml:id="Acts.2.25"><hi rend="superscript">25</hi> 蓋ダビデ彼に就て曰けるは我わが前に主の常に在を見るその我右に在は我動されざる爲なり</ab>
+<ab type="verse" n="26" xml:id="Acts.2.26"><hi rend="superscript">26</hi> 是故に我心は樂み我舌は喜べり且わが肉體は望に居ん</ab>
+<ab type="verse" n="27" xml:id="Acts.2.27"><hi rend="superscript">27</hi> これ爾は我魂を陰府に遺おかず又なんぢの聖者を朽果しめざるが故なり</ab>
+<ab type="verse" n="28" xml:id="Acts.2.28"><hi rend="superscript">28</hi> 爾すでに我に生命の路を示す我を爾の前に置て喜に盈しめんと</ab>
+<ab type="verse" n="29" xml:id="Acts.2.29"><hi rend="superscript">29</hi> 人々兄弟よ我始祖ダビデに就て憚る所なく爾曹に語る是當然ことなり彼は既に死て葬られ其墓は今日に至るまで我儕の中にあり</ab>
+<ab type="verse" n="30" xml:id="Acts.2.30"><hi rend="superscript">30</hi> 彼は〔預言者｜預言者〕にして神これに誓を立て其血統の中より一人を擧て位に即しめんと矢たまへるを知</ab>
+<ab type="verse" n="31" xml:id="Acts.2.31"><hi rend="superscript">31</hi> 預め此事を曉るが故にキリストの甦る事につき語て彼は陰府に遺おかれず亦その肉體も朽果ずと曰るなり</ab>
+<ab type="verse" n="32" xml:id="Acts.2.32"><hi rend="superscript">32</hi> 既に神はイエスを甦らせ給へり我儕は皆その證人なり</ab>
+<ab type="verse" n="33" xml:id="Acts.2.33"><hi rend="superscript">33</hi> 是故に彼は既に神の右に擧られ約束の聖靈を父より受て今なんぢらが見ところ聞ところの者を注り</ab>
+<ab type="verse" n="34" xml:id="Acts.2.34"><hi rend="superscript">34</hi> [34-35]夫ダビデは天に昇しことなし然るに彼みづから言主わが主に曰けるは我なんぢの敵を爾の足凳と爲まで我右に座すべしと</ab>
+<ab type="verse" n="35" xml:id="Acts.2.35"><hi rend="superscript">35</hi> *[34-35]夫ダビデは天に昇しことなし然るに彼みづから言主わが主に曰けるは我なんぢの敵を爾の足凳と爲まで我右に座すべしと</ab>
+<ab type="verse" n="36" xml:id="Acts.2.36"><hi rend="superscript">36</hi> 然ば凡てイスラエルの全家よ爾曹が十字架に釘し此イエスを立て神これを主となしキリストとなし給しことを確に知</ab>
+<ab type="verse" n="37" xml:id="Acts.2.37"><hi rend="superscript">37</hi> 彼等これを聞て其心刺るるが如し是に於てペテロと他の使徒等に問けるは人々兄弟よ我儕は何を爲べき乎</ab>
+<ab type="verse" n="38" xml:id="Acts.2.38"><hi rend="superscript">38</hi> ペテロ彼等に曰けるは爾曹おのおの悔改めて罪の教を得んが爲にイエス・キリストの名に託てバプテスマを受よ然ば爾曹も聖靈の賜を受べし</ab>
+<ab type="verse" n="39" xml:id="Acts.2.39"><hi rend="superscript">39</hi> この約束は爾曹および爾曹の子孫また凡の遠人すなはち主たる我儕の神に召るる人々に屬なり</ab>
+<ab type="verse" n="40" xml:id="Acts.2.40"><hi rend="superscript">40</hi> また多言をもて證して勸けるは爾曹この邪なる世より救出されよ</ab>
+<ab type="verse" n="41" xml:id="Acts.2.41"><hi rend="superscript">41</hi> 其時この言を聞納し者はバプテスマを受たり是日弟子に加れる者おほよそ三千人</ab>
+<ab type="verse" n="42" xml:id="Acts.2.42"><hi rend="superscript">42</hi> 彼等は常に使徒等の教訓をうけ交接をなしパンを擘ことと祈禱とを務む</ab>
+<ab type="verse" n="43" xml:id="Acts.2.43"><hi rend="superscript">43</hi> 是に於て敬畏人々の心に生ず又使徒等に託て許多の奇跡を休徴おこなはれたり</ab>
+<ab type="verse" n="44" xml:id="Acts.2.44"><hi rend="superscript">44</hi> 信者はみな一處に會て諸物を共にし</ab>
+<ab type="verse" n="45" xml:id="Acts.2.45"><hi rend="superscript">45</hi> 産業と其所有を鬻て各人の用に從ひ之を分與へぬ</ab>
+<ab type="verse" n="46" xml:id="Acts.2.46"><hi rend="superscript">46</hi> 日々心を合せて殿に在また家に於てパンをさき歡喜と誠心をもて食を同にし</ab>
+<ab type="verse" n="47" xml:id="Acts.2.47"><hi rend="superscript">47</hi> 神を讚美すべての民に悦ばる主すくはるる者を日々教會に加たまへり</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="Acts.3.1"><hi rend="superscript">1</hi> 第三時祈禱の時に當てペテロとヨハネ共に殿に上しに</ab>
+<ab type="verse" n="2" xml:id="Acts.3.2"><hi rend="superscript">2</hi> 一人の生來なる跛あり殿にいる人に施濟を求ん爲に日ごと負れて殿の美と名る門に置る</ab>
+<ab type="verse" n="3" xml:id="Acts.3.3"><hi rend="superscript">3</hi> 彼ペテロとヨハネの殿に入んとするを見て施濟を求り</ab>
+<ab type="verse" n="4" xml:id="Acts.3.4"><hi rend="superscript">4</hi> ペテロ、ヨハネと共に熟々之を視て曰けるは我儕を觀よ</ab>
+<ab type="verse" n="5" xml:id="Acts.3.5"><hi rend="superscript">5</hi> かれ得こと有んと意ひて彼等を見つめたり</ab>
+<ab type="verse" n="6" xml:id="Acts.3.6"><hi rend="superscript">6</hi> ペテロ曰けるは金銀は我になし惟われに有ものを爾に予ふナザレのイエス、キリストの名により起て行め</ab>
+<ab type="verse" n="7" xml:id="Acts.3.7"><hi rend="superscript">7</hi> 遂に其右の手を執これを起ければ其足と踝ただちに健勁なりて</ab>
+<ab type="verse" n="8" xml:id="Acts.3.8"><hi rend="superscript">8</hi> 躍立かつ行めり踊あゆみ神を讚美つつ彼等と偕に殿に入ぬ</ab>
+<ab type="verse" n="9" xml:id="Acts.3.9"><hi rend="superscript">9</hi> 衆民かれの行み神を讚るを見て</ab>
+<ab type="verse" n="10" xml:id="Acts.3.10"><hi rend="superscript">10</hi> 素その殿の美門に坐し施濟を求たりし者なるを識この人に所遇ことを大に駭き奇めり</ab>
+<ab type="verse" n="11" xml:id="Acts.3.11"><hi rend="superscript">11</hi> その跛者ペテロとヨハネにすがり居し間に民みな駭こと甚しくソロモンの廊と名る所に趨集れり</ab>
+<ab type="verse" n="12" xml:id="Acts.3.12"><hi rend="superscript">12</hi> ペテロ之を見て民に答けるはイスラエルの人々よ何故に此事を奇とするや我儕が自己の能と徳をもて此人を行ししが如く何ぞ我儕に目を注るや</ab>
+<ab type="verse" n="13" xml:id="Acts.3.13"><hi rend="superscript">13</hi> 夫アブラハム、イサク、ヤコブの神わが先祖たちの神は其僕イエス即ち爾曹が解しし者ピラトが釋すことを擬たる時その前に爾曹が拒し所の者を榮〔給｜たま〕へり</ab>
+<ab type="verse" n="14" xml:id="Acts.3.14"><hi rend="superscript">14</hi> 爾曹は聖者義者を拒み人を殺しし者を己に予られん事を求</ab>
+<ab type="verse" n="15" xml:id="Acts.3.15"><hi rend="superscript">15</hi> かつ生命の主を殺せり神は之を死より甦らせ我儕は其證人なる也</ab>
+<ab type="verse" n="16" xml:id="Acts.3.16"><hi rend="superscript">16</hi> イエスの名は其名を信ずるに由て爾曹が見ところ識ところの此人を健勁せり如此イエスに由る信仰は爾曹すべての人の前に於て此人を全く愈たり</ab>
+<ab type="verse" n="17" xml:id="Acts.3.17"><hi rend="superscript">17</hi> 兄弟よ我は知なんぢらが行し事は知ざるに由てなり爾曹の有司等も亦然り</ab>
+<ab type="verse" n="18" xml:id="Acts.3.18"><hi rend="superscript">18</hi> 然ども神は凡の〔預言者｜預言者〕の口に託てキリストの苦を受ることを預め示し其言を如此かなはせ給へり</ab>
+<ab type="verse" n="19" xml:id="Acts.3.19"><hi rend="superscript">19</hi> 是故に爾曹罪をくい心を改て其罪を抹るることを爲よ蓋主の前より安舒日の來り</ab>
+<ab type="verse" n="20" xml:id="Acts.3.20"><hi rend="superscript">20</hi> 且あらかじめ擬たまひしイエス・キリストを遺れんが爲なり</ab>
+<ab type="verse" n="21" xml:id="Acts.3.21"><hi rend="superscript">21</hi> 神の古より聖〔預言者｜預言者〕の口に託て言たまひし萬物の復興ん時まで天は必ず彼を受おくべし</ab>
+<ab type="verse" n="22" xml:id="Acts.3.22"><hi rend="superscript">22</hi> モーセ我儕の先祖たちに告て曰けるは主なる爾曹の神は爾曹の兄弟の中より我に似たる一人の〔預言者｜預言者〕を起さん其爾曹に告る凡の言を聽べし</ab>
+<ab type="verse" n="23" xml:id="Acts.3.23"><hi rend="superscript">23</hi> 凡て此〔預言者｜預言者〕に聽從はざる者は民の中より取滅さる</ab>
+<ab type="verse" n="24" xml:id="Acts.3.24"><hi rend="superscript">24</hi> 又サムエルより以來かたりし所の〔預言者｜預言者〕も皆あらかじめ此日を指て言り</ab>
+<ab type="verse" n="25" xml:id="Acts.3.25"><hi rend="superscript">25</hi> 夫〔爾曹｜なんぢら〕は〔預言者｜預言者〕の子孫なり且神の我儕が先祖たちに立たまひし契約を承繼ものなり即ちアブラハムに告て地の諸族は爾の裔に由て福を獲んと曰〔給｜たま〕へり</ab>
+<ab type="verse" n="26" xml:id="Acts.3.26"><hi rend="superscript">26</hi> 神すでに其僕イエスを立なんぢら各人を其惡より引反し福を獲させんが爲に先なんぢらに彼を遣せり</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="Acts.4.1"><hi rend="superscript">1</hi> 彼等が民を教え且イエスの事をひき死より復生の事を宣るにより</ab>
+<ab type="verse" n="2" xml:id="Acts.4.2"><hi rend="superscript">2</hi> 祭司殿司およびサドカイの人たち心を惱し其民に語れるとき突然きたりて</ab>
+<ab type="verse" n="3" xml:id="Acts.4.3"><hi rend="superscript">3</hi> 親手これを執ふ時すでに暮ければ明日まで獄に囚おけり</ab>
+<ab type="verse" n="4" xml:id="Acts.4.4"><hi rend="superscript">4</hi> 然ど其道を聽し者は多これを信ず其數おほよそ五千人なり</ab>
+<ab type="verse" n="5" xml:id="Acts.4.5"><hi rend="superscript">5</hi> 明日有司たち長老學者</ab>
+<ab type="verse" n="6" xml:id="Acts.4.6"><hi rend="superscript">6</hi> 及び祭司の長アンナ並カヤパ、ヨハネ、アレキサンデルと祭司の長の凡の族エルサレムに集り</ab>
+<ab type="verse" n="7" xml:id="Acts.4.7"><hi rend="superscript">7</hi> 使徒等と其中に立せて問けるは爾曹何の權また何の名に由て之を行ひしや</ab>
+<ab type="verse" n="8" xml:id="Acts.4.8"><hi rend="superscript">8</hi> 其時ペテロ聖靈に滿され彼等に曰けるは民の有司及びイスラエルの長老よ</ab>
+<ab type="verse" n="9" xml:id="Acts.4.9"><hi rend="superscript">9</hi> 我儕もし病たる人に行ひし善事につき之を如何して愈ししと今日訊れなば</ab>
+<ab type="verse" n="10" xml:id="Acts.4.10"><hi rend="superscript">10</hi> 爾曹とイスラエルの民もみな知べし其なんぢらが十字架に釘しところ神の甦らせ給し所のナザレのイエス・キリストの名に由て此人健勁なることを得なんぢらの前に立たりと</ab>
+<ab type="verse" n="11" xml:id="Acts.4.11"><hi rend="superscript">11</hi> これ即ち爾曹工匠の棄し所の石屋の隅の首石となれる者なり</ab>
+<ab type="verse" n="12" xml:id="Acts.4.12"><hi rend="superscript">12</hi> 此ほか別に救ある事なし蓋天下の人の中に我儕の依頼て救るべき他の石を賜はざれば也</ab>
+<ab type="verse" n="13" xml:id="Acts.4.13"><hi rend="superscript">13</hi> 彼等ペテロとヨハネの忌憚る所なきを見て其無學の小民なるを識ば之を奇みたり又そのイエスと偕に在しを知</ab>
+<ab type="verse" n="14" xml:id="Acts.4.14"><hi rend="superscript">14</hi> かつ愈されたる人の彼等と偕に立るを見により駁すべき言なかりき</ab>
+<ab type="verse" n="15" xml:id="Acts.4.15"><hi rend="superscript">15</hi> 斯て彼等に命じて集議所を去しめ後に相議て曰けるは</ab>
+<ab type="verse" n="16" xml:id="Acts.4.16"><hi rend="superscript">16</hi> この二人に何を處べきや彼等が既に著き休徴を行へる事は凡てエルサレムに居者の明かに知ところ也われら之を言滅こと能ず</ab>
+<ab type="verse" n="17" xml:id="Acts.4.17"><hi rend="superscript">17</hi> 然ども此事の猶ひろく民に傳らざる爲に彼等を恐喝し此後その名に就て人に語ること勿しめん</ab>
+<ab type="verse" n="18" xml:id="Acts.4.18"><hi rend="superscript">18</hi> 遂に彼等を召て更にイエスの名に就て語ることを教ることを爲なかれと戒む</ab>
+<ab type="verse" n="19" xml:id="Acts.4.19"><hi rend="superscript">19</hi> ペテロ、ヨハネ彼等に答て曰けるは神に聽よりも愈て爾曹に聽ば神の前に在て義たらんか爾曹みづから之を判よ</ab>
+<ab type="verse" n="20" xml:id="Acts.4.20"><hi rend="superscript">20</hi> われら見しところ聞し所のものは言ざるを得ざる也</ab>
+<ab type="verse" n="21" xml:id="Acts.4.21"><hi rend="superscript">21</hi> 人々その所爲に因て神を榮たれば彼等民を畏れ此二人を罪するに由なく更に之を恐喝して釋せり</ab>
+<ab type="verse" n="22" xml:id="Acts.4.22"><hi rend="superscript">22</hi> その奇なる跡に由て癒されたる人は四十歳餘なりき／</ab>
+<ab type="verse" n="23" xml:id="Acts.4.23"><hi rend="superscript">23</hi> かれら釋されて其友の所にゆき祭司の長と長老の言しことを悉く告</ab>
+<ab type="verse" n="24" xml:id="Acts.4.24"><hi rend="superscript">24</hi> その友これを聞て心を合せ神に對ひ聲を揚て曰けるは主よ爾は天と地と海と其中の萬物を造たまひし神なり</ab>
+<ab type="verse" n="25" xml:id="Acts.4.25"><hi rend="superscript">25</hi> なんぢ曾て其僕ダビデの口に託て何故に異邦人は喧嘩もろもろの民は徒事を謀る乎</ab>
+<ab type="verse" n="26" xml:id="Acts.4.26"><hi rend="superscript">26</hi> 地の王等は起て群伯と共に集り主および其キリストに逆ふと云り</ab>
+<ab type="verse" n="27" xml:id="Acts.4.27"><hi rend="superscript">27</hi> それ誠にヘロデとポンテヲ・ピラト異邦人およびイスラエルの民相共に此城に集り爾が膏を沃たる聖僕イエスに逆へり</ab>
+<ab type="verse" n="28" xml:id="Acts.4.28"><hi rend="superscript">28</hi> これ爾の手なんぢの旨にて預じめ定め給ひし事を彼等は成るなり</ab>
+<ab type="verse" n="29" xml:id="Acts.4.29"><hi rend="superscript">29</hi> [29-30]主よ今彼らの恐喝を見たまへ願くは爾が手を伸て醫を施し爾の聖僕イエスの名に託て休徴と奇跡を行はしめ爾の僕等に臆することなく爾の道を宣ることを得させよ</ab>
+<ab type="verse" n="30" xml:id="Acts.4.30"><hi rend="superscript">30</hi> *[29-30]主よ今彼らの恐喝を見たまへ願くは爾が手を伸て醫を施し爾の聖僕イエスの名に託て休徴と奇跡を行はしめ爾の僕等に臆することなく爾の道を宣ることを得させよ</ab>
+<ab type="verse" n="31" xml:id="Acts.4.31"><hi rend="superscript">31</hi> かれら祈禱を畢し時その集れるところ震動みな聖靈に滿されて臆する所なく神の道を宣／</ab>
+<ab type="verse" n="32" xml:id="Acts.4.32"><hi rend="superscript">32</hi> 信者はみな心を一にし意を一にして誰一人その所有を己が物と云ことなく凡て之を共に有り</ab>
+<ab type="verse" n="33" xml:id="Acts.4.33"><hi rend="superscript">33</hi> 使徒たち大なる能をもて主イエスの甦りし事を證し彼等みな大なる恩を蒙れり</ab>
+<ab type="verse" n="34" xml:id="Acts.4.34"><hi rend="superscript">34</hi> 其中に一人も窮乏者なかりき蓋地所あるひは家を有る者は其を售て其售し所の價を挈來り</ab>
+<ab type="verse" n="35" xml:id="Acts.4.35"><hi rend="superscript">35</hi> 使徒等の足下に置これを各々の用に從ひて分予しが故なり</ab>
+<ab type="verse" n="36" xml:id="Acts.4.36"><hi rend="superscript">36</hi> レビの族にてクプロに生しヨセフは使徒等に呼れてバルナバと稱る之を譯ば勸慰の子</ab>
+<ab type="verse" n="37" xml:id="Acts.4.37"><hi rend="superscript">37</hi> この人田疇ありけるが其を售てその金を挈來り使徒等の足下に置り</ab>
+</div>
+<div type="chapter" n="5">
+  <head>第5章</head>
+<ab type="verse" n="1" xml:id="Acts.5.1"><hi rend="superscript">1</hi> 然るにアナニアといふ人その妻サツピラと同に産業を鬻</ab>
+<ab type="verse" n="2" xml:id="Acts.5.2"><hi rend="superscript">2</hi> その價の幾分を藏し餘の幾分を挈來りて使徒等の足下に置ぬ其妻も之を知り</ab>
+<ab type="verse" n="3" xml:id="Acts.5.3"><hi rend="superscript">3</hi> ペテロ曰けるはアナニアよ何故に爾の心サタンに滿され聖靈に對ひ僞て地所の價の幾分を藏す事をせし乎</ab>
+<ab type="verse" n="4" xml:id="Acts.5.4"><hi rend="superscript">4</hi> 地所いまだ售ざる時は爾の有ならずや已に售たりとも亦なんぢの權に屬るならずや何故に爾の心この事を發念しや爾人に對て僞るに非ず神に對て僞れる也</ab>
+<ab type="verse" n="5" xml:id="Acts.5.5"><hi rend="superscript">5</hi> アナニア此言をきき仆て氣絶之を聞者みな大に懼る</ab>
+<ab type="verse" n="6" xml:id="Acts.5.6"><hi rend="superscript">6</hi> 少者ども起て彼を殮み舁出して葬れり</ab>
+<ab type="verse" n="7" xml:id="Acts.5.7"><hi rend="superscript">7</hi> 約そ三時ばかり過その妻いまだ此所遇を知ずして入來れり</ab>
+<ab type="verse" n="8" xml:id="Acts.5.8"><hi rend="superscript">8</hi> ペテロ彼に曰けるは爾曹この價に地所を售しや我に告よ答て曰けるは然り其價なり</ab>
+<ab type="verse" n="9" xml:id="Acts.5.9"><hi rend="superscript">9</hi> ペテロ彼に曰けるは爾曹心を合せて主の靈を試るは何ぞや視よ爾の夫を葬りし者の足門外に在また爾をも舁出さん</ab>
+<ab type="verse" n="10" xml:id="Acts.5.10"><hi rend="superscript">10</hi> 婦直に其足下に仆て氣たゆ少者ども入來て其死たるを見これをも舁出して其夫の側に葬れり</ab>
+<ab type="verse" n="11" xml:id="Acts.5.11"><hi rend="superscript">11</hi> 全會の者とこれを聞る者ども皆大に懼る</ab>
+<ab type="verse" n="12" xml:id="Acts.5.12"><hi rend="superscript">12</hi> 多の休徴と奇なる跡は使徒等の手に由て民の間に行はれたり又かれら皆心を合せてソロモンの廊に在</ab>
+<ab type="verse" n="13" xml:id="Acts.5.13"><hi rend="superscript">13</hi> 餘の者は敢て之に近づかざりき然れども民は彼等を尊み</ab>
+<ab type="verse" n="14" xml:id="Acts.5.14"><hi rend="superscript">14</hi> 男女とも信ずる者ますます多く主に屬ぬ</ab>
+<ab type="verse" n="15" xml:id="Acts.5.15"><hi rend="superscript">15</hi> 斯て人々病る者を携て衢にいで寢牀また榻の上に置り蓋ペテロの來らん時その影に蔭はるる者あらんかと意ばなり</ab>
+<ab type="verse" n="16" xml:id="Acts.5.16"><hi rend="superscript">16</hi> また許多の人々四方の諸邑より病る者および惡鬼に難されたる者を携てエルサレムに來り悉く愈されたり</ab>
+<ab type="verse" n="17" xml:id="Acts.5.17"><hi rend="superscript">17</hi> 然るに祭司の長および彼と同にある者即ちサドカイ宗の徒みな起て大に憤り</ab>
+<ab type="verse" n="18" xml:id="Acts.5.18"><hi rend="superscript">18</hi> 使徒等を執て獄に置り</ab>
+<ab type="verse" n="19" xml:id="Acts.5.19"><hi rend="superscript">19</hi> 然ども主の使者夜獄の門を啓き彼等を携へ出して曰けるは</ab>
+<ab type="verse" n="20" xml:id="Acts.5.20"><hi rend="superscript">20</hi> 往て殿に立この生命の言を悉く民に語れ</ab>
+<ab type="verse" n="21" xml:id="Acts.5.21"><hi rend="superscript">21</hi> かれら之をきき昧爽より殿に入て教ふ祭司の長および同人ども來て議院およびイスラエルの子孫の長老等を悉く召集て彼等を曳來せんが爲に下吏を獄に遣せり</ab>
+<ab type="verse" n="22" xml:id="Acts.5.22"><hi rend="superscript">22</hi> 其人等きたりしに獄の内に彼等を見ず反て告いひけるは</ab>
+<ab type="verse" n="23" xml:id="Acts.5.23"><hi rend="superscript">23</hi> 獄は固とぢ守者も門の外に立るを我儕は見しに啓けば内に一人をも見ざりき</ab>
+<ab type="verse" n="24" xml:id="Acts.5.24"><hi rend="superscript">24</hi> 祭司殿司および祭司の長たち此言を聞て此は如何に成行べきかと彼等に就て心惑へり</ab>
+<ab type="verse" n="25" xml:id="Acts.5.25"><hi rend="superscript">25</hi> 或人來り彼等に告けるは視よ爾曹が獄に置し者は今殿に立て民を救ふ</ab>
+<ab type="verse" n="26" xml:id="Acts.5.26"><hi rend="superscript">26</hi> 是に於て殿司は下吏等と共に往かれらを曳來れり然ど強暴ことを爲ざりき蓋石にて民は撃れん事を懼しが故なり</ab>
+<ab type="verse" n="27" xml:id="Acts.5.27"><hi rend="superscript">27</hi> 既に曳來りて彼等を議員の前に立せ祭司の長これに問て曰けるは</ab>
+<ab type="verse" n="28" xml:id="Acts.5.28"><hi rend="superscript">28</hi> 我儕この名に由て教る勿れと爾曹に嚴く禁ぜしに非や然るに爾曹は其教をエルサレムに滿せ又この人の血を我儕に負めんとす</ab>
+<ab type="verse" n="29" xml:id="Acts.5.29"><hi rend="superscript">29</hi> ペテロと使徒たち答て曰けるは人に從ふより神に從ふは爲べきの事なり</ab>
+<ab type="verse" n="30" xml:id="Acts.5.30"><hi rend="superscript">30</hi> 我儕の先祖の神は爾曹が木に懸て殺しし所のイエスを甦らせ給へり</ab>
+<ab type="verse" n="31" xml:id="Acts.5.31"><hi rend="superscript">31</hi> 神は之を君とし救主として其右の方に擧これイスラエルに悔改と罪の赦を予んが爲なり</ab>
+<ab type="verse" n="32" xml:id="Acts.5.32"><hi rend="superscript">32</hi> 我儕は此事の證を爲者なり神おのれに從ふ者に賜ふ所の聖靈も亦證す／</ab>
+<ab type="verse" n="33" xml:id="Acts.5.33"><hi rend="superscript">33</hi> かの人々これを聞て甚しく怒を含み彼等を殺さんと謀る</ab>
+<ab type="verse" n="34" xml:id="Acts.5.34"><hi rend="superscript">34</hi> パリサイの人にて衆民の中に尊ばるる教法師ガマリエルと云る者議員の中にたち命じて使徒等を暫く外に出さしめ</ab>
+<ab type="verse" n="35" xml:id="Acts.5.35"><hi rend="superscript">35</hi> 曰けるはイスラエルの人々よ爾曹この人等につきて爲んとする事を自ら愼むべし</ab>
+<ab type="verse" n="36" xml:id="Acts.5.36"><hi rend="superscript">36</hi> そは曩にチウダ起て自ら誇れり之に從へる者おほよそ四百人ありしが彼は殺され從ひし者は皆ちらされて跡なきに至る</ab>
+<ab type="verse" n="37" xml:id="Acts.5.37"><hi rend="superscript">37</hi> 此人の後また戸籍調査の時ガリラヤのユダ起て民を誘ひ從はししが彼も亡び其に從ひし者も悉く散されたれば也</ab>
+<ab type="verse" n="38" xml:id="Acts.5.38"><hi rend="superscript">38</hi> 今われ爾曹に語らん此人々を容て之に係る勿れ若そ謀ところ行ふところ人より出ば必ず亡べし</ab>
+<ab type="verse" n="39" xml:id="Acts.5.39"><hi rend="superscript">39</hi> もし神より出ば爾曹かれらを亡すこと能ず恐くは爾曹神に逆らふ者とならん</ab>
+<ab type="verse" n="40" xml:id="Acts.5.40"><hi rend="superscript">40</hi> 彼等これに從ひ使徒等を召て鞭ちイエスの名に由て語ることを爲なかれと命じて之を釋せり</ab>
+<ab type="verse" n="41" xml:id="Acts.5.41"><hi rend="superscript">41</hi> 使徒等はイエスの名の爲に辱を受るに足者とせられし事を喜びて議員の前を去</ab>
+<ab type="verse" n="42" xml:id="Acts.5.42"><hi rend="superscript">42</hi> 日々に殿および人の家に於て教をなしイエス・キリストの福音を傳て止ざりき</ab>
+</div>
+<div type="chapter" n="6">
+  <head>第6章</head>
+<ab type="verse" n="1" xml:id="Acts.6.1"><hi rend="superscript">1</hi> 當時弟子たちの數おほく加りギリシヤ方言のユダヤ人その嫠等が日々の施濟に遺漏されしを以てヘブル方言のユダヤ人にむかひ怨言し事ありければ</ab>
+<ab type="verse" n="2" xml:id="Acts.6.2"><hi rend="superscript">2</hi> 十二人の者弟子等を召集て曰けるは我儕神の道を棄て飮食の事に仕るは意に適ず</ab>
+<ab type="verse" n="3" xml:id="Acts.6.3"><hi rend="superscript">3</hi> 是故に兄弟よ爾曹の中より聖靈と智慧の滿たる善證ある者七人を撰べし我儕それを立て此事を司らせん</ab>
+<ab type="verse" n="4" xml:id="Acts.6.4"><hi rend="superscript">4</hi> 而して我儕は常に祈ことと道を傳ることを務べし</ab>
+<ab type="verse" n="5" xml:id="Acts.6.5"><hi rend="superscript">5</hi> 此言すべての人の心に合ければ信仰と聖靈の滿たるステパノ及ピリポ、プロコロ、ニカノル、テモン、パルメナ又ユダヤ教に入しアンテオケのニコラを撰び</ab>
+<ab type="verse" n="6" xml:id="Acts.6.6"><hi rend="superscript">6</hi> この人々を使徒等の前に立しむ使徒たち祈て其上に手を按り／</ab>
+<ab type="verse" n="7" xml:id="Acts.6.7"><hi rend="superscript">7</hi> 神の道いよいよ傳播て弟子等の數エルサレムに甚しく増り祭司も多く信仰の道に從へり</ab>
+<ab type="verse" n="8" xml:id="Acts.6.8"><hi rend="superscript">8</hi> ステパノ惠と能力に滿て奇なる跡と大なる休徴を民の中に行へり</ab>
+<ab type="verse" n="9" xml:id="Acts.6.9"><hi rend="superscript">9</hi> 時にリベルテンと稱る會堂及びクレネ人アレキサンデリヤ人キリキヤ人アジヤ人の諸會堂より人々起てステパノと言爭ふ</ab>
+<ab type="verse" n="10" xml:id="Acts.6.10"><hi rend="superscript">10</hi> 彼等ステパノの智慧と之に由て言ところの靈に敵すること能ず</ab>
+<ab type="verse" n="11" xml:id="Acts.6.11"><hi rend="superscript">11</hi> 遂に人をして誣告しめけるは我儕かれが言を聞しにモーセと神を謗讟たり</ab>
+<ab type="verse" n="12" xml:id="Acts.6.12"><hi rend="superscript">12</hi> かれら民と長老學者たちの心を動させ突然きたりて彼を執へ集議所に曳來り</ab>
+<ab type="verse" n="13" xml:id="Acts.6.13"><hi rend="superscript">13</hi> 妄の證人を立て曰せけるは此人は聖所と律法を謗讟ことを語て止ず</ab>
+<ab type="verse" n="14" xml:id="Acts.6.14"><hi rend="superscript">14</hi> 蓋かれ語て此ナザレのイエスは此所を毀ち且モーセの我儕に授し所の例を易べしと曰るを我儕聞たれば也</ab>
+<ab type="verse" n="15" xml:id="Acts.6.15"><hi rend="superscript">15</hi> 是に於て集議所に坐せる者皆目を注て彼を見しに其面天使の面の如也き</ab>
+</div>
+<div type="chapter" n="7">
+  <head>第7章</head>
+<ab type="verse" n="1" xml:id="Acts.7.1"><hi rend="superscript">1</hi> さて祭司の長いひけるは此事かくの如なる乎</ab>
+<ab type="verse" n="2" xml:id="Acts.7.2"><hi rend="superscript">2</hi> ステパノ曰けるは衆兄弟および父等よ聽我らの先祖アブラハム未だカランに住ざる前メソポタミヤに在しとき榮光の神あらはれて</ab>
+<ab type="verse" n="3" xml:id="Acts.7.3"><hi rend="superscript">3</hi> 彼に曰たまひけるは爾の國を出なんぢの親族を離て我なんぢに示さん所の地に至れ</ab>
+<ab type="verse" n="4" xml:id="Acts.7.4"><hi rend="superscript">4</hi> 斯てアブラハム、カルダヤ人の地を出てカランに住り其父の死しのち神は彼を彼處より今なんぢらが住ところの此地に移し給へり</ab>
+<ab type="verse" n="5" xml:id="Acts.7.5"><hi rend="superscript">5</hi> 此地に於は足を踏立るほどの地をも賜ず且かれは未だ子あらざりしに此地を産業として彼と其子孫に賜んと約束し給へり</ab>
+<ab type="verse" n="6" xml:id="Acts.7.6"><hi rend="superscript">6</hi> 神如此いひ給へり彼の裔は他の國に旅らん他の國の人々これを奴隸と爲て四百年の間なやまさん</ab>
+<ab type="verse" n="7" xml:id="Acts.7.7"><hi rend="superscript">7</hi> 神また云かれらを奴隸とする國民を我鞫べし厥後かれら其國を出この處に於て我に事んと</ab>
+<ab type="verse" n="8" xml:id="Acts.7.8"><hi rend="superscript">8</hi> また彼に割禮の契約を予へ給へり斯てアブラハム、イサクをうみ第八日に割禮を之に行ふイサク、ヤコブを生ヤコブ十二の始祖を生</ab>
+<ab type="verse" n="9" xml:id="Acts.7.9"><hi rend="superscript">9</hi> 始祖たちヨセフを妬これをエジプトに賣り然ど神は彼と偕に在て</ab>
+<ab type="verse" n="10" xml:id="Acts.7.10"><hi rend="superscript">10</hi> 諸の患難の中より之を救出しエジプト王パロの前に於て恩寵と智慧とを賜てエジプト及パロの全家を宰らせ給ふ</ab>
+<ab type="verse" n="11" xml:id="Acts.7.11"><hi rend="superscript">11</hi> 茲にエジプト、カナンの遍の地に饑饉と大なる難あり我儕の先祖たちも食物を獲ことを得ざりき</ab>
+<ab type="verse" n="12" xml:id="Acts.7.12"><hi rend="superscript">12</hi> 然るにヤコブ、エジプトに穀物ある事を聞て先われらの先祖たちを遣す</ab>
+<ab type="verse" n="13" xml:id="Acts.7.13"><hi rend="superscript">13</hi> 再び遣しし時ヨセフその兄弟に識れ且ヨセフの親族パロに明になれり</ab>
+<ab type="verse" n="14" xml:id="Acts.7.14"><hi rend="superscript">14</hi> ヨセフ人を遣して其父および凡の家族七十五人を召來しむ</ab>
+<ab type="verse" n="15" xml:id="Acts.7.15"><hi rend="superscript">15</hi> 是に於てヤコブ、エジプトに下れり彼も我儕の先祖たちも死たる後</ab>
+<ab type="verse" n="16" xml:id="Acts.7.16"><hi rend="superscript">16</hi> スケムに送れアブラハムが金をもてスケムの父なるエンモルの子孫より買おきし墓に葬られたり</ab>
+<ab type="verse" n="17" xml:id="Acts.7.17"><hi rend="superscript">17</hi> 神のアブラハムに示し給へる約束の期ちかづくに從ひて民蕃衍りてエジプトに多なれり</ab>
+<ab type="verse" n="18" xml:id="Acts.7.18"><hi rend="superscript">18</hi> ヨセフの事を知ざる他の王起るに至りて</ab>
+<ab type="verse" n="19" xml:id="Acts.7.19"><hi rend="superscript">19</hi> 彼あしき謀計をもて我儕の親族を待ひ我儕の先祖たちを困苦し其嬰孫の活殘ざるやう之を棄させんとせり</ab>
+<ab type="verse" n="20" xml:id="Acts.7.20"><hi rend="superscript">20</hi> 其時モーセ生て甚美しく三ヶ月のあひだ父の家に育られ</ab>
+<ab type="verse" n="21" xml:id="Acts.7.21"><hi rend="superscript">21</hi> 棄られし後パロの女これを拾あげ己の子として育たり</ab>
+<ab type="verse" n="22" xml:id="Acts.7.22"><hi rend="superscript">22</hi> モーセ盡くエジプト人の學術を教られ言と行とに才能あり</ab>
+<ab type="verse" n="23" xml:id="Acts.7.23"><hi rend="superscript">23</hi> 四十歳に及て其兄弟なるイスラエルの子孫を顧るの心起れり</ab>
+<ab type="verse" n="24" xml:id="Acts.7.24"><hi rend="superscript">24</hi> 一人の寃抑らるる者を見て之を保護エジプト人を撃て其仇を報たり</ab>
+<ab type="verse" n="25" xml:id="Acts.7.25"><hi rend="superscript">25</hi> モーセは我手をもて神の彼等を救んとし給ふ事を其兄弟悟ならんと意しかど彼等は悟ざりき</ab>
+<ab type="verse" n="26" xml:id="Acts.7.26"><hi rend="superscript">26</hi> 次日かれら相鬪ふこと有ければ之に現れて和げ曰けるは人々よ爾曹兄弟なるに何故相害ふや</ab>
+<ab type="verse" n="27" xml:id="Acts.7.27"><hi rend="superscript">27</hi> 其友を害ふ者かれを拒却て曰けるは誰が爾を立て我儕の有司また刑官と爲しや</ab>
+<ab type="verse" n="28" xml:id="Acts.7.28"><hi rend="superscript">28</hi> なんぢ昨日エジプト人を殺しし如また我をも殺さんと爲か</ab>
+<ab type="verse" n="29" xml:id="Acts.7.29"><hi rend="superscript">29</hi> モーセ此言により逃てミデアンの地に旅人となり彼處に於て二人の子を生り</ab>
+<ab type="verse" n="30" xml:id="Acts.7.30"><hi rend="superscript">30</hi> 既に四十年を過し時シナイ山の野に於て主の使者棘の中の火焰の間にてモーセに現る</ab>
+<ab type="verse" n="31" xml:id="Acts.7.31"><hi rend="superscript">31</hi> モーセ之を見て奇み諦視んとして近れるとき主の聲あり云く</ab>
+<ab type="verse" n="32" xml:id="Acts.7.32"><hi rend="superscript">32</hi> 我は爾の列祖の神すなはちアブラハムの神イサクの神ヤコブの神なりモーセ畏怖き敢て諦視ざりき</ab>
+<ab type="verse" n="33" xml:id="Acts.7.33"><hi rend="superscript">33</hi> 主また彼に曰給ひけるは爾の足の履を解なんぢが立る處は聖地なり</ab>
+<ab type="verse" n="34" xml:id="Acts.7.34"><hi rend="superscript">34</hi> 我すでにエジプトに在わが民の苦難を見かつ其嘆息を聞これを救んが爲に降れり來れ我なんぢをエジプトへ遣さんと</ab>
+<ab type="verse" n="35" xml:id="Acts.7.35"><hi rend="superscript">35</hi> 夫〔彼｜かれ〕らが拒て誰か爾を立て有司また刑官と爲し乎と云し此モーセを神は棘中に現れし使者の手に托て有司また救者として遣し給へり</ab>
+<ab type="verse" n="36" xml:id="Acts.7.36"><hi rend="superscript">36</hi> この人エジプトおよび紅海また四十年の間野に於て奇跡と休徴を行ひて彼等を導き出せり</ab>
+<ab type="verse" n="37" xml:id="Acts.7.37"><hi rend="superscript">37</hi> イスラエルの子孫に語て神は爾曹の兄弟の中より我ごとき一人の〔預言者｜預言者〕を爾曹の爲に起し給ふ可と言しは即ち此モーセなり</ab>
+<ab type="verse" n="38" xml:id="Acts.7.38"><hi rend="superscript">38</hi> 彼は野の會に在シナイ山にて己に語れる所の天使また我儕の先祖等と偕に在て我儕に授んがため生る道を受し者なり</ab>
+<ab type="verse" n="39" xml:id="Acts.7.39"><hi rend="superscript">39</hi> 此人に我儕の先祖たちは順ふことを欲ず反て之を卻け其心すでにエジプトに返り</ab>
+<ab type="verse" n="40" xml:id="Acts.7.40"><hi rend="superscript">40</hi> アロンに曰けるは我儕に先つべき神を我儕の爲に遣れ蓋われらをエジプトの地より導き出しし彼モーセは如何なりしか知ざれば也</ab>
+<ab type="verse" n="41" xml:id="Acts.7.41"><hi rend="superscript">41</hi> 厥時かれら犢を造その像に犧牲を獻げ己の手の所作を喜べり</ab>
+<ab type="verse" n="42" xml:id="Acts.7.42"><hi rend="superscript">42</hi> 是に於て神は彼等を顧みずして其天の軍勢を祭るに任せ給へり即ち〔預言者｜預言者〕の書にイスラエルの族よ爾曹は四十年のあひだ野に於て犧牲と祭物を我に獻しや</ab>
+<ab type="verse" n="43" xml:id="Acts.7.43"><hi rend="superscript">43</hi> また爾曹はモロクの幕屋およびレパンといふ神に象れる星すなはち爾曹が拜する爲に造れる所の像を携へたり我なんぢらをバビロンの外へ徙んと録されたる如し</ab>
+<ab type="verse" n="44" xml:id="Acts.7.44"><hi rend="superscript">44</hi> 我儕の先祖たちは野にて證の幕屋を有り此はモーセに語れる者かれに對て已に見し所の式に遵ひて造れと命ぜし如く造れる者なり</ab>
+<ab type="verse" n="45" xml:id="Acts.7.45"><hi rend="superscript">45</hi> 我儕の先祖たち此幕屋を承てヨシュアと偕に異邦人の地を攻取し時これを携入り此異邦人はダビデの時までに我儕の先祖たちの前より神の逐驅ひ給し所の者なり</ab>
+<ab type="verse" n="46" xml:id="Acts.7.46"><hi rend="superscript">46</hi> ダビデ神の前に恩を蒙てヤコブの神の爲に居所を設んと欲たれど</ab>
+<ab type="verse" n="47" xml:id="Acts.7.47"><hi rend="superscript">47</hi> ソロモン神の爲に殿を建たり</ab>
+<ab type="verse" n="48" xml:id="Acts.7.48"><hi rend="superscript">48</hi> 然ども至上き神は手にて造れる所に居たまはず蓋〔預言者｜預言者〕の云る如し</ab>
+<ab type="verse" n="49" xml:id="Acts.7.49"><hi rend="superscript">49</hi> 即ち主いひ給く天は我座位なり地は我足凳なり爾曹我ために如何なる屋を建んと爲か又わが息む所は何處なる乎</ab>
+<ab type="verse" n="50" xml:id="Acts.7.50"><hi rend="superscript">50</hi> 我が手は此凡の物を造らざりし乎</ab>
+<ab type="verse" n="51" xml:id="Acts.7.51"><hi rend="superscript">51</hi> 強項にして心と耳に割禮を受ざる者よ爾曹常に聖靈に逆ひ其先祖たちの如く爾曹も行なり</ab>
+<ab type="verse" n="52" xml:id="Acts.7.52"><hi rend="superscript">52</hi> 爾曹の先祖等は孰の〔預言者｜預言者〕をか窘迫ざりし彼等は義者の來んこと預め語し者を殺し爾曹は今その義者を解し且これを殺す者となれり</ab>
+<ab type="verse" n="53" xml:id="Acts.7.53"><hi rend="superscript">53</hi> 爾曹は天の使者に由て律法を受なほ之を守ざる也／</ab>
+<ab type="verse" n="54" xml:id="Acts.7.54"><hi rend="superscript">54</hi> 衆人これらの言を聞て大に憤り切齒しつつステパノに向へり</ab>
+<ab type="verse" n="55" xml:id="Acts.7.55"><hi rend="superscript">55</hi> 然るにステパノは聖靈に滿され天を仰て神の榮光と其右にイエスの立るを見て曰けるは</ab>
+<ab type="verse" n="56" xml:id="Acts.7.56"><hi rend="superscript">56</hi> 視よ我天ひらけて神の右に人の子の立るを見</ab>
+<ab type="verse" n="57" xml:id="Acts.7.57"><hi rend="superscript">57</hi> 是に於て彼等大に呼り耳を掩ひ心を合せてステパノの所に驅より</ab>
+<ab type="verse" n="58" xml:id="Acts.7.58"><hi rend="superscript">58</hi> 彼を邑より逐出し石をもて之をうつ證人等おのおの其衣服をサウロと云る少年の足下に置り</ab>
+<ab type="verse" n="59" xml:id="Acts.7.59"><hi rend="superscript">59</hi> 彼等が石を以てステパノを撃る時かれ祈て曰けるは主イエスよ我靈魂を納たまへ</ab>
+<ab type="verse" n="60" xml:id="Acts.7.60"><hi rend="superscript">60</hi> また跪き大聲に呼いひけるは主よ此罪を彼等に負しむる勿れ此言をいひ畢て寢に就サウロ彼の殺されしを好とせり</ab>
+</div>
+<div type="chapter" n="8">
+  <head>第8章</head>
+<ab type="verse" n="1" xml:id="Acts.8.1"><hi rend="superscript">1</hi> 此日エルサレムに在ところの教會を大に窘迫こと起り使徒等の外は皆ユダヤとサマリアの地に散されたり</ab>
+<ab type="verse" n="2" xml:id="Acts.8.2"><hi rend="superscript">2</hi> 敬虔ある人々ステパノを葬り之が爲に大なる哭泣をなせり</ab>
+<ab type="verse" n="3" xml:id="Acts.8.3"><hi rend="superscript">3</hi> サウロは教會を殘害して此處彼處の家にいり男女を曳出して之を獄に付せり</ab>
+<ab type="verse" n="4" xml:id="Acts.8.4"><hi rend="superscript">4</hi> 是に於て散されたる者ども徧く往て福音を宣傳たり</ab>
+<ab type="verse" n="5" xml:id="Acts.8.5"><hi rend="superscript">5</hi> ピリポはサマリアの邑に下てキリストの事を彼等に示す</ab>
+<ab type="verse" n="6" xml:id="Acts.8.6"><hi rend="superscript">6</hi> 多の人々ピリポの行へる奇なる跡を見聞して心を同うし謹て其語れる言を聽り</ab>
+<ab type="verse" n="7" xml:id="Acts.8.7"><hi rend="superscript">7</hi> そは汚たる鬼大に喊叫て其憑る所の多の人より出また癱瘋および跛者の人も多く愈されたれば也</ab>
+<ab type="verse" n="8" xml:id="Acts.8.8"><hi rend="superscript">8</hi> 之に因て此邑に大なる喜ありき</ab>
+<ab type="verse" n="9" xml:id="Acts.8.9"><hi rend="superscript">9</hi> 爰にシモンと云る素魔術を行ひ〔自らを大なる者として｜〕サマリアの民を駭かしし者あり</ab>
+<ab type="verse" n="10" xml:id="Acts.8.10"><hi rend="superscript">10</hi> 小より大に至るまで皆謹て彼に聽この人は神の大なる能なりと曰り</ab>
+<ab type="verse" n="11" xml:id="Acts.8.11"><hi rend="superscript">11</hi> 彼等の謹て之に聽るは久く其魔術に駭かされたるが故なり</ab>
+<ab type="verse" n="12" xml:id="Acts.8.12"><hi rend="superscript">12</hi> 然ども彼等神の國およびイエス・キリストの名につきて福音を宣るピリポを信ぜしかば男女ともバプテスマを受</ab>
+<ab type="verse" n="13" xml:id="Acts.8.13"><hi rend="superscript">13</hi> シモンも亦信じてバプテスマをうけ常にピリポと偕に在て彼が行ふ所の奇なる跡と休徴を見て駭けり</ab>
+<ab type="verse" n="14" xml:id="Acts.8.14"><hi rend="superscript">14</hi> エルサレムにをる使徒等サマリア已に神の道を受たりと聞てペテロとヨハネを彼處に遣す</ab>
+<ab type="verse" n="15" xml:id="Acts.8.15"><hi rend="superscript">15</hi> この二人の者くだりて彼等が聖靈を受ん爲に祈れり</ab>
+<ab type="verse" n="16" xml:id="Acts.8.16"><hi rend="superscript">16</hi> 蓋かれら唯主イエスの名に入られバプテスマを受し耳にて未だ其一人にも聖靈下ざりしに因</ab>
+<ab type="verse" n="17" xml:id="Acts.8.17"><hi rend="superscript">17</hi> この時二人の者手を彼等の上に按ければ彼等聖靈を受たり</ab>
+<ab type="verse" n="18" xml:id="Acts.8.18"><hi rend="superscript">18</hi> 使徒たちの手を按るに因て聖靈を予られしを見てシモン金を携來り彼等に曰けるは</ab>
+<ab type="verse" n="19" xml:id="Acts.8.19"><hi rend="superscript">19</hi> 我手を按ところの者も凡て聖靈を受ん爲に此權を我にも予よ</ab>
+<ab type="verse" n="20" xml:id="Acts.8.20"><hi rend="superscript">20</hi> ペテロ彼に曰けるは爾の金は爾と偕に亡よ爾は神の賜を金にて得んと意り</ab>
+<ab type="verse" n="21" xml:id="Acts.8.21"><hi rend="superscript">21</hi> 爾この事に於て分なく又與なし蓋〔爾｜なんぢ〕の心神の前に正からず</ab>
+<ab type="verse" n="22" xml:id="Acts.8.22"><hi rend="superscript">22</hi> 故に爾この惡を悔改て神に祈れ爾の心の念或は赦れん</ab>
+<ab type="verse" n="23" xml:id="Acts.8.23"><hi rend="superscript">23</hi> 我爾が膽の苦にをり不義の繋に在を見れば也</ab>
+<ab type="verse" n="24" xml:id="Acts.8.24"><hi rend="superscript">24</hi> シモン答て曰けるは爾曹が語れるところ一も我に及ざるやう我爲に主に祈れ</ab>
+<ab type="verse" n="25" xml:id="Acts.8.25"><hi rend="superscript">25</hi> かれら主の道を證し且これを語し後エルサレムへ返往ときサマリア人の諸邑に福音を傳たり／</ab>
+<ab type="verse" n="26" xml:id="Acts.8.26"><hi rend="superscript">26</hi> 主の使者ピリポに語て曰けるは起て南の方に向ひエルサレムよりガザに下る所の路に往その路は野なり</ab>
+<ab type="verse" n="27" xml:id="Acts.8.27"><hi rend="superscript">27</hi> かれ起て往りエテヲピア人すなはちエテヲピア人の女王カンダケの大臣なる寺人にて凡て其女王の財寶を司る者禮拜の爲エルサレムに來し</ab>
+<ab type="verse" n="28" xml:id="Acts.8.28"><hi rend="superscript">28</hi> その返なるが車の中に坐し〔預言者｜預言者〕イザヤの諸を讀をれり</ab>
+<ab type="verse" n="29" xml:id="Acts.8.29"><hi rend="superscript">29</hi> 靈ピリポに曰けるは往て此車に就</ab>
+<ab type="verse" n="30" xml:id="Acts.8.30"><hi rend="superscript">30</hi> ピリポ趨よりて彼が〔預言者｜預言者〕イザヤの書を讀を聞これに曰けるは爾その讀ところの事を曉るや</ab>
+<ab type="verse" n="31" xml:id="Acts.8.31"><hi rend="superscript">31</hi> 彼いひけるは若われを啓く者なくば如何で曉ることを得んや遂に請てピリポを己と同に坐せしむ</ab>
+<ab type="verse" n="32" xml:id="Acts.8.32"><hi rend="superscript">32</hi> 其讀をりし聖書の文は在の如し彼は羊の屠場に牽るる如く牽れ又羔の其毛を剪者の前にて聲を出さぬが如く其口を開ず</ab>
+<ab type="verse" n="33" xml:id="Acts.8.33"><hi rend="superscript">33</hi> かれ卑賤に居しとき義判を奪れたり誰か能その世の状を述得んや蓋かれの生命地より滅れたれば也</ab>
+<ab type="verse" n="34" xml:id="Acts.8.34"><hi rend="superscript">34</hi> 寺人ピリポに對いひけるは請われに示せ〔預言者｜預言者〕は誰を指て之を語しや自己を指しか他人を指しか</ab>
+<ab type="verse" n="35" xml:id="Acts.8.35"><hi rend="superscript">35</hi> ピリポ口をひらき此録されたる所に基きてイエスの福音を彼に宣傳ふ</ab>
+<ab type="verse" n="36" xml:id="Acts.8.36"><hi rend="superscript">36</hi> 斯て二人の者路をゆき水ある所に至ければ寺人いひけるは水を見よ我バプテスマを受んとす何の礙か有や</ab>
+<ab type="verse" n="37" xml:id="Acts.8.37"><hi rend="superscript">37</hi> ピリポ曰けるは爾もし全心をもて信ぜば可らん彼こたへて曰けるは我イエス・キリストは神の子なりと信ず</ab>
+<ab type="verse" n="38" xml:id="Acts.8.38"><hi rend="superscript">38</hi> 遂に命じて車を止しめピリポの寺人の二人水に下りピリポ、バプテスマを彼に施せり</ab>
+<ab type="verse" n="39" xml:id="Acts.8.39"><hi rend="superscript">39</hi> かれら水より上れるとき主の靈ピリポを引去る寺人また彼を見ことを得ざりき寺人喜びて其路を往り</ab>
+<ab type="verse" n="40" xml:id="Acts.8.40"><hi rend="superscript">40</hi> 偖アシドドにてピリポに遇る者あり彼すべての邑郷を經て福音を宣傳へカイザリヤに至れり</ab>
+</div>
+<div type="chapter" n="9">
+  <head>第9章</head>
+<ab type="verse" n="1" xml:id="Acts.9.1"><hi rend="superscript">1</hi> サウロは猶も兇言と殺氣を吐て主の弟子等をせめ祭司の長に往て</ab>
+<ab type="verse" n="2" xml:id="Acts.9.2"><hi rend="superscript">2</hi> ダマスコの諸會堂に寄る書を求む彼は此道に從へる者を見ば男女にかかはらず捕て之をエルサレムに曳んと意り</ab>
+<ab type="verse" n="3" xml:id="Acts.9.3"><hi rend="superscript">3</hi> 彼ゆきてダマスコに近けるとき忽ち天より光ありて彼を環照せり</ab>
+<ab type="verse" n="4" xml:id="Acts.9.4"><hi rend="superscript">4</hi> かれ地に仆る其時サウロ、サウロ何ゆゑ我を窘迫やといふ聲を聞り</ab>
+<ab type="verse" n="5" xml:id="Acts.9.5"><hi rend="superscript">5</hi> サウロ曰けるは主よ爾は誰ぞ主いひ給けるは我なんぢが窘迫ところのイエスなり爾荊ある鞭を蹴は難し</ab>
+<ab type="verse" n="6" xml:id="Acts.9.6"><hi rend="superscript">6</hi> かれ戰き駭きて曰けるは主よ我に何を行しめんと爲給ふや主かれに曰けるは起て邑に入さらば爾行べき事を示さるべし</ab>
+<ab type="verse" n="7" xml:id="Acts.9.7"><hi rend="superscript">7</hi> 彼と偕に往る人々言ふこと能ずして立止り其聲を聞ども誰をも見ざりき</ab>
+<ab type="verse" n="8" xml:id="Acts.9.8"><hi rend="superscript">8</hi> サウロ地より起て眼を啓たるに何も見ざりければ伴へる人等その手を援てダマスコに入ぬ</ab>
+<ab type="verse" n="9" xml:id="Acts.9.9"><hi rend="superscript">9</hi> かれ三日の間みえず又飮食をも爲ざりき</ab>
+<ab type="verse" n="10" xml:id="Acts.9.10"><hi rend="superscript">10</hi> 斯てダマスコにアナニアと云る一人の弟子あり主幻の如彼に曰給ひけるはアナニアよ答けるは主われ此に在</ab>
+<ab type="verse" n="11" xml:id="Acts.9.11"><hi rend="superscript">11</hi> 主いひ給ひけるは起て直と云る街に往ユダの家に至てタルソの人サウロといふ者を尋よ彼は祈て居</ab>
+<ab type="verse" n="12" xml:id="Acts.9.12"><hi rend="superscript">12</hi> 且アナニアといふ人きたりて見ことを得させんがため手を其上に按しと幻に見たれば也</ab>
+<ab type="verse" n="13" xml:id="Acts.9.13"><hi rend="superscript">13</hi> アナニア答けるは主よ我この人につきて多の人の語るを聞しに彼がエルサレムにて爾の聖徒を苦しこと如何ばかりぞ乎</ab>
+<ab type="verse" n="14" xml:id="Acts.9.14"><hi rend="superscript">14</hi> 且この處にても彼は凡て爾の名を籲者を捕んとて祭司の長より受たる權威を有り</ab>
+<ab type="verse" n="15" xml:id="Acts.9.15"><hi rend="superscript">15</hi> 主いひ給ひけるは往よ彼は異邦人および王とイスラエルの子孫の前に我名を擔しめん爲に我選し器なり</ab>
+<ab type="verse" n="16" xml:id="Acts.9.16"><hi rend="superscript">16</hi> 彼は我名の爲に如何ばかりの苦難を受るか我これを彼に示さん</ab>
+<ab type="verse" n="17" xml:id="Acts.9.17"><hi rend="superscript">17</hi> 是に於てアナニア往て其家にいり手を彼の上に按て曰けるは兄弟サウロよ爾の來れる路にて現れし所の主イエス爾が再び見ことを得かつ聖靈に滿されん爲に我を遣せり</ab>
+<ab type="verse" n="18" xml:id="Acts.9.18"><hi rend="superscript">18</hi> 忽ち彼の眼より鱗の如もの脱て再び見ことを得すなはち起てバプテスマを受</ab>
+<ab type="verse" n="19" xml:id="Acts.9.19"><hi rend="superscript">19</hi> 彼すでに食して強健たり斯てサウロは數日の間ダマスコにある弟子等と交り</ab>
+<ab type="verse" n="20" xml:id="Acts.9.20"><hi rend="superscript">20</hi> 直に會堂に於てイエスの事を宣て即ち此は神の子なりと言</ab>
+<ab type="verse" n="21" xml:id="Acts.9.21"><hi rend="superscript">21</hi> 聞者みな駭異て曰けるは此人はエルサレムに於て此名を籲者を殘害し且ここに來しも之を捕て祭司の長に曳んとするに非ずや</ab>
+<ab type="verse" n="22" xml:id="Acts.9.22"><hi rend="superscript">22</hi> 然どもサウロは益堅固して此イエスはキリストなりと證をなしダマスコにをる所のユダヤ人を辯折たり</ab>
+<ab type="verse" n="23" xml:id="Acts.9.23"><hi rend="superscript">23</hi> 既に多の日を歴て後ユダヤ人サウロを殺さんと謀しが</ab>
+<ab type="verse" n="24" xml:id="Acts.9.24"><hi rend="superscript">24</hi> その計謀つひにサウロに知る彼等は夜も晝も邑の門を守て之を殺さんとせしに</ab>
+<ab type="verse" n="25" xml:id="Acts.9.25"><hi rend="superscript">25</hi> 夜弟子たち筐をもてサウロを石牆より縋下せり</ab>
+<ab type="verse" n="26" xml:id="Acts.9.26"><hi rend="superscript">26</hi> サウロはエルサレムに至て弟子たちに列らんと爲たりしに皆かれが弟子たることを信ぜずして之を懼る</ab>
+<ab type="verse" n="27" xml:id="Acts.9.27"><hi rend="superscript">27</hi> バルナバ彼を援て使徒たちの所に至り其途中にて主を見しこと又主の彼に語り給ひしこと及びダマスコに在て憚らずイエスの名に由て語しことを告たり</ab>
+<ab type="verse" n="28" xml:id="Acts.9.28"><hi rend="superscript">28</hi> 彼エルサレムに在て弟子たちと偕に往來し</ab>
+<ab type="verse" n="29" xml:id="Acts.9.29"><hi rend="superscript">29</hi> 主イエスの名に由て憚らず語かつギリシヤ方言のユダヤ人と辯論へり彼等サウロを殺さんと圖る</ab>
+<ab type="verse" n="30" xml:id="Acts.9.30"><hi rend="superscript">30</hi> 然ど兄弟たち之を曉り彼をカイザリヤまで送てタルソに往しめたり</ab>
+<ab type="verse" n="31" xml:id="Acts.9.31"><hi rend="superscript">31</hi> 是に於てユダヤ、ガリラヤ及サマリア中の教會は平安に且成立て主を畏れ事を行ひ聖靈の勸に因て其數いや増れり／</ab>
+<ab type="verse" n="32" xml:id="Acts.9.32"><hi rend="superscript">32</hi> 偖ペテロ遍く諸方の地を經てルッダに住る聖徒の所に至り</ab>
+<ab type="verse" n="33" xml:id="Acts.9.33"><hi rend="superscript">33</hi> その處にて一人の癱瘋を患ひ八年の〔間｜あひだ〕床に臥るアイネアと名る者に遇</ab>
+<ab type="verse" n="34" xml:id="Acts.9.34"><hi rend="superscript">34</hi> ペテロ彼に曰けるはアイネアよイエス・キリスト爾を愈す起て爾みづから床を治よ彼ただちに起</ab>
+<ab type="verse" n="35" xml:id="Acts.9.35"><hi rend="superscript">35</hi> ルッダ及サロンに住る凡の人之を見て主に歸せり／</ab>
+<ab type="verse" n="36" xml:id="Acts.9.36"><hi rend="superscript">36</hi> ヨッパに女の弟子ありタビタと名く譯ばドルカス彼は多の善事と施濟を行へる者なりしが</ab>
+<ab type="verse" n="37" xml:id="Acts.9.37"><hi rend="superscript">37</hi> そのころ病て死たるにより其屍を洗て樓に置り</ab>
+<ab type="verse" n="38" xml:id="Acts.9.38"><hi rend="superscript">38</hi> ヨッパはルッダに近き故に弟子たちペテロの彼處に在ことをきき二人の者を遣して我儕に來ことを遲する勿れと請しむ</ab>
+<ab type="verse" n="39" xml:id="Acts.9.39"><hi rend="superscript">39</hi> ペテロ起て彼等と偕に〔往｜ゆき〕既に至ければ人々かれを引て樓に登る凡の寡婦たちペテロの側に立て哭泣つつドルカスが偕に在しとき常に作れる所の上衣下衣を彼に示す</ab>
+<ab type="verse" n="40" xml:id="Acts.9.40"><hi rend="superscript">40</hi> ペテロ彼等を悉く外に出し跪きて祈り又屍に向てタビタ起よと曰ければかの婦眼を啓きペテロを見おきて坐しぬ</ab>
+<ab type="verse" n="41" xml:id="Acts.9.41"><hi rend="superscript">41</hi> ペテロ手を伸て之を起し聖徒および寡婦等を召て此活たるタビタを其前に立しめたり</ab>
+<ab type="verse" n="42" xml:id="Acts.9.42"><hi rend="superscript">42</hi> 此事ヨッパ中にしれ多の人々主を信ず</ab>
+<ab type="verse" n="43" xml:id="Acts.9.43"><hi rend="superscript">43</hi> 斯てペテロ久くヨッパに留して皮工シモンの家に居り</ab>
+</div>
+<div type="chapter" n="10">
+  <head>第10章</head>
+<ab type="verse" n="1" xml:id="Acts.10.1"><hi rend="superscript">1</hi> カイザリヤにイタリヤ隊と稱る組の百夫の長にてコルネリヲと云る人あり</ab>
+<ab type="verse" n="2" xml:id="Acts.10.2"><hi rend="superscript">2</hi> 彼は信心の深き者にて其擧の家族と偕に神を敬ひ民に多の施濟をなし恆に神に祈禱せり</ab>
+<ab type="verse" n="3" xml:id="Acts.10.3"><hi rend="superscript">3</hi> 晝の三時ごろ幻の如く神の使者の來りてコルネリヲよと曰るを明から見</ab>
+<ab type="verse" n="4" xml:id="Acts.10.4"><hi rend="superscript">4</hi> かれ目を注これを見て懼曰けるは主よ何事なるや天使かれに曰けるは爾の祈禱なんぢの施濟すでに上て神の前に配置れたり</ab>
+<ab type="verse" n="5" xml:id="Acts.10.5"><hi rend="superscript">5</hi> いま人をヨッパへ遣しペテロと云シモンを召</ab>
+<ab type="verse" n="6" xml:id="Acts.10.6"><hi rend="superscript">6</hi> 彼は皮工シモンの所に寓れり其家は海濱に在</ab>
+<ab type="verse" n="7" xml:id="Acts.10.7"><hi rend="superscript">7</hi> コルネリヲに語れる天使さりし後かれ其後二人と恆に己に事る信心の深き兵卒を召</ab>
+<ab type="verse" n="8" xml:id="Acts.10.8"><hi rend="superscript">8</hi> 此事を詳く告てヨッパへ遣はす／</ab>
+<ab type="verse" n="9" xml:id="Acts.10.9"><hi rend="superscript">9</hi> 彼等ゆきて次日その邑に近ける時ペテロ祈禱のため屋上に升れり時は約そ十二時なりし</ab>
+<ab type="verse" n="10" xml:id="Acts.10.10"><hi rend="superscript">10</hi> 甚く饑て食せんと欲しが人の食物を具る間に彼氣を喪へる心地して</ab>
+<ab type="verse" n="11" xml:id="Acts.10.11"><hi rend="superscript">11</hi> 天ひらけ器物の降れるを見る大なる布の如く四角を繋て地に縋下されたり</ab>
+<ab type="verse" n="12" xml:id="Acts.10.12"><hi rend="superscript">12</hi> 其中に凡て地の四足の獸昆蟲および空の鳥あり</ab>
+<ab type="verse" n="13" xml:id="Acts.10.13"><hi rend="superscript">13</hi> かつ聲ありて彼に曰けるはペテロよ起て之を殺し食せよ</ab>
+<ab type="verse" n="14" xml:id="Acts.10.14"><hi rend="superscript">14</hi> ペテロ答けるは主よ可らじ我いまだ穢たる物と潔からざる物を食せしことなし</ab>
+<ab type="verse" n="15" xml:id="Acts.10.15"><hi rend="superscript">15</hi> 聲ふたたび有て彼に曰けるは神の潔たる物を爾潔からずと爲なかれ</ab>
+<ab type="verse" n="16" xml:id="Acts.10.16"><hi rend="superscript">16</hi> 此の如こと三次ただちに其器物天に上られたり／</ab>
+<ab type="verse" n="17" xml:id="Acts.10.17"><hi rend="superscript">17</hi> 斯てペテロ其見し所の異象は如何なる意ならんと疑ひ在し時コルネリヲより遣されたる人等すでにシモンの家を訪て門の前に立</ab>
+<ab type="verse" n="18" xml:id="Acts.10.18"><hi rend="superscript">18</hi> 呼てペテロと稱シモンは此に寓れるや否と問</ab>
+<ab type="verse" n="19" xml:id="Acts.10.19"><hi rend="superscript">19</hi> ペテロ猶その異象の事を思をりしに靈かれに曰けるは視よ三人の者なんぢを尋ふ</ab>
+<ab type="verse" n="20" xml:id="Acts.10.20"><hi rend="superscript">20</hi> 起て下り疑はずして彼等と偕にゆけ我これを遣しし也</ab>
+<ab type="verse" n="21" xml:id="Acts.10.21"><hi rend="superscript">21</hi> ペテロ下て其人たちに曰けるは我は爾曹が尋る所の者なり爾曹如何なる故ありて來るや</ab>
+<ab type="verse" n="22" xml:id="Acts.10.22"><hi rend="superscript">22</hi> 彼等いひけるは百夫の長なるコルネリヲと云る義かつ神を敬ひ凡のユダヤ人の中に尊ばるる者なんぢを其家に召て爾の言を聽と聖使に示されたり</ab>
+<ab type="verse" n="23" xml:id="Acts.10.23"><hi rend="superscript">23</hi> 是に於てペテロ彼等の召入て舘しめ次日ペテロ彼等と偕に出立けるがヨッパの兄弟たちも亦かれに伴へり</ab>
+<ab type="verse" n="24" xml:id="Acts.10.24"><hi rend="superscript">24</hi> 次日かれらカイザリヤに入るコルネリヲは既に其親族および親き友等を召集て之を待居たり</ab>
+<ab type="verse" n="25" xml:id="Acts.10.25"><hi rend="superscript">25</hi> ペテロの入來れる時コルネリヲ彼を迎へ其足下に伏て拜り</ab>
+<ab type="verse" n="26" xml:id="Acts.10.26"><hi rend="superscript">26</hi> ペテロ之を扶起し曰けるは起よ我も人なり</ab>
+<ab type="verse" n="27" xml:id="Acts.10.27"><hi rend="superscript">27</hi> 斯て偕に語つつ内に入て多の人の集れるを見</ab>
+<ab type="verse" n="28" xml:id="Acts.10.28"><hi rend="superscript">28</hi> 彼等に曰けるはユダヤ人の異邦人と交り又近く事の律に合ざるは爾曹の知ところ也されど神は何の人をも穢たる者あるひは潔からざる者といふ勿と我に示し給へり</ab>
+<ab type="verse" n="29" xml:id="Acts.10.29"><hi rend="superscript">29</hi> 是故に我請らるるや直に猶豫ずして來る我なんぢらに問われを請しは何の爲なる乎</ab>
+<ab type="verse" n="30" xml:id="Acts.10.30"><hi rend="superscript">30</hi> コルネリヲ曰けるは四日前に我斷食して此時刻に至れり三時ごろ家に在て祈禱をりしに曄ける衣を着たる者わが前に立</ab>
+<ab type="verse" n="31" xml:id="Acts.10.31"><hi rend="superscript">31</hi> 曰けるはコルネリヲよ爾の祈禱は聞れ爾の施濟は神の前に記置れたり</ab>
+<ab type="verse" n="32" xml:id="Acts.10.32"><hi rend="superscript">32</hi> 然ば人をヨッパへ遣しペテロと稱シモンを召かれは海邊にある皮工シモンの家に寓れり彼きたりて爾に語るべしと</ab>
+<ab type="verse" n="33" xml:id="Acts.10.33"><hi rend="superscript">33</hi> 是故に我ただちに人を爾に遣せり爾の來れるは善われら神の爾に命じ給へる一切の言を聽んとて今神の前に在なり／</ab>
+<ab type="verse" n="34" xml:id="Acts.10.34"><hi rend="superscript">34</hi> ペテロ口を啓て曰けるは我まことに神は偏らざる者にして</ab>
+<ab type="verse" n="35" xml:id="Acts.10.35"><hi rend="superscript">35</hi> 何の國民にても神を敬ひ義を行ふ者は其聖旨に適と云ことを悟る</ab>
+<ab type="verse" n="36" xml:id="Acts.10.36"><hi rend="superscript">36</hi> その道は即ち神のイエス・キリストに由て平和を宣イスラエルの子孫に予たまひし所なり此イエスは萬物の主たる也</ab>
+<ab type="verse" n="37" xml:id="Acts.10.37"><hi rend="superscript">37</hi> 夫ヨハネの宣しバプテスマの後ガリラヤより始りユダヤ中に有し事は爾曹が知ところ</ab>
+<ab type="verse" n="38" xml:id="Acts.10.38"><hi rend="superscript">38</hi> 即ち此ナザレより出たるイエスは神より聖靈と才能を以て膏を沃がれ周遊て善事を行ひ凡て惡魔に憑たる者を愈せり蓋神彼と偕なりしに因</ab>
+<ab type="verse" n="39" xml:id="Acts.10.39"><hi rend="superscript">39</hi> 我儕は彼がユダヤ人の地およびエルサレムに於て行ひし凡の事を證する者なりユダヤ人は此人を木に懸て殺せり</ab>
+<ab type="verse" n="40" xml:id="Acts.10.40"><hi rend="superscript">40</hi> 神は第三日に之を甦らせ衆の民には顯さで</ab>
+<ab type="verse" n="41" xml:id="Acts.10.41"><hi rend="superscript">41</hi> 唯その預め選たまへる證人すなはち彼が甦りし後これと同に飮食せし我儕にのみ顯し給へり</ab>
+<ab type="verse" n="42" xml:id="Acts.10.42"><hi rend="superscript">42</hi> かつ彼は其生者と死者の審判人に神より定られし事を我儕に證して民に宣よと命じたり</ab>
+<ab type="verse" n="43" xml:id="Acts.10.43"><hi rend="superscript">43</hi> 凡の〔預言者｜預言者〕も凡そ彼を信ずる者は其名に由て罪の赦を受べしと彼につきて證せり</ab>
+<ab type="verse" n="44" xml:id="Acts.10.44"><hi rend="superscript">44</hi> ペテロこの言を語れる間に道を聽ところの凡の者に聖靈降れり</ab>
+<ab type="verse" n="45" xml:id="Acts.10.45"><hi rend="superscript">45</hi> ペテロと偕に來りし割禮ある信者等は聖靈の賜の異邦人にまで注げる事を駭きぬ</ab>
+<ab type="verse" n="46" xml:id="Acts.10.46"><hi rend="superscript">46</hi> そは異なる邦々の方言にて彼等が語れると神を讚るとを聞たれば也</ab>
+<ab type="verse" n="47" xml:id="Acts.10.47"><hi rend="superscript">47</hi> 此時ペテロ答けるは我儕の如く既に聖靈を受たる此人々に孰か水を禁じてバプテスマを受ざらしむる者あらん乎</ab>
+<ab type="verse" n="48" xml:id="Acts.10.48"><hi rend="superscript">48</hi> 遂に主の名に由てバプテスマを受べき事を彼等に命ず是に於て彼等ペテロに數日留らんことを請へり</ab>
+</div>
+<div type="chapter" n="11">
+  <head>第11章</head>
+<ab type="verse" n="1" xml:id="Acts.11.1"><hi rend="superscript">1</hi> 使徒等およびユダヤ中に在ところの兄弟すでに異邦人も神の道を受たりと聞</ab>
+<ab type="verse" n="2" xml:id="Acts.11.2"><hi rend="superscript">2</hi> ペテロ、エルサレムに上しとき割禮ある者ども彼と爭ひ</ab>
+<ab type="verse" n="3" xml:id="Acts.11.3"><hi rend="superscript">3</hi> 曰けるは爾は割禮なき人の家に入て彼等と同に食せり</ab>
+<ab type="verse" n="4" xml:id="Acts.11.4"><hi rend="superscript">4</hi> ペテロその有し始より次第に語て彼等に顯し曰けるは</ab>
+<ab type="verse" n="5" xml:id="Acts.11.5"><hi rend="superscript">5</hi> 我ヨッパの邑に在て祈れるとき氣を喪へる心地して天より四角を繋たる大なる布の如き器の下るを見たるに其器わが前に着り</ab>
+<ab type="verse" n="6" xml:id="Acts.11.6"><hi rend="superscript">6</hi> われ目を注て熟々之を視ば中に地の四足のものと野獸昆蟲および空の鳥ありき</ab>
+<ab type="verse" n="7" xml:id="Acts.11.7"><hi rend="superscript">7</hi> 且われにペテロよ起て之を殺し食すべしと曰る聲を聞り</ab>
+<ab type="verse" n="8" xml:id="Acts.11.8"><hi rend="superscript">8</hi> 我いひけるは主よ可らじ穢たる物と潔からざる物は未だ我口に入しことなし</ab>
+<ab type="verse" n="9" xml:id="Acts.11.9"><hi rend="superscript">9</hi> 聲また天より我に答て神の潔たる物を爾潔からずと爲なかれと曰</ab>
+<ab type="verse" n="10" xml:id="Acts.11.10"><hi rend="superscript">10</hi> 此の如きこと三次つひに各物ふたたび天に引上られたり</ab>
+<ab type="verse" n="11" xml:id="Acts.11.11"><hi rend="superscript">11</hi> 其時に當てカイザリヤより我に遣せる三人の者わが居ところの家の前に立り</ab>
+<ab type="verse" n="12" xml:id="Acts.11.12"><hi rend="superscript">12</hi> また靈われに疑はずして彼等と偕に往べしと曰り且この六人の兄弟も我と伴ひ往て其人の家に入ぬ</ab>
+<ab type="verse" n="13" xml:id="Acts.11.13"><hi rend="superscript">13</hi> かれ我儕につぐ天の使者の我家に立われに向て人をヨッパへ遣しペテロと稱シモンを迎よ</ab>
+<ab type="verse" n="14" xml:id="Acts.11.14"><hi rend="superscript">14</hi> 其人なんぢ及び爾の家族の救はるべき言を告んと曰るを見たりと</ab>
+<ab type="verse" n="15" xml:id="Acts.11.15"><hi rend="superscript">15</hi> 斯て我かたり始しとき聖靈はじめに我儕に降し如く彼等にも降れり</ab>
+<ab type="verse" n="16" xml:id="Acts.11.16"><hi rend="superscript">16</hi> 其時われ主の曰たまへるヨハネは水を以てバプテスマを施たれども爾曹は聖靈に由てバプテスマを受んとの言を〔意｜憶〕起せり</ab>
+<ab type="verse" n="17" xml:id="Acts.11.17"><hi rend="superscript">17</hi> 既に神は主イエス・キリストを信ずる所の我儕に賜し如おなじ賜物を彼等に予たまへば我いかで神に逆ふことを得んや</ab>
+<ab type="verse" n="18" xml:id="Acts.11.18"><hi rend="superscript">18</hi> 彼等この事を聞て答ふる所なく惟神を崇いひけるは實に然らん異邦人の生を得ん爲に彼等にも悔改を予給へる事／</ab>
+<ab type="verse" n="19" xml:id="Acts.11.19"><hi rend="superscript">19</hi> 偖ステパノに就て起し苦難に因て散されたる人々旅して〔ピニケ｜ペニケ〕、クプロ及アンテオケに至しが惟ユダヤ人にのみ道を語る</ab>
+<ab type="verse" n="20" xml:id="Acts.11.20"><hi rend="superscript">20</hi> 彼等の中にクプロ、クレネの人々ありてアンテオケに來り主イエスの福音を宣てギリシヤ人にも語れり</ab>
+<ab type="verse" n="21" xml:id="Acts.11.21"><hi rend="superscript">21</hi> 主の手〔之｜これ〕と偕にあり多の人信じて主に歸せり</ab>
+<ab type="verse" n="22" xml:id="Acts.11.22"><hi rend="superscript">22</hi> 彼等に就て其聞えエルサレムに在ところの教會の耳に入しかば遂にバルナバを遣してアンテオケに至しむ</ab>
+<ab type="verse" n="23" xml:id="Acts.11.23"><hi rend="superscript">23</hi> 彼すでに至り神の恩を見て喜び彼等に心を堅し主に屬んことを勸たり</ab>
+<ab type="verse" n="24" xml:id="Acts.11.24"><hi rend="superscript">24</hi> 蓋かれは善人にて聖靈と信仰の滿る者なればなり是に於て數多の人主に加りぬ</ab>
+<ab type="verse" n="25" xml:id="Acts.11.25"><hi rend="superscript">25</hi> 偖バルナバはサウロを尋んためにタルソに赴き</ab>
+<ab type="verse" n="26" xml:id="Acts.11.26"><hi rend="superscript">26</hi> 彼に遇て之をアンテオケに携來れり斯て彼等一年の間ともに教會に集りて衆の民を教ふ弟子たちのキリステアンと稱られしはアンテオケより始れり</ab>
+<ab type="verse" n="27" xml:id="Acts.11.27"><hi rend="superscript">27</hi> このころ數人の〔預言者｜預言者〕エルサレムよりアンテオケに來る</ab>
+<ab type="verse" n="28" xml:id="Acts.11.28"><hi rend="superscript">28</hi> その中の一人アガボと名るもの起て靈により示しけるは徧く世界に大なる饑饉あらんと其こと果して〔クラウデオ｜クラウデヲ〕・カイザルの時に起たり</ab>
+<ab type="verse" n="29" xml:id="Acts.11.29"><hi rend="superscript">29</hi> 是に於て弟子たち各々その力量に從ひてユダヤに住る所の兄弟を濟ん爲に彼等に物を餽んことを定め</ab>
+<ab type="verse" n="30" xml:id="Acts.11.30"><hi rend="superscript">30</hi> 遂に斯事を行ふ即ちバルナバとサウロの手に托して之を長老に送れり</ab>
+</div>
+<div type="chapter" n="12">
+  <head>第12章</head>
+<ab type="verse" n="1" xml:id="Acts.12.1"><hi rend="superscript">1</hi> 當時ヘロデ王教會の中の數人を困苦さんとて彼等を執ふ</ab>
+<ab type="verse" n="2" xml:id="Acts.12.2"><hi rend="superscript">2</hi> かつ刃をもてヨハネの兄弟ヤコブを殺せり</ab>
+<ab type="verse" n="3" xml:id="Acts.12.3"><hi rend="superscript">3</hi> 此事のユダヤ人の意に適るを見て彼またペテロをも執ふ此時は除酵節の日なりき</ab>
+<ab type="verse" n="4" xml:id="Acts.12.4"><hi rend="superscript">4</hi> 既に彼を執て獄にいれ逾越節ののち民の前に曳出さんと欲ひ十六人の兵卒に之を守しめたり</ab>
+<ab type="verse" n="5" xml:id="Acts.12.5"><hi rend="superscript">5</hi> ペテロは如此獄に守られ教會は之が爲に懇切神に祈る</ab>
+<ab type="verse" n="6" xml:id="Acts.12.6"><hi rend="superscript">6</hi> ヘロデ彼を曳出さんとする前夜ペテロは二の鏈に繋れて二人の兵卒の間に睡り守者は門の前に在て其獄を守れり</ab>
+<ab type="verse" n="7" xml:id="Acts.12.7"><hi rend="superscript">7</hi> 時に主の使者來りければ光獄の中に照輝その使者ペテロの脇を拊て之を醒し速かに起よと曰しに鏈その手より脱たり</ab>
+<ab type="verse" n="8" xml:id="Acts.12.8"><hi rend="superscript">8</hi> 使者かれに曰けるは爾帶をしめ履を納よペテロその如せり天使また曰けるは爾の袍を身に纏て我に從へ</ab>
+<ab type="verse" n="9" xml:id="Acts.12.9"><hi rend="superscript">9</hi> ペテロ出て之に從ひしが其使者の爲ことの眞實なるを知ず異象ならんと意ふ</ab>
+<ab type="verse" n="10" xml:id="Acts.12.10"><hi rend="superscript">10</hi> 斯て第一第二の警固を過て城邑に入ところの鐵門に至しに其門おのづから彼等の爲に啓く即ち出て一の衢を徑行とき其使者忽ち彼より離たり</ab>
+<ab type="verse" n="11" xml:id="Acts.12.11"><hi rend="superscript">11</hi> ペテロ悟て曰けるは我いま誠に知る主その使者を遣してヘロデの手および凡てユダヤ人の願望より我を拯出し給し事を</ab>
+<ab type="verse" n="12" xml:id="Acts.12.12"><hi rend="superscript">12</hi> かれ悟て後ヨハネ名をマコといふ人の母なるマリアの家に至しに多の人ここに集りて祈ゐたり</ab>
+<ab type="verse" n="13" xml:id="Acts.12.13"><hi rend="superscript">13</hi> ペテロが門の戸を叩ける時ローダと名る下婢きたりて之を窺ひしが</ab>
+<ab type="verse" n="14" xml:id="Acts.12.14"><hi rend="superscript">14</hi> ペテロの聲なるを知ければ喜に堪ず門をも啓ずして趨入ペテロの門の前に立ことを告</ab>
+<ab type="verse" n="15" xml:id="Acts.12.15"><hi rend="superscript">15</hi> 彼等ローダに曰けるは爾狂り然ども女力言て我言は違ずと曰かれら又いひけるは蓋ペテロ〔の｜を守る〕天の使者なり</ab>
+<ab type="verse" n="16" xml:id="Acts.12.16"><hi rend="superscript">16</hi> ペテロなほ門を叩て止ざりしかば彼等門を啓きペテロを見て駭けり</ab>
+<ab type="verse" n="17" xml:id="Acts.12.17"><hi rend="superscript">17</hi> ペテロ手を搖して彼等の聲を鎭しめ主の己を獄より引出し給し事の状を告また此事をヤコブ及び兄弟たちに示せといひ遂に出て他の處へ往り</ab>
+<ab type="verse" n="18" xml:id="Acts.12.18"><hi rend="superscript">18</hi> 天明に及し時ペテロは如何なりし乎と兵卒どもの中にて其騷擾容易ならざりき</ab>
+<ab type="verse" n="19" xml:id="Acts.12.19"><hi rend="superscript">19</hi> ヘロデ、ペテロを索れども見出さず遂に守卒を審問て彼等に死罪を命ず斯てヘロデはユダヤよりカイザリヤに下て止れり／</ab>
+<ab type="verse" n="20" xml:id="Acts.12.20"><hi rend="superscript">20</hi> ヘロデ、ツロとシドンの者に對て甚しく怒を懷ければ彼等心を合せて其所に來り内侍の臣ブラストに親睦をなし之に託て平和を求む蓋かれらの國は王の國に頼て糧食を獲ばなり</ab>
+<ab type="verse" n="21" xml:id="Acts.12.21"><hi rend="superscript">21</hi> ヘロデその定たる日に於て王服を著その位に坐し彼等に對て語れり</ab>
+<ab type="verse" n="22" xml:id="Acts.12.22"><hi rend="superscript">22</hi> 民聲を揚いひけるは此は神の聲なり人の聲に非ず</ab>
+<ab type="verse" n="23" xml:id="Acts.12.23"><hi rend="superscript">23</hi> ヘロデ榮を神に歸せざるにより主の使者ただちに彼を撃しかば彼は蟲の爲に噬れて氣絶ゆ</ab>
+<ab type="verse" n="24" xml:id="Acts.12.24"><hi rend="superscript">24</hi> さて神の道は益廣り</ab>
+<ab type="verse" n="25" xml:id="Acts.12.25"><hi rend="superscript">25</hi> バルナバ及びサウロは其職を成畢りてマコと名るヨハネを携ひてエルサレムより返れり</ab>
+</div>
+<div type="chapter" n="13">
+  <head>第13章</head>
+<ab type="verse" n="1" xml:id="Acts.13.1"><hi rend="superscript">1</hi> アンテオケの教會に數人の〔預言者｜預言者〕と教師あり即ちバルナバ及ニゲルと稱るるシメヲン又クレネのルキヲ及び分封の王ヘロデの乳兄弟マナエン及サウロなり</ab>
+<ab type="verse" n="2" xml:id="Acts.13.2"><hi rend="superscript">2</hi> 〔彼｜かれ〕ら主に事て斷食なせるとき聖靈曰けるは我ためにバルナバとサウロを甄別ちて我かれらに命ぜし所の事を行はしめよ</ab>
+<ab type="verse" n="3" xml:id="Acts.13.3"><hi rend="superscript">3</hi> 是に於て斷食し祈禱をなし手を二人の上に按て之を往しむ</ab>
+<ab type="verse" n="4" xml:id="Acts.13.4"><hi rend="superscript">4</hi> 如斯この二人は聖靈に遣されてセルキアに下り彼處より舟出してクプロに赴けり</ab>
+<ab type="verse" n="5" xml:id="Acts.13.5"><hi rend="superscript">5</hi> 彼等サラミスにつきユダヤ人の諸會堂において神の道を宣またヨハネを用ゐて其幇助となせり</ab>
+<ab type="verse" n="6" xml:id="Acts.13.6"><hi rend="superscript">6</hi> 斯て彼等島の中を經てパポスに至しとき僞の〔預言者｜預言者〕バリエスと名る卜筮をなすユダヤ人に遇</ab>
+<ab type="verse" n="7" xml:id="Acts.13.7"><hi rend="superscript">7</hi> この人は國の方伯セルギヲ・パウロといふ智人と偕にあり時に方伯バルナバとサウロを召て神の道を聽んことを求む</ab>
+<ab type="verse" n="8" xml:id="Acts.13.8"><hi rend="superscript">8</hi> 然るに彼の卜者エルマス（此名を釋ば卜者）二人の者に敵ひ方伯をして信ずること勿しめんとせり</ab>
+<ab type="verse" n="9" xml:id="Acts.13.9"><hi rend="superscript">9</hi> サウロ一名はパウロ聖靈に滿され目を注て彼を視</ab>
+<ab type="verse" n="10" xml:id="Acts.13.10"><hi rend="superscript">10</hi> 曰けるは噫すべての詭譎と奸惡にて盈るもの惡魔の子すべての義ことの敵よ爾主の直なる道を枉て止ざる乎</ab>
+<ab type="verse" n="11" xml:id="Acts.13.11"><hi rend="superscript">11</hi> 視よ主の手いま爾の上に在なんぢ瞽となり暫く日を見ざるべし即ち彼の目矇暗みて己を相せん者を求さまよへり</ab>
+<ab type="verse" n="12" xml:id="Acts.13.12"><hi rend="superscript">12</hi> 是に於て方伯この所爲を見て主の教を駭き之を信ぜり／</ab>
+<ab type="verse" n="13" xml:id="Acts.13.13"><hi rend="superscript">13</hi> パウロ及その從人パポスより舟出してパムフリアのペルゲに至り此處にてヨハネは彼等に別てエルサレムに歸り</ab>
+<ab type="verse" n="14" xml:id="Acts.13.14"><hi rend="superscript">14</hi> 彼等は此より旅してピシデアのアンテオケに至り安息日に會堂に入て坐しぬ</ab>
+<ab type="verse" n="15" xml:id="Acts.13.15"><hi rend="superscript">15</hi> 律法と〔預言者｜預言者〕の書を讀畢りしのち會堂の宰たち人を以て彼等に曰せけるは人々兄弟よ若民に勸ること有ば言</ab>
+<ab type="verse" n="16" xml:id="Acts.13.16"><hi rend="superscript">16</hi> パウロ起て手を搖し曰けるはイスラエルの人々および神を敬ふ者よ爾曹聽べし</ab>
+<ab type="verse" n="17" xml:id="Acts.13.17"><hi rend="superscript">17</hi> 此イスラエルの民の神は我儕の先祖たちを選び其民のエジプトの地に旅をりし時これを育かつ勁手を以て彼等を彼處より導き出し</ab>
+<ab type="verse" n="18" xml:id="Acts.13.18"><hi rend="superscript">18</hi> 約そ四十年のあひだ野にて之を撫養ひ</ab>
+<ab type="verse" n="19" xml:id="Acts.13.19"><hi rend="superscript">19</hi> 又カナンの地の七族の民を滅し其地を彼等に嗣しめ</ab>
+<ab type="verse" n="20" xml:id="Acts.13.20"><hi rend="superscript">20</hi> 後およそ四百五十年のあひだ即ち〔預言者｜預言者〕サムエルの時まで之に審士を與たまへり</ab>
+<ab type="verse" n="21" xml:id="Acts.13.21"><hi rend="superscript">21</hi> 厥後かれら王を求ければ四十年の間ベニヤミンの支派キスの子サウロを賜ふ</ab>
+<ab type="verse" n="22" xml:id="Acts.13.22"><hi rend="superscript">22</hi> 後また彼を徙しダビデを立て彼等の王となし且これが爲に證して曰たまひけるは我エツサイの子ダビデと云る我心に合ふ人を得たり彼は凡て我旨を行遂べし</ab>
+<ab type="verse" n="23" xml:id="Acts.13.23"><hi rend="superscript">23</hi> 神は其約束に從ひて斯人の裔より救主イエスをイスラエルに興し給り</ab>
+<ab type="verse" n="24" xml:id="Acts.13.24"><hi rend="superscript">24</hi> その來る前にヨハネ先イスラエルの凡の民に悔改のバプテスマを宣傳たり</ab>
+<ab type="verse" n="25" xml:id="Acts.13.25"><hi rend="superscript">25</hi> ヨハネその職を行ひし時いひけるは爾曹われを誰と意ふや我は其人に非ず我より後に來者あり我は其足の履を解にも足ざる者なり</ab>
+<ab type="verse" n="26" xml:id="Acts.13.26"><hi rend="superscript">26</hi> 人々兄弟アブラハムの子孫および爾曹のうち神を敬ふ者よ此救の道を爾曹に遺たまへり</ab>
+<ab type="verse" n="27" xml:id="Acts.13.27"><hi rend="superscript">27</hi> 夫エルサレムに住る者および其有司たちはキリストを知ず彼を罪に定て安息日ごとに讀ところの〔預言者｜預言者〕の言を成しめたり</ab>
+<ab type="verse" n="28" xml:id="Acts.13.28"><hi rend="superscript">28</hi> かつ殺すべき故を得ざれどもピラトに之を殺さんことを求め</ab>
+<ab type="verse" n="29" xml:id="Acts.13.29"><hi rend="superscript">29</hi> 已に彼に就て録されたる凡の言を成しめければ之を木より下して墓に置り</ab>
+<ab type="verse" n="30" xml:id="Acts.13.30"><hi rend="superscript">30</hi> 然ども神は之を死より甦らせ給り</ab>
+<ab type="verse" n="31" xml:id="Acts.13.31"><hi rend="superscript">31</hi> 多日の間かれはガリラヤより己と偕にエルサレムに上し者に現れたり今かれの爲に證を民にする者は其人々なり</ab>
+<ab type="verse" n="32" xml:id="Acts.13.32"><hi rend="superscript">32</hi> 我儕も喜の音を爾曹につぐ神はイエスを甦らせて先祖等に立たまひし約束を其子孫たる我儕に成たまへり</ab>
+<ab type="verse" n="33" xml:id="Acts.13.33"><hi rend="superscript">33</hi> 即ち詩の第二編に爾は我子なり我今日なんぢを生りと録されたるが如し</ab>
+<ab type="verse" n="34" xml:id="Acts.13.34"><hi rend="superscript">34</hi> また朽壤に歸せざる樣に彼を死より甦らする事に就ては左の如く言り云われダビデに約束せし所の頼むべき惠を爾曹に予ふ可と</ab>
+<ab type="verse" n="35" xml:id="Acts.13.35"><hi rend="superscript">35</hi> 是故に又ほかの篇に爾は其聖者を朽果しめずと云り</ab>
+<ab type="verse" n="36" xml:id="Acts.13.36"><hi rend="superscript">36</hi> 夫ダビデは神の旨に遵ひ其世の爲に勞苦しのち寢て先祖たちと偕に置れ遂に朽果たり</ab>
+<ab type="verse" n="37" xml:id="Acts.13.37"><hi rend="superscript">37</hi> 然ども神の甦らせ給し者は朽果ざりき</ab>
+<ab type="verse" n="38" xml:id="Acts.13.38"><hi rend="superscript">38</hi> 然ば人々兄弟よ此人に由て罪の赦の爾曹に傳れるを知</ab>
+<ab type="verse" n="39" xml:id="Acts.13.39"><hi rend="superscript">39</hi> 爾曹モーセの律法に依て義と爲るること能ざる凡の罪も信ずる者は皆かれに由て赦され義とせらるる也</ab>
+<ab type="verse" n="40" xml:id="Acts.13.40"><hi rend="superscript">40</hi> 然ば爾曹愼よ恐くは〔預言者｜預言者〕の書に言れたる事なんぢらに臨ん</ab>
+<ab type="verse" n="41" xml:id="Acts.13.41"><hi rend="superscript">41</hi> 曰く藐忽者よ視て駭き且亡よ蓋われ爾曹の日に一の事を行はん人これを爾曹に告るとも爾曹信ぜざる可れば也／</ab>
+<ab type="verse" n="42" xml:id="Acts.13.42"><hi rend="superscript">42</hi> かれら會堂を出んとせしとき次の安息日に復この事を宣よと請れたり</ab>
+<ab type="verse" n="43" xml:id="Acts.13.43"><hi rend="superscript">43</hi> 會すでに散じて多のユダヤ人および其教に入し神を敬ふ人々パウロとバルナバに從へりパウロ、バルナバ彼等に語て恆に神の恩に居ん事を勸む</ab>
+<ab type="verse" n="44" xml:id="Acts.13.44"><hi rend="superscript">44</hi> 次の安息日に至り邑の人々神の道を聽んとて幾ど皆集まれり</ab>
+<ab type="verse" n="45" xml:id="Acts.13.45"><hi rend="superscript">45</hi> その多く集れるを見てユダヤ人嫉妬を心に滿せて爭辨かつ詬りパウロが言ところを拒めり</ab>
+<ab type="verse" n="46" xml:id="Acts.13.46"><hi rend="superscript">46</hi> パウロとバルナバ毅然して曰けるは夫神の道は必ず先爾曹に告べきなり然ども爾曹は之を棄かつ己は永生を受べき者に非ずと自ら定たれば我儕轉て異邦人に向ふべし</ab>
+<ab type="verse" n="47" xml:id="Acts.13.47"><hi rend="superscript">47</hi> 蓋主かく我儕に命じ給へり曰く爾救となりて地の極にまで及ばん爲に我なんぢを立て異邦人の光となせり</ab>
+<ab type="verse" n="48" xml:id="Acts.13.48"><hi rend="superscript">48</hi> 異邦人は之をきき喜びて主の道を讚美すべて永生に定られたる者は信ぜり</ab>
+<ab type="verse" n="49" xml:id="Acts.13.49"><hi rend="superscript">49</hi> 是に於て主の道あまねく此地に廣りぬ</ab>
+<ab type="verse" n="50" xml:id="Acts.13.50"><hi rend="superscript">50</hi> 然るにユダヤ人神を敬ふ貴婦等および邑の尊長たる人々の心を動させてパウロとバルナバを窘迫その境より逐出せり</ab>
+<ab type="verse" n="51" xml:id="Acts.13.51"><hi rend="superscript">51</hi> 二人は彼等に對ひ足の塵を打拂ひてイコニオムに至れり</ab>
+<ab type="verse" n="52" xml:id="Acts.13.52"><hi rend="superscript">52</hi> 斯て弟子等は大に喜樂を懷かつ聖靈に盈されたり</ab>
+</div>
+<div type="chapter" n="14">
+  <head>第14章</head>
+<ab type="verse" n="1" xml:id="Acts.14.1"><hi rend="superscript">1</hi> 二人の者イコニオムに於て共にユダヤ人の會堂に入て道を傳へユダヤ人及びギリシヤ人を多く信ぜしめたり</ab>
+<ab type="verse" n="2" xml:id="Acts.14.2"><hi rend="superscript">2</hi> 然るに信ぜざるユダヤ人異邦人を唆て其心に兄弟を憾しむ</ab>
+<ab type="verse" n="3" xml:id="Acts.14.3"><hi rend="superscript">3</hi> 彼等は久しく彼處に留り主に頼て憚らず道を傳ふ主また彼等の手に休徴と奇なる跡を行はしめて其恩の道を證せり</ab>
+<ab type="verse" n="4" xml:id="Acts.14.4"><hi rend="superscript">4</hi> 邑の人々二に分れ或はユダヤ人に與し或は使徒等に與せり</ab>
+<ab type="verse" n="5" xml:id="Acts.14.5"><hi rend="superscript">5</hi> 斯て異邦人ユダヤ人および其有司たち共に擁上かれらを辱しめ石にて撃んとす</ab>
+<ab type="verse" n="6" xml:id="Acts.14.6"><hi rend="superscript">6</hi> 二人のもの之を知てルカオニヤの邑なるルステラ、デルベ及その四周の地に逃れ</ab>
+<ab type="verse" n="7" xml:id="Acts.14.7"><hi rend="superscript">7</hi> 彼等に於て福音を傳ふ／</ab>
+<ab type="verse" n="8" xml:id="Acts.14.8"><hi rend="superscript">8</hi> ルステラに一人の足弱もの坐しゐたり彼は生來の跛者にて未だ歩行しことなし</ab>
+<ab type="verse" n="9" xml:id="Acts.14.9"><hi rend="superscript">9</hi> 此人パウロの語るを聽をりしがパウロ目を注て其愈さるべき信仰あるを視</ab>
+<ab type="verse" n="10" xml:id="Acts.14.10"><hi rend="superscript">10</hi> 大聲に曰けるは爾の足にて正く立よ彼踊上りて行めり</ab>
+<ab type="verse" n="11" xml:id="Acts.14.11"><hi rend="superscript">11</hi> 人々パウロの爲し事を見て聲を揚ルカオニヤの方言にて曰けるは諸神人の形になりて我儕に臨れり</ab>
+<ab type="verse" n="12" xml:id="Acts.14.12"><hi rend="superscript">12</hi> 彼等バルナバをゼウスと稱パウロは專ら説話ことをする人なるが故にヘルメスと之を稱</ab>
+<ab type="verse" n="13" xml:id="Acts.14.13"><hi rend="superscript">13</hi> 時に其邑の前にある所のゼウスの祭司犢と花箝を門に携來て衆の人と共に犧牲を獻げ彼等を祭んとせり</ab>
+<ab type="verse" n="14" xml:id="Acts.14.14"><hi rend="superscript">14</hi> 使徒バルナバ、パウロ之を聞て己が衣を裂はしり出て大衆の中に入</ab>
+<ab type="verse" n="15" xml:id="Acts.14.15"><hi rend="superscript">15</hi> 喊叫いひけるは人々よ何故に此事を行や我儕も亦なんぢらと同情をもつ所の人なり爾曹に福音を傳るは爾曹をして此虚妄をすて天と地と海および其中の萬物を造り給へる活神に歸しめんが爲なり</ab>
+<ab type="verse" n="16" xml:id="Acts.14.16"><hi rend="superscript">16</hi> 往にし世には神すべての異邦人に其己が道を行むことを容し給しかど</ab>
+<ab type="verse" n="17" xml:id="Acts.14.17"><hi rend="superscript">17</hi> 亦なんぢらを惠て天より雨を降せ豐穰なる時候をあたへ糧食と喜樂をもて爾曹の心を滿しめ己〔自ら｜みづから〕證せざりし事なし</ab>
+<ab type="verse" n="18" xml:id="Acts.14.18"><hi rend="superscript">18</hi> 此言を以て苦辛じて衆の人の己等に犧牲を獻んとするを止たり／</ab>
+<ab type="verse" n="19" xml:id="Acts.14.19"><hi rend="superscript">19</hi> 時にユダヤ人等アンテオケ、イコニオムより來りて多の人を唆め石をもてパウロを撃しめ既に死たりと意ひ邑の外に曳出せり</ab>
+<ab type="verse" n="20" xml:id="Acts.14.20"><hi rend="superscript">20</hi> 弟子等その周圍に立るとき彼おきて邑にいり次の日バルナバと偕にデルベに往り</ab>
+<ab type="verse" n="21" xml:id="Acts.14.21"><hi rend="superscript">21</hi> 斯てその邑に福音を傳へ多の人を弟子となし又ルステラ、イコニオム、アンテオケに返り</ab>
+<ab type="verse" n="22" xml:id="Acts.14.22"><hi rend="superscript">22</hi> 弟子等の心を堅し其常に信仰に居んことを勸め又おほくの艱難を歴て我儕が神の國に至る可ことを教ふ</ab>
+<ab type="verse" n="23" xml:id="Acts.14.23"><hi rend="superscript">23</hi> 斯て二人のもの教會ごとに長老をえらび斷食と祈禱をなし前より信じをる所の主に之を託たり</ab>
+<ab type="verse" n="24" xml:id="Acts.14.24"><hi rend="superscript">24</hi> かれら遍くピシデヤを經てパムフリヤに至り</ab>
+<ab type="verse" n="25" xml:id="Acts.14.25"><hi rend="superscript">25</hi> 又ペルゲに道を傳てアッタリアに下り</ab>
+<ab type="verse" n="26" xml:id="Acts.14.26"><hi rend="superscript">26</hi> 彼處より舟にてアンテオケに航る此は彼等さきに神の恩に託られ今とげし職を行はんとて出し所なり</ab>
+<ab type="verse" n="27" xml:id="Acts.14.27"><hi rend="superscript">27</hi> 既に至りて教會の人を集め己を助けて神の行たまへる凡の事と異邦人のために信仰の門を開き給ひし事を告</ab>
+<ab type="verse" n="28" xml:id="Acts.14.28"><hi rend="superscript">28</hi> 斯て久く弟子等と偕に彼處に止れり</ab>
+</div>
+<div type="chapter" n="15">
+  <head>第15章</head>
+<ab type="verse" n="1" xml:id="Acts.15.1"><hi rend="superscript">1</hi> ユダヤより下し人々兄弟たちに教けるは若なんぢらモーセの例に從ひて割禮を受ずば救るることを得じ</ab>
+<ab type="verse" n="2" xml:id="Acts.15.2"><hi rend="superscript">2</hi> 之に由てパウロとバルナバ大に彼等と爭ひ且論ぜしかば兄弟等この事に就てパウロ、バルナバ及その中に數人をエルサレムに上せ使徒と長老等に遇しめん事を定む</ab>
+<ab type="verse" n="3" xml:id="Acts.15.3"><hi rend="superscript">3</hi> 是に於て彼等教會の人々に送られ出ピニケおよびサマリアを經て異邦人の神に歸せし事を具に述すべての兄弟を大に喜ばしめたり</ab>
+<ab type="verse" n="4" xml:id="Acts.15.4"><hi rend="superscript">4</hi> 彼等エルサレムに至り教會と使徒および長老たちに接られ己を助けて神の行たまひし凡の事を告しに</ab>
+<ab type="verse" n="5" xml:id="Acts.15.5"><hi rend="superscript">5</hi> パリサイ宗の中なる信者數人たちて曰けるは彼等に必ず割禮を施し且命じてモーセの例を守しむべし</ab>
+<ab type="verse" n="6" xml:id="Acts.15.6"><hi rend="superscript">6</hi> 使徒等および長老たち此事を議ん爲に集れり</ab>
+<ab type="verse" n="7" xml:id="Acts.15.7"><hi rend="superscript">7</hi> 茲に多の論ありしがペテロ起て彼等に曰けるは人々兄弟よ久き先に神われを爾曹の中より選び福音の道を我口より異邦人に聽せ彼等をして之を信ぜしめ給しことは爾曹の知ところ也</ab>
+<ab type="verse" n="8" xml:id="Acts.15.8"><hi rend="superscript">8</hi> かつ人の心を知たまふ神は我儕に聖靈を賜し如く彼等にも賜て其證をなし</ab>
+<ab type="verse" n="9" xml:id="Acts.15.9"><hi rend="superscript">9</hi> 又信仰をもて其心を潔め我儕と彼等の間に分を爲ざりき</ab>
+<ab type="verse" n="10" xml:id="Acts.15.10"><hi rend="superscript">10</hi> 然るに今何故我らの先祖たちも我儕も負あたはざる軛を弟子等の頸に置て神を試むる乎</ab>
+<ab type="verse" n="11" xml:id="Acts.15.11"><hi rend="superscript">11</hi> 彼等の救るる如く我儕も主イエス・キリストの恩に由て救るることを信ずる也</ab>
+<ab type="verse" n="12" xml:id="Acts.15.12"><hi rend="superscript">12</hi> 是に於て人々みな默してバルナバとパウロが神の己をもて異邦人の中に行ひ給へる休徴と奇跡とを述るを聞り</ab>
+<ab type="verse" n="13" xml:id="Acts.15.13"><hi rend="superscript">13</hi> 彼等が言畢りし後ヤコブ答て曰けるは人々兄弟よ我に聞</ab>
+<ab type="verse" n="14" xml:id="Acts.15.14"><hi rend="superscript">14</hi> 神初て異邦人を眷顧その中より己が名を崇る民を取給ひし事はシモン既に之を述</ab>
+<ab type="verse" n="15" xml:id="Acts.15.15"><hi rend="superscript">15</hi> 〔預言者｜預言者〕の言これと符り其書に</ab>
+<ab type="verse" n="16" xml:id="Acts.15.16"><hi rend="superscript">16</hi> 此後われ反て已に傾圯たるダビデの幕屋を復び起し其破壞の跡を再び造て之を建べし</ab>
+<ab type="verse" n="17" xml:id="Acts.15.17"><hi rend="superscript">17</hi> 是その餘の民および凡て我名をもて稱らるる異邦人に主を尋させん爲なり此すべての事を行ふ神これを言と録されたるが如し</ab>
+<ab type="verse" n="18" xml:id="Acts.15.18"><hi rend="superscript">18</hi> 神は世の始より其すべての所作を知たまへり</ab>
+<ab type="verse" n="19" xml:id="Acts.15.19"><hi rend="superscript">19</hi> 是故に我おもふ異邦人の中より神に歸する者を擾すは宜からずと</ab>
+<ab type="verse" n="20" xml:id="Acts.15.20"><hi rend="superscript">20</hi> 然ども書を彼等に遺て偶像に汚れたる物と姦淫と勒殺たる物と血とを戒むべし</ab>
+<ab type="verse" n="21" xml:id="Acts.15.21"><hi rend="superscript">21</hi> そは古より安息日ごとに會堂にてモーセの書を讀が故に其を宣るもの各邑にあれば也／</ab>
+<ab type="verse" n="22" xml:id="Acts.15.22"><hi rend="superscript">22</hi> 是に於て使徒および長老たち全會と偕に其中より人を選び之をパウロ、バルナバと共にアンテオケに遣さん事を定その選れたる人は兄弟の中の尊者すなはちバルサバと稱るるユダ及シラスなり</ab>
+<ab type="verse" n="23" xml:id="Acts.15.23"><hi rend="superscript">23</hi> 彼等の手に托て遺し書に云く使徒長老及び兄弟アンテオケ、スリヤ、キリキヤにをる異邦人の兄弟に安を問</ab>
+<ab type="verse" n="24" xml:id="Acts.15.24"><hi rend="superscript">24</hi> 我儕が命ぜざるもの我儕の中よりいで言をもて爾曹を擾し爾曹の心を亂たりと聞</ab>
+<ab type="verse" n="25" xml:id="Acts.15.25"><hi rend="superscript">25</hi> [25-26]之に由て我儕心を同し人を選て我儕の愛するバルナバ、パウロと偕に遣さんと定この二人は我儕の主イエス・キリストの名の爲に其命をも愛ざりし者なり</ab>
+<ab type="verse" n="26" xml:id="Acts.15.26"><hi rend="superscript">26</hi> *[25-26]之に由て我儕心を同し人を選て我儕の愛するバルナバ、パウロと偕に遣さんと定この二人は我儕の主イエス・キリストの名の爲に其命をも愛ざりし者なり</ab>
+<ab type="verse" n="27" xml:id="Acts.15.27"><hi rend="superscript">27</hi> 我儕ユダとシラスを遣し彼等の口より此事を述しめんとす</ab>
+<ab type="verse" n="28" xml:id="Acts.15.28"><hi rend="superscript">28</hi> 〔蓋｜そは〕聖靈と我儕と左の肝要なるものの外は何をも爾曹に任せじと定たり</ab>
+<ab type="verse" n="29" xml:id="Acts.15.29"><hi rend="superscript">29</hi> 即ち偶像に獻し物と血と勒殺たる物と姦淫とを戒むべし若これらの事を爾曹みづから愼まば善ねがはくは爾曹健剛なれ</ab>
+<ab type="verse" n="30" xml:id="Acts.15.30"><hi rend="superscript">30</hi> かれら遣されてアンテオケに至り衆人を集て此書を付す</ab>
+<ab type="verse" n="31" xml:id="Acts.15.31"><hi rend="superscript">31</hi> 衆人これを讀その勸を受て喜べり</ab>
+<ab type="verse" n="32" xml:id="Acts.15.32"><hi rend="superscript">32</hi> ユダとシラスも亦〔預言者｜預言者〕なれば多の言を以て兄弟を勸め彼等を堅せり</ab>
+<ab type="verse" n="33" xml:id="Acts.15.33"><hi rend="superscript">33</hi> 斯て二人の者暫く彼處に止り後兄弟たちに安然を祝され其己を遣しし者の所に送れたり</ab>
+<ab type="verse" n="34" xml:id="Acts.15.34"><hi rend="superscript">34</hi> (なし)</ab>
+<ab type="verse" n="35" xml:id="Acts.15.35"><hi rend="superscript">35</hi> [34]パウロとバルナバはアンテオケに止り其餘の多の人と共に教をなし主の道を宣傳ふ／</ab>
+<ab type="verse" n="36" xml:id="Acts.15.36"><hi rend="superscript">36</hi> [35]數日の後パウロ、バルナバに曰けるは我儕さきに主の道を宣し所の諸邑に復ゆきて兄弟の光景を率とふべし</ab>
+<ab type="verse" n="37" xml:id="Acts.15.37"><hi rend="superscript">37</hi> [36]偖バルナバはマコと名るヨハネを伴はんと欲へり</ab>
+<ab type="verse" n="38" xml:id="Acts.15.38"><hi rend="superscript">38</hi> [37]然どもパウロは曩にパムフリアにて己より離れ役事のため共に往ざりし此マコを伴ふは宜らじと意しに因</ab>
+<ab type="verse" n="39" xml:id="Acts.15.39"><hi rend="superscript">39</hi> [38]遂に二人の仲に激論おこり相別てバルナバはマコを伴ひクプロに航れり</ab>
+<ab type="verse" n="40" xml:id="Acts.15.40"><hi rend="superscript">40</hi> [39]パウロはシラスを選び兄弟より己を主の恩に托られて出立</ab>
+<ab type="verse" n="41" xml:id="Acts.15.41"><hi rend="superscript">41</hi> [40]スリヤ及びキリキヤを經て諸教會を堅せり</ab>
+</div>
+<div type="chapter" n="16">
+  <head>第16章</head>
+<ab type="verse" n="1" xml:id="Acts.16.1"><hi rend="superscript">1</hi> 斯てパウロはデルベ及ルステラに至れり此にテモテと云る弟子あり其母はユダヤの婦にて信者なり其父はギリシヤ人なり</ab>
+<ab type="verse" n="2" xml:id="Acts.16.2"><hi rend="superscript">2</hi> 彼はルステラ、イコニオムの兄弟より稱を得たり</ab>
+<ab type="verse" n="3" xml:id="Acts.16.3"><hi rend="superscript">3</hi> パウロ之を携て偕に往んことを欲其處にをるユダヤ人の爲に割禮を行へり蓋人々皆彼が父のギリシヤ人なるを知ばなり</ab>
+<ab type="verse" n="4" xml:id="Acts.16.4"><hi rend="superscript">4</hi> 斯て諸邑をすぎエルサレムにある使徒および長老等の定たる條規を守せんとて之を其人々に授く</ab>
+<ab type="verse" n="5" xml:id="Acts.16.5"><hi rend="superscript">5</hi> 之に由て諸教會の信仰堅なり其數も日々に増ぬ／</ab>
+<ab type="verse" n="6" xml:id="Acts.16.6"><hi rend="superscript">6</hi> 彼等フルギヤとガラテヤの地を過し時アジアに道を傳ることを聖靈に禁られ</ab>
+<ab type="verse" n="7" xml:id="Acts.16.7"><hi rend="superscript">7</hi> 遂にムシアに近きビテニヤに往んとせしがイエスの靈之を許さざりければ</ab>
+<ab type="verse" n="8" xml:id="Acts.16.8"><hi rend="superscript">8</hi> 彼等ムシアを經てトロアスに下れり</ab>
+<ab type="verse" n="9" xml:id="Acts.16.9"><hi rend="superscript">9</hi> 斯てパウロ夜に於て一人のマケドニヤ人たちて己に請マケドニヤに渉て我儕を助よと曰を幻に見たり</ab>
+<ab type="verse" n="10" xml:id="Acts.16.10"><hi rend="superscript">10</hi> 彼が幻に之を見し後我ら誠に主の我儕をしてマケドニヤ人に福音を宣しめんと我儕を召給ふことを推量て直にマケドニヤに往んとす</ab>
+<ab type="verse" n="11" xml:id="Acts.16.11"><hi rend="superscript">11</hi> 是に於てトロアスより航海をし眞直にはせてサモトラケに至り其次日ネアポリスに往</ab>
+<ab type="verse" n="12" xml:id="Acts.16.12"><hi rend="superscript">12</hi> 彼處よりピリピに至るピリピはマケドニヤの一の分の中なる名ある邑にして即ち殖民地なり我儕數日この邑に止れり</ab>
+<ab type="verse" n="13" xml:id="Acts.16.13"><hi rend="superscript">13</hi> 安息日に我儕邑をいで河の濱なる常に祈禱をする處にゆき坐して集れる婦女等に語しに</ab>
+<ab type="verse" n="14" xml:id="Acts.16.14"><hi rend="superscript">14</hi> 紫布を售ふテアテラの邑の商人にて神を敬ふルデヤと名くる婦ききゐたり主その心を啓てパウロの語ることに心を用しめ給ふ</ab>
+<ab type="verse" n="15" xml:id="Acts.16.15"><hi rend="superscript">15</hi> かの婦其家族と偕にバプテスマをうけ求て曰けるは爾曹もし主を信ずる者と我を爲ば我家に來り留れと強て我儕を入しめたり</ab>
+<ab type="verse" n="16" xml:id="Acts.16.16"><hi rend="superscript">16</hi> われら祈禱所に往るとき卜筮をする靈に憑れたる一人の婦の奴隸われらに遇かれは卜占に因て其主たちに多の利を得させし者なり</ab>
+<ab type="verse" n="17" xml:id="Acts.16.17"><hi rend="superscript">17</hi> パウロと我儕に從ひて喊叫いひけるは此人々は至高き神の僕にて救道を我儕に宣る者なり</ab>
+<ab type="verse" n="18" xml:id="Acts.16.18"><hi rend="superscript">18</hi> この婦かく爲こと久かりければパウロ之を憂かへりみて靈に曰けるは我イエス・キリストの名に由て爾に命ず此婦より出よ靈立刻に出</ab>
+<ab type="verse" n="19" xml:id="Acts.16.19"><hi rend="superscript">19</hi> 是に於て其主たち利の望すでに去るを見てパウロとシラスを執へ市場に曳て有司等に至れり</ab>
+<ab type="verse" n="20" xml:id="Acts.16.20"><hi rend="superscript">20</hi> 既に上官の所に曳來りて曰けるは此人々はユダヤ人にして我儕の邑を擾し</ab>
+<ab type="verse" n="21" xml:id="Acts.16.21"><hi rend="superscript">21</hi> ロマ人たる我儕の受べからず行ふ可らざる所の習俗を傳る者なり</ab>
+<ab type="verse" n="22" xml:id="Acts.16.22"><hi rend="superscript">22</hi> 大勢のもの齊く起て彼等をせめ上官その衣をはぎ命じて之を杖しむ</ab>
+<ab type="verse" n="23" xml:id="Acts.16.23"><hi rend="superscript">23</hi> 多く杖てのち獄に入これを固守れと獄吏に命ず</ab>
+<ab type="verse" n="24" xml:id="Acts.16.24"><hi rend="superscript">24</hi> 獄吏かくの如き命を受しにより彼等を奧の獄に入て桎をかけたり</ab>
+<ab type="verse" n="25" xml:id="Acts.16.25"><hi rend="superscript">25</hi> 斯て夜半ごろパウロとシラス祈禱をなし且神を讚美す囚者ら耳を傾けて之を聞ゐたりしが</ab>
+<ab type="verse" n="26" xml:id="Acts.16.26"><hi rend="superscript">26</hi> 俄に大なる地震ありて獄の基礎ふるひ動き門ことごとく直に啓け衆の囚者の械繋とけたり</ab>
+<ab type="verse" n="27" xml:id="Acts.16.27"><hi rend="superscript">27</hi> 獄吏目を醒し獄門の啓けたるを見て囚者すでに逃しと意ひ刀を拔て自殺せんとしければ</ab>
+<ab type="verse" n="28" xml:id="Acts.16.28"><hi rend="superscript">28</hi> パウロ大聲に呼り曰けるは自ら戕ふ勿れ我儕みな此に在</ab>
+<ab type="verse" n="29" xml:id="Acts.16.29"><hi rend="superscript">29</hi> 此時かれ火を索て躍いり戰慄てパウロとシラスの前に俯伏</ab>
+<ab type="verse" n="30" xml:id="Acts.16.30"><hi rend="superscript">30</hi> 彼等を外に携出して曰けるは君よ我すくはれん爲に何を爲べき乎</ab>
+<ab type="verse" n="31" xml:id="Acts.16.31"><hi rend="superscript">31</hi> 彼等曰けるは主イエス・キリストを信ぜよ然らば爾および爾の家族も救るべし</ab>
+<ab type="verse" n="32" xml:id="Acts.16.32"><hi rend="superscript">32</hi> 遂に彼および其家の凡の者に主の道を語れり</ab>
+<ab type="verse" n="33" xml:id="Acts.16.33"><hi rend="superscript">33</hi> この夜の即時かれ二人を誘ひ其杖傷を濯て直に其家族と偕に皆バプテスマを受</ab>
+<ab type="verse" n="34" xml:id="Acts.16.34"><hi rend="superscript">34</hi> 且かれらを己が家に引來り食物を其前に備すべての家族と偕に神を信じて喜べり</ab>
+<ab type="verse" n="35" xml:id="Acts.16.35"><hi rend="superscript">35</hi> 天明に至て上官たち下吏を遣し曰せけるは其人々を釋べし</ab>
+<ab type="verse" n="36" xml:id="Acts.16.36"><hi rend="superscript">36</hi> 獄吏この言をパウロに告て曰けるは上官なんぢらを釋せと言遣せり然ば今いでて安然に去</ab>
+<ab type="verse" n="37" xml:id="Acts.16.37"><hi rend="superscript">37</hi> パウロ彼等に曰けるは我儕ロマ人なるに罪を定ずして公然に我儕を杖ち且獄に入たり而して今ひそかに出さんと爲か宜からず彼等みづから來て我儕を引出すべし</ab>
+<ab type="verse" n="38" xml:id="Acts.16.38"><hi rend="superscript">38</hi> 下吏この言を上官たちに告ければ彼等そのロマ人なるを聞て懼れ</ab>
+<ab type="verse" n="39" xml:id="Acts.16.39"><hi rend="superscript">39</hi> 來て彼等に此より出んことを求つひに引出して又その邑を去んことを請たり</ab>
+<ab type="verse" n="40" xml:id="Acts.16.40"><hi rend="superscript">40</hi> 二人のもの獄を出ルデアの家にいり兄弟等に遇これに勸をなして出去ぬ</ab>
+</div>
+<div type="chapter" n="17">
+  <head>第17章</head>
+<ab type="verse" n="1" xml:id="Acts.17.1"><hi rend="superscript">1</hi> 斯て彼等はアムピポリス及アポロニヤを過てテサロニケに至る此にユダヤ人の會堂あり</ab>
+<ab type="verse" n="2" xml:id="Acts.17.2"><hi rend="superscript">2</hi> パウロ常の如く彼等の中にいり三回安息日ごとに聖書に本きて彼等と論じ</ab>
+<ab type="verse" n="3" xml:id="Acts.17.3"><hi rend="superscript">3</hi> キリストの必ず苦難をうけ死より甦るべき事を説また我汝らに傳る所の此イエスは即ちキリストなる事を説明せり</ab>
+<ab type="verse" n="4" xml:id="Acts.17.4"><hi rend="superscript">4</hi> 是に於て其中の人々信じてパウロとシラスに從り又神を敬ふギリシヤ人の之に從るも多く貴女も少からざりき</ab>
+<ab type="verse" n="5" xml:id="Acts.17.5"><hi rend="superscript">5</hi> 然るにユダヤ人これを妬み市井にある匪類をかたらひ群を成て邑を擾せパウロとシラスを執へ民の前に曳出さんとてヤソンの家に來しが</ab>
+<ab type="verse" n="6" xml:id="Acts.17.6"><hi rend="superscript">6</hi> 彼等を見出さざりければヤソン及び數人の兄弟と邑宰の前に曳來て大聲に曰けるは天下を亂す斯者ども此にまで來れり</ab>
+<ab type="verse" n="7" xml:id="Acts.17.7"><hi rend="superscript">7</hi> ヤソンは之を迎納たり此人々は皆イエスといふ他の王ありと言てカイザルの命に背く者なり</ab>
+<ab type="verse" n="8" xml:id="Acts.17.8"><hi rend="superscript">8</hi> 大衆と邑の宰等これを聞て心を痛しむ</ab>
+<ab type="verse" n="9" xml:id="Acts.17.9"><hi rend="superscript">9</hi> 上官はヤソン及その餘の人々より保状を取て之を釋せり</ab>
+<ab type="verse" n="10" xml:id="Acts.17.10"><hi rend="superscript">10</hi> 兄弟たち夜間に急ぎパウロとシラスをベレアに去しむ彼等かしこに至てユダヤ人の會堂に往り</ab>
+<ab type="verse" n="11" xml:id="Acts.17.11"><hi rend="superscript">11</hi> 此處の人々はテロサニケの者よりは性情よきが故に好て道をきき此の如こと果して有か無かを知んとて日々に聖書を究れり</ab>
+<ab type="verse" n="12" xml:id="Acts.17.12"><hi rend="superscript">12</hi> 是故に其中の人おほく之を信ず又ギリシヤの貴女及び男子の信じたる者も少からざりき</ab>
+<ab type="verse" n="13" xml:id="Acts.17.13"><hi rend="superscript">13</hi> テサロニケのユダヤ人は神の言のパウロに因てベレアにも傳りしを知〔又｜また〕彼處に至て人々を擾しめたり</ab>
+<ab type="verse" n="14" xml:id="Acts.17.14"><hi rend="superscript">14</hi> 是に於て兄弟たち直にパウロを海に適しむ然どもシラスとテモテは尚この處に留りぬ</ab>
+<ab type="verse" n="15" xml:id="Acts.17.15"><hi rend="superscript">15</hi> パウロを伴ひし者かれを携てアテンスに至る其人々パウロよりシラスとテモテを速に來しめよとの命を受て出立り／</ab>
+<ab type="verse" n="16" xml:id="Acts.17.16"><hi rend="superscript">16</hi> パウロ、アテンスに在て彼等を待る時その邑こぞりて偶像に事るを見て甚く心を傷めたり</ab>
+<ab type="verse" n="17" xml:id="Acts.17.17"><hi rend="superscript">17</hi> 是故に會堂に於てユダヤ人および神を敬ふ人々と論じ又日々市に於て其遇ところの者と論ず</ab>
+<ab type="verse" n="18" xml:id="Acts.17.18"><hi rend="superscript">18</hi> 時にエピクリアン及びストイクの理學者數人これと相語り或人いひけるは此嘐啁者なにを言んとする乎また或人いふ彼は異なる鬼神を傳る者の如しと蓋パウロ彼等にイエス及び復生の事を宣しが故なり</ab>
+<ab type="verse" n="19" xml:id="Acts.17.19"><hi rend="superscript">19</hi> 斯て彼を引つれアレオ山に往て曰けるは爾が語る所の此新しき教を我儕知せらるることを得るや</ab>
+<ab type="verse" n="20" xml:id="Acts.17.20"><hi rend="superscript">20</hi> 爾の異聞を我儕の耳に入しが故に我儕その何事なるを知んとすれば也</ab>
+<ab type="verse" n="21" xml:id="Acts.17.21"><hi rend="superscript">21</hi> 凡て此アテンス人および其地に留れる人は惟新しき事をつげ或は聽事にのみ其日を送れり</ab>
+<ab type="verse" n="22" xml:id="Acts.17.22"><hi rend="superscript">22</hi> パウロ、アレオ山の中に立て曰けるはアテンスの人よ我なんぢらが毎事に鬼神を敬ふの甚しきを觀</ab>
+<ab type="verse" n="23" xml:id="Acts.17.23"><hi rend="superscript">23</hi> われ途を行とき爾曹が敬拜ところの者を見しに識ざる神にと刻書し一の祭壇を見出せり故に爾曹が識ずして敬ふ此者を我なんぢらに示さん</ab>
+<ab type="verse" n="24" xml:id="Acts.17.24"><hi rend="superscript">24</hi> それ宇宙と其中の萬物を造り給る神は是天地の主なれば手にて造れる殿に住たまはず</ab>
+<ab type="verse" n="25" xml:id="Acts.17.25"><hi rend="superscript">25</hi> かつ衆人に生命と氣息と萬物を予たまへば物に乏きことなし人の手にて事らるるものに非ず</ab>
+<ab type="verse" n="26" xml:id="Acts.17.26"><hi rend="superscript">26</hi> また〔此神は凡の民を一の血よりつくり｜一の血脈より出し凡の民を〕悉く地の全面に住せ預じめ其時と住ところの界とを定め給へり</ab>
+<ab type="verse" n="27" xml:id="Acts.17.27"><hi rend="superscript">27</hi> 此れ人をして神を求しめ彼等が或は揣摩うる事あらん爲なり然ども神は我儕各人を離るること遠からざる也</ab>
+<ab type="verse" n="28" xml:id="Acts.17.28"><hi rend="superscript">28</hi> それ我儕は彼に頼て生また動また存ことを得なり爾曹の詩人たちも我儕は其裔なりと云しが如し</ab>
+<ab type="verse" n="29" xml:id="Acts.17.29"><hi rend="superscript">29</hi> 如此われらは神の裔なれば其神を金銀または石など人の工と巧を以て造れる者と均く意ふ可らず</ab>
+<ab type="verse" n="30" xml:id="Acts.17.30"><hi rend="superscript">30</hi> 往者に蒙昧し時は神これを不問に爲給しが今は何處の人にも皆悔改むることを命じ給ふなり</ab>
+<ab type="verse" n="31" xml:id="Acts.17.31"><hi rend="superscript">31</hi> 蓋神すでに其立し所の人により義をもて世を鞫べき日を定め此事に就ては彼を死より甦らせて其證を衆の人に予たまへば也</ab>
+<ab type="verse" n="32" xml:id="Acts.17.32"><hi rend="superscript">32</hi> かれら死たる者の復生の言を聞て或人は戯笑ある人は我儕この言を再び爾に聽んと曰</ab>
+<ab type="verse" n="33" xml:id="Acts.17.33"><hi rend="superscript">33</hi> 是に於てパウロ彼等の中より出去る</ab>
+<ab type="verse" n="34" xml:id="Acts.17.34"><hi rend="superscript">34</hi> 然ど數人彼に從て信ぜり其中にはアレオ山の裁判人デオヌシオ及ダマリスと名くる女また其他の人も之と偕に在き</ab>
+</div>
+<div type="chapter" n="18">
+  <head>第18章</head>
+<ab type="verse" n="1" xml:id="Acts.18.1"><hi rend="superscript">1</hi> 此後パウロはアテンスを離てコリントに至る</ab>
+<ab type="verse" n="2" xml:id="Acts.18.2"><hi rend="superscript">2</hi> 新近イタリヤより來れる者にてポントに生しアクラと名るユダヤ人および其妻プリスキラに遇て其所に至れり彼等がイタリヤより來しはクラウデヲ、ユダヤ人に盡くロマを離と命ぜしに因てなり</ab>
+<ab type="verse" n="3" xml:id="Acts.18.3"><hi rend="superscript">3</hi> 彼その業を同くするに由て之と偕に止りて工を作ぬ其業は幕屋を製る者なり</ab>
+<ab type="verse" n="4" xml:id="Acts.18.4"><hi rend="superscript">4</hi> 斯てパウロは安息日ごとに會堂に於て論じユダヤ人とギリシヤ人を勸めたり</ab>
+<ab type="verse" n="5" xml:id="Acts.18.5"><hi rend="superscript">5</hi> シラスとテモテ、マケドニヤより下たる時パウロ、ユダヤ人に向てイエスのキリストなる事を證し道を傳ふることに心を凝し居り</ab>
+<ab type="verse" n="6" xml:id="Acts.18.6"><hi rend="superscript">6</hi> 然るにユダヤ人は之に敵ひ且誚しに因パウロ衣を拂て彼等に曰けるは爾曹の血は爾曹の首に歸すべし我は咎なし今より異邦人に適ん</ab>
+<ab type="verse" n="7" xml:id="Acts.18.7"><hi rend="superscript">7</hi> 遂に此を離てユストと云る人の家にいる彼は神を敬ふ者にて其家は會堂に隣れり</ab>
+<ab type="verse" n="8" xml:id="Acts.18.8"><hi rend="superscript">8</hi> 會堂の宰クリスポ及その家族みな主を信ず又コリント人にて道をきき信じてバプテスマを受し者も多りき</ab>
+<ab type="verse" n="9" xml:id="Acts.18.9"><hi rend="superscript">9</hi> 主或夜まぼろしにパウロに語給ひけるは懼るる勿れ默せずして語べし</ab>
+<ab type="verse" n="10" xml:id="Acts.18.10"><hi rend="superscript">10</hi> 蓋われ爾と偕にあれば爾を害せんとて責る者なし且この邑に我おほくの民あり</ab>
+<ab type="verse" n="11" xml:id="Acts.18.11"><hi rend="superscript">11</hi> 是に於てパウロ一年と六ヶ月の間かれらの中に居て神の道を教へたり／</ab>
+<ab type="verse" n="12" xml:id="Acts.18.12"><hi rend="superscript">12</hi> ガリヨ、アカヤの代官たりし時ユダヤ人心を合せてパウロを攻かれを裁判所に曳來り</ab>
+<ab type="verse" n="13" xml:id="Acts.18.13"><hi rend="superscript">13</hi> 曰けるは此徒は律法に背て神を拜ことを人に勸る者なり</ab>
+<ab type="verse" n="14" xml:id="Acts.18.14"><hi rend="superscript">14</hi> パウロ口を啓んとせし時ガリヨ、ユダヤ人に曰けるはユダヤ人よ若し不義奸惡の事ならば我が爾曹より聽は理なり</ab>
+<ab type="verse" n="15" xml:id="Acts.18.15"><hi rend="superscript">15</hi> 然ども若し言語あるひは名字および爾曹の律法の論ならば爾曹みづから之を理べし我かかる事の審士たるを欲ず</ab>
+<ab type="verse" n="16" xml:id="Acts.18.16"><hi rend="superscript">16</hi> 斯て彼等を裁判所より逐出せり</ab>
+<ab type="verse" n="17" xml:id="Acts.18.17"><hi rend="superscript">17</hi> 是に於て凡のギリシヤ人會堂の宰なるソステネを執へ裁判所の前にて杖扑りガリヨは更に此事を意とせざりき／</ab>
+<ab type="verse" n="18" xml:id="Acts.18.18"><hi rend="superscript">18</hi> パウロ此處になほ久く留り後兄弟に暇を告てプリスキラ及アクラと偕に舟にてスリヤに濟る彼ケンクレアに在しとき誓願に因て髮を剪り</ab>
+<ab type="verse" n="19" xml:id="Acts.18.19"><hi rend="superscript">19</hi> 彼エペソに至て二人を其處に留おき自ら會堂に入てユダヤ人と論ぜり</ab>
+<ab type="verse" n="20" xml:id="Acts.18.20"><hi rend="superscript">20</hi> 衆人彼が久く偕に居んことを請たれど肯はずして</ab>
+<ab type="verse" n="21" xml:id="Acts.18.21"><hi rend="superscript">21</hi> 暇を告て曰けるは我この來んとする節を必ずエルサレムに於て守ざるを得ず然どもし神許し給はば復び爾曹に返べしと遂に舟出してエペソを去</ab>
+<ab type="verse" n="22" xml:id="Acts.18.22"><hi rend="superscript">22</hi> カイザリヤにつき而してエルサレムに上り教會の安否を問て後アンテオケに下り</ab>
+<ab type="verse" n="23" xml:id="Acts.18.23"><hi rend="superscript">23</hi> 暫く此處に住て又出立ガラテヤ及びフルギヤの地を逐次に經て凡の弟子等を堅せり／</ab>
+<ab type="verse" n="24" xml:id="Acts.18.24"><hi rend="superscript">24</hi> 爰にアレキサンデリアに生しユダヤ人にて辨才あり且聖書に達したるアポロと名る人エペソに來れり</ab>
+<ab type="verse" n="25" xml:id="Acts.18.25"><hi rend="superscript">25</hi> この人夙より主の道の教を受かつ心を熱してイエスの事を詳細に誨ふ然ど惟ヨハネのバプテスマを知るのみ</ab>
+<ab type="verse" n="26" xml:id="Acts.18.26"><hi rend="superscript">26</hi> かれ始て此會堂に於て憚らず語りければプリスキラとアクラ之を聞て彼を己が家に招き神の道を尚も詳細に説明せり</ab>
+<ab type="verse" n="27" xml:id="Acts.18.27"><hi rend="superscript">27</hi> アポロ、アカヤに往んとせしかば兄弟たち書を遺て弟子等に彼を接容んことを勸かれ至て既に恩により信ぜし者を大に助たり</ab>
+<ab type="verse" n="28" xml:id="Acts.18.28"><hi rend="superscript">28</hi> 蓋かれ聖書を引てイエスのキリストなる事を示し人々の前にてユダヤ人を甚く辨折たれば也</ab>
+</div>
+<div type="chapter" n="19">
+  <head>第19章</head>
+<ab type="verse" n="1" xml:id="Acts.19.1"><hi rend="superscript">1</hi> アポロのコリントに居る時パウロ東の方の地を經てエペソに來り或弟子たちに遇て</ab>
+<ab type="verse" n="2" xml:id="Acts.19.2"><hi rend="superscript">2</hi> 之に曰けるは爾曹信者と爲しとき聖靈を受しや答けるは我儕は聖靈の有ことだに聞ざりき</ab>
+<ab type="verse" n="3" xml:id="Acts.19.3"><hi rend="superscript">3</hi> パウロ曰けるは然ば爾曹バプテスマを受て何に入られしや答けるはヨハネのバプテスマに入られたり</ab>
+<ab type="verse" n="4" xml:id="Acts.19.4"><hi rend="superscript">4</hi> パウロ曰けるはヨハネは誠に悔改のバプテスマをなし民に向て我の後に來る者すなはちイエス・キリストを信ぜよと曰り</ab>
+<ab type="verse" n="5" xml:id="Acts.19.5"><hi rend="superscript">5</hi> 彼等これを聞バプテスマを受て主イエスの名に入られたり</ab>
+<ab type="verse" n="6" xml:id="Acts.19.6"><hi rend="superscript">6</hi> パウロ手を其上に按ければ聖靈かれらに臨みな異なる諸國の方言にて語かつ預言せり</ab>
+<ab type="verse" n="7" xml:id="Acts.19.7"><hi rend="superscript">7</hi> 其人おほよそ十二人なりき</ab>
+<ab type="verse" n="8" xml:id="Acts.19.8"><hi rend="superscript">8</hi> パウロ會堂にいり憚らずして神の國の事を論じ且勸て三ヶ月を歴たり</ab>
+<ab type="verse" n="9" xml:id="Acts.19.9"><hi rend="superscript">9</hi> 然るに剛愎にして之を信ぜざる人々あり衆の人の前に其道を詆誹ければパウロ彼等を離れ弟子等をも別させて日々テラノスと云る人の講堂に於て論ぜり</ab>
+<ab type="verse" n="10" xml:id="Acts.19.10"><hi rend="superscript">10</hi> 二年のあひだ如此ありしかばユダヤ人もギリシヤ人も凡てアジアに住る者〔悉く｜ことごとく〕主の道を聞ぬ</ab>
+<ab type="verse" n="11" xml:id="Acts.19.11"><hi rend="superscript">11</hi> 神はパウロの手によりて希有ふしぎの事を行ひ給へり</ab>
+<ab type="verse" n="12" xml:id="Acts.19.12"><hi rend="superscript">12</hi> 即ちパウロの身に着たる汗布あるひは襜衣を取て病者に加ければ病はさり惡鬼は出たり</ab>
+<ab type="verse" n="13" xml:id="Acts.19.13"><hi rend="superscript">13</hi> 茲に諸所を遊行て呪をなせるユダヤ人あり惡鬼に憑れたる者に向ひ試に主イエスの名を呼て曰けるは我儕はパウロが宣る所のイエスに藉て爾に出んことを誓しむ</ab>
+<ab type="verse" n="14" xml:id="Acts.19.14"><hi rend="superscript">14</hi> 如此なせる者はユダヤ人なるスケワと云る祭司の長の七人の子なり</ab>
+<ab type="verse" n="15" xml:id="Acts.19.15"><hi rend="superscript">15</hi> 惡鬼こたへて曰けるは我イエスを知またパウロを識り然ど爾曹は誰ぞや</ab>
+<ab type="verse" n="16" xml:id="Acts.19.16"><hi rend="superscript">16</hi> 惡鬼に憑れたる人彼等の上に躍上り之に勝て壓伏ければ彼等傷つけられ裸にて其家を逃去り</ab>
+<ab type="verse" n="17" xml:id="Acts.19.17"><hi rend="superscript">17</hi> 此事エペソに住る凡のユダヤ人ギリシヤ人に聞えしかば彼等みな懼を懷ぬ又主イエスの名崇られたり</ab>
+<ab type="verse" n="18" xml:id="Acts.19.18"><hi rend="superscript">18</hi> また信ぜし者のうち多來りて自ら言あらはし其行し事を〔訴｜訴〕へたり</ab>
+<ab type="verse" n="19" xml:id="Acts.19.19"><hi rend="superscript">19</hi> また曩に魔術を行へる多の者等も其書物を集人々の前にて焚り其價を計て銀五萬なることを知り</ab>
+<ab type="verse" n="20" xml:id="Acts.19.20"><hi rend="superscript">20</hi> 主の道廣まりて勝を得こと此の如し／</ab>
+<ab type="verse" n="21" xml:id="Acts.19.21"><hi rend="superscript">21</hi> 此事の竟し後パウロはマケドニヤ及アカヤを過エルサレムに往んと意を定め曰けるは我かしこに往て後かならずロマをも見べし</ab>
+<ab type="verse" n="22" xml:id="Acts.19.22"><hi rend="superscript">22</hi> 即ち己に事る者の中テモテとエラストの二人をマケドニヤに遣し己は暫くアジアに留りぬ</ab>
+<ab type="verse" n="23" xml:id="Acts.19.23"><hi rend="superscript">23</hi> この時その道について容易ならぬ騷擾おこれり</ab>
+<ab type="verse" n="24" xml:id="Acts.19.24"><hi rend="superscript">24</hi> 蓋一人の銀工あり名をデメテリヲと云かれアルテミスの銀龕を作り工人等に利を得しめしこと僅少からざりき</ab>
+<ab type="verse" n="25" xml:id="Acts.19.25"><hi rend="superscript">25</hi> その工人および己が類の業の者を集て曰けるは人々よ我儕の富るは此業に藉ること爾曹の知ところ也</ab>
+<ab type="verse" n="26" xml:id="Acts.19.26"><hi rend="superscript">26</hi> 此パウロ手にて作れる者は神に非ずと曰て衆の人を誘惑し第にエペソ耳ならず幾どアジア中に及せり是また爾曹が見ところ聞ところ也</ab>
+<ab type="verse" n="27" xml:id="Acts.19.27"><hi rend="superscript">27</hi> 此は唯〔我｜われ〕らの業の輕めらるる危ある耳ならずアジア及び天下擧て奉る所の大なる女神アルテミスの宮も藐せられ其威光も亦滅べし</ab>
+<ab type="verse" n="28" xml:id="Acts.19.28"><hi rend="superscript">28</hi> 彼等これを聞て甚しく怒さけび曰けるは大なるかなエペソ人のアルテミスよ</ab>
+<ab type="verse" n="29" xml:id="Acts.19.29"><hi rend="superscript">29</hi> 是に於て擧邑大に擾れパウロの同行なるマケドニヤ人のガイヲスとアリスタルコを執へ彼等心を合せて戲園に擁入り</ab>
+<ab type="verse" n="30" xml:id="Acts.19.30"><hi rend="superscript">30</hi> パウロその人々の中に入んとせしに弟子たち之を許さざりき</ab>
+<ab type="verse" n="31" xml:id="Acts.19.31"><hi rend="superscript">31</hi> またアジアの祭を司どる者の中に彼と親き者等ありて人を彼に遣し其自ら戲園に入ざらんことを求たり</ab>
+<ab type="verse" n="32" xml:id="Acts.19.32"><hi rend="superscript">32</hi> 其時ある人は彼事をいひ或人は此事を言さけべり蓋會衆みだれて大半は何の爲に集れるかを知ざれば也</ab>
+<ab type="verse" n="33" xml:id="Acts.19.33"><hi rend="superscript">33</hi> 是に於てユダヤ人アレキサンデルに出んことを勸ければ或人群集の中より之を推出しぬアレキサンデル手を搖し民に向て事實を告んとせしが</ab>
+<ab type="verse" n="34" xml:id="Acts.19.34"><hi rend="superscript">34</hi> 彼等そのユダヤ人たるを知が故に皆おなじく聲を揚て大なる哉エペソ人のアルテミスよと二時ばかりの間さけびあへり</ab>
+<ab type="verse" n="35" xml:id="Acts.19.35"><hi rend="superscript">35</hi> 書記官人々を撫て曰けるはエペソの人々よ此エペソは天より落し大なるアルテミスの殿に事る邑なるを知ざる者あらん乎</ab>
+<ab type="verse" n="36" xml:id="Acts.19.36"><hi rend="superscript">36</hi> この事は駁すこと能ざれば爾曹靖息にして猥に事を作べからず</ab>
+<ab type="verse" n="37" xml:id="Acts.19.37"><hi rend="superscript">37</hi> 夫この人々は殿の盜賊にも非ず爾曹の女神を讟す者にも非ず然るに爾曹これを曳來れり</ab>
+<ab type="verse" n="38" xml:id="Acts.19.38"><hi rend="superscript">38</hi> デメテリヲ及び偕にある所の工人もし人を〔訴｜訴〕ふる事あらば聽訟の日あり且方伯あれば互に之に〔訟｜訟〕ふべし</ab>
+<ab type="verse" n="39" xml:id="Acts.19.39"><hi rend="superscript">39</hi> もし他の事由について求る事あらば律法に合ふ會に於て定むべし</ab>
+<ab type="verse" n="40" xml:id="Acts.19.40"><hi rend="superscript">40</hi> われら今日の騷擾に就ては〔訴｜訴〕られんことを恐る蓋この會について辭解べき言なければ也[41]如此かたりて會を散せり</ab>
+</div>
+<div type="chapter" n="20">
+  <head>第20章</head>
+<ab type="verse" n="1" xml:id="Acts.20.1"><hi rend="superscript">1</hi> 騷擾の定し後パウロは弟子等をよび別を告マケドニヤに往んとて出立ぬ</ab>
+<ab type="verse" n="2" xml:id="Acts.20.2"><hi rend="superscript">2</hi> 〔其｜その〕地を經おほくの言を以て人々を勸めギリシヤに至り</ab>
+<ab type="verse" n="3" xml:id="Acts.20.3"><hi rend="superscript">3</hi> 此に三ヶ月留りて後スリヤに航らんとせし時ユダヤ人かれを害せんと謀ければマケドニヤを過て返んと意を定たり</ab>
+<ab type="verse" n="4" xml:id="Acts.20.4"><hi rend="superscript">4</hi> 彼と偕にアジアまで至し者はプロスの子ベレアのソパテル及テサロニケ人のアリスタルコとセクンド、デルベのガヨスとテモテ竝アジアのテキコとトロピモなり</ab>
+<ab type="verse" n="5" xml:id="Acts.20.5"><hi rend="superscript">5</hi> 此徒は先ち往てトロアスに於て我儕を俟り</ab>
+<ab type="verse" n="6" xml:id="Acts.20.6"><hi rend="superscript">6</hi> 除酵節の後われらピリピより舟出して第五日にトロアスに至り彼等に遇て其處に七日留れり／</ab>
+<ab type="verse" n="7" xml:id="Acts.20.7"><hi rend="superscript">7</hi> 一週の首の日〔我｜われ〕らパンを擘ために集りしがパウロ次の日出立ん事を意ひ彼等に道をかたり講つづけて夜半に至れり</ab>
+<ab type="verse" n="8" xml:id="Acts.20.8"><hi rend="superscript">8</hi> 彼等が集れる樓に多の燈あり</ab>
+<ab type="verse" n="9" xml:id="Acts.20.9"><hi rend="superscript">9</hi> ユテコと名る一人の少年窓に倚て坐し熟睡り居しがパウロの道を語れること久かりければ彼睡に因て三階より墜これを扶起ししに既に死り</ab>
+<ab type="verse" n="10" xml:id="Acts.20.10"><hi rend="superscript">10</hi> パウロ下て其上に伏これを抱て曰けるは爾曹憂咷ぐ勿れ此人の生命は中にあり</ab>
+<ab type="verse" n="11" xml:id="Acts.20.11"><hi rend="superscript">11</hi> 斯てパウロ復上りパンを擘て食ひ久しく彼等と語り天明に及て出立り</ab>
+<ab type="verse" n="12" xml:id="Acts.20.12"><hi rend="superscript">12</hi> 人々この少年を携へ其活るを見て甚だ慰めり</ab>
+<ab type="verse" n="13" xml:id="Acts.20.13"><hi rend="superscript">13</hi> 偖われら舟にのり先ちてアソスに濟その處にてパウロを登んとせり蓋われ陸より往んと自ら如此は定しなり</ab>
+<ab type="verse" n="14" xml:id="Acts.20.14"><hi rend="superscript">14</hi> 彼アソスに於て我儕に遇ければ彼を登てミテレネに至り</ab>
+<ab type="verse" n="15" xml:id="Acts.20.15"><hi rend="superscript">15</hi> 彼處より舟出して次日キヨスの對に至り又次日サモスに着トログリヲムに泊り次日ミレトスに至れり</ab>
+<ab type="verse" n="16" xml:id="Acts.20.16"><hi rend="superscript">16</hi> 蓋パウロ、アジアに時を費さざる爲に舟にてエペソを過んと意を定しがゆゑ也かく定しは彼なるべくはペンテコステの日エルサレムに在ことを得んと急たるに因／</ab>
+<ab type="verse" n="17" xml:id="Acts.20.17"><hi rend="superscript">17</hi> 斯て彼はミレトスよりエペソに使を遣して教會の長老たちを召り</ab>
+<ab type="verse" n="18" xml:id="Acts.20.18"><hi rend="superscript">18</hi> 彼等が來し時パウロ之に曰けるは我アジアに來りし初の日より常に爾曹の中に在て行ひし事は爾曹が知ところ也</ab>
+<ab type="verse" n="19" xml:id="Acts.20.19"><hi rend="superscript">19</hi> 即ち我すべての事に謙遜また涙を流しユダヤ人の詭謀により艱難に遇て主に事へ</ab>
+<ab type="verse" n="20" xml:id="Acts.20.20"><hi rend="superscript">20</hi> 益ある事は殘す所なく之を宣て或は人々の前或は家々に於て爾曹に教へ</ab>
+<ab type="verse" n="21" xml:id="Acts.20.21"><hi rend="superscript">21</hi> 神に對ては悔改め主イエス・キリストに對ては信仰すべき事をユダヤ人またギリシヤ人に示せり</ab>
+<ab type="verse" n="22" xml:id="Acts.20.22"><hi rend="superscript">22</hi> 今は我心切りてエルサレムに往かしこにて遇ところ如何を知らず</ab>
+<ab type="verse" n="23" xml:id="Acts.20.23"><hi rend="superscript">23</hi> ただ聖靈毎邑に我に示していふ縲絏と患難われを俟りと</ab>
+<ab type="verse" n="24" xml:id="Acts.20.24"><hi rend="superscript">24</hi> 然ども我は我往べき路程と主イエスより受し職すなはち神の恩の福音を證する事を遂ん爲には我生命をも重ぜざる也</ab>
+<ab type="verse" n="25" xml:id="Acts.20.25"><hi rend="superscript">25</hi> 今〔我｜われ〕知なんぢらの中を遊行て神の國を傳へし我面を此後なんぢら復び見ざるべし</ab>
+<ab type="verse" n="26" xml:id="Acts.20.26"><hi rend="superscript">26</hi> 是故に我今日なんぢらに證す凡の人の血に於て我は潔くして與ることなし</ab>
+<ab type="verse" n="27" xml:id="Acts.20.27"><hi rend="superscript">27</hi> 蓋われ神の旨を殘す所なく悉く爾曹に宣たれば也</ab>
+<ab type="verse" n="28" xml:id="Acts.20.28"><hi rend="superscript">28</hi> 故に爾曹みづから愼み且なんぢらが聖靈に立られて監督となれる其全群を愼み主の己が血をもて買給ひし所の教會を牧ふべし</ab>
+<ab type="verse" n="29" xml:id="Acts.20.29"><hi rend="superscript">29</hi> 蓋わが去ん後この群を惜ざる暴き狼なんぢらの中に入んことを知ばなり</ab>
+<ab type="verse" n="30" xml:id="Acts.20.30"><hi rend="superscript">30</hi> 亦なんぢらの中よりも弟子等を己に從はせんとて悖理なる言を言出す者おこらん</ab>
+<ab type="verse" n="31" xml:id="Acts.20.31"><hi rend="superscript">31</hi> 此故に爾曹儆醒せよ我三年のあひだ夜も晝も斷ず涙を流して各人を勸しことを憶ふべし</ab>
+<ab type="verse" n="32" xml:id="Acts.20.32"><hi rend="superscript">32</hi> 兄弟よ爾曹の徳を建かつ凡の聖られし者の中に於て業を爾曹に予る能ある神および其恩惠の道に今われ爾曹を委ぬ</ab>
+<ab type="verse" n="33" xml:id="Acts.20.33"><hi rend="superscript">33</hi> われ人の金銀衣服を貪りしことなし</ab>
+<ab type="verse" n="34" xml:id="Acts.20.34"><hi rend="superscript">34</hi> 我この手は我および我と偕に在し者の需用に供し事は爾曹が知ところ也</ab>
+<ab type="verse" n="35" xml:id="Acts.20.35"><hi rend="superscript">35</hi> われ爾曹も如此勤勞て柔弱者を扶け且主イエスの曰給へる受るよりも與るは福なりとの言を心に記べきを凡の事に於て示せる也</ab>
+<ab type="verse" n="36" xml:id="Acts.20.36"><hi rend="superscript">36</hi> パウロかく語て跪づき衆人と共に祈れり</ab>
+<ab type="verse" n="37" xml:id="Acts.20.37"><hi rend="superscript">37</hi> [37a]彼等みな大に哭きパウロの頸を抱て之と接吻し</ab>
+<ab type="verse" n="38" xml:id="Acts.20.38"><hi rend="superscript">38</hi> [37b]其再び我面を見まじといひし言に因て別ても憂をなし彼を舟まで伴へり</ab>
+</div>
+<div type="chapter" n="21">
+  <head>第21章</head>
+<ab type="verse" n="1" xml:id="Acts.21.1"><hi rend="superscript">1</hi> われら強て彼等に離れ舟にて眞直にコスに至り次日ロドスにゆきパタラに至り</ab>
+<ab type="verse" n="2" xml:id="Acts.21.2"><hi rend="superscript">2</hi> ピニケに濟る舟に遇これに登て出</ab>
+<ab type="verse" n="3" xml:id="Acts.21.3"><hi rend="superscript">3</hi> クプロを望んで其を左に過スリヤに濟りツロに着り蓋この處にて舟の積荷を卸さんと爲ばなり</ab>
+<ab type="verse" n="4" xml:id="Acts.21.4"><hi rend="superscript">4</hi> 斯て我儕弟子たちを訪そこに七日とどまれり彼等靈に感じてパウロにエルサレムに往なかれと言</ab>
+<ab type="verse" n="5" xml:id="Acts.21.5"><hi rend="superscript">5</hi> 然ど既に七日を過しければ我儕出立て途につく彼等その妻孥と共に我儕を送て邑の外にまで至しが共に岸に跪きて祈り</ab>
+<ab type="verse" n="6" xml:id="Acts.21.6"><hi rend="superscript">6</hi> 互に別を告畢りて後われらは舟に登かれらは其家に歸れり</ab>
+<ab type="verse" n="7" xml:id="Acts.21.7"><hi rend="superscript">7</hi> 我儕ツロよりトレマイに濟り既に舟路をはりぬ斯て兄弟等の安否を問かれらと偕に一日留り</ab>
+<ab type="verse" n="8" xml:id="Acts.21.8"><hi rend="superscript">8</hi> 次日いでたちてカイザリヤに至り傳導者ピリポの家に入て共に留る此ピリポは七人の一人なり</ab>
+<ab type="verse" n="9" xml:id="Acts.21.9"><hi rend="superscript">9</hi> 彼に預言する四人の女あり皆處女なり</ab>
+<ab type="verse" n="10" xml:id="Acts.21.10"><hi rend="superscript">10</hi> われら數日ここに留れるときアガボスと名る一人の〔預言者｜預言者〕ユダヤより下り</ab>
+<ab type="verse" n="11" xml:id="Acts.21.11"><hi rend="superscript">11</hi> 我儕が所に來りてパウロの帶をとり己の手足を縛て曰けるは此の如くエルサレムにあるユダヤ人は此帶の主を縛て異邦人の手に付さんと聖靈いひ給へり</ab>
+<ab type="verse" n="12" xml:id="Acts.21.12"><hi rend="superscript">12</hi> 此事を聞て我儕と此地の者とともども彼にエルサレムに上る勿れと勸しに</ab>
+<ab type="verse" n="13" xml:id="Acts.21.13"><hi rend="superscript">13</hi> パウロ答けるは爾曹なんぞ哭て我心を摧くや我主イエスの名の爲には第に縛るる耳ならずエルサレムに死るも亦甘ずる所なり</ab>
+<ab type="verse" n="14" xml:id="Acts.21.14"><hi rend="superscript">14</hi> かれ勸を納ざりければ我儕主の旨の如く成と曰て止</ab>
+<ab type="verse" n="15" xml:id="Acts.21.15"><hi rend="superscript">15</hi> 既に數日を經て我儕行裝をなしエルサレムに上れり</ab>
+<ab type="verse" n="16" xml:id="Acts.21.16"><hi rend="superscript">16</hi> カイザリヤの弟子等も數人われらと偕に行て我儕をクプロのナソンと云る老弟子の所に宿らせんとて其家に携ひ入ぬ／</ab>
+<ab type="verse" n="17" xml:id="Acts.21.17"><hi rend="superscript">17</hi> 我儕エルサレムに至ければ兄弟たち欣て我儕を迎ふ</ab>
+<ab type="verse" n="18" xml:id="Acts.21.18"><hi rend="superscript">18</hi> 次日パウロ我儕と偕にヤコブの家に入しに長老等みな集居れり</ab>
+<ab type="verse" n="19" xml:id="Acts.21.19"><hi rend="superscript">19</hi> パウロ彼等の安否を問かつ神の己を用て異邦人の中に行ひ給し事を一々告ければ</ab>
+<ab type="verse" n="20" xml:id="Acts.21.20"><hi rend="superscript">20</hi> 〔彼等｜かれら〕之をきき主を崇かつ彼に曰けるは兄弟よ爾ユダヤ人の信ぜしもの幾萬なるを知かれらは皆律法に熱心なる者なり</ab>
+<ab type="verse" n="21" xml:id="Acts.21.21"><hi rend="superscript">21</hi> なんぢ異邦人の中にあるユダヤ人に教てモーセを樂しめ且兒子に割禮を行ふ勿れ例に從ふ勿れと言りと告る者あり彼等これを聞たり</ab>
+<ab type="verse" n="22" xml:id="Acts.21.22"><hi rend="superscript">22</hi> 今いかに爲べきぞ多の人々爾の來れるを聞て必ず集らん</ab>
+<ab type="verse" n="23" xml:id="Acts.21.23"><hi rend="superscript">23</hi> 是故に爾われらが言ところに從へ我儕に誓願のもの四人あり</ab>
+<ab type="verse" n="24" xml:id="Acts.21.24"><hi rend="superscript">24</hi> 爾この人々を携へ之と偕に潔事をなし代て其費を贖ひ彼等に髮を薙ことを得しめよ然ば人々なんぢに就て聞し所みな虚にして爾が律法を守て行へる事を知べし</ab>
+<ab type="verse" n="25" xml:id="Acts.21.25"><hi rend="superscript">25</hi> 信じたる異邦人には我儕すでに書をかき遺て斯る類の事は守るに及ずただ偶像に獻し物と血を勒殺しし者および姦淫とを愼む可と定たり</ab>
+<ab type="verse" n="26" xml:id="Acts.21.26"><hi rend="superscript">26</hi> 斯てパウロは次日この人々を携へて之と偕に潔事をなし且かれら各人の爲に供物を獻べき事を其期までに潔事の日を盡さん事を殿に入て告</ab>
+<ab type="verse" n="27" xml:id="Acts.21.27"><hi rend="superscript">27</hi> 七日をはらんと爲ときアジアより來しユダヤ人パウロの殿に居を見て凡の民を聳動しめ彼を執へ</ab>
+<ab type="verse" n="28" xml:id="Acts.21.28"><hi rend="superscript">28</hi> 喊叫けるはイスラエルの人々我儕を助よ此人は遍く教を傳この民と律法と此處に逆ふ者なり又ギリシヤ人をも引て殿に入この聖所を汚たり</ab>
+<ab type="verse" n="29" xml:id="Acts.21.29"><hi rend="superscript">29</hi> 蓋かれら曩にエペソ人トロビモと云る者のパウロと共に城下に在しを見てパウロ之を殿に引入しと意へる也</ab>
+<ab type="verse" n="30" xml:id="Acts.21.30"><hi rend="superscript">30</hi> 是に於て擧邑さわぎたち人々趨集りてパウロを執へ之を殿より曳出しければ直に其門を閉たり</ab>
+<ab type="verse" n="31" xml:id="Acts.21.31"><hi rend="superscript">31</hi> 彼等すでにパウロを殺さんとせし時あまねくエルサレム紛亂たりとの風聲千夫の隊の長に聞えければ</ab>
+<ab type="verse" n="32" xml:id="Acts.21.32"><hi rend="superscript">32</hi> 彼ただちに兵卒と百夫の長等を率ゐ彼等の所に趨下れり彼等千夫の長と兵卒を見てパウロを打ことを止</ab>
+<ab type="verse" n="33" xml:id="Acts.21.33"><hi rend="superscript">33</hi> 其とき千夫の長近りてパウロを執へ命じて二の鏈にて之を繋せその誰たる又何事を行しかを問たり</ab>
+<ab type="verse" n="34" xml:id="Acts.21.34"><hi rend="superscript">34</hi> 衆の人々のうち或は彼事をいひ或は此事を言さけび亂に因て千夫の長その實情を知こと能はず是故に命じて彼を陣營に曳往しめたり</ab>
+<ab type="verse" n="35" xml:id="Acts.21.35"><hi rend="superscript">35</hi> [35-36]衆の人々後に從ひて彼を殺せと呼さけび擁迫るに因て階に及るとき兵卒パウロを負り</ab>
+<ab type="verse" n="36" xml:id="Acts.21.36"><hi rend="superscript">36</hi> *[35-36]衆の人々後に從ひて彼を殺せと呼さけび擁迫るに因て階に及るとき兵卒パウロを負り</ab>
+<ab type="verse" n="37" xml:id="Acts.21.37"><hi rend="superscript">37</hi> パウロ曳れて陣營に入んとせし時千夫の長に曰けるは我なんぢに語て可や否かれ答けるは爾ギリシヤの方言を識や</ab>
+<ab type="verse" n="38" xml:id="Acts.21.38"><hi rend="superscript">38</hi> 爾は曩に亂を起し四千人の凶徒を率て野に出しエジプト人ならず乎</ab>
+<ab type="verse" n="39" xml:id="Acts.21.39"><hi rend="superscript">39</hi> パウロ曰けるは我はキリキヤのタルソに生しユダヤ人にて鄙邑の民に非ず願くは民に語ることを我に許せ</ab>
+<ab type="verse" n="40" xml:id="Acts.21.40"><hi rend="superscript">40</hi> 千夫の長これを許ければパウロ階の上にたち民に向て手を搖し其大に靜れるときヘブルの方言をもて彼等に語れり</ab>
+</div>
+<div type="chapter" n="22">
+  <head>第22章</head>
+<ab type="verse" n="1" xml:id="Acts.22.1"><hi rend="superscript">1</hi> 人々兄弟および父等よ請いま我が陳んとする事實を爾曹きけ</ab>
+<ab type="verse" n="2" xml:id="Acts.22.2"><hi rend="superscript">2</hi> 彼等そのヘブルの方言にて語るを聞ていよいよ靜れり</ab>
+<ab type="verse" n="3" xml:id="Acts.22.3"><hi rend="superscript">3</hi> パウロ曰けるは我はユダヤ人にてキリキヤのタルソに生れ而して此邑のガマリエルの足下にて長られ先祖の嚴なる律法に由て教られ神に熱心なりし事は今日の爾曹すべての者の如なりき</ab>
+<ab type="verse" n="4" xml:id="Acts.22.4"><hi rend="superscript">4</hi> われ曩に斯道の人を男女とも縛かつ獄に解し死に至るまでに之を窘たり</ab>
+<ab type="verse" n="5" xml:id="Acts.22.5"><hi rend="superscript">5</hi> 即ち祭司の長と長老會の人の我に就てみな證をなすが如し我彼等より兄弟等に遺る書を受ダマスコにをる者を縛てエルサレムに曳來り刑を受しめんとて彼處に赴けり</ab>
+<ab type="verse" n="6" xml:id="Acts.22.6"><hi rend="superscript">6</hi> 然ど我ゆきてダマスコに近けるに時おほよそ日中たちまち天より大なる光ありて我を環照せり</ab>
+<ab type="verse" n="7" xml:id="Acts.22.7"><hi rend="superscript">7</hi> われ地に仆る其時サウロ、サウロ何故われを害るやといふ聲を聞</ab>
+<ab type="verse" n="8" xml:id="Acts.22.8"><hi rend="superscript">8</hi> われ答けるは主よ爾は誰ぞや我に曰けるは我は爾が害る所のナザレのイエスなり</ab>
+<ab type="verse" n="9" xml:id="Acts.22.9"><hi rend="superscript">9</hi> 我と偕に在しもの光を見て懼たり然ど我に語し者の聲を聞ざりき</ab>
+<ab type="verse" n="10" xml:id="Acts.22.10"><hi rend="superscript">10</hi> 我いひけるは主よ我なにを爲べきか主われに曰給ひけるは起てダマスコに往すでに定りし爾が爲べき事は彼處に於て爾に告べし</ab>
+<ab type="verse" n="11" xml:id="Acts.22.11"><hi rend="superscript">11</hi> その光の耀に縁て我みることを得ず成ければ我と偕に在し者の手に援られてダマスコに至れり</ab>
+<ab type="verse" n="12" xml:id="Acts.22.12"><hi rend="superscript">12</hi> この邑に住る凡のユダヤ人の中に譽あるアナニヤといふ律法に循へる神を敬ふ人</ab>
+<ab type="verse" n="13" xml:id="Acts.22.13"><hi rend="superscript">13</hi> 我もとに來り側に立て曰けるは兄弟サウロ復び見ことを得よ我ただちに目を擧て彼を見たり</ab>
+<ab type="verse" n="14" xml:id="Acts.22.14"><hi rend="superscript">14</hi> 彼また曰われらの列祖の神は爾に神の旨を知しめ彼の義者を見させ其口より出る聲を聞しめん事を定め給へり</ab>
+<ab type="verse" n="15" xml:id="Acts.22.15"><hi rend="superscript">15</hi> 蓋なんぢ彼が爲に其見聞せし事を以て凡の人に向ひ證人と爲べければ也</ab>
+<ab type="verse" n="16" xml:id="Acts.22.16"><hi rend="superscript">16</hi> 今なんぢ如何で緩ふ可んや起て主の名を籲バプテスマを受て其罪を滌去べしと</ab>
+<ab type="verse" n="17" xml:id="Acts.22.17"><hi rend="superscript">17</hi> 我エルサレムに返り聖殿に於て祈れる時まぼろしにて</ab>
+<ab type="verse" n="18" xml:id="Acts.22.18"><hi rend="superscript">18</hi> 見けるは主われに向て急げ彼等は爾が我について立る證を納ざるが故に速にエルサレムを出よと曰たまへり</ab>
+<ab type="verse" n="19" xml:id="Acts.22.19"><hi rend="superscript">19</hi> 我いひけるは主よ我もと爾を信ずる者を執へ或は諸會堂にて之を鞭ちしことを彼等は知</ab>
+<ab type="verse" n="20" xml:id="Acts.22.20"><hi rend="superscript">20</hi> また爾の證人ステパノの其血を流さるる時われ傍に立て其殺さるるを好とし彼を殺す者の衣を守れり</ab>
+<ab type="verse" n="21" xml:id="Acts.22.21"><hi rend="superscript">21</hi> 主われに曰けるは往われ爾を遠く異邦人に遣すべし</ab>
+<ab type="verse" n="22" xml:id="Acts.22.22"><hi rend="superscript">22</hi> 彼等ききて此言に至みな聲を揚て曰けるは此の如き者を地より去かれは先に生命の有べき者ならざりき</ab>
+<ab type="verse" n="23" xml:id="Acts.22.23"><hi rend="superscript">23</hi> かれら噫呼で其衣をぬぎ塵を空中に揚ければ</ab>
+<ab type="verse" n="24" xml:id="Acts.22.24"><hi rend="superscript">24</hi> 千夫の長命じてパウロを陣營に引入しめ何故かく彼等がパウロに向て喧呼かを知んがため鞭ちて彼に訊べしと言り</ab>
+<ab type="verse" n="25" xml:id="Acts.22.25"><hi rend="superscript">25</hi> かれら革鞭を撻んとてパウロを引張しとき彼その側に立る百夫の長に曰けるは罪を定ずしてロマ人たる者を鞭つは律法に當ふや</ab>
+<ab type="verse" n="26" xml:id="Acts.22.26"><hi rend="superscript">26</hi> 百夫の長これを聞ゆきて千夫の長に告て曰けるは爾なすことを愼めよ此人はロマ人なり</ab>
+<ab type="verse" n="27" xml:id="Acts.22.27"><hi rend="superscript">27</hi> 千夫の長ゆきてパウロに曰けるは爾はロマ人なるや我に告よパウロ曰けるは然り</ab>
+<ab type="verse" n="28" xml:id="Acts.22.28"><hi rend="superscript">28</hi> 千夫の長こたへけるは我は多の金を以て此民籍を得たりパウロ曰けるは我は生來なり</ab>
+<ab type="verse" n="29" xml:id="Acts.22.29"><hi rend="superscript">29</hi> 是に於てパウロを拷問せんとせし者〔等｜等〕ただちに退けり千夫の長そのロマ人なるを知かれを縛しことを懼る／</ab>
+<ab type="verse" n="30" xml:id="Acts.22.30"><hi rend="superscript">30</hi> 斯て明日ユダヤ人の彼を〔訟｜訟〕たる故を確に知んと欲ひパウロの縛をとき祭司の長等および全議會に命じて集らしめパウロを携往て其前に立せたり</ab>
+</div>
+<div type="chapter" n="23">
+  <head>第23章</head>
+<ab type="verse" n="1" xml:id="Acts.23.1"><hi rend="superscript">1</hi> パウロ議會に目を注かれらを見て曰けるは人々兄弟よ我今日に至るまで凡のこと良心に由て神に事たり</ab>
+<ab type="verse" n="2" xml:id="Acts.23.2"><hi rend="superscript">2</hi> 祭司の長アナニヤ側に立る者に命じて彼の口を撃しむ</ab>
+<ab type="verse" n="3" xml:id="Acts.23.3"><hi rend="superscript">3</hi> 是に於てパウロ彼に曰けるは粉堊たる壁よ神は爾を撃ん爾が坐せるは律法に循ひて我を審ん爲なるに律法に違ひ命じて我を撃しむる乎</ab>
+<ab type="verse" n="4" xml:id="Acts.23.4"><hi rend="superscript">4</hi> 側に立る者ども曰けるは爾神の祭司の長を詬るや</ab>
+<ab type="verse" n="5" xml:id="Acts.23.5"><hi rend="superscript">5</hi> パウロ曰けるは兄弟よ我その祭司の長なるを識ざりき識ば然は言ざりし也そは爾の民の有司を誹る勿れと録されたり</ab>
+<ab type="verse" n="6" xml:id="Acts.23.6"><hi rend="superscript">6</hi> パウロ彼等の其半はサドカイの人半はパリサイの人なるを知て議會の中に呼り曰けるは人々兄弟よ我はパリサイの人またパリサイ人の子なり死たる者の甦ることを望に因て我いま審判る</ab>
+<ab type="verse" n="7" xml:id="Acts.23.7"><hi rend="superscript">7</hi> パウロ如此いひしかばパリサイの人とサドカイの人の間に爭論おこりて集りたる多の人々相分れたり</ab>
+<ab type="verse" n="8" xml:id="Acts.23.8"><hi rend="superscript">8</hi> 蓋サドカイ人は復生また天使および靈を無と言パリサイ人は之をみな有と言ば〔也｜なり〕</ab>
+<ab type="verse" n="9" xml:id="Acts.23.9"><hi rend="superscript">9</hi> 遂に大なる喧嘩となりぬパリサイ人の學者たち立て爭ひ曰けるは我儕この人の惡ことを見ずもし靈あるひは天使の彼に語し事あらんには我儕神に敵す可らざる也</ab>
+<ab type="verse" n="10" xml:id="Acts.23.10"><hi rend="superscript">10</hi> 斯て大なる爭ひ起ければ千夫の長パウロが彼等に引裂れん事を恐て兵隊に命じ彼らの中に下らせ之を奪とり陣營に引入しめたり／</ab>
+<ab type="verse" n="11" xml:id="Acts.23.11"><hi rend="superscript">11</hi> 主その夜パウロの側に立て曰給ひけるはパウロよ勇そは爾われに就てエルサレムに證せし如く必ずロマにも證すべければ也</ab>
+<ab type="verse" n="12" xml:id="Acts.23.12"><hi rend="superscript">12</hi> 明日に及てユダヤ人黨を結び共に誓て曰けるはパウロを殺すまでは食飮をも爲まじ</ab>
+<ab type="verse" n="13" xml:id="Acts.23.13"><hi rend="superscript">13</hi> この誓を爲る者は四十人餘なり</ab>
+<ab type="verse" n="14" xml:id="Acts.23.14"><hi rend="superscript">14</hi> かれら祭司の長および長老たちの所に來て曰けるは我儕パウロを殺すまでは何をも食じと誓を立たり</ab>
+<ab type="verse" n="15" xml:id="Acts.23.15"><hi rend="superscript">15</hi> 是故に請なんぢら議會と偕にパウロの事をなほ詳く訊る状を作て千夫の長に告かれを爾曹に曳下らしめよ彼が近かざる前に之を殺さんと我儕すでに備を爲り</ab>
+<ab type="verse" n="16" xml:id="Acts.23.16"><hi rend="superscript">16</hi> 然るにパウロの姉妹の子この謀をきき即ち往て陣營に入パウロに告</ab>
+<ab type="verse" n="17" xml:id="Acts.23.17"><hi rend="superscript">17</hi> パウロ請て百夫の長一人をまねき曰けるは此少者を千夫の長に携往この者かれに告べき事あれば也</ab>
+<ab type="verse" n="18" xml:id="Acts.23.18"><hi rend="superscript">18</hi> 是に於て百夫の長かれを千夫の長に携往て曰けるは囚者パウロ我を請て此少者なんぢに言べき事あれば之を爾に携往んことを求へり</ab>
+<ab type="verse" n="19" xml:id="Acts.23.19"><hi rend="superscript">19</hi> 千夫の長その手をひき僻靜なる處に退して問けるは爾我に告んとする事は何ぞや</ab>
+<ab type="verse" n="20" xml:id="Acts.23.20"><hi rend="superscript">20</hi> 彼いひけるはユダヤ人パウロの事をなほ詳く問る状を作て爾にこひ明日かれを議會に曳下さんことを約せり</ab>
+<ab type="verse" n="21" xml:id="Acts.23.21"><hi rend="superscript">21</hi> 然ど爾かれらが言に從ふ勿れ蓋そのうち四十人餘の者パウロを殺すまでは食ず又飮じと共に誓て埋伏し今すでに其預備をなして爾の許を俟り</ab>
+<ab type="verse" n="22" xml:id="Acts.23.22"><hi rend="superscript">22</hi> 千夫の長少者に爾我に此事を告しと人に語る勿れと囑付て之を去しめ</ab>
+<ab type="verse" n="23" xml:id="Acts.23.23"><hi rend="superscript">23</hi> 又百夫の長の二人を召て兵卒二百人騎兵七十人矛を持もの二百人を備へ今夜第九時にカイザリヤに往</ab>
+<ab type="verse" n="24" xml:id="Acts.23.24"><hi rend="superscript">24</hi> かつ畜を備てパウロを乘しめ之を護て方伯ペリクスの所に送るべしと曰</ab>
+<ab type="verse" n="25" xml:id="Acts.23.25"><hi rend="superscript">25</hi> また左の如き書をかき添たり</ab>
+<ab type="verse" n="26" xml:id="Acts.23.26"><hi rend="superscript">26</hi> 云クラウデヲ・ルシアス最も尊き方伯ペリクスの安を問</ab>
+<ab type="verse" n="27" xml:id="Acts.23.27"><hi rend="superscript">27</hi> この人ユダヤ人に執はれ將に殺されんとせしを我そのロマ人なるを聞しにより兵隊を率ゐ往て之を拯け</ab>
+<ab type="verse" n="28" xml:id="Acts.23.28"><hi rend="superscript">28</hi> 彼等が〔訟｜訟〕る故を知んと欲ひ之を其議會に引下しが</ab>
+<ab type="verse" n="29" xml:id="Acts.23.29"><hi rend="superscript">29</hi> 彼が〔訟｜訟〕られしは惟かれらの律法の論に由るのみにて其死に當るべく亦繋るべきの故を見ざる也</ab>
+<ab type="verse" n="30" xml:id="Acts.23.30"><hi rend="superscript">30</hi> 然るにユダヤ人これを害せんと計よし其事われに現れしにより直に之を爾の所に遣れり又かれを〔訟｜訟〕し者等に命じて其〔訟｜訟〕る所を爾に告しめんとす／</ab>
+<ab type="verse" n="31" xml:id="Acts.23.31"><hi rend="superscript">31</hi> 是に於て兵卒は命に遵ひてパウロを携へ夜の中にアンテパトリスに至り</ab>
+<ab type="verse" n="32" xml:id="Acts.23.32"><hi rend="superscript">32</hi> 明日騎兵をしてパウロと共に往しめ其餘の者は陣營に歸れり</ab>
+<ab type="verse" n="33" xml:id="Acts.23.33"><hi rend="superscript">33</hi> 騎兵はカイザリヤに至り書を方伯に呈しパウロを其前に立しむ</ab>
+<ab type="verse" n="34" xml:id="Acts.23.34"><hi rend="superscript">34</hi> 方伯書を讀畢りて彼に其國を問キリキヤの者なるを知て</ab>
+<ab type="verse" n="35" xml:id="Acts.23.35"><hi rend="superscript">35</hi> 曰けるは爾を〔訟｜訟〕る者の此に來らん時われ爾に聽べし遂に命じて之をヘロデの公廨に於て守らしめたり</ab>
+</div>
+<div type="chapter" n="24">
+  <head>第24章</head>
+<ab type="verse" n="1" xml:id="Acts.24.1"><hi rend="superscript">1</hi> 五日を經てのち祭司の長アナニアは長老等および一人の辨士テルトルスと共に下てパウロを方伯に〔訟｜訟〕ふ</ab>
+<ab type="verse" n="2" xml:id="Acts.24.2"><hi rend="superscript">2</hi> パウロ召出されし時テルトルス〔訟｜訟〕の端を發て曰けるは</ab>
+<ab type="verse" n="3" xml:id="Acts.24.3"><hi rend="superscript">3</hi> 最も尊きペリクスよ我儕なんぢに由て太平を得かつ此國は爾の先見に藉て良に改まりたれば時に隨ひ地に隨ひて感謝せざるなし</ab>
+<ab type="verse" n="4" xml:id="Acts.24.4"><hi rend="superscript">4</hi> 今〔我｜われ〕敢て爾を礙ぐる事をせじ請しばらく忍て我が片言を聽たまへ</ab>
+<ab type="verse" n="5" xml:id="Acts.24.5"><hi rend="superscript">5</hi> 蓋われら此人を見に疫病の如し天下のユダヤ人を擾せり且かれはナザレ宗の首にて</ab>
+<ab type="verse" n="6" xml:id="Acts.24.6"><hi rend="superscript">6</hi> また殿をも犯んとせり我儕これを執わが律法に循ひて審を爲んと欲ひしに</ab>
+<ab type="verse" n="7" xml:id="Acts.24.7"><hi rend="superscript">7</hi> 千人の長ルシアス來て我儕の手より強て之を奪とり</ab>
+<ab type="verse" n="8" xml:id="Acts.24.8"><hi rend="superscript">8</hi> 彼を〔訟｜訟〕る者をして命じて爾の所に來しめたり爾かれを訊ば我儕が〔訟｜訟〕る所を悉く知べし</ab>
+<ab type="verse" n="9" xml:id="Acts.24.9"><hi rend="superscript">9</hi> ユダヤ人も共に〔訟｜訟〕へ曰けるは此等のこと誠に然り／</ab>
+<ab type="verse" n="10" xml:id="Acts.24.10"><hi rend="superscript">10</hi> 方伯首をもて示しパウロに言しめければ彼こたへけるは爾が多の年この民の審官たるを我しるが故に自らの事情を〔訟｜訟〕ることを喜べり</ab>
+<ab type="verse" n="11" xml:id="Acts.24.11"><hi rend="superscript">11</hi> 爾しらん我崇拜の爲にエルサレムに上しより僅に十二日のみ</ab>
+<ab type="verse" n="12" xml:id="Acts.24.12"><hi rend="superscript">12</hi> 彼等は我が殿に於て人と爭論をなし又會堂あるひは城下に於て人々を擾しし事を未だ見ざるべし</ab>
+<ab type="verse" n="13" xml:id="Acts.24.13"><hi rend="superscript">13</hi> 且かれらが今われを〔訟｜訟〕る所の事は憑據を立て之を確すること能はじ</ab>
+<ab type="verse" n="14" xml:id="Acts.24.14"><hi rend="superscript">14</hi> 然ど我この事を爾に認さん夫われは彼等が異端と稱る道に循ひ我が列祖の神に事へ悉く律法と〔預言者｜預言者〕の書に録されし事を信じ</ab>
+<ab type="verse" n="15" xml:id="Acts.24.15"><hi rend="superscript">15</hi> かつ義も不義も死し者の甦らんことを神に頼て我は望り即ち彼等が望む所と異なるなし</ab>
+<ab type="verse" n="16" xml:id="Acts.24.16"><hi rend="superscript">16</hi> 此に因て我つねに自ら勵み神に對ひ人に對て良心の責なからんことを務るなり</ab>
+<ab type="verse" n="17" xml:id="Acts.24.17"><hi rend="superscript">17</hi> われ數年を歴たりしのち施濟を我民になし又獻祭をせんが爲に歸たり</ab>
+<ab type="verse" n="18" xml:id="Acts.24.18"><hi rend="superscript">18</hi> 我かでに潔淨て此等の事を行る時アジアより來しユダヤ人等は殿に於て我が人を集ることをせず亂をも爲ざるを見たり</ab>
+<ab type="verse" n="19" xml:id="Acts.24.19"><hi rend="superscript">19</hi> もし我を〔訴｜訴〕べき事あらば彼等なんぢの前に〔訟｜訟〕ふべし</ab>
+<ab type="verse" n="20" xml:id="Acts.24.20"><hi rend="superscript">20</hi> [20-21]或は又わが議會の前に立るとき呼りて死たる者の復生の事に就われ今日爾曹に審判ると曰る此一言の外に此人々もし我が不義ありしを見ば言べし／</ab>
+<ab type="verse" n="21" xml:id="Acts.24.21"><hi rend="superscript">21</hi> *[20-21]或は又わが議會の前に立るとき呼りて死たる者の復生の事に就われ今日爾曹に審判ると曰る此一言の外に此人々もし我が不義ありしを見ば言べし／</ab>
+<ab type="verse" n="22" xml:id="Acts.24.22"><hi rend="superscript">22</hi> 是に於てペリクス詳細に其道を知ければ彼等を遲しめんとして曰けるは千夫の長ルシアスの下らん其時われ悉く爾曹の事を究べんと</ab>
+<ab type="verse" n="23" xml:id="Acts.24.23"><hi rend="superscript">23</hi> 百夫の長に命じてパウロを守しめ且これを寛容にして其友の彼を供給こと有を禁ぜざらしむ／</ab>
+<ab type="verse" n="24" xml:id="Acts.24.24"><hi rend="superscript">24</hi> 數日の後ペリクス其妻ユダヤ人なるデルシラと共に來りパウロを召て其キリストを信ずる道を語るを聽</ab>
+<ab type="verse" n="25" xml:id="Acts.24.25"><hi rend="superscript">25</hi> パウロ公義と撙節と來んとする審判とを論ぜしかばペリクス懼て答けるは爾姑く退け我便時を得ば再なんぢを召ん</ab>
+<ab type="verse" n="26" xml:id="Acts.24.26"><hi rend="superscript">26</hi> ペリクス、パウロより金を得んことを望が故に屡次かれを召て偕に語れり</ab>
+<ab type="verse" n="27" xml:id="Acts.24.27"><hi rend="superscript">27</hi> 斯て二年を經て後ポルキス・ペストスと云る者ペリクスの職に代たりペリクス悦をユダヤ人に取んと欲ひてパウロを獄に繋おけり</ab>
+</div>
+<div type="chapter" n="25">
+  <head>第25章</head>
+<ab type="verse" n="1" xml:id="Acts.25.1"><hi rend="superscript">1</hi> 偖ペストスは任國に至て三日の後カイザリヤよりエルサレムに上れり</ab>
+<ab type="verse" n="2" xml:id="Acts.25.2"><hi rend="superscript">2</hi> [2-3]時に祭司の長等とユダヤの尊重たる者等パウロを彼に〔訴｜訴〕へ且これを途にて謀殺さんと欲ひ彼に勸その恩を我儕に賜てパウロをエルサレムに召給はんことを請</ab>
+<ab type="verse" n="3" xml:id="Acts.25.3"><hi rend="superscript">3</hi> *[2-3]時に祭司の長等とユダヤの尊重たる者等パウロを彼に〔訴｜訴〕へ且これを途にて謀殺さんと欲ひ彼に勸その恩を我儕に賜てパウロをエルサレムに召給はんことを請</ab>
+<ab type="verse" n="4" xml:id="Acts.25.4"><hi rend="superscript">4</hi> ペストス答て曰けるはパウロは守られてカイザリヤにあり我も遠からず彼處に赴くべし</ab>
+<ab type="verse" n="5" xml:id="Acts.25.5"><hi rend="superscript">5</hi> 是故に爾曹のうち權威ある者ども我と共に下り彼について〔訟｜訟〕べきこと有ば〔訟｜訟〕へよ</ab>
+<ab type="verse" n="6" xml:id="Acts.25.6"><hi rend="superscript">6</hi> ペストス彼等の中に十日餘とどまりてカイザリヤに下り明日審判の座に坐り命じてパウロを曳出しむ</ab>
+<ab type="verse" n="7" xml:id="Acts.25.7"><hi rend="superscript">7</hi> パウロの來れる時エルサレムより下しユダヤ人等彼を立圍み證據を立ること能はざる多端の重罪をもて〔訟｜訟〕をなせり</ab>
+<ab type="verse" n="8" xml:id="Acts.25.8"><hi rend="superscript">8</hi> パウロ辨訴けるは我いまだユダヤ人の律法および殿またカイザルにも皆犯せる所なし</ab>
+<ab type="verse" n="9" xml:id="Acts.25.9"><hi rend="superscript">9</hi> ペストス悦をユダヤ人に取んとしてパウロに答て曰けるは爾エルサレムに上り彼處に於て此事につき審判を我前に受んことを望むや否</ab>
+<ab type="verse" n="10" xml:id="Acts.25.10"><hi rend="superscript">10</hi> パウロ曰けるは我今カイザルの審判の場に立この處に於て審を受るは當然なり我は爾が明かに知る如くユダヤ人に不義を爲しことなし</ab>
+<ab type="verse" n="11" xml:id="Acts.25.11"><hi rend="superscript">11</hi> もし不義を行ひて死に當るべき罪を犯さば我は死を免るることを欲はじ若われを〔訟｜訟〕る所のこと虚きときは其望に任せて我を彼等にわたし得る者なし我はカイザルに上告せん</ab>
+<ab type="verse" n="12" xml:id="Acts.25.12"><hi rend="superscript">12</hi> 是に於てペストス議事官と相議こたへて曰けるは爾カイザルに上告せんと欲へりカイザルに往べし／</ab>
+<ab type="verse" n="13" xml:id="Acts.25.13"><hi rend="superscript">13</hi> 數日を經て後アグリッパ王およびベルニケ、ペストスの安否を問ん爲にカイザリヤに來り</ab>
+<ab type="verse" n="14" xml:id="Acts.25.14"><hi rend="superscript">14</hi> 彼處に留れること久かりしかばペストス、パウロの事を王に告て曰けるは此に一人の囚者あり即ちペリクスの遺置し所なり</ab>
+<ab type="verse" n="15" xml:id="Acts.25.15"><hi rend="superscript">15</hi> 我エルサレムに居しとき祭司の長とユダヤ人の長老たち之を〔訟｜訟〕へて罪に擬んことを求へり</ab>
+<ab type="verse" n="16" xml:id="Acts.25.16"><hi rend="superscript">16</hi> われ彼等に答けるは〔訟｜訟〕られしもの己を〔訟｜訟〕し者に對て其〔訟｜訟〕る所を分理べき機を未だ得ざる先に之を死に付るはロマ人の例に非ず</ab>
+<ab type="verse" n="17" xml:id="Acts.25.17"><hi rend="superscript">17</hi> 是に於て彼等この處に來集れり我も日を延ことをせず次日審判の座に坐り命じて其人を曳出さしめたるに</ab>
+<ab type="verse" n="18" xml:id="Acts.25.18"><hi rend="superscript">18</hi> 〔訟者｜訟者〕ども立て之を〔訟｜訟〕しが其事わが逆料りし所に違へり</ab>
+<ab type="verse" n="19" xml:id="Acts.25.19"><hi rend="superscript">19</hi> 惟かれらは鬼神を敬ふ己が道とパウロが生りといふ既に死し一人のイエスとに就て爭論をなし彼を〔訟｜訟〕しのみ</ab>
+<ab type="verse" n="20" xml:id="Acts.25.20"><hi rend="superscript">20</hi> 我これらの質訊に惑ければパウロに對ひ爾エルサレムに往この事につきて彼處に於て審判を受ることを欲ふや否と問しに</ab>
+<ab type="verse" n="21" xml:id="Acts.25.21"><hi rend="superscript">21</hi> 彼アウグストの質訊を受んとして護れんことを求しに因われ命じて之をカイザルに送るまで守らせ置り</ab>
+<ab type="verse" n="22" xml:id="Acts.25.22"><hi rend="superscript">22</hi> アグリッパ、ペストスに曰けるは我も亦その人に聽んことを欲なり彼いひけるは明日なんぢ之に聽べし</ab>
+<ab type="verse" n="23" xml:id="Acts.25.23"><hi rend="superscript">23</hi> 是に於て次日アグリッパとベルニケ大に威儀を備きたりて千夫の長等および邑の尊き人々と偕に公堂に入ぬパウロはペストスの命に由て曳出さる</ab>
+<ab type="verse" n="24" xml:id="Acts.25.24"><hi rend="superscript">24</hi> ペストス曰けるはアグリッパ王〔及｜およ〕び凡て我儕と偕にある人々よ爾曹この人を觀なるべしユダヤの多の人々エルサレムに於ても亦この所に於ても彼について我に〔訟｜訟〕かれは此のち生べき者に非ずと呼叫べり</ab>
+<ab type="verse" n="25" xml:id="Acts.25.25"><hi rend="superscript">25</hi> 然ど我これを査看て其死べき事を爲ざりしを知り且かれ自らアウグストに上告せんと爲により我これを解らんことを定たり</ab>
+<ab type="verse" n="26" xml:id="Acts.25.26"><hi rend="superscript">26</hi> 我これに就て我が主上に奏すべき實情を得ず故に我これを質訊て奏すべき事を得んがため爾曹の前また殊更にアグリッパ王なんぢの前に曳出せり</ab>
+<ab type="verse" n="27" xml:id="Acts.25.27"><hi rend="superscript">27</hi> 〔蓋｜そは〕囚者を解るに其罪案を書そへざるは理に合はずと意へば也</ab>
+</div>
+<div type="chapter" n="26">
+  <head>第26章</head>
+<ab type="verse" n="1" xml:id="Acts.26.1"><hi rend="superscript">1</hi> アグリッパ、パウロに曰けるは爾が自己の爲に陳る事を許たり是に於てパウロ手を伸かれらが〔訟｜訟〕を禦んとして曰けるは</ab>
+<ab type="verse" n="2" xml:id="Acts.26.2"><hi rend="superscript">2</hi> アグリッパ王よ我ユダヤ人に〔訟｜訟〕られし事につき今日なんぢの前にて悉く辯訴ことを得が故に我を幸なる者とす</ab>
+<ab type="verse" n="3" xml:id="Acts.26.3"><hi rend="superscript">3</hi> 殊に幸なるは爾ユダヤ人の例と彼等が論ずる所の端緒を悉く知たまふ事なり是故に願くは耐心て我に聽たまへ</ab>
+<ab type="verse" n="4" xml:id="Acts.26.4"><hi rend="superscript">4</hi> 夫わが始よりエルサレムに在て我民の中にをり幼稺ときより如何に世を過しかをユダヤ人はみな知なるべし</ab>
+<ab type="verse" n="5" xml:id="Acts.26.5"><hi rend="superscript">5</hi> もし證を爲んとせば彼等は素より我が曩に我儕の教の中にて最も嚴き所に遵ひたるパリサイ人よりし事を知り</ab>
+<ab type="verse" n="6" xml:id="Acts.26.6"><hi rend="superscript">6</hi> 今われ立て我儕の先祖等に神の約束し給し其望につきて〔鞫｜鞫か〕るる也</ab>
+<ab type="verse" n="7" xml:id="Acts.26.7"><hi rend="superscript">7</hi> この望は即ち我儕の十二の支族の夜も晝も專ら神に事て得んとする者なりアグリッパ王よ此望の爲に我はユダヤ人に〔訟｜訟〕られたり</ab>
+<ab type="verse" n="8" xml:id="Acts.26.8"><hi rend="superscript">8</hi> 神すでに死し者を甦らせ給りと云ども爾曹なんぞ信じ難しとする乎</ab>
+<ab type="verse" n="9" xml:id="Acts.26.9"><hi rend="superscript">9</hi> 我も亦曩にはナザレのイエスの名に逆はんがため多の事を行は宜ことと自ら意ひ</ab>
+<ab type="verse" n="10" xml:id="Acts.26.10"><hi rend="superscript">10</hi> エルサレムにて此事を行り即ち祭司の長等より權威を受て多の聖徒を獄に入また彼等の殺さるる時は其を宜とし</ab>
+<ab type="verse" n="11" xml:id="Acts.26.11"><hi rend="superscript">11</hi> 諸會堂に於て屡次これを罰し強て之に褻瀆を言しめ且狂ること甚しく之に由て外國の邑にまで攻及べり</ab>
+<ab type="verse" n="12" xml:id="Acts.26.12"><hi rend="superscript">12</hi> 此とき祭司の長等より權威と命令を受てダマスコへ往しに</ab>
+<ab type="verse" n="13" xml:id="Acts.26.13"><hi rend="superscript">13</hi> 王よ其途にて正午われ天より光あるを見たり日よりも耀きて我および同に行る者を環照せり</ab>
+<ab type="verse" n="14" xml:id="Acts.26.14"><hi rend="superscript">14</hi> 我儕みな地に仆る其時ヘブルの方言にてサウロ、サウロ何ぞ我を窘る乎なんぢ莿ある鞭を蹴こと難しと我に語れる聲を我きけり</ab>
+<ab type="verse" n="15" xml:id="Acts.26.15"><hi rend="superscript">15</hi> 我いひけるは主よ爾は誰ぞや彼こたへけるは我は爾が窘る所のイエスなり</ab>
+<ab type="verse" n="16" xml:id="Acts.26.16"><hi rend="superscript">16</hi> 爾起て立よ我なんぢに現るるは爾を立て役者とし又なんぢが既に見し事と我が爾に現れて示さん其事の證人と爲んがため也</ab>
+<ab type="verse" n="17" xml:id="Acts.26.17"><hi rend="superscript">17</hi> 我なんぢを守て此民および異邦人の手より拯ふべし今なんぢを彼等に遣すは</ab>
+<ab type="verse" n="18" xml:id="Acts.26.18"><hi rend="superscript">18</hi> 彼等の目を啓き暗を離れて光に就サタンの權を離れて神に歸せしめ又彼等をして我を信ずるに因て罪の赦と聖られし者の中に於て業を受ることを得させんが爲なり</ab>
+<ab type="verse" n="19" xml:id="Acts.26.19"><hi rend="superscript">19</hi> 是故にアグリッパ王よ我この天の現示に背ずして</ab>
+<ab type="verse" n="20" xml:id="Acts.26.20"><hi rend="superscript">20</hi> 先ダマスコ、エルサレムの人々次にユダヤの全地および異邦人にまで恆に悔改に符ふ行をなして罪を悔べき事と神に歸すべき事とを宣傳へたり</ab>
+<ab type="verse" n="21" xml:id="Acts.26.21"><hi rend="superscript">21</hi> 此等の事に由てユダヤ人われを殿にて執かつ我を殺さんとせり</ab>
+<ab type="verse" n="22" xml:id="Acts.26.22"><hi rend="superscript">22</hi> 然して我は神の佑をえ今日に至るまで斃るることなく小き者にも大なる者にも證をなせり我言ところは〔預言者｜預言者〕およびモーセが將來かならず成んと言しことに非ざるはなし</ab>
+<ab type="verse" n="23" xml:id="Acts.26.23"><hi rend="superscript">23</hi> 即ちキリストの苦難をうけ死し者の復生の始となり光を此民と異邦人に傳ふること也</ab>
+<ab type="verse" n="24" xml:id="Acts.26.24"><hi rend="superscript">24</hi> パウロが如此〔うつたへ｜うたへ〕ける時ペストス大聲に曰けるはパウロよ爾は狂氣せり博學爾をして狂氣せしめたり</ab>
+<ab type="verse" n="25" xml:id="Acts.26.25"><hi rend="superscript">25</hi> パウロ曰けるは最も尊きペストスよ我は狂氣せるに非ず我言ところは眞實にして慥なる心より出るなり</ab>
+<ab type="verse" n="26" xml:id="Acts.26.26"><hi rend="superscript">26</hi> それ此等の事情は王よく知たまへば我はばからずして王の前に語れり蓋これらの事は方隅に行はれたるに非ざれば王に隱るる所なしと信ずれば也</ab>
+<ab type="verse" n="27" xml:id="Acts.26.27"><hi rend="superscript">27</hi> アグリッパ王よ爾〔預言者｜預言者〕の書を信ずる乎われ爾の信ずるを知</ab>
+<ab type="verse" n="28" xml:id="Acts.26.28"><hi rend="superscript">28</hi> アグリッパ、パウロに曰けるは爾われを勸て容易キリステアンと爲んとす</ab>
+<ab type="verse" n="29" xml:id="Acts.26.29"><hi rend="superscript">29</hi> パウロ曰けるは容易にもせよ容易からざるにもせよ我は惟なんぢ耳ならず今日われに聽ところの者みな此縲絏なくして我ごとき者とならんことを神に願ふなり</ab>
+<ab type="verse" n="30" xml:id="Acts.26.30"><hi rend="superscript">30</hi> 如此かたり畢しとき王と方伯およびベルニケ又ともに坐せし人々起て退き</ab>
+<ab type="verse" n="31" xml:id="Acts.26.31"><hi rend="superscript">31</hi> 相語て曰けるは此人は死べき事と縲絏にかかる可ことを爲ざる也</ab>
+<ab type="verse" n="32" xml:id="Acts.26.32"><hi rend="superscript">32</hi> アグリッパ、ペストスに對ひ曰けるは此人もしカイザルに上告せんと言ざりしならば既釋すべき者なり</ab>
+</div>
+<div type="chapter" n="27">
+  <head>第27章</head>
+<ab type="verse" n="1" xml:id="Acts.27.1"><hi rend="superscript">1</hi> われら已にイタリヤへ航ることに定りければ彼等パウロ及び他の囚者等をアウグスト隊の百夫の長なるユウリアスと名る者に付せり</ab>
+<ab type="verse" n="2" xml:id="Acts.27.2"><hi rend="superscript">2</hi> 是に於て我儕アジアに沿て駛んとするアドラミテオムの舟に登て出マケドニヤのテサロニケ人アリスタルコ我儕と偕に在き</ab>
+<ab type="verse" n="3" xml:id="Acts.27.3"><hi rend="superscript">3</hi> 次日シドンに着りユウリアス慇懃にパウロを待ひ彼に朋友の所へ往て其供應を受ることを許せり</ab>
+<ab type="verse" n="4" xml:id="Acts.27.4"><hi rend="superscript">4</hi> 我儕また彼處より舟出せしが風の逆ふに因てクプロの風下の方に入り</ab>
+<ab type="verse" n="5" xml:id="Acts.27.5"><hi rend="superscript">5</hi> キリキヤとパムフリヤの海を過てルキヤのムラと云る港に至れり</ab>
+<ab type="verse" n="6" xml:id="Acts.27.6"><hi rend="superscript">6</hi> 此處にて百夫の長イタリヤへ濟るアリキサンデリアの舟に遇て我儕を之に登たり</ab>
+<ab type="verse" n="7" xml:id="Acts.27.7"><hi rend="superscript">7</hi> 多日のあひだ舟の行こと遲く僅にしてクニドスに對へる處に至り風の順ならざるに因てサルモネを過クレテの風下の方を走り</ab>
+<ab type="verse" n="8" xml:id="Acts.27.8"><hi rend="superscript">8</hi> 〔僅｜僅く〕にして其岸に沿ラサイアの邑に近き美港と名る處に至れり</ab>
+<ab type="verse" n="9" xml:id="Acts.27.9"><hi rend="superscript">9</hi> 時を歴こと既に久く斷食の期も過ぬれば舟路の危險によりパウロ諌て</ab>
+<ab type="verse" n="10" xml:id="Acts.27.10"><hi rend="superscript">10</hi> 曰けるは人々よ我思ふに此舟路は損害多かるべし第に積荷と舟のみならず我儕の生命にも及ばん</ab>
+<ab type="verse" n="11" xml:id="Acts.27.11"><hi rend="superscript">11</hi> 然ども百夫の長はパウロの言ところよりも船長と船主の言を信じたり</ab>
+<ab type="verse" n="12" xml:id="Acts.27.12"><hi rend="superscript">12</hi> 且この港は冬を過すに便宜らず是故に若ピニクスに至り彼處にて冬を過すことを得んかとて此處を出んと定たる者おほしピニクスはクレテの港にて西南の風と西北の風と其岸に沿て吹ところ也</ab>
+<ab type="verse" n="13" xml:id="Acts.27.13"><hi rend="superscript">13</hi> 時に南風徐に吹ければ彼等志を得たりと意ひ錨を起クレテに沿て走しに</ab>
+<ab type="verse" n="14" xml:id="Acts.27.14"><hi rend="superscript">14</hi> 未幾ユーロクルドンと稱る狂風島より卸來り</ab>
+<ab type="verse" n="15" xml:id="Acts.27.15"><hi rend="superscript">15</hi> 舟を掣去ければ之に敵ふことを得ず我儕その風に任て</ab>
+<ab type="verse" n="16" xml:id="Acts.27.16"><hi rend="superscript">16</hi> 遂にクラウダと云る小島の風下の方へ駛ゆき〔僅｜僅く〕にして小艇を收む</ab>
+<ab type="verse" n="17" xml:id="Acts.27.17"><hi rend="superscript">17</hi> 既に援上し後かれら備おける物をもて大舟の胴を縛かつ洲に乘掛んことを恐れ帆を下して流れたり</ab>
+<ab type="verse" n="18" xml:id="Acts.27.18"><hi rend="superscript">18</hi> 風疾きによりて次の日水夫ら貨物を擲つ</ab>
+<ab type="verse" n="19" xml:id="Acts.27.19"><hi rend="superscript">19</hi> 第三日に至ては我儕てづから舟具を擲つ</ab>
+<ab type="verse" n="20" xml:id="Acts.27.20"><hi rend="superscript">20</hi> 斯て多日のあひだ日も星も見ずして疾風ふきあてければ我儕つひに救るべき望たえ果たり</ab>
+<ab type="verse" n="21" xml:id="Acts.27.21"><hi rend="superscript">21</hi> 人々久く食せずパウロ彼等の中に立て曰けるは人々よ爾曹曩に我諌を聽クレテより離るることを爲ずして此損害を受ずある可はずなりし</ab>
+<ab type="verse" n="22" xml:id="Acts.27.22"><hi rend="superscript">22</hi> 今われ爾曹に勸む勇め爾曹の中一人だに生命を失ふ者なし惟舟を失ふこと有んのみ</ab>
+<ab type="verse" n="23" xml:id="Acts.27.23"><hi rend="superscript">23</hi> 蓋わが屬する所わが事る所の神の使者この夜わが側に立て</ab>
+<ab type="verse" n="24" xml:id="Acts.27.24"><hi rend="superscript">24</hi> パウロよ懼るる勿れ爾必ずカイザルの前に立べし且神は爾と偕に舟にある者を悉く爾に賜と曰り</ab>
+<ab type="verse" n="25" xml:id="Acts.27.25"><hi rend="superscript">25</hi> 是故に人々勇めや如此われに語り給へる如く必ず成んと我神を信ずれば也</ab>
+<ab type="verse" n="26" xml:id="Acts.27.26"><hi rend="superscript">26</hi> われら必ず一島に推上られん</ab>
+<ab type="verse" n="27" xml:id="Acts.27.27"><hi rend="superscript">27</hi> 斯て第十四日の夜に至り我儕アデリアの海に漂ふ夜半ごろ水夫ら岸に近けりと意ひて</ab>
+<ab type="verse" n="28" xml:id="Acts.27.28"><hi rend="superscript">28</hi> 水を測しに二十尋を得たり少し進て又測しに十五尋を得たり</ab>
+<ab type="verse" n="29" xml:id="Acts.27.29"><hi rend="superscript">29</hi> 石に乘掛んことを恐れ艫より四の錨を投て天明を待わびぬ</ab>
+<ab type="verse" n="30" xml:id="Acts.27.30"><hi rend="superscript">30</hi> 水夫ら舟より逃んとして舳より錨を投す状をなし小艇を海に下ければ</ab>
+<ab type="verse" n="31" xml:id="Acts.27.31"><hi rend="superscript">31</hi> パウロ百夫の長と兵卒に曰けるは此人々もし舟に留らずば爾曹救るることを得じ</ab>
+<ab type="verse" n="32" xml:id="Acts.27.32"><hi rend="superscript">32</hi> 是に於て兵卒ら小艇の索を斷きり其流るるに任たり</ab>
+<ab type="verse" n="33" xml:id="Acts.27.33"><hi rend="superscript">33</hi> 夜の明んとする時パウロ凡の人々に食せんことを勸て曰けるは爾曹待わびて食せざりしこと今日にて已に十四日なり</ab>
+<ab type="verse" n="34" xml:id="Acts.27.34"><hi rend="superscript">34</hi> 故に我なんぢらに食せんことを勸そは救を得べき助となる可ればなり爾曹の頭髮一縷だに爾曹の首より隕ざるべし</ab>
+<ab type="verse" n="35" xml:id="Acts.27.35"><hi rend="superscript">35</hi> 如此かたりてパンを取〔凡て｜すべて〕の人の前にて神に謝し之を擘て先食しければ</ab>
+<ab type="verse" n="36" xml:id="Acts.27.36"><hi rend="superscript">36</hi> 彼等も亦勇んで食せり</ab>
+<ab type="verse" n="37" xml:id="Acts.27.37"><hi rend="superscript">37</hi> 舟に登る所の我儕合て二百七十六人なりき</ab>
+<ab type="verse" n="38" xml:id="Acts.27.38"><hi rend="superscript">38</hi> 既に食して飽ければ穀物を海に棄て舟を輕せり</ab>
+<ab type="verse" n="39" xml:id="Acts.27.39"><hi rend="superscript">39</hi> 夜あけて其地は識ざれど一の海灣を見たり此に洲崎あり或は至ことを得ば彼處に舟を進んと謀り</ab>
+<ab type="verse" n="40" xml:id="Acts.27.40"><hi rend="superscript">40</hi> 綱を斷て錨を海にすて舵纜を鬆め舳の帆をあげ風に順ひ洲崎を望て走しに</ab>
+<ab type="verse" n="41" xml:id="Acts.27.41"><hi rend="superscript">41</hi> 潮の流交ふ處に至りて舟を洲に乘あげ舳は膠定て動ず艫は浪の勁が爲に破られたり</ab>
+<ab type="verse" n="42" xml:id="Acts.27.42"><hi rend="superscript">42</hi> 是に於て兵卒ら囚人の泅逃れんことを恐れ之を殺さんと勸む</ab>
+<ab type="verse" n="43" xml:id="Acts.27.43"><hi rend="superscript">43</hi> 然ども百夫の長パウロを救んと欲ひ其勸を阻かつ泅得る者は先水に跳いり</ab>
+<ab type="verse" n="44" xml:id="Acts.27.44"><hi rend="superscript">44</hi> その他は或は板あるひは舟の碎木に乘て岸に至んことを命じたり此の如く皆すくはるる事を得て岸に登れり</ab>
+</div>
+<div type="chapter" n="28">
+  <head>第28章</head>
+<ab type="verse" n="1" xml:id="Acts.28.1"><hi rend="superscript">1</hi> 我儕すでに救を得て後その島の名をメリタと稱ることを知れり</ab>
+<ab type="verse" n="2" xml:id="Acts.28.2"><hi rend="superscript">2</hi> 夷人ら尋常ならぬ情分をかく降雨と寒とにより火を爇て我儕衆人を待遇せり</ab>
+<ab type="verse" n="3" xml:id="Acts.28.3"><hi rend="superscript">3</hi> パウロ多の柴を集て火に放しに火爇により蝮いで來て其手に繞り</ab>
+<ab type="verse" n="4" xml:id="Acts.28.4"><hi rend="superscript">4</hi> 夷人ら蝮の其手に懸たるを見て互に曰けるは此人は正く人を殺しし者ならん彼海より逃たりと雖も天理その生ることを容さざる也</ab>
+<ab type="verse" n="5" xml:id="Acts.28.5"><hi rend="superscript">5</hi> パウロ蝮を火の中に拂綽して害を受ることなし</ab>
+<ab type="verse" n="6" xml:id="Acts.28.6"><hi rend="superscript">6</hi> 彼等パウロを候ひて其腫るか或は忽ち仆て死ることあらんと意に久く候へども彼に害の及ざるを見て其意を轉こは神なりと謂り</ab>
+<ab type="verse" n="7" xml:id="Acts.28.7"><hi rend="superscript">7</hi> 島の長をププリヲと名く此邊に己が有る田地あり彼われらを接て慇懃に三日宿らせたり</ab>
+<ab type="verse" n="8" xml:id="Acts.28.8"><hi rend="superscript">8</hi> 時にププリヲの父爇と痢病を患ひて臥居しがパウロその所に至り祈て手を其上に接これを醫せり</ab>
+<ab type="verse" n="9" xml:id="Acts.28.9"><hi rend="superscript">9</hi> 此事ありしかば島にある所の多の病者等も來て醫さるることを得たり</ab>
+<ab type="verse" n="10" xml:id="Acts.28.10"><hi rend="superscript">10</hi> かれら禮を厚して我儕を敬ひ又舟出の時に臨て我儕が無てかなはぬ物を贈れり</ab>
+<ab type="verse" n="11" xml:id="Acts.28.11"><hi rend="superscript">11</hi> 我儕三ヶ月を經てのち此島にて冬を過ししデヲスクリの號あるアレキサンデリアの舟に登いでて</ab>
+<ab type="verse" n="12" xml:id="Acts.28.12"><hi rend="superscript">12</hi> スラクサに着三日とどまれり</ab>
+<ab type="verse" n="13" xml:id="Acts.28.13"><hi rend="superscript">13</hi> 彼處より回てレギヲに至り一日を經て南風起ければ次日プテヲリに至り</ab>
+<ab type="verse" n="14" xml:id="Acts.28.14"><hi rend="superscript">14</hi> 兄弟等に遇かれらが請に任て七日とどまり而してロマに往／</ab>
+<ab type="verse" n="15" xml:id="Acts.28.15"><hi rend="superscript">15</hi> ロマの兄弟たち我儕の事を聞きアッピーポロムおよび三館と云る處に來て我儕を迎ふパウロ之を見て神に謝し其心に力を得たり／</ab>
+<ab type="verse" n="16" xml:id="Acts.28.16"><hi rend="superscript">16</hi> 既に我儕ロマに至しに百夫の長衆囚を王を守る兵隊の長に交せり然どパウロは一人の守兵と共に別に自ら居ことを許されたり</ab>
+<ab type="verse" n="17" xml:id="Acts.28.17"><hi rend="superscript">17</hi> 三日を經て後パウロ、ユダヤ人の尊重たる者等を召集む〔かれら｜彼等〕の集れる時これに曰けるは人々兄弟よ我いまだ我民また先祖の例に違て何事をも爲しことなし然にエルサレムより囚人となりてロマ人の手に付されたり</ab>
+<ab type="verse" n="18" xml:id="Acts.28.18"><hi rend="superscript">18</hi> ロマ人すでに我を審たれど死べき罪なきが故に我を釋さんと欲へり</ab>
+<ab type="verse" n="19" xml:id="Acts.28.19"><hi rend="superscript">19</hi> ユダヤ人これを拒しにより我已ことを得ずしてカイザルに上告す然ども我が國の民を〔訟｜訟〕ん爲には非ず</ab>
+<ab type="verse" n="20" xml:id="Acts.28.20"><hi rend="superscript">20</hi> 斯に因て我なんぢらに會ともに語んことを請るなり蓋われイスラエルの望の爲に此鏈に繋るれば也</ab>
+<ab type="verse" n="21" xml:id="Acts.28.21"><hi rend="superscript">21</hi> 彼等いひけるは我儕ユダヤより爾について書信を受ず又兄弟たちの來し者も爾に就て何の惡事あるを我儕に報また語し者なし</ab>
+<ab type="verse" n="22" xml:id="Acts.28.22"><hi rend="superscript">22</hi> 然ど我儕なんぢの意ふ所を聞んとす蓋われら何處にても此宗旨の誹らるるを知ばなり</ab>
+<ab type="verse" n="23" xml:id="Acts.28.23"><hi rend="superscript">23</hi> 既に定たる日に及て多の人パウロの舘に來れりパウロ朝早より暮に至までモーセの律法と〔預言者｜預言者〕の書をひき神の國の事を説かつ之を證しイエスの事を語て彼等を勸たり</ab>
+<ab type="verse" n="24" xml:id="Acts.28.24"><hi rend="superscript">24</hi> 其言に感じて之を然とする者あり亦信ぜざる者もありて</ab>
+<ab type="verse" n="25" xml:id="Acts.28.25"><hi rend="superscript">25</hi> 互に相合ざるにより遂に退けり其退かんとせし時パウロ一言を語けるは誠なるかな聖靈〔預言者｜預言者〕イザヤに託て我儕の先祖等に語し言〔其｜その〕言に云</ab>
+<ab type="verse" n="26" xml:id="Acts.28.26"><hi rend="superscript">26</hi> なんぢ此民に往て告よ爾曹は聽ども聰らず視ども見ず</ab>
+<ab type="verse" n="27" xml:id="Acts.28.27"><hi rend="superscript">27</hi> 蓋この民目にて見耳にて聽心にて悟り悔改て我に醫されん事を恐れ其心を頑し耳を蔽ひ目を閉たりと</ab>
+<ab type="verse" n="28" xml:id="Acts.28.28"><hi rend="superscript">28</hi> 是故に爾曹知べし神の救は異邦人に遺られ彼等は之を聽ん</ab>
+<ab type="verse" n="29" xml:id="Acts.28.29"><hi rend="superscript">29</hi> パウロが此言を言畢し時ユダヤ人退きて互に大なる爭論をなせり／</ab>
+<ab type="verse" n="30" xml:id="Acts.28.30"><hi rend="superscript">30</hi> 斯てパウロその借受し家に居しこと全く二年すべて來り見んとする者を接て</ab>
+<ab type="verse" n="31" xml:id="Acts.28.31"><hi rend="superscript">31</hi> 憚らず神の國をのべ主イエス・キリストの事を教て禁げらるること無りき</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

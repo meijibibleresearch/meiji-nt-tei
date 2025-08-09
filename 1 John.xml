@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>約翰第一書 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>約翰第一書 (1 John)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="[約翰第一書]" xml:id="[約翰第一書]">
+        <head>約翰第一書</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> それ我儕が聞また目に見懇切に觀わが手捫りし所の〔もの｜者〕即ち元始より在し生命の道を爾曹に傳ふ</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> この生命すでに顯れたれば我儕これを見て證をなす即ち原父と偕に在し者にて我儕に顯れたる窮なき所の此生命を爾曹に傳ふ</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> われら見しところ聞し所を爾曹に傳ふるは爾曹を我儕と同心ならしめん爲なり我儕は父および其子イエス・キリストと同心たり</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> 我儕この書をかき贈て爾曹の喜樂を充しめんとす</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> 神は光なり少の暗處なし此は我儕彼より聞て亦なんぢらに傳る告なり</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> 若われら神と同心なりと言て暗を行かば我儕が言ところは謊にして眞理を行ふに非ず</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> 若神の光に在が如く光の中を行かば我儕互に同心となるを得かつ其子イエス・キリストの血すべて罪より我儕を潔む</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> もし罪なしと言ば是みづから欺けるにて眞理かれらに在なし</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> もし己の罪を認はさば神は信實なる公義者なるが故に必ず我儕の罪を赦し諸の不義より我儕を潔むべし</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> もし罪を犯たることなしと言ば神を謊者とする也その道われらに在なし</ab>
+</div>
+<div type="chapter" n="2">
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="Acts.2.1"><hi rend="superscript">1</hi> わが小子よ我これらの事を爾曹に書贈るは爾曹をして罪を犯すこと莫らしめん爲なり若し人罪を犯せば我儕の爲に父の前に保惠師あり即ち義なるイエス・キリスト</ab>
+<ab type="verse" n="2" xml:id="Acts.2.2"><hi rend="superscript">2</hi> 彼は我儕の罪の挽回の祭物なり第に我儕の爲のみならず徧く世の爲の挽回の祭物なり</ab>
+<ab type="verse" n="3" xml:id="Acts.2.3"><hi rend="superscript">3</hi> われら若その誡を守らば是に由て彼を識りと自ら曉るべし</ab>
+<ab type="verse" n="4" xml:id="Acts.2.4"><hi rend="superscript">4</hi> われ彼を識りと言て其誡を守らざる者は謊人なり眞理その衷に在なし</ab>
+<ab type="verse" n="5" xml:id="Acts.2.5"><hi rend="superscript">5</hi> 凡て其道を守る者は神を愛するの愛誠に其衷に於て完全す是に由て我儕が彼に在ことを自ら曉る</ab>
+<ab type="verse" n="6" xml:id="Acts.2.6"><hi rend="superscript">6</hi> 彼に居といふ者は彼の行し如く行むべき也／</ab>
+<ab type="verse" n="7" xml:id="Acts.2.7"><hi rend="superscript">7</hi> 兄弟よ我なんぢらに新しき誡を書贈るに非ず即ち始より爾曹の有る舊誡なり此舊誡は始より爾曹が聞し所の道なり</ab>
+<ab type="verse" n="8" xml:id="Acts.2.8"><hi rend="superscript">8</hi> 然ど我が爾曹に書贈る所いまだ新しき誡なり此言は彼に於ても爾曹に於ても眞實なり蓋いま暗味はやや過て眞の光耀ばなり</ab>
+<ab type="verse" n="9" xml:id="Acts.2.9"><hi rend="superscript">9</hi> 光に居と言て其兄弟を憎む者は今なほ暗に居なり</ab>
+<ab type="verse" n="10" xml:id="Acts.2.10"><hi rend="superscript">10</hi> 兄弟を愛する者は光に居て己を躓かするもの其衷になし</ab>
+<ab type="verse" n="11" xml:id="Acts.2.11"><hi rend="superscript">11</hi> 兄弟を憎む者は暗にをり暗に行て其往ところを知ず是その目を暗に眊さるればなり</ab>
+<ab type="verse" n="12" xml:id="Acts.2.12"><hi rend="superscript">12</hi> 小子よ我この書を爾曹に書おくるは爾曹主の名に縁て罪を赦されたるに因</ab>
+<ab type="verse" n="13" xml:id="Acts.2.13"><hi rend="superscript">13</hi> 父老よ我この書を爾曹にかき贈るは爾曹元始よりの者を識るによる壯者よ我この書を爾曹に書おくるは爾曹惡者に勝るによる孺子よ我この書を爾曹に筆おくるは爾曹父を識るに因</ab>
+<ab type="verse" n="14" xml:id="Acts.2.14"><hi rend="superscript">14</hi> 父老よ我この書を爾曹に贈しは爾曹始よりの者を知るに因てなり壯者よ我この書を爾曹に贈しは爾曹剛健かつ神の道爾曹の心に有て惡者に勝るに因てなり</ab>
+<ab type="verse" n="15" xml:id="Acts.2.15"><hi rend="superscript">15</hi> この世あるひは此世にある物を愛する勿れ人もし此世を愛せば父を愛するの愛その衷に在なし</ab>
+<ab type="verse" n="16" xml:id="Acts.2.16"><hi rend="superscript">16</hi> 凡そ世に在もの即ち肉體の慾眼目の慾また勢より起る驕傲これらは皆父より出るに非ず世より出るもの也</ab>
+<ab type="verse" n="17" xml:id="Acts.2.17"><hi rend="superscript">17</hi> この世と其慾とは逝るものにて神の旨を行ふ者は永遠存るなり／</ab>
+<ab type="verse" n="18" xml:id="Acts.2.18"><hi rend="superscript">18</hi> 孺子よ今は乃ち季世キリストに敵する者來らんと爾曹が聞し所の如く今すでにキリストに敵する者多し是に由て今は乃ち季の世なるを我儕は知り</ab>
+<ab type="verse" n="19" xml:id="Acts.2.19"><hi rend="superscript">19</hi> 我儕を離れて彼等出たりと雖も素より我儕の屬ならざる也もし我儕の屬ならんには恒に我儕と偕なるべし彼等いで去るは衆の者の悉くは我儕の屬ならざること顯さんが爲なり</ab>
+<ab type="verse" n="20" xml:id="Acts.2.20"><hi rend="superscript">20</hi> 爾曹は既に聖主より膏を沃れて一切の事を知</ab>
+<ab type="verse" n="21" xml:id="Acts.2.21"><hi rend="superscript">21</hi> われ爾曹が眞理を識ざるに因て此書を筆おくるに非ず爾曹眞理を識かつ凡の謊は眞理より出ざることを識るを以てなり</ab>
+<ab type="verse" n="22" xml:id="Acts.2.22"><hi rend="superscript">22</hi> 誰か是謊者イエスを言てキリストとせざる者ならずや父と子とを拒む者は即ちキリストに敵する者なり</ab>
+<ab type="verse" n="23" xml:id="Acts.2.23"><hi rend="superscript">23</hi> 凡そ子を拒む者は父をも有ず子を受る者は父をも有り</ab>
+<ab type="verse" n="24" xml:id="Acts.2.24"><hi rend="superscript">24</hi> なんぢら始より聞る者を爾曹の衷に居しむべし若し始より聞る者なんぢらの衷に居ば爾曹は子と父とに居ん</ab>
+<ab type="verse" n="25" xml:id="Acts.2.25"><hi rend="superscript">25</hi> これ主の我儕に約束し給へる約束すなはち窮なき生命なり</ab>
+<ab type="verse" n="26" xml:id="Acts.2.26"><hi rend="superscript">26</hi> 〔我｜われ〕爾曹を惑す者に就て此等の事を爾曹に書贈れり</ab>
+<ab type="verse" n="27" xml:id="Acts.2.27"><hi rend="superscript">27</hi> 爾曹は主より沃れたる膏その衷に存れるが故に教を人より受るに及ばず其膏すべての事を爾曹に教ふ且眞實にして虚假なし爾曹膏の教る如く恒に主に居べし</ab>
+<ab type="verse" n="28" xml:id="Acts.2.28"><hi rend="superscript">28</hi> 小子よ恒に主に居べし其顯現時に我儕懼ることなく其降臨時に其前に耻ること莫らん爲なり</ab>
+<ab type="verse" n="29" xml:id="Acts.2.29"><hi rend="superscript">29</hi> 爾曹は主の公義を知に由て公義を行ふ者の皆主の生ところなるを亦しる也</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="Acts.3.1"><hi rend="superscript">1</hi> なんぢら視よ我儕稱られて神の子たることを得これ父の我儕に賜ふ何等の愛ぞ世は父を識ず是に由て我儕をも識ざる也</ab>
+<ab type="verse" n="2" xml:id="Acts.3.2"><hi rend="superscript">2</hi> 愛する者よ我儕いま神の子たり後いかん未だ顯れず其現れん時には必ず神に肖んことを知そは我儕その眞状を見べければ也</ab>
+<ab type="verse" n="3" xml:id="Acts.3.3"><hi rend="superscript">3</hi> 凡そ神に由る此望を懷く者は其潔が如く自己を潔す</ab>
+<ab type="verse" n="4" xml:id="Acts.3.4"><hi rend="superscript">4</hi> 罪を犯す者は律法を犯す罪とは即ち律法を犯すこと也</ab>
+<ab type="verse" n="5" xml:id="Acts.3.5"><hi rend="superscript">5</hi> 我儕の罪を除かんが爲に主の現れ給ひしことは爾曹の知ところなり彼また自ら罪なし</ab>
+<ab type="verse" n="6" xml:id="Acts.3.6"><hi rend="superscript">6</hi> 凡そ彼に居者は罪を犯さず凡そ罪を犯す者は未だ彼を見ず未だ彼を識ざる也</ab>
+<ab type="verse" n="7" xml:id="Acts.3.7"><hi rend="superscript">7</hi> 小子よ人に惑さるること勿れ義を行ふ者は義人なり即ち主の義なるが如し</ab>
+<ab type="verse" n="8" xml:id="Acts.3.8"><hi rend="superscript">8</hi> 罪を犯す者は惡魔より出そは惡魔は始めより罪を犯せばなり神の子の顯るるは惡魔の工を毀たんが爲なり</ab>
+<ab type="verse" n="9" xml:id="Acts.3.9"><hi rend="superscript">9</hi> 凡そ神に由て生るる者は罪を犯さず蓋神の種その衷に在に因かれ亦罪を犯すこと能はず蓋神に由て生るれば也／</ab>
+<ab type="verse" n="10" xml:id="Acts.3.10"><hi rend="superscript">10</hi> 是に由て神の子と惡魔の子とは明かに著る凡そ義を行はず其兄弟を愛せざる者は皆神より出しに非ず</ab>
+<ab type="verse" n="11" xml:id="Acts.3.11"><hi rend="superscript">11</hi> 我儕の互に相愛すべきは爾曹の始より聞し所の命令なり</ab>
+<ab type="verse" n="12" xml:id="Acts.3.12"><hi rend="superscript">12</hi> カインに效ふこと勿れ彼はかの惡者より出し者にて其弟を殺せり何故これを殺ししか己の行し所は惡く弟の行し所は義かりしに因</ab>
+<ab type="verse" n="13" xml:id="Acts.3.13"><hi rend="superscript">13</hi> わが兄弟よ世なんぢらを憎むとも駭くこと勿れ</ab>
+<ab type="verse" n="14" xml:id="Acts.3.14"><hi rend="superscript">14</hi> われら兄弟を愛するに因すでに死を出て生に入しことを自らしる兄弟を愛せざる者は死の中に居</ab>
+<ab type="verse" n="15" xml:id="Acts.3.15"><hi rend="superscript">15</hi> 凡そ兄弟を憎む者は即ち人を殺す者なり凡そ人を殺す者は窮なき生命その衷に存ことなし此は爾曹の知ところ也</ab>
+<ab type="verse" n="16" xml:id="Acts.3.16"><hi rend="superscript">16</hi> 主は我儕の爲に生を捐たまへり是に由て愛といふ事を知たり我儕また兄弟の爲に生を捐べし</ab>
+<ab type="verse" n="17" xml:id="Acts.3.17"><hi rend="superscript">17</hi> 世の寶財をもち兄弟の窮乏を見て反て惠施の心を閉る者は何で神を愛するの愛その衷に存んや</ab>
+<ab type="verse" n="18" xml:id="Acts.3.18"><hi rend="superscript">18</hi> 小子よ我儕愛するに言と舌とを以て相愛する事なく行と實とを以てすべし</ab>
+<ab type="verse" n="19" xml:id="Acts.3.19"><hi rend="superscript">19</hi> 是に由て我儕眞理より出しを知かつ我儕心を主の前に安んずべし</ab>
+<ab type="verse" n="20" xml:id="Acts.3.20"><hi rend="superscript">20</hi> 我儕が心もし我儕を責ば神は我儕が心よりも大なるにより凡の事を知給はざるなし</ab>
+<ab type="verse" n="21" xml:id="Acts.3.21"><hi rend="superscript">21</hi> 愛する者よ我儕が心みづから責ること無ば神に向て憚る所なかるべし</ab>
+<ab type="verse" n="22" xml:id="Acts.3.22"><hi rend="superscript">22</hi> 且われらが凡て求る所は彼よりも受そは其誡を守りて其悦び給ふ所を行へば也</ab>
+<ab type="verse" n="23" xml:id="Acts.3.23"><hi rend="superscript">23</hi> この誡は即ち我儕神の子イエス・キリストの名を信じ彼の我儕に命ぜし如く互に相愛すること也</ab>
+<ab type="verse" n="24" xml:id="Acts.3.24"><hi rend="superscript">24</hi> 神の誡を守る者は神にをり神も亦かれに居われら其賜ふ所の靈に由て即ち其われらに居給ふことを知り</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="Acts.4.1"><hi rend="superscript">1</hi> 愛する者よ凡の靈を信ずる勿れその靈神より出るや否やを試むべし多の僞〔預言者｜預言者〕いでて世に入り</ab>
+<ab type="verse" n="2" xml:id="Acts.4.2"><hi rend="superscript">2</hi> 凡そイエス・キリストの肉體となりて臨り給ることを認はす靈は神より出これに由て神の靈を知べし</ab>
+<ab type="verse" n="3" xml:id="Acts.4.3"><hi rend="superscript">3</hi> 凡そイエス・キリストを認はさざる靈は神より出るに非ず即ちキリストに敵する者の靈なり此者の將に來らんとする事は爾曹が聞る所なり今〔既｜すで〕に世に居り</ab>
+<ab type="verse" n="4" xml:id="Acts.4.4"><hi rend="superscript">4</hi> 小子よ爾曹は神より出また彼等に勝ことを得たり蓋なんぢらの衷に居ものは世の衷にをる者より大なるに因て也</ab>
+<ab type="verse" n="5" xml:id="Acts.4.5"><hi rend="superscript">5</hi> 彼等は世より出し者なれば其いふ所も世より出し者の言べき事にして世人は之に聽り</ab>
+<ab type="verse" n="6" xml:id="Acts.4.6"><hi rend="superscript">6</hi> 我儕は神より出たり神を識ものは我儕にきき神より出ざる者は我儕に聽ず是に由て眞理の靈と迷謬の靈とを知なり／</ab>
+<ab type="verse" n="7" xml:id="Acts.4.7"><hi rend="superscript">7</hi> 愛する者よ我儕互に相愛すべし愛は神より出れば也おほよそ愛ある者は神に由て生れ且神を識るなり</ab>
+<ab type="verse" n="8" xml:id="Acts.4.8"><hi rend="superscript">8</hi> 愛なき者は神を識ず神は即ち愛なれば也</ab>
+<ab type="verse" n="9" xml:id="Acts.4.9"><hi rend="superscript">9</hi> 神はその生給へる獨子を世に遣はし我儕をして彼に由て生を得しむ是に於て神の愛われらに顯れたり</ab>
+<ab type="verse" n="10" xml:id="Acts.4.10"><hi rend="superscript">10</hi> われら神を愛するに非ず神われらを愛し我儕の罪の爲に其子を遣して挽回の祭物とせり是すなはち愛なり</ab>
+<ab type="verse" n="11" xml:id="Acts.4.11"><hi rend="superscript">11</hi> 愛する者よ此の如く神われらを愛し給へば我儕も亦たがひに相愛すべし</ab>
+<ab type="verse" n="12" xml:id="Acts.4.12"><hi rend="superscript">12</hi> 未だ神を見し者なし我儕もし互に相愛せば神われらの衷に居て彼を愛する愛を我儕の衷に完全す</ab>
+<ab type="verse" n="13" xml:id="Acts.4.13"><hi rend="superscript">13</hi> かれ已に其靈をもて我儕に賜ふ是に由て我儕の彼に居かれの我儕に居ことを知</ab>
+<ab type="verse" n="14" xml:id="Acts.4.14"><hi rend="superscript">14</hi> 父曩に其子を遣して世の救主と爲り我儕すでに之を見たり今その證を作なり</ab>
+<ab type="verse" n="15" xml:id="Acts.4.15"><hi rend="superscript">15</hi> 凡そイエスを神の子なりと認はす者は神かれに居かれ神に居</ab>
+<ab type="verse" n="16" xml:id="Acts.4.16"><hi rend="superscript">16</hi> 我儕の爲に神の有る愛を我儕すでに知て信ず神は即ち愛なり凡そ愛にをる者は神にをり神また彼に居</ab>
+<ab type="verse" n="17" xml:id="Acts.4.17"><hi rend="superscript">17</hi> 此の如く我儕の愛全備を得て鞫日に懼なからしむ蓋主の如く我儕世に在ばなり</ab>
+<ab type="verse" n="18" xml:id="Acts.4.18"><hi rend="superscript">18</hi> 愛の中に懼あることなし全き愛は懼を除そは懼は苦を有り凡そ懼るる者は愛を全備せざる也</ab>
+<ab type="verse" n="19" xml:id="Acts.4.19"><hi rend="superscript">19</hi> われら神を愛するは彼まづ我等を愛するに因り</ab>
+<ab type="verse" n="20" xml:id="Acts.4.20"><hi rend="superscript">20</hi> もし我は神を愛すと言て其兄弟を憎む者は是謊者なり既に見ところの兄弟を愛ずして未だ見ざる神を何で愛せん乎</ab>
+<ab type="verse" n="21" xml:id="Acts.4.21"><hi rend="superscript">21</hi> 神を愛する者は亦その兄弟をも愛すべし此誡は我儕彼より授られたり</ab>
+</div>
+<div type="chapter" n="5">
+  <head>第5章</head>
+<ab type="verse" n="1" xml:id="Acts.5.1"><hi rend="superscript">1</hi> 凡そイエスをキリストと信ずる者は神に由て生れたる也おほよそ之を生者を愛する者は亦その生るる所の者をも愛する也</ab>
+<ab type="verse" n="2" xml:id="Acts.5.2"><hi rend="superscript">2</hi> 我儕もし神を愛して其誡を守らば此に由て我儕神の兒女を愛すると知</ab>
+<ab type="verse" n="3" xml:id="Acts.5.3"><hi rend="superscript">3</hi> 神の誡を守るは是すなはち神を愛する也その誡は難からず</ab>
+<ab type="verse" n="4" xml:id="Acts.5.4"><hi rend="superscript">4</hi> 凡そ神に由て生るる者は世に勝我儕をして世に勝しむる者は我儕が信なり</ab>
+<ab type="verse" n="5" xml:id="Acts.5.5"><hi rend="superscript">5</hi> 誰か能世に勝んイエスを神の子と信ずる者に非ずや／</ab>
+<ab type="verse" n="6" xml:id="Acts.5.6"><hi rend="superscript">6</hi> 神の子は水と血をもて臨る即ちイエス・キリストなり惟水のみならず水に又血を兼</ab>
+<ab type="verse" n="7" xml:id="Acts.5.7"><hi rend="superscript">7</hi> 證を爲す者は靈なり靈は眞實なれば也</ab>
+<ab type="verse" n="8" xml:id="Acts.5.8"><hi rend="superscript">8</hi> 證を作ものは三すなはち靈と水と血この三の者の歸する所は一なり</ab>
+<ab type="verse" n="9" xml:id="Acts.5.9"><hi rend="superscript">9</hi> 我儕もし人の證を受る時は神の證は更に大なるべし神の證は此なり即ち其子の爲に作る證なり</ab>
+<ab type="verse" n="10" xml:id="Acts.5.10"><hi rend="superscript">10</hi> 神の子を信ずる者は其衷に此證あり神を信ぜざる者は神を謊者とす蓋神のその子の爲に證せる證を信ぜざれば也</ab>
+<ab type="verse" n="11" xml:id="Acts.5.11"><hi rend="superscript">11</hi> 神は窮なき生をもて我儕に賜ふ此生は乃ちその子に在これ其證なり</ab>
+<ab type="verse" n="12" xml:id="Acts.5.12"><hi rend="superscript">12</hi> 神の子をもつ者は生を有その子を有ざる者は生を有ず</ab>
+<ab type="verse" n="13" xml:id="Acts.5.13"><hi rend="superscript">13</hi> われ神の子の名を信ずる爾曹に此等の事を書贈るは爾曹に窮なき生ある事を知しめんが爲なり</ab>
+<ab type="verse" n="14" xml:id="Acts.5.14"><hi rend="superscript">14</hi> 凡て我儕神の旨に合へる事を求ば彼かならず聽ん是われら彼に向て篤く信ずる所なり</ab>
+<ab type="verse" n="15" xml:id="Acts.5.15"><hi rend="superscript">15</hi> 凡て我が求る所を彼の聽ことを知ば我が求る所を彼に得ることを亦しる也</ab>
+<ab type="verse" n="16" xml:id="Acts.5.16"><hi rend="superscript">16</hi> もし人その兄弟の死に至らざる罪を犯すを見ば祈りて死に至らざる罪を犯す者に生を予ふべし死に至る罪あり我これが爲に祈れと言ず</ab>
+<ab type="verse" n="17" xml:id="Acts.5.17"><hi rend="superscript">17</hi> 凡ての不義は罪なり然ど死に至らざる罪あり</ab>
+<ab type="verse" n="18" xml:id="Acts.5.18"><hi rend="superscript">18</hi> 凡て神に由て生れたる者の罪を犯さざる事を我儕はしる神に由て生れたる者は自ら守かの惡者これに觸ことを爲ざる也</ab>
+<ab type="verse" n="19" xml:id="Acts.5.19"><hi rend="superscript">19</hi> 我儕は神につき擧世は惡者に服するを我儕は知</ab>
+<ab type="verse" n="20" xml:id="Acts.5.20"><hi rend="superscript">20</hi> また神の子すでに來り我儕が眞理者を識の智慧を我儕に賜るを知われら眞理者にあり即ち其子イエス・キリストに在かれは乃ち眞神また永生なり</ab>
+<ab type="verse" n="21" xml:id="Acts.5.21"><hi rend="superscript">21</hi> 小子よ爾曹みづから愼みて偶像に遠かれ〔アメン｜アーメン〕</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

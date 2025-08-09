@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>哥羅西書 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>哥羅西書 (Colossians)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="[哥羅西書]" xml:id="[哥羅西書]">
+        <head>哥羅西書</head>
+
+
+
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="Acts.1.1"><hi rend="superscript">1</hi> 神の旨に由てイエス・キリストの使徒となれるパウロ及び兄弟テモテ</ab>
+<ab type="verse" n="2" xml:id="Acts.1.2"><hi rend="superscript">2</hi> 書をキリストに在コロサイにをる所の聖徒と忠信の兄弟等に贈る願くは爾曹われらの父なる神および主イエス・キリストより恩寵と平康を受よ／</ab>
+<ab type="verse" n="3" xml:id="Acts.1.3"><hi rend="superscript">3</hi> [3-4]われら爾曹がキリスト・イエスを信ずる事と諸の聖徒を愛する事とを聞て爾曹の爲に祈るとき恆に我儕の主イエス・キリストの父なる神に感謝す</ab>
+<ab type="verse" n="4" xml:id="Acts.1.4"><hi rend="superscript">4</hi> *[3-4]われら爾曹がキリスト・イエスを信ずる事と諸の聖徒を愛する事とを聞て爾曹の爲に祈るとき恆に我儕の主イエス・キリストの父なる神に感謝す</ab>
+<ab type="verse" n="5" xml:id="Acts.1.5"><hi rend="superscript">5</hi> 爾曹が如此聖徒を愛するは爾曹の爲に天に蓄へある所のもの即ち曩に福音の眞理の道の中にて聞し所のものを望むが故なり</ab>
+<ab type="verse" n="6" xml:id="Acts.1.6"><hi rend="superscript">6</hi> この福音は世界に徧が如く爾曹にも來れり且なんぢらが之を聞て神の恩を眞實に曉し日より爾曹の中に果を結び益大になれる如く世界にも果を結びて大になれり</ab>
+<ab type="verse" n="7" xml:id="Acts.1.7"><hi rend="superscript">7</hi> かく福音は我儕の愛する同じ使者ヱパフラスより爾曹が學る所のもの也ヱパフラスは爾曹の爲にキリストの忠信なる僕なり</ab>
+<ab type="verse" n="8" xml:id="Acts.1.8"><hi rend="superscript">8</hi> 彼さきに爾曹が靈に感じて懷る愛を我儕に告</ab>
+<ab type="verse" n="9" xml:id="Acts.1.9"><hi rend="superscript">9</hi> 是故に我儕この事を聞し日より爾曹の爲に斷ず祈禱をし且求む願くは爾曹靈の予ふる諸の智慧と穎悟とを以て悉く神旨を知</ab>
+<ab type="verse" n="10" xml:id="Acts.1.10"><hi rend="superscript">10</hi> 凡の事主を悦ばせんが爲その意に循ひて日を送り凡の善事に因て果を結び且神を知に因て漸に徳を増</ab>
+<ab type="verse" n="11" xml:id="Acts.1.11"><hi rend="superscript">11</hi> また神の榮の權威に循ひて賜ふ諸の能力を得て強なり凡の事よろこびて恆忍かつ久耐</ab>
+<ab type="verse" n="12" xml:id="Acts.1.12"><hi rend="superscript">12</hi> また我儕をして光にある聖徒の業の分を受るに堪る者とならしめ給ふ父の恩を感謝せんことを</ab>
+<ab type="verse" n="13" xml:id="Acts.1.13"><hi rend="superscript">13</hi> 彼は暗の權威より我儕を救出して其愛子の國に遷し給へり</ab>
+<ab type="verse" n="14" xml:id="Acts.1.14"><hi rend="superscript">14</hi> 我儕その子に由て贖すなはち罪の赦を得なり</ab>
+<ab type="verse" n="15" xml:id="Acts.1.15"><hi rend="superscript">15</hi> 彼は人の見ことを得ざる神の状にして萬の造れし者の先に生れし者なり</ab>
+<ab type="verse" n="16" xml:id="Acts.1.16"><hi rend="superscript">16</hi> そは彼に由て萬物は造れたり天に在もの地上に在もの人の見ことを得もの見ことを得ざるもの或は位ある者あるひは主たる者あるひは政を執もの或は權威あるもの萬物かれに由て造れたり且その造れたるは彼が爲なり</ab>
+<ab type="verse" n="17" xml:id="Acts.1.17"><hi rend="superscript">17</hi> 彼は萬物より先にあり萬物かれに由て存ことを得なり</ab>
+<ab type="verse" n="18" xml:id="Acts.1.18"><hi rend="superscript">18</hi> 教會は彼の身體にして彼は其首なり彼は元始にして凡の事につき長とならん爲に死の中より首に生れしものなり</ab>
+<ab type="verse" n="19" xml:id="Acts.1.19"><hi rend="superscript">19</hi> [19-20]そは父すべての徳を以て彼に滿しめ其十字架の血に由て平和をなし萬物すなはち地上に在もの天に在る者をして彼に由て己と和がしむる事は是その聖旨に適ふことなれば也</ab>
+<ab type="verse" n="20" xml:id="Acts.1.20"><hi rend="superscript">20</hi> *[19-20]そは父すべての徳を以て彼に滿しめ其十字架の血に由て平和をなし萬物すなはち地上に在もの天に在る者をして彼に由て己と和がしむる事は是その聖旨に適ふことなれば也</ab>
+<ab type="verse" n="21" xml:id="Acts.1.21"><hi rend="superscript">21</hi> 夫爾曹はもと惡行を行ふに因て神に遠かり心にて其敵となれる者なりしが</ab>
+<ab type="verse" n="22" xml:id="Acts.1.22"><hi rend="superscript">22</hi> 神今キリストの肉の身體をもて其死により爾曹をして己と和がせ潔く玷なく咎なくして己の前に立しめんとす</ab>
+<ab type="verse" n="23" xml:id="Acts.1.23"><hi rend="superscript">23</hi> 若なんぢら信仰に止り其基を定めかつ堅して福音の望より移ずば如此せらるることを得べし此福音は即ち爾曹の聞し所なり且すでに天下の萬人に傳れり我パウロその役者と作たり／</ab>
+<ab type="verse" n="24" xml:id="Acts.1.24"><hi rend="superscript">24</hi> 今われ爾曹の爲に受る苦を喜び又わが肉體をもてキリストの體すなはち教會のために其患難の缺たる所を補ふ</ab>
+<ab type="verse" n="25" xml:id="Acts.1.25"><hi rend="superscript">25</hi> われ爾曹の爲に神の賜ふ所の職に循ひ此教會の役者となりて徧く神の道を傳んとす</ab>
+<ab type="verse" n="26" xml:id="Acts.1.26"><hi rend="superscript">26</hi> この道は歴世歴代隱れたる奧義なりしが今その聖徒に顯れたり</ab>
+<ab type="verse" n="27" xml:id="Acts.1.27"><hi rend="superscript">27</hi> 神聖徒をして異邦人の中に顯れし奧義の榮のいかに豐なるを知しめんとし給へり此奧義は爾曹の中に傳へしキリストなり彼は爾曹の望む所の榮の望なり</ab>
+<ab type="verse" n="28" xml:id="Acts.1.28"><hi rend="superscript">28</hi> 我儕かれを傳へ諸人を勸め諸般の智慧をもて諸人を教え諸人をしてキリストの中に完全を得て神の前に立しめんとす</ab>
+<ab type="verse" n="29" xml:id="Acts.1.29"><hi rend="superscript">29</hi> 我これが爲に大能をもて我が衷に働く者の運用に循ひ力を竭して勞する也</ab>
+</div>
+<div type="chapter" n="2">
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="Acts.2.1"><hi rend="superscript">1</hi> 我なんぢら及びラヲデキヤにをる人々また我が肉躰にある面を未だ見ざる人の爲に我心を勞すること何等なるを爾曹が知んことを望</ab>
+<ab type="verse" n="2" xml:id="Acts.2.2"><hi rend="superscript">2</hi> わが心を勞するは彼等が心愛に因て一になり疑を懷ざる全き穎悟の富を得かつ父なる神とキリストの奧義を知て安慰を得んことを欲する也</ab>
+<ab type="verse" n="3" xml:id="Acts.2.3"><hi rend="superscript">3</hi> 智慧と知識の蓄積は一切キリストに藏れある也</ab>
+<ab type="verse" n="4" xml:id="Acts.2.4"><hi rend="superscript">4</hi> 誰にても巧言を以て爾曹を欺くこと無らん爲に我これらの事を言り</ab>
+<ab type="verse" n="5" xml:id="Acts.2.5"><hi rend="superscript">5</hi> 夫われ肉體は爾曹と離をると雖ども靈は爾曹と偕に居て喜び爾曹が次序あるとキリストを信ずる信の堅固を見なり</ab>
+<ab type="verse" n="6" xml:id="Acts.2.6"><hi rend="superscript">6</hi> 爾曹すでに主キリスト・イエスを承たれば彼に在て行むべし</ab>
+<ab type="verse" n="7" xml:id="Acts.2.7"><hi rend="superscript">7</hi> なんぢら根を彼におき彼に在て徳を建また教を受たる所に從ひて信仰を堅くし此を益大にして感謝せよ／</ab>
+<ab type="verse" n="8" xml:id="Acts.2.8"><hi rend="superscript">8</hi> なんぢら愼むべし恐らくはキリストに循はず人の遺傳を世の小學に循ひ空言なる理學をもて爾曹の心を奪ん</ab>
+<ab type="verse" n="9" xml:id="Acts.2.9"><hi rend="superscript">9</hi> それ神の充足る徳は悉く形體をなしてキリストに住り</ab>
+<ab type="verse" n="10" xml:id="Acts.2.10"><hi rend="superscript">10</hi> 彼は諸の政と權威の首なり爾曹かれに在て全備する事を得〔也｜なり〕</ab>
+<ab type="verse" n="11" xml:id="Acts.2.11"><hi rend="superscript">11</hi> 〔爾曹｜なんぢら〕彼に在て手をもて爲ざる割禮をうく即ち肉の體を脱去ところのキリストの割禮なり</ab>
+<ab type="verse" n="12" xml:id="Acts.2.12"><hi rend="superscript">12</hi> 爾曹バプテスマを受て彼と偕に葬られ亦死より彼を甦らしし神の大能を信ずるに因て彼と偕に甦らされたり</ab>
+<ab type="verse" n="13" xml:id="Acts.2.13"><hi rend="superscript">13</hi> なんぢら前には諸の罪と身に割禮なきとに因て死たる者なり然ど神爾曹をして凡の罪を赦し彼と偕に生しめ</ab>
+<ab type="verse" n="14" xml:id="Acts.2.14"><hi rend="superscript">14</hi> かつ手にて録しし所の我儕を攻る規條の書すなはち我儕に逆ふものを塗抹これを中間より取去り釘を以て其十字架に釘たまへり</ab>
+<ab type="verse" n="15" xml:id="Acts.2.15"><hi rend="superscript">15</hi> また政事を執者と權威ある者を滅し彼等を衆人に示しキリストに由て勝誇れり／</ab>
+<ab type="verse" n="16" xml:id="Acts.2.16"><hi rend="superscript">16</hi> 是故に或は飮こと或は食こと或は節期あるひは月朔あるひは安息日の事により人をして爾曹を議せしむること勿れ</ab>
+<ab type="verse" n="17" xml:id="Acts.2.17"><hi rend="superscript">17</hi> 此等は皆來らんとする者の影にして其眞の形はキリストに屬り</ab>
+<ab type="verse" n="18" xml:id="Acts.2.18"><hi rend="superscript">18</hi> 謙卑ることと天使を拜することとに因て爾曹の襃美を諞奪んとする人に其襃美を奪るる勿れ斯の如き人は未だ見ざる者を窺ひ己の心に從ひて妄に誇り首に屬ことを爲ざる也</ab>
+<ab type="verse" n="19" xml:id="Acts.2.19"><hi rend="superscript">19</hi> 全體この首により諸の節と維をもて相助け相聯なり神に育られて長なり</ab>
+<ab type="verse" n="20" xml:id="Acts.2.20"><hi rend="superscript">20</hi> [20-22]もし爾曹キリストと偕に死て世の小學より離たらんには何ぞ世に在て日を送る者の如く人の命と教に循ひ捫る勿れ嘗ふ勿れ觸る勿れといふ律法の下になるや此等の禁じたる者は凡て人これを用れば滅るなり</ab>
+<ab type="verse" n="21" xml:id="Acts.2.21"><hi rend="superscript">21</hi> *[20-22]もし爾曹キリストと偕に死て世の小學より離たらんには何ぞ世に在て日を送る者の如く人の命と教に循ひ捫る勿れ嘗ふ勿れ觸る勿れといふ律法の下になるや此等の禁じたる者は凡て人これを用れば滅るなり</ab>
+<ab type="verse" n="22" xml:id="Acts.2.22"><hi rend="superscript">22</hi> *[20-22]もし爾曹キリストと偕に死て世の小學より離たらんには何ぞ世に在て日を送る者の如く人の命と教に循ひ捫る勿れ嘗ふ勿れ觸る勿れといふ律法の下になるや此等の禁じたる者は凡て人これを用れば滅るなり</ab>
+<ab type="verse" n="23" xml:id="Acts.2.23"><hi rend="superscript">23</hi> 此等の規條は自ら縱肆にして拜することを爲かつ謙卑かつ身を惜ざるに由て智慧ある者の如く見れども實に尊き者に非ずただ肉體の慾を充足する也</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="Acts.3.1"><hi rend="superscript">1</hi> 既に爾曹キリストと偕に甦りたれば天に在ものを求むべしキリスト彼處に在て神の右に坐し給へり</ab>
+<ab type="verse" n="2" xml:id="Acts.3.2"><hi rend="superscript">2</hi> 爾曹天に在ものを念ひ地に在ものを念ふ勿れ</ab>
+<ab type="verse" n="3" xml:id="Acts.3.3"><hi rend="superscript">3</hi> 夫なんぢらは死し者にて其命はキリストと偕に神の中に藏れ在なり</ab>
+<ab type="verse" n="4" xml:id="Acts.3.4"><hi rend="superscript">4</hi> 我儕の命なるキリストの顯れんとき我儕も之と偕に榮の中に顯るる也</ab>
+<ab type="verse" n="5" xml:id="Acts.3.5"><hi rend="superscript">5</hi> 是故に爾曹の地にある肢體すなはち奸淫、汚穢、邪情、惡欲および貪婪を殺すべし貪婪は即ち偶像を拜すること也</ab>
+<ab type="verse" n="6" xml:id="Acts.3.6"><hi rend="superscript">6</hi> 此等の事に由て神の怒は從はざる者に臨るなり</ab>
+<ab type="verse" n="7" xml:id="Acts.3.7"><hi rend="superscript">7</hi> 爾曹も曩に斯のごとき人の中に日を送りし時は此等の惡事を常に行へり</ab>
+<ab type="verse" n="8" xml:id="Acts.3.8"><hi rend="superscript">8</hi> 然ど爾曹今は凡て此等の惡事および恚憾、忿怒、暴戻をさり謗讟、醜言を爾曹の口より去べし</ab>
+<ab type="verse" n="9" xml:id="Acts.3.9"><hi rend="superscript">9</hi> 〔爾曹｜なんぢら〕已に舊人と其行を脱て新人を衣たれば互に謊を〔いふ｜言〕なかれ</ab>
+<ab type="verse" n="10" xml:id="Acts.3.10"><hi rend="superscript">10</hi> この新人は愈新になり人を造りし者の像に〔從｜循〕ひて知識に至るなり</ab>
+<ab type="verse" n="11" xml:id="Acts.3.11"><hi rend="superscript">11</hi> 此の如きに至りてはギリシヤ人とユダヤ人あるひは割禮ある者と割禮なき者あるひは夷狄あるひはスクテヤ人あるひは奴隸あるひは自主の別なし夫キリストは萬物の上に在また萬物の中にあり／</ab>
+<ab type="verse" n="12" xml:id="Acts.3.12"><hi rend="superscript">12</hi> 是故に爾曹神に選れて聖潔かつ愛せらるる者と爲たれば慈悲、矜恤、謙遜、柔和、忍耐を衣よ</ab>
+<ab type="verse" n="13" xml:id="Acts.3.13"><hi rend="superscript">13</hi> 〔爾曹｜なんぢら〕互に容認をなし若し人に責べき事あらば之を恕せキリスト爾曹を恕し給へる如く爾曹も然すべし</ab>
+<ab type="verse" n="14" xml:id="Acts.3.14"><hi rend="superscript">14</hi> この諸の事の外に愛を加へよ愛は衆徳の帶なり</ab>
+<ab type="verse" n="15" xml:id="Acts.3.15"><hi rend="superscript">15</hi> 爾曹キリストの賜ふ平安をして其心を主らしめよ爾曹一體に在て此平安に至るべき召を蒙れり爾曹恩に感ずべし</ab>
+<ab type="verse" n="16" xml:id="Acts.3.16"><hi rend="superscript">16</hi> キリストの道をして爾曹の心を存て充足しめ諸の智慧により詩と歌と靈に感じて作れる賦とを以て互に相教へ相勸め恩に感じて心の中に神を讚美すべし</ab>
+<ab type="verse" n="17" xml:id="Acts.3.17"><hi rend="superscript">17</hi> 爾曹の爲所の諸事あるひは言あるひは行みな主イエスの名の爲に之をなし彼に由て父なる神に感謝すべし／</ab>
+<ab type="verse" n="18" xml:id="Acts.3.18"><hi rend="superscript">18</hi> 妻なる者よ其夫に從ふべし此は主にある者の爲べき事なり</ab>
+<ab type="verse" n="19" xml:id="Acts.3.19"><hi rend="superscript">19</hi> 夫なる者よ其妻を愛すべし苦を以て之を待ふ勿れ</ab>
+<ab type="verse" n="20" xml:id="Acts.3.20"><hi rend="superscript">20</hi> 子たる者よ爾曹すべての事二親に從ふべし是主の悦び給ふ所なり</ab>
+<ab type="verse" n="21" xml:id="Acts.3.21"><hi rend="superscript">21</hi> 父なる者よ爾曹の子を怒らする勿れ恐くは其氣餒ん</ab>
+<ab type="verse" n="22" xml:id="Acts.3.22"><hi rend="superscript">22</hi> 僕なる者よ凡のこと肉體に屬る主人に從ふべし人を悦ばする者の如くただ眼前の事を務ることなく誠心を以て神を畏れて從へ</ab>
+<ab type="verse" n="23" xml:id="Acts.3.23"><hi rend="superscript">23</hi> なんぢら何事も人に事るが如せず主に事る如く心より之を行ふべし</ab>
+<ab type="verse" n="24" xml:id="Acts.3.24"><hi rend="superscript">24</hi> そは爾曹は主より報賞なる嗣業を受ることをしる者なれば也なんぢら主なるキリストに事ふべし</ab>
+<ab type="verse" n="25" xml:id="Acts.3.25"><hi rend="superscript">25</hi> 不義を行ふ者は亦その不義の報をうく主は偏視たまふ事なし</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="Acts.4.1"><hi rend="superscript">1</hi> 主人なる者よ爾曹も亦天に主ある事を知ば義に從ひ公平を以て其僕を待ふべし／</ab>
+<ab type="verse" n="2" xml:id="Acts.4.2"><hi rend="superscript">2</hi> 恆に祈禱をなし怠らずして感謝と共に之を爲べし</ab>
+<ab type="verse" n="3" xml:id="Acts.4.3"><hi rend="superscript">3</hi> また神われら道を傳ふるの門を開き我儕をしてキリストの奧義を語らしめ</ab>
+<ab type="verse" n="4" xml:id="Acts.4.4"><hi rend="superscript">4</hi> わが言べき所の如く此奧義を顯さしめ給はんことを我儕の爲に祈るべし我この奧義の爲に繋れたり</ab>
+<ab type="verse" n="5" xml:id="Acts.4.5"><hi rend="superscript">5</hi> なんぢら機を窺がひ智慧をもて外人に交るべし</ab>
+<ab type="verse" n="6" xml:id="Acts.4.6"><hi rend="superscript">6</hi> 爾曹の言つねに恩を用〔ひ｜ゐ〕且鹽を以て調和べし然ば如何して各人に答ふべき乎を知ん／</ab>
+<ab type="verse" n="7" xml:id="Acts.4.7"><hi rend="superscript">7</hi> わが愛する兄弟忠なる役者われと偕に主に事る僕テキコわが事を悉く爾曹に告知せん</ab>
+<ab type="verse" n="8" xml:id="Acts.4.8"><hi rend="superscript">8</hi> 我かれを殊に爾曹に遣すは彼をして爾曹の事を知なんぢらの心を慰めしめん爲なり</ab>
+<ab type="verse" n="9" xml:id="Acts.4.9"><hi rend="superscript">9</hi> また忠なる我が愛する兄弟爾曹の中の一人なるオネシモを彼と偕に遣せり彼等この處の事を以て悉く爾曹に告知せん</ab>
+<ab type="verse" n="10" xml:id="Acts.4.10"><hi rend="superscript">10</hi> 我と偕に繋るるアリスタルコ及バルナバの甥マコ爾曹に安を問このマコの事に就ては爾曹すでに命を受たり彼もし爾曹に至らば之を接べし</ab>
+<ab type="verse" n="11" xml:id="Acts.4.11"><hi rend="superscript">11</hi> ユストと名るイエス爾曹に安をとふ割禮を受し者のうち惟この三人のみ我と偕に神の國の爲に勞けり我かれらに由て安慰を得しなり</ab>
+<ab type="verse" n="12" xml:id="Acts.4.12"><hi rend="superscript">12</hi> 爾曹の中の一人にてキリスト・イエスの僕なるエパフラス爾曹に安を問彼は恆に爾曹の爲に力を盡て祈禱をなし爾曹が完全をえ心を堅して立すべての事神の旨に遵はんことを願へり</ab>
+<ab type="verse" n="13" xml:id="Acts.4.13"><hi rend="superscript">13</hi> われ彼が爾曹およびラオデキヤ、ヒエラポリにある者のために甚く心を勞することを證す</ab>
+<ab type="verse" n="14" xml:id="Acts.4.14"><hi rend="superscript">14</hi> 我儕が愛する醫者ルカ及びデマス爾曹に安を問</ab>
+<ab type="verse" n="15" xml:id="Acts.4.15"><hi rend="superscript">15</hi> 請なんぢらラオデキヤの兄弟等とヌンパス及び其家にある教會に安を問</ab>
+<ab type="verse" n="16" xml:id="Acts.4.16"><hi rend="superscript">16</hi> 爾曹すでに此書を讀ば之を亦ラオデキヤ人の教會に讀せ爾曹も亦ラオデキヤより來る書をよめ</ab>
+<ab type="verse" n="17" xml:id="Acts.4.17"><hi rend="superscript">17</hi> アルキポに曰なんぢ主に在て受し所の職を愼みて盡すべしと</ab>
+<ab type="verse" n="18" xml:id="Acts.4.18"><hi rend="superscript">18</hi> 我パウロ親手なんぢらに安を問なんぢら我の縲絏を念へ願くは恩寵爾曹と偕に在んことを〔アメン｜アーメン〕</ab>
+</div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

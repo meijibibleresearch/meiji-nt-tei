@@ -1,0 +1,985 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ja">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>約翰傳福音書 — Meiji Japanese Bible (TEI P5)</title>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Brenna Shea Tanner</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished working edition, prepared for digital humanities research on the Meiji Japanese Bible. For academic research and non-commercial use only.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>約翰傳福音書 (The Gospel of John)</title>
+          <edition>Meiji-era Japanese Bible translation, published 1880</edition>
+          <respStmt>
+            <resp>Translated by</resp>
+            <name>James Curtis Hepburn et al.</name>
+          </respStmt>
+          <note>Orthography follows historical kana usage and retains punctuation and annotation marks (〔｜〕, ／) from the source text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="book" n="約翰傳福音書" xml:id="約翰傳福音書">
+        <head>約翰傳福音書</head>
+
+
+約翰傳福音書
+<div type="chapter" n="1">
+  <head>第1章</head>
+<ab type="verse" n="1" xml:id="John.1.1"><hi rend="superscript">1</hi> 太初に道あり道は神と偕にあり道は即ち神なり</ab>
+<ab type="verse" n="2" xml:id="John.1.2"><hi rend="superscript">2</hi> この道は太初に神と偕に在き</ab>
+<ab type="verse" n="3" xml:id="John.1.3"><hi rend="superscript">3</hi> 萬物これに由て造らる造れたる者に一として之に由らで造れしは無</ab>
+<ab type="verse" n="4" xml:id="John.1.4"><hi rend="superscript">4</hi> 之に生あり此生は人の光なり</ab>
+<ab type="verse" n="5" xml:id="John.1.5"><hi rend="superscript">5</hi> 光は暗に照り暗は之を曉らざりき／</ab>
+<ab type="verse" n="6" xml:id="John.1.6"><hi rend="superscript">6</hi> 偖ここに神の遣し給へるヨハネと云る者あり</ab>
+<ab type="verse" n="7" xml:id="John.1.7"><hi rend="superscript">7</hi> その來りしは證の爲なり即ち光に就て證を作すべての人をして己に因て信ぜしめんが爲なり</ab>
+<ab type="verse" n="8" xml:id="John.1.8"><hi rend="superscript">8</hi> 彼は光に非ず光に就て證を作ん爲に來れり</ab>
+<ab type="verse" n="9" xml:id="John.1.9"><hi rend="superscript">9</hi> 夫すべての人を照す眞の光は世に來れり</ab>
+<ab type="verse" n="10" xml:id="John.1.10"><hi rend="superscript">10</hi> かれ世にあり世は彼に造れたるに世これを識ず</ab>
+<ab type="verse" n="11" xml:id="John.1.11"><hi rend="superscript">11</hi> かれ己の國に來しに其民これを接ざりき</ab>
+<ab type="verse" n="12" xml:id="John.1.12"><hi rend="superscript">12</hi> 彼を接その名を信ぜし者には權を賜ひて此を神の子と爲り</ab>
+<ab type="verse" n="13" xml:id="John.1.13"><hi rend="superscript">13</hi> 斯る人は血脈に由に非ず情慾に由に非ず人の意に由に非ず唯神に由て生れし也</ab>
+<ab type="verse" n="14" xml:id="John.1.14"><hi rend="superscript">14</hi> それ道肉體と成て我儕の間に寄れり我儕その榮を見に實に父の生たまへる獨子の榮にして恩寵と眞理にて充り／</ab>
+<ab type="verse" n="15" xml:id="John.1.15"><hi rend="superscript">15</hi> ヨハネ之が證を作て呼いひけるは我さきに我に後れ來らん者は我より優れる者なり蓋我より先に在し者なれば也と言しは此人なり</ab>
+<ab type="verse" n="16" xml:id="John.1.16"><hi rend="superscript">16</hi> 我儕みな彼に充滿たる其中より受て恩寵に恩寵を加らる</ab>
+<ab type="verse" n="17" xml:id="John.1.17"><hi rend="superscript">17</hi> 律法はモーセに由て傳り恩寵と眞理はイエス・キリストに由て來れり</ab>
+<ab type="verse" n="18" xml:id="John.1.18"><hi rend="superscript">18</hi> 未だ神を見し人あらず惟うみ給へる獨子すなはち父の懷に在者のみ之を彰せり／</ab>
+<ab type="verse" n="19" xml:id="John.1.19"><hi rend="superscript">19</hi> ユダヤ人祭司とレビの人をエルサレムよりヨハネの所に遣し爾は誰ぞと問しめけるとき證せること左の如し</ab>
+<ab type="verse" n="20" xml:id="John.1.20"><hi rend="superscript">20</hi> かれ諱す所なく言顯して我はキリストに非ずと明かに曰り</ab>
+<ab type="verse" n="21" xml:id="John.1.21"><hi rend="superscript">21</hi> また問けるは然ば爾は誰ぞエリヤなるか否と答ふ又なんぢは彼の〔預言者｜預言者〕なる乎と問しに然らずと答たり</ab>
+<ab type="verse" n="22" xml:id="John.1.22"><hi rend="superscript">22</hi> 是に於て彼等また問けるは爾は誰なるか我儕を遣しし者に我儕が答を爲得るやう我儕に告よ爾みづから如何に謂や</ab>
+<ab type="verse" n="23" xml:id="John.1.23"><hi rend="superscript">23</hi> ヨハネ曰けるは我は即ち主の道を直せよと野に呼る人の聲なり〔預言者｜預言者〕イザヤの言るが如し</ab>
+<ab type="verse" n="24" xml:id="John.1.24"><hi rend="superscript">24</hi> その遣されたる人々はパリサイの人なりき</ab>
+<ab type="verse" n="25" xml:id="John.1.25"><hi rend="superscript">25</hi> 彼等〔又｜また〕ヨハネに問て曰けるは然ば爾はキリストに非ずエリヤに非ず彼の〔預言者｜預言者〕にも非ずして何ぞバプテスマを施すや</ab>
+<ab type="verse" n="26" xml:id="John.1.26"><hi rend="superscript">26</hi> ヨハネ答曰けるは我は水を以てバプテスマを授く然ど〔爾曹｜なんぢら〕が知ざる所のもの一人爾曹の中に立り</ab>
+<ab type="verse" n="27" xml:id="John.1.27"><hi rend="superscript">27</hi> 我に後れ來りて我に優れる者とは是なり我は其履の紐を解にも足ざる者なり</ab>
+<ab type="verse" n="28" xml:id="John.1.28"><hi rend="superscript">28</hi> 此事はヨハネのバプテスマを施ししヨルダンの外なるベタニヤにて有し也／</ab>
+<ab type="verse" n="29" xml:id="John.1.29"><hi rend="superscript">29</hi> 明日ヨハネ、イエスの己に來るを見て曰けるは世の罪を任ふ神の羔を觀よ</ab>
+<ab type="verse" n="30" xml:id="John.1.30"><hi rend="superscript">30</hi> 我に後れ來らん者は我より優れる者なり蓋我より以前に在し者なれば也と我言しは此人なり</ab>
+<ab type="verse" n="31" xml:id="John.1.31"><hi rend="superscript">31</hi> われ素より此人を識ず然ど我來て水にてバプテスマを施すは彼をイスラエルの民に顯さんが爲なり</ab>
+<ab type="verse" n="32" xml:id="John.1.32"><hi rend="superscript">32</hi> ヨハネまた證して曰けるはわれ靈の鴿の如く天より降りて其上に止れるを見たり</ab>
+<ab type="verse" n="33" xml:id="John.1.33"><hi rend="superscript">33</hi> 我は彼を識ざれど我を遣し水にてバプテスマを施さしめし者われに曰けるは爾靈くだりて其上に止るを見ん彼は聖靈を以てバプテスマをなす者なり</ab>
+<ab type="verse" n="34" xml:id="John.1.34"><hi rend="superscript">34</hi> 我これを見て其神の子たるを證せり</ab>
+<ab type="verse" n="35" xml:id="John.1.35"><hi rend="superscript">35</hi> 明日またヨハネ二人の弟子と偕に立</ab>
+<ab type="verse" n="36" xml:id="John.1.36"><hi rend="superscript">36</hi> イエスの行を見て神の羔を觀よと曰</ab>
+<ab type="verse" n="37" xml:id="John.1.37"><hi rend="superscript">37</hi> 如此いへるを弟子聞てイエスに從ひ往り</ab>
+<ab type="verse" n="38" xml:id="John.1.38"><hi rend="superscript">38</hi> イエス彼等の從へるを回顧て爾曹なにを求るやと彼等に問こたへてラビ何處に住るやと曰ラビを譯ば師と云の義なり</ab>
+<ab type="verse" n="39" xml:id="John.1.39"><hi rend="superscript">39</hi> イエス彼等に來り觀よと曰たまひければ遂に往て其住り給ふ處を見て是日ともに住れり時は晝の四時ごろなりき</ab>
+<ab type="verse" n="40" xml:id="John.1.40"><hi rend="superscript">40</hi> ヨハネの曰し言を聞てイエスに從へる二人の者の其一人はシモン・ペテロの兄弟アンデレなり</ab>
+<ab type="verse" n="41" xml:id="John.1.41"><hi rend="superscript">41</hi> かれ先その兄弟シモンに遇て曰けるは我儕メツシヤに遇りメツシヤを譯ばキリストなり</ab>
+<ab type="verse" n="42" xml:id="John.1.42"><hi rend="superscript">42</hi> 即ち彼をイエスに携往しにイエス視て之に曰けるは爾はヨナの子シモンなり爾はケパと稱らるべしケパを譯ばペテロなり／</ab>
+<ab type="verse" n="43" xml:id="John.1.43"><hi rend="superscript">43</hi> 明日イエス、ガリラヤに往んとてピリポにあひ我に從へと曰り</ab>
+<ab type="verse" n="44" xml:id="John.1.44"><hi rend="superscript">44</hi> ピリポはアンデレとペテロの住るベテサイダと云る邑の人なり</ab>
+<ab type="verse" n="45" xml:id="John.1.45"><hi rend="superscript">45</hi> ピリポ、ナタナエルに遇て曰けるは我儕律法の中にモーセが載たるところ〔預言者｜預言者〕等の記しし所の者に遇り即ちヨセフの子ナザレのイエスなり</ab>
+<ab type="verse" n="46" xml:id="John.1.46"><hi rend="superscript">46</hi> ナタナエル曰けるはナザレより何の善者いでん乎ピリポ彼に曰けるは來て觀よ</ab>
+<ab type="verse" n="47" xml:id="John.1.47"><hi rend="superscript">47</hi> イエス、ナタナエルの己が所に來るを見かれを指て曰けるは視よ眞のイスラエルの人にして其心詭譎なき者ぞ</ab>
+<ab type="verse" n="48" xml:id="John.1.48"><hi rend="superscript">48</hi> ナタナエル、イエスに曰けるは如何にして我を知たまふ乎イエス之に答て曰けるはピリポが爾を召ざる先に無花果樹の下に爾の居るを見たり</ab>
+<ab type="verse" n="49" xml:id="John.1.49"><hi rend="superscript">49</hi> ナタナエル答て曰けるはラビ爾は神の子なり爾はイスラエルの王なり</ab>
+<ab type="verse" n="50" xml:id="John.1.50"><hi rend="superscript">50</hi> イエス答て曰けるは爾が無花果樹の下に居るを我見しと言るに因て爾信ずるか此よりも大なる事を爾みるべし</ab>
+<ab type="verse" n="51" xml:id="John.1.51"><hi rend="superscript">51</hi> 又いひけるは我まことに實に爾に告ん天ひらけて神の使等人の子の上に陟降するを見ん</ab>
+</div>
+<div type="chapter" n="2">
+  <head>第2章</head>
+<ab type="verse" n="1" xml:id="John.2.1"><hi rend="superscript">1</hi> 第三日にガリラヤのカナにて婚筵ありしがイエスの母も此に居り</ab>
+<ab type="verse" n="2" xml:id="John.2.2"><hi rend="superscript">2</hi> イエスと其弟子も婚筵に請る</ab>
+<ab type="verse" n="3" xml:id="John.2.3"><hi rend="superscript">3</hi> 葡萄酒罄ければ母イエスに曰けるは彼等に葡萄酒なし</ab>
+<ab type="verse" n="4" xml:id="John.2.4"><hi rend="superscript">4</hi> イエス彼に曰けるは婦よ爾と我と何の與あらんや我時は未だ至ず</ab>
+<ab type="verse" n="5" xml:id="John.2.5"><hi rend="superscript">5</hi> その母僕等に向て彼が爾曹に命ずる所の事を行よと曰おけり</ab>
+<ab type="verse" n="6" xml:id="John.2.6"><hi rend="superscript">6</hi> ユダヤ人の潔の例に從ひて四五斗盛の石甕六かしこに備〔有｜あり〕しが</ab>
+<ab type="verse" n="7" xml:id="John.2.7"><hi rend="superscript">7</hi> イエス僕等に水を甕に滿せよと曰ければ彼等口まで滿せたり</ab>
+<ab type="verse" n="8" xml:id="John.2.8"><hi rend="superscript">8</hi> 又これを今挹取て持ゆき筵を司る者に與せと曰ければ彼等わたせり</ab>
+<ab type="verse" n="9" xml:id="John.2.9"><hi rend="superscript">9</hi> 筵を司る者酒に變し水を甞て其何處より來しを知ず然ど水を挹し僕は知り</ab>
+<ab type="verse" n="10" xml:id="John.2.10"><hi rend="superscript">10</hi> 筵を司る者新郎を呼て彼に曰けるは凡そ人はまづ旨酒を進し酒酣なるに及て魯酒を進に爾は旨酒を今まで留おけり</ab>
+<ab type="verse" n="11" xml:id="John.2.11"><hi rend="superscript">11</hi> 此事をイエスがガリラヤのカナにて行るは休徴の始にして其榮を顯せり弟子かれを信ず</ab>
+<ab type="verse" n="12" xml:id="John.2.12"><hi rend="superscript">12</hi> 此後イエスその母兄弟および弟子等カペナウンに下り其處に居こと久からずして</ab>
+<ab type="verse" n="13" xml:id="John.2.13"><hi rend="superscript">13</hi> ユダヤ人の逾越節ちかづきければイエス、エルサレムに上り</ab>
+<ab type="verse" n="14" xml:id="John.2.14"><hi rend="superscript">14</hi> 殿にて牛羊鴿を賣者と兌銀する者の坐せるとを見</ab>
+<ab type="verse" n="15" xml:id="John.2.15"><hi rend="superscript">15</hi> 繩をもて鞭をつくり彼等および羊牛を殿より逐出し兌銀する者の金を散し其案を倒し</ab>
+<ab type="verse" n="16" xml:id="John.2.16"><hi rend="superscript">16</hi> 鴿を賣者に曰けるは此物を取て往わが父の室を貿易の家とする勿れ</ab>
+<ab type="verse" n="17" xml:id="John.2.17"><hi rend="superscript">17</hi> 弟子等なんぢの室の爲に熱心われを蝕んと録されたるを憶起せり</ab>
+<ab type="verse" n="18" xml:id="John.2.18"><hi rend="superscript">18</hi> 此にユダヤ人こたへてイエスに曰けるは爾これらの事を爲からには我儕に何の休徴を示るや</ab>
+<ab type="verse" n="19" xml:id="John.2.19"><hi rend="superscript">19</hi> イエス答て爾曹この殿を毀て我三日にて之を建んと曰ければ</ab>
+<ab type="verse" n="20" xml:id="John.2.20"><hi rend="superscript">20</hi> ユダヤ人いひけるは此殿を建るには四十六年を經しに爾三日にて之を建るか</ab>
+<ab type="verse" n="21" xml:id="John.2.21"><hi rend="superscript">21</hi> イエスの如此いへるは其身の殿を指るなり</ab>
+<ab type="verse" n="22" xml:id="John.2.22"><hi rend="superscript">22</hi> 死より甦り給へる後弟子たちイエスの此事を語しを憶起し聖書と彼の曰し言を信ぜり</ab>
+<ab type="verse" n="23" xml:id="John.2.23"><hi rend="superscript">23</hi> 偖イエス逾越節にエルサレムに在しに多の人かれの行し休徴を見て其名を信ぜり</ab>
+<ab type="verse" n="24" xml:id="John.2.24"><hi rend="superscript">24</hi> イエス自己を彼等に托ず蓋すべての人を知</ab>
+<ab type="verse" n="25" xml:id="John.2.25"><hi rend="superscript">25</hi> また人の心の中を知が故に人について證を立る者を求ざれば也</ab>
+</div>
+<div type="chapter" n="3">
+  <head>第3章</head>
+<ab type="verse" n="1" xml:id="John.3.1"><hi rend="superscript">1</hi> ユダヤ人の宰にてパリサイのニコデモと云る人あり</ab>
+<ab type="verse" n="2" xml:id="John.3.2"><hi rend="superscript">2</hi> かれ夜イエスに來て曰けるはラビ我儕なんぢは神より來し師なりと知そは神もし人と偕ならずば爾が行るこの休徴は人これを行こと能ざれば也</ab>
+<ab type="verse" n="3" xml:id="John.3.3"><hi rend="superscript">3</hi> イエス答て曰けるは誠に實に爾に告ん人もし新に生ずば神の國を見こと能はじ</ab>
+<ab type="verse" n="4" xml:id="John.3.4"><hi rend="superscript">4</hi> ニコデモ彼に曰けるは人はや老ぬれば如何で復生るる事を得んや再び母の腹に入て生る可んや</ab>
+<ab type="verse" n="5" xml:id="John.3.5"><hi rend="superscript">5</hi> イエス答けるは誠に實に爾に告ん人は水と靈とに由て生されば神の國に入こと能ざる也</ab>
+<ab type="verse" n="6" xml:id="John.3.6"><hi rend="superscript">6</hi> 肉に由て生るる者は肉なり靈に由て生るる者は靈なり</ab>
+<ab type="verse" n="7" xml:id="John.3.7"><hi rend="superscript">7</hi> 我なんぢに新に生るべき事を言しを奇と爲なかれ</ab>
+<ab type="verse" n="8" xml:id="John.3.8"><hi rend="superscript">8</hi> 風は己が任に吹なんぢ其聲を聞ども何處より來り何處へ往を知ず凡て靈に由て生るる者も此の如し</ab>
+<ab type="verse" n="9" xml:id="John.3.9"><hi rend="superscript">9</hi> ニコデモ答て如何で此事あらん乎と曰</ab>
+<ab type="verse" n="10" xml:id="John.3.10"><hi rend="superscript">10</hi> イエス答て曰けるは爾はイスラエルの師なるに猶この事を知ざる乎</ab>
+<ab type="verse" n="11" xml:id="John.3.11"><hi rend="superscript">11</hi> 誠に實に爾に告ん我儕知し事をいひ見し事を證するに〔爾曹｜爾〕は我儕の證を受ず</ab>
+<ab type="verse" n="12" xml:id="John.3.12"><hi rend="superscript">12</hi> 若われ地の事を言に〔爾曹｜爾〕信ぜずば況て天の事を言んには何で信ずることを爲んや</ab>
+<ab type="verse" n="13" xml:id="John.3.13"><hi rend="superscript">13</hi> 天より降り天にをる人の子の外に天に升し者なし</ab>
+<ab type="verse" n="14" xml:id="John.3.14"><hi rend="superscript">14</hi> モーセ野に蛇を擧し如く人の子も擧らるべし</ab>
+<ab type="verse" n="15" xml:id="John.3.15"><hi rend="superscript">15</hi> 凡て之を信ずる者に亡ること無して永生を受しめんが爲なり</ab>
+<ab type="verse" n="16" xml:id="John.3.16"><hi rend="superscript">16</hi> それ神が其生たまへる獨子を賜ほどに世の人を愛し給へり此は凡て彼を信ずる者に亡ること無して永生を受しめんが爲なり</ab>
+<ab type="verse" n="17" xml:id="John.3.17"><hi rend="superscript">17</hi> 神の其子を世に遣し給へるは〔世を審判ん｜世の罪を定ん〕とに非ず彼に由て世を救んが爲なり</ab>
+<ab type="verse" n="18" xml:id="John.3.18"><hi rend="superscript">18</hi> 彼を信ずる者は〔審判れず｜罪に定られず〕信ぜざる者は既に〔審判れたり｜其罪さだまれり〕蓋神の生たまへる獨子の名を信ぜざるに因</ab>
+<ab type="verse" n="19" xml:id="John.3.19"><hi rend="superscript">19</hi> 罪の定まる所以は光世に臨しに人その行の惡に因て光を愛せず反て暗を愛すれば也</ab>
+<ab type="verse" n="20" xml:id="John.3.20"><hi rend="superscript">20</hi> 凡て惡をなす者は光を惡み其行を責られざらんが爲に光に就らず</ab>
+<ab type="verse" n="21" xml:id="John.3.21"><hi rend="superscript">21</hi> 眞理を行ふ者は其行の顯れんが爲に光に就る蓋神に遵て行へば也／</ab>
+<ab type="verse" n="22" xml:id="John.3.22"><hi rend="superscript">22</hi> 此後イエス弟子とユダヤの地に至り偕に彼處に留りてバプテスマを施す</ab>
+<ab type="verse" n="23" xml:id="John.3.23"><hi rend="superscript">23</hi> ヨハネも亦サリムに近きアイノムに在てバプテスマを施す彼處には水おほきが故なり人々來りてバプテスマを受たり</ab>
+<ab type="verse" n="24" xml:id="John.3.24"><hi rend="superscript">24</hi> 此時ヨハネは未だ獄に入られざりき</ab>
+<ab type="verse" n="25" xml:id="John.3.25"><hi rend="superscript">25</hi> ヨハネの弟子とユダヤ人と潔事に就て爭辨ありけるが</ab>
+<ab type="verse" n="26" xml:id="John.3.26"><hi rend="superscript">26</hi> 彼等ヨハネに來りて曰けるはラビ視よ爾と偕にヨルダンの外に在て爾が證せし者バプテスマを施すに皆かれに來れり</ab>
+<ab type="verse" n="27" xml:id="John.3.27"><hi rend="superscript">27</hi> ヨハネ答て曰けるは人は天より賜ふに非ざれば受ること能ざる也</ab>
+<ab type="verse" n="28" xml:id="John.3.28"><hi rend="superscript">28</hi> 我はキリストに非ず惟その先に遣されし者なりと言し事を證する者は爾曹なり</ab>
+<ab type="verse" n="29" xml:id="John.3.29"><hi rend="superscript">29</hi> 新婦をもてる者は新郎なり新郎の友たちて其聲を聞ば之に縁て喜び多し我いま此喜び滿ることを得たり</ab>
+<ab type="verse" n="30" xml:id="John.3.30"><hi rend="superscript">30</hi> 彼は必ず盛んになり我は必ず衰ふべし</ab>
+<ab type="verse" n="31" xml:id="John.3.31"><hi rend="superscript">31</hi> 天上より來る者は萬物の上にあり地より出るものは地に屬その言ところも地の事なり天より來る者は萬物の上に在</ab>
+<ab type="verse" n="32" xml:id="John.3.32"><hi rend="superscript">32</hi> 彼は自ら其見しところ聞し所の事を證と爲に其證を受る者なし</ab>
+<ab type="verse" n="33" xml:id="John.3.33"><hi rend="superscript">33</hi> その證を受し者は印をもて神の眞なる事を證す</ab>
+<ab type="verse" n="34" xml:id="John.3.34"><hi rend="superscript">34</hi> 神の遣しし者は神の言を語る蓋神これに靈を賜ひて限量なければ也</ab>
+<ab type="verse" n="35" xml:id="John.3.35"><hi rend="superscript">35</hi> 父は子を愛して萬物を其手に授たり</ab>
+<ab type="verse" n="36" xml:id="John.3.36"><hi rend="superscript">36</hi> 子を信ずる者は窮なき生命をえ子に從はざる者は生命を見ことを得じ且神の怒その上に留らん</ab>
+</div>
+<div type="chapter" n="4">
+  <head>第4章</head>
+<ab type="verse" n="1" xml:id="John.4.1"><hi rend="superscript">1</hi> 主おのれの弟子を〔収｜收〕ること又バプテスマを施せることヨハネよりも多しとパリサイの人の聞しを知</ab>
+<ab type="verse" n="2" xml:id="John.4.2"><hi rend="superscript">2</hi> 然ど其實はイエス自らバプテスマを施せるに非ず弟子これを行るなり</ab>
+<ab type="verse" n="3" xml:id="John.4.3"><hi rend="superscript">3</hi> 其時ユダヤを去て復ガリラヤに往</ab>
+<ab type="verse" n="4" xml:id="John.4.4"><hi rend="superscript">4</hi> サマリアを經ずして行こと能ず</ab>
+<ab type="verse" n="5" xml:id="John.4.5"><hi rend="superscript">5</hi> 遂にサマリアのスカルと云る邑に至れり此邑はヤコブその子ヨセフに予し地に近し</ab>
+<ab type="verse" n="6" xml:id="John.4.6"><hi rend="superscript">6</hi> 此にヤコブの井ありイエス行途の疲倦にて其井の傍に坐せり時は晝の十二時ごろなりき</ab>
+<ab type="verse" n="7" xml:id="John.4.7"><hi rend="superscript">7</hi> 一人のサマリアの婦水を汲んとて來りければイエスその婦に向て我に飮せよと曰</ab>
+<ab type="verse" n="8" xml:id="John.4.8"><hi rend="superscript">8</hi> 蓋弟子たち食物を買んために邑へ往て在ざりし故なり</ab>
+<ab type="verse" n="9" xml:id="John.4.9"><hi rend="superscript">9</hi> サマリアの婦いひけるは爾はユダヤ人にして何ぞサマリアの婦なる我に飮ことを求るや此はユダヤ人とサマリアの人とは交際を爲ざれば也</ab>
+<ab type="verse" n="10" xml:id="John.4.10"><hi rend="superscript">10</hi> イエス答て曰けるは爾もし神の賜を我に飮せよといふ者の誰なるを知ば爾われに求めん然ば活水を爾に予ふべし</ab>
+<ab type="verse" n="11" xml:id="John.4.11"><hi rend="superscript">11</hi> 婦イエスに曰けるは主よ汲器なく井も亦深し爾何處より汲て其活水を有るか</ab>
+<ab type="verse" n="12" xml:id="John.4.12"><hi rend="superscript">12</hi> この井は我儕の先祖ヤコブの予し所なり彼も其子も亦畜までも皆これを飮たり爾は彼よりも勝れし者ならん乎</ab>
+<ab type="verse" n="13" xml:id="John.4.13"><hi rend="superscript">13</hi> イエス答て曰けるは凡て此水を飮者はまた渇ん</ab>
+<ab type="verse" n="14" xml:id="John.4.14"><hi rend="superscript">14</hi> 然ど我あたふる水を飮者は永遠かわく事なし且わが予る水は其中にて泉となり湧出て永生に至るべし</ab>
+<ab type="verse" n="15" xml:id="John.4.15"><hi rend="superscript">15</hi> 婦いひけるは主よ我が渇ことなく亦この處に水を汲に來らぬ爲その水を我に予へよ</ab>
+<ab type="verse" n="16" xml:id="John.4.16"><hi rend="superscript">16</hi> イエス曰けるは爾ゆきて夫を呼來れ</ab>
+<ab type="verse" n="17" xml:id="John.4.17"><hi rend="superscript">17</hi> 婦こたへて曰けるは我に夫なしイエス曰けるは夫なしと言るは理なり</ab>
+<ab type="verse" n="18" xml:id="John.4.18"><hi rend="superscript">18</hi> 蓋なんぢ曩に五人の夫ありて今ある者は爾の夫に非ず爾の言しは眞なり</ab>
+<ab type="verse" n="19" xml:id="John.4.19"><hi rend="superscript">19</hi> 婦いひけるは主よ我なんぢを〔預言者｜預言者〕と知り</ab>
+<ab type="verse" n="20" xml:id="John.4.20"><hi rend="superscript">20</hi> 我儕の列祖は此山にて拜ししに爾曹は拜すべき所はエルサレムなりと曰</ab>
+<ab type="verse" n="21" xml:id="John.4.21"><hi rend="superscript">21</hi> イエス曰けるは婦よ我を信ぜよ唯に此山のみに非ず亦エルサレム而已にも非ずして爾曹父を拜すべき時きたらん</ab>
+<ab type="verse" n="22" xml:id="John.4.22"><hi rend="superscript">22</hi> 爾曹の拜する者を爾曹は知ず我儕の拜する者を我儕は知そは救はユダヤ人より出るが故なり</ab>
+<ab type="verse" n="23" xml:id="John.4.23"><hi rend="superscript">23</hi> 眞の拜する者靈と眞を以て父を拜する時きたらん今その時になれり夫父は是の如く拜する者を要め給ふ</ab>
+<ab type="verse" n="24" xml:id="John.4.24"><hi rend="superscript">24</hi> 神は靈なれば拜する者もまた靈と眞をもて之を拜すべき也</ab>
+<ab type="verse" n="25" xml:id="John.4.25"><hi rend="superscript">25</hi> 婦いひけるはキリストと稱るメッシヤの來らん事を知かれ來らん時凡の事を我儕に告ん</ab>
+<ab type="verse" n="26" xml:id="John.4.26"><hi rend="superscript">26</hi> イエス曰けるは爾と語る所の我は其なり</ab>
+<ab type="verse" n="27" xml:id="John.4.27"><hi rend="superscript">27</hi> 時に弟子きたりて彼の婦と語れるを奇みけれど其何を求るや又なに故これと語れるか問る者も無りき</ab>
+<ab type="verse" n="28" xml:id="John.4.28"><hi rend="superscript">28</hi> 婦その水瓶を遺して邑にゆき人々に曰けるは</ab>
+<ab type="verse" n="29" xml:id="John.4.29"><hi rend="superscript">29</hi> 我すべて行し事を我に告し人を來りて視よ此はキリストならず乎</ab>
+<ab type="verse" n="30" xml:id="John.4.30"><hi rend="superscript">30</hi> 是に於て人々邑を出てイエスの所に來る</ab>
+<ab type="verse" n="31" xml:id="John.4.31"><hi rend="superscript">31</hi> その間に弟子かれに請てラビ食し給へと曰ければ</ab>
+<ab type="verse" n="32" xml:id="John.4.32"><hi rend="superscript">32</hi> イエス彼等に曰けるは我に爾曹の知ざる食物あり</ab>
+<ab type="verse" n="33" xml:id="John.4.33"><hi rend="superscript">33</hi> 弟子たがひに曰けるは食物を彼に饋し者は誰なる乎</ab>
+<ab type="verse" n="34" xml:id="John.4.34"><hi rend="superscript">34</hi> イエス彼等に曰けるは我を遣しし者の旨に隨ひ其工を成畢る是わが糧なり</ab>
+<ab type="verse" n="35" xml:id="John.4.35"><hi rend="superscript">35</hi> なんぢら穫時になるには猶四ヶ月ありと云ずや我なんぢらに告ん目を擧て觀よはや田は熟て穫時になれり</ab>
+<ab type="verse" n="36" xml:id="John.4.36"><hi rend="superscript">36</hi> 穫者は其工錢を受て永生に至るべき實を積む斯て播者と穫者と同に喜ばん</ab>
+<ab type="verse" n="37" xml:id="John.4.37"><hi rend="superscript">37</hi> 彼は播これは穫と云るは之に就て眞なり</ab>
+<ab type="verse" n="38" xml:id="John.4.38"><hi rend="superscript">38</hi> 我なんぢらの勞せざりし所を穫せんとして爾曹を遣せり他の人々勞せしにより爾曹は其勞したる果を受たり</ab>
+<ab type="verse" n="39" xml:id="John.4.39"><hi rend="superscript">39</hi> かの婦わが行し凡の事を彼われに告しと證せし言に因て其邑のサマリア人おほくイエスを信ぜり</ab>
+<ab type="verse" n="40" xml:id="John.4.40"><hi rend="superscript">40</hi> 是に於てサマリアの人イエスの所に來りて偕に留り給はん事を求しかばイエス此に二日留れり</ab>
+<ab type="verse" n="41" xml:id="John.4.41"><hi rend="superscript">41</hi> 彼の言に因て信ぜし者前よりも多かりき</ab>
+<ab type="verse" n="42" xml:id="John.4.42"><hi rend="superscript">42</hi> かれら婦に曰けるは今なんぢの言し事に因て信ずるに非ず我儕みづから聞て此は誠に世の救主と知たれば也／</ab>
+<ab type="verse" n="43" xml:id="John.4.43"><hi rend="superscript">43</hi> 二日すぎてイエス此を去ガリラヤに往り</ab>
+<ab type="verse" n="44" xml:id="John.4.44"><hi rend="superscript">44</hi> 蓋かれ自ら〔預言者｜預言者〕は本土にて尊ばるる事なしと言しに因</ab>
+<ab type="verse" n="45" xml:id="John.4.45"><hi rend="superscript">45</hi> ガリラヤに至りし時ガリラヤの人々彼を接たり蓋さきに節筵の時イエスのエルサレムにて行ひし凡の事を彼等もその節筵に往て之を見たれば也</ab>
+<ab type="verse" n="46" xml:id="John.4.46"><hi rend="superscript">46</hi> イエス復ガリラヤのカナに至る此は曩に水を酒に爲し處なり時に王の〔大臣｜大臣〕その子病に係てカペナウンに在ければ</ab>
+<ab type="verse" n="47" xml:id="John.4.47"><hi rend="superscript">47</hi> イエスのユダヤよりガリラヤに來れる事をきき即ちイエスの所に往てカペナウンに下り其子を醫し給はんことを請りそは瀕死なりければ也</ab>
+<ab type="verse" n="48" xml:id="John.4.48"><hi rend="superscript">48</hi> イエス彼に曰けるは爾曹休徴と異能を見ずば信ぜじ</ab>
+<ab type="verse" n="49" xml:id="John.4.49"><hi rend="superscript">49</hi> 彼曰けるは主よ我子の死ざる先に下り給へ</ab>
+<ab type="verse" n="50" xml:id="John.4.50"><hi rend="superscript">50</hi> イエス曰けるは往なんぢの子は生るなり其人イエスの曰し言を信じて去ぬ</ab>
+<ab type="verse" n="51" xml:id="John.4.51"><hi rend="superscript">51</hi> 下る時その僕等かれに遇て告けるは爾の子は生るなり</ab>
+<ab type="verse" n="52" xml:id="John.4.52"><hi rend="superscript">52</hi> 彼その愈はじめし時を彼等に問ければ答て昨日の晝の一時に熱さめたりと曰</ab>
+<ab type="verse" n="53" xml:id="John.4.53"><hi rend="superscript">53</hi> 父はイエスの爾が子は生る也と言たまひし時と其時の同きことを知て己と其全家ことごとく皆信ぜり</ab>
+<ab type="verse" n="54" xml:id="John.4.54"><hi rend="superscript">54</hi> この第二の奇跡はイエス、ユダヤよりガリラヤに至て行るなり</ab>
+</div>
+<div type="chapter" n="5">
+  <head>第5章</head>
+<ab type="verse" n="1" xml:id="John.5.1"><hi rend="superscript">1</hi> 厥後ユダヤ人の節筵ありければイエス、エルサレムに上れり</ab>
+<ab type="verse" n="2" xml:id="John.5.2"><hi rend="superscript">2</hi> エルサレムの羊門の邊にヘブルの方言にてベテスダといふ池あり此池に五の廊あり</ab>
+<ab type="verse" n="3" xml:id="John.5.3"><hi rend="superscript">3</hi> その中に病者、聾者、跛者また衰たる者など多く臥ゐて水の動を待り</ab>
+<ab type="verse" n="4" xml:id="John.5.4"><hi rend="superscript">4</hi> そは天の使時々池に下て水を動すことあり水の動るのち先ちて池に入し者は何の病によらず愈たり</ab>
+<ab type="verse" n="5" xml:id="John.5.5"><hi rend="superscript">5</hi> 三十八年病たる者一人かしこに在</ab>
+<ab type="verse" n="6" xml:id="John.5.6"><hi rend="superscript">6</hi> イエス彼が臥をるを見て其病の久を知これに曰けるは愈んことを欲ふや</ab>
+<ab type="verse" n="7" xml:id="John.5.7"><hi rend="superscript">7</hi> 病る者こたへけるは主よ水の動るとき我を扶て池に入る人なし我いらんとする時は他の人くだりて我より先に入</ab>
+<ab type="verse" n="8" xml:id="John.5.8"><hi rend="superscript">8</hi> イエス彼に曰けるは起よ床を取〔収｜收〕て行め</ab>
+<ab type="verse" n="9" xml:id="John.5.9"><hi rend="superscript">9</hi> その人立刻に愈すなはち床を取〔収｜收〕て行めり此日は安息日なりき</ab>
+<ab type="verse" n="10" xml:id="John.5.10"><hi rend="superscript">10</hi> ユダヤ人いえし者に曰けるは今日は安息日なれば爾床を取〔収｜收〕は宜からず</ab>
+<ab type="verse" n="11" xml:id="John.5.11"><hi rend="superscript">11</hi> 彼等に答けるは我を愈しし者われに床を取〔収｜收〕て行めと言り</ab>
+<ab type="verse" n="12" xml:id="John.5.12"><hi rend="superscript">12</hi> かれら問けるは爾に牀を取〔収｜收〕て行めと言し人は誰なるぞ乎</ab>
+<ab type="verse" n="13" xml:id="John.5.13"><hi rend="superscript">13</hi> 愈し者その誰なるを知ざりき蓋かしこに多の人をりし故イエス避たれば也</ab>
+<ab type="verse" n="14" xml:id="John.5.14"><hi rend="superscript">14</hi> 厥後イエス殿にて其人に遇いひけるは視よ爾すでに愈たり復罪を犯こと勿れ恐くは前に勝る災禍なんぢに罹ん</ab>
+<ab type="verse" n="15" xml:id="John.5.15"><hi rend="superscript">15</hi> 其人ゆきてユダヤ人に己を愈しし者はイエスなりと告</ab>
+<ab type="verse" n="16" xml:id="John.5.16"><hi rend="superscript">16</hi> 是に於てユダヤ人イエスを窘迫て殺さんと謀る蓋かれが此事を行しは安息日なりければ也</ab>
+<ab type="verse" n="17" xml:id="John.5.17"><hi rend="superscript">17</hi> イエス彼等に答けるは我父は今に至るまで働き給ふ我もまた働くなり</ab>
+<ab type="verse" n="18" xml:id="John.5.18"><hi rend="superscript">18</hi> 此に因てユダヤ人いよいよイエスを殺さんと謀るそは安息日を犯すのみならず神を己が父といひ己を神と齊すればなり</ab>
+<ab type="verse" n="19" xml:id="John.5.19"><hi rend="superscript">19</hi> 是故にイエス彼等に答て曰けるは誠に實に爾曹に告ん子は父の行ふ事を見て行ふの外は何事をも行ふこと能ず蓋すべて父の行ふ事を子も亦行へばなり</ab>
+<ab type="verse" n="20" xml:id="John.5.20"><hi rend="superscript">20</hi> 父は子を愛し凡て己の行ふ所の事を彼に示す爾曹をして奇ましめん爲にかの事等より更に大なる事を彼に示さん</ab>
+<ab type="verse" n="21" xml:id="John.5.21"><hi rend="superscript">21</hi> そは父の死し者を甦らせて生しむるが如く子も己の意に從ひて人を生しむべし</ab>
+<ab type="verse" n="22" xml:id="John.5.22"><hi rend="superscript">22</hi> それ父は誰をも鞫ず審判は凡て子に委たり</ab>
+<ab type="verse" n="23" xml:id="John.5.23"><hi rend="superscript">23</hi> 是すべての人をして父を敬ふ如く子をも敬はしめんが爲なり子を敬はざる者は之を遣しし父を敬はず</ab>
+<ab type="verse" n="24" xml:id="John.5.24"><hi rend="superscript">24</hi> 誠に實に爾曹に告ん我言をきき我を遣しし者を信ずる者は永生を有かつ審判に至らず死より生に遷れり</ab>
+<ab type="verse" n="25" xml:id="John.5.25"><hi rend="superscript">25</hi> 誠に實に爾曹に告ん死し者神の子の聲を聞とき來らん今その時になれり之を聞者は生べし</ab>
+<ab type="verse" n="26" xml:id="John.5.26"><hi rend="superscript">26</hi> それ父は自ら生を有り其如く子にも賜て自ら生を有たせたり</ab>
+<ab type="verse" n="27" xml:id="John.5.27"><hi rend="superscript">27</hi> また人の子たるに因て之に審判するの權威を賜へり</ab>
+<ab type="verse" n="28" xml:id="John.5.28"><hi rend="superscript">28</hi> 之を奇と爲こと勿そは墓に在者みな其聲を聞て出るとき來んとすれば也</ab>
+<ab type="verse" n="29" xml:id="John.5.29"><hi rend="superscript">29</hi> 善事を行し者は生を得に甦り惡事を行し者は〔審判｜罪〕を得に甦るべし</ab>
+<ab type="verse" n="30" xml:id="John.5.30"><hi rend="superscript">30</hi> われ何事をも自ら行ふこと能ず聞ところに遵ひて審判す我審判は公平そは我わが意を行ふことを求ず我を遣しし父の意を行ふことを求ればなり</ab>
+<ab type="verse" n="31" xml:id="John.5.31"><hi rend="superscript">31</hi> もし我事を我みづから證せば我證は眞ならず</ab>
+<ab type="verse" n="32" xml:id="John.5.32"><hi rend="superscript">32</hi> 別に我事を證する者あり我その我事を證する證の眞なるを知</ab>
+<ab type="verse" n="33" xml:id="John.5.33"><hi rend="superscript">33</hi> なんぢら曩に人をヨハネに遣ししに彼眞理の爲に證を作り</ab>
+<ab type="verse" n="34" xml:id="John.5.34"><hi rend="superscript">34</hi> 然どわれ人の證を受ず此事を言は爾曹の救れんが爲なり</ab>
+<ab type="verse" n="35" xml:id="John.5.35"><hi rend="superscript">35</hi> ヨハネは燃て光れる燈なり爾曹このみて暫く其光を喜べり</ab>
+<ab type="verse" n="36" xml:id="John.5.36"><hi rend="superscript">36</hi> 我はヨハネより大なる證あり蓋父の我に賜て成遂しむる事すなはち我行ふ所の事は是父の我を遣ししことを證すればなり</ab>
+<ab type="verse" n="37" xml:id="John.5.37"><hi rend="superscript">37</hi> 且われを遣しし父も我ことを證せり爾曹いまだ其聲を聞ず未だ其形を見ず</ab>
+<ab type="verse" n="38" xml:id="John.5.38"><hi rend="superscript">38</hi> その道は爾曹の心に存ざりき蓋なんぢら其遣しし者を信ぜざるに因て知るる也</ab>
+<ab type="verse" n="39" xml:id="John.5.39"><hi rend="superscript">39</hi> なんぢら聖書に永生ありと意て之を探索この聖書は我について證する者なり</ab>
+<ab type="verse" n="40" xml:id="John.5.40"><hi rend="superscript">40</hi> 爾曹わが所に生を得んがため來るを欲ず</ab>
+<ab type="verse" n="41" xml:id="John.5.41"><hi rend="superscript">41</hi> われ人の榮を受ず</ab>
+<ab type="verse" n="42" xml:id="John.5.42"><hi rend="superscript">42</hi> われ爾曹を知なんぢらは其心に神を愛するの愛あらざる也</ab>
+<ab type="verse" n="43" xml:id="John.5.43"><hi rend="superscript">43</hi> 我は吾父の名に靠て來しに爾曹われを接ずもし他の人おのが名に靠て來ば爾曹これを接ん</ab>
+<ab type="verse" n="44" xml:id="John.5.44"><hi rend="superscript">44</hi> 爾曹は互に人の榮を受て神より出る榮を求ざる者なるに何で能信ずることを得んや</ab>
+<ab type="verse" n="45" xml:id="John.5.45"><hi rend="superscript">45</hi> 爾曹を父に〔訴｜訴〕る者と我を意ふ勿れ爾曹を〔訴｜訴〕るもの一人あり即ち爾曹が恃ところのモーセなり</ab>
+<ab type="verse" n="46" xml:id="John.5.46"><hi rend="superscript">46</hi> 若モーセを信ぜば我を信ずべし蓋モーセ我事を書たればなり</ab>
+<ab type="verse" n="47" xml:id="John.5.47"><hi rend="superscript">47</hi> 若モーセの書しし事を信ぜずば何で我言しことを信ぜんや</ab>
+</div>
+<div type="chapter" n="6">
+  <head>第6章</head>
+<ab type="verse" n="1" xml:id="John.6.1"><hi rend="superscript">1</hi> 此後イエス、ガリラヤの湖すなはちテベリアの湖の前岸へ濟しに</ab>
+<ab type="verse" n="2" xml:id="John.6.2"><hi rend="superscript">2</hi> 許多の人々これに隨ふ蓋〔彼｜かれ〕が病し者に行し休徴を見しが故なり</ab>
+<ab type="verse" n="3" xml:id="John.6.3"><hi rend="superscript">3</hi> イエス山に上り弟子と偕に其處に坐せり</ab>
+<ab type="verse" n="4" xml:id="John.6.4"><hi rend="superscript">4</hi> 時ユダヤ人の逾越の節に邇し</ab>
+<ab type="verse" n="5" xml:id="John.6.5"><hi rend="superscript">5</hi> イエス目を擧て多の人の來れるを見てピリポに曰けるは何處よりパンを市て彼等に食しむ可か</ab>
+<ab type="verse" n="6" xml:id="John.6.6"><hi rend="superscript">6</hi> 自ら其爲んとする事を知ど彼を試んが爲に如此いへる也</ab>
+<ab type="verse" n="7" xml:id="John.6.7"><hi rend="superscript">7</hi> ピリポ答けるは銀二百のパンも人ごとに少づつ予てなほ足ざるべし</ab>
+<ab type="verse" n="8" xml:id="John.6.8"><hi rend="superscript">8</hi> 弟子の一人即ちシモン・ペテロの兄弟アンデレ、イエスに曰けるは</ab>
+<ab type="verse" n="9" xml:id="John.6.9"><hi rend="superscript">9</hi> 此に一人の童子あり麰麥のパン五と小き魚二を有り然どこの許多の人に如何すべきぞ</ab>
+<ab type="verse" n="10" xml:id="John.6.10"><hi rend="superscript">10</hi> イエス曰けるは人々を坐せよ其處に多の草あり約そ五千人ほど坐ぬ</ab>
+<ab type="verse" n="11" xml:id="John.6.11"><hi rend="superscript">11</hi> イエス、パンをとり祝謝て弟子に予へ弟子これを坐し人に予ふ又此の如にして小き魚をも人々の欲に隨ひて彼等に與たり</ab>
+<ab type="verse" n="12" xml:id="John.6.12"><hi rend="superscript">12</hi> みな飽たる後イエス弟子に曰けるは少も廢はざるやうに其餘の屑を拾集めよ</ab>
+<ab type="verse" n="13" xml:id="John.6.13"><hi rend="superscript">13</hi> 彼等が食せし彼五の麰麥のパンの餘遺の屑を拾集ければ十二の筐に盈り</ab>
+<ab type="verse" n="14" xml:id="John.6.14"><hi rend="superscript">14</hi> 人々イエスの行し奇跡を見て此は誠に世に臨るべき〔預言者｜預言者〕なりと曰</ab>
+<ab type="verse" n="15" xml:id="John.6.15"><hi rend="superscript">15</hi> 是に於てイエス彼等が來り己を執て王に爲んとするを知ただ獨にて之を避ふたたび山に入たり</ab>
+<ab type="verse" n="16" xml:id="John.6.16"><hi rend="superscript">16</hi> 日の暮るころ弟子海に下て</ab>
+<ab type="verse" n="17" xml:id="John.6.17"><hi rend="superscript">17</hi> 舟に登カペナウンに向て海を濟る既に暮けれどもイエス彼等に就ず</ab>
+<ab type="verse" n="18" xml:id="John.6.18"><hi rend="superscript">18</hi> 狂風ふくに因て漸に海あれいだせり</ab>
+<ab type="verse" n="19" xml:id="John.6.19"><hi rend="superscript">19</hi> 一里十町ばかり漕出せる時イエスの海を行み舟に近くを見て弟子たち懼たり</ab>
+<ab type="verse" n="20" xml:id="John.6.20"><hi rend="superscript">20</hi> イエス曰けるは我なり懼るる勿れ</ab>
+<ab type="verse" n="21" xml:id="John.6.21"><hi rend="superscript">21</hi> 是に於て弟子喜びて彼をうけ舟に登ければ直に其往んとする所の地に着ぬ／</ab>
+<ab type="verse" n="22" xml:id="John.6.22"><hi rend="superscript">22</hi> 明日かなたの海岸に立し人々昨日弟子の登し舟の外には舟なく且イエスは弟子と偕に舟に登ず弟子のみ往るを知</ab>
+<ab type="verse" n="23" xml:id="John.6.23"><hi rend="superscript">23</hi> 此時テベリアより外に舟きたり主の祈りて人々にパンを食しし所の近に着り</ab>
+<ab type="verse" n="24" xml:id="John.6.24"><hi rend="superscript">24</hi> 人々イエスの此に在ず弟子も亦在ざるを見て彼等も舟に登イエスを尋ん爲にカペナウンに至れり</ab>
+<ab type="verse" n="25" xml:id="John.6.25"><hi rend="superscript">25</hi> 湖の前岸にて彼に遇〔曰｜いひ〕けるはラビ何時ここに來り給ひし乎</ab>
+<ab type="verse" n="26" xml:id="John.6.26"><hi rend="superscript">26</hi> イエス答て曰けるは誠に實に爾曹に告ん爾曹の我を尋るは休徴を見し故に非ただパンを食して飽たるが故なり</ab>
+<ab type="verse" n="27" xml:id="John.6.27"><hi rend="superscript">27</hi> なんぢら壞る糧の爲に勞かずして永生に至る糧すなはち人の子の予る糧の爲に勞くべし蓋父の神かれに印して證すれば也</ab>
+<ab type="verse" n="28" xml:id="John.6.28"><hi rend="superscript">28</hi> 是に因て人々イエスに曰けるは我等如何なる事を行ば神の工に爲べき乎</ab>
+<ab type="verse" n="29" xml:id="John.6.29"><hi rend="superscript">29</hi> イエス答て彼等に曰けるは神の遣しし者を信ずるは即ち其工なり</ab>
+<ab type="verse" n="30" xml:id="John.6.30"><hi rend="superscript">30</hi> 彼等いひけるは我儕をして爾を信ぜしむる爲に何の休徴を爲して我儕に示るや何の工を行ふや</ab>
+<ab type="verse" n="31" xml:id="John.6.31"><hi rend="superscript">31</hi> 我儕の先祖野にてマナを食へり録して天よりパンを彼等に賜へて食しむと有が如し</ab>
+<ab type="verse" n="32" xml:id="John.6.32"><hi rend="superscript">32</hi> イエス曰けるは誠に實に爾曹に告ん天よりパンを爾曹に賜し者はモーセに非ず今わが父は天より眞のパンをもて爾曹に賜ふ</ab>
+<ab type="verse" n="33" xml:id="John.6.33"><hi rend="superscript">33</hi> 神のパンは天より降りて生命を世に賜るもの也</ab>
+<ab type="verse" n="34" xml:id="John.6.34"><hi rend="superscript">34</hi> 彼等いひけるは主よ恆に其パンを我儕に予よ</ab>
+<ab type="verse" n="35" xml:id="John.6.35"><hi rend="superscript">35</hi> イエス曰けるは我は生命のパンなり我に就る者は饑ず我を信ずる者は恆に渇ことなし</ab>
+<ab type="verse" n="36" xml:id="John.6.36"><hi rend="superscript">36</hi> 然ど我なんぢらが我を見ても信ぜざる事を爾曹に告たりき</ab>
+<ab type="verse" n="37" xml:id="John.6.37"><hi rend="superscript">37</hi> 凡て父の我に賜し者は我に就らん我に就る者は我かならず之を棄ず</ab>
+<ab type="verse" n="38" xml:id="John.6.38"><hi rend="superscript">38</hi> わが天より降しは己の意の任を行はん爲に非ず我を遣しし者の意のままを行はん爲なり</ab>
+<ab type="verse" n="39" xml:id="John.6.39"><hi rend="superscript">39</hi> 凡て父の我に賜し者をわれ一をも失はず末日に之を甦らすは即ち我を遣しし父の意なり</ab>
+<ab type="verse" n="40" xml:id="John.6.40"><hi rend="superscript">40</hi> 凡そ子を見て之を信ずる者は永生を得われ復これを末の日に甦らすべし是われを遣しし者の意なればなり</ab>
+<ab type="verse" n="41" xml:id="John.6.41"><hi rend="superscript">41</hi> 是に於てユダヤ人等イエスの我は天より降しパンなりと言しことにつき</ab>
+<ab type="verse" n="42" xml:id="John.6.42"><hi rend="superscript">42</hi> 譏いひけるは彼が父母は我儕の識ところならずや即ち彼はヨセフの子イエスに非ずや然るに何ぞ我は天より降しと言や</ab>
+<ab type="verse" n="43" xml:id="John.6.43"><hi rend="superscript">43</hi> イエス答て曰けるは爾曹たがひに譏こと勿れ</ab>
+<ab type="verse" n="44" xml:id="John.6.44"><hi rend="superscript">44</hi> 我を遣しし父もし引ざれば人よく我に就るなし我に就し人は末日に我これを甦らすべし</ab>
+<ab type="verse" n="45" xml:id="John.6.45"><hi rend="superscript">45</hi> 〔預言者｜預言者〕の書に人みな教を神に受んと録されたり是故に凡て父より聽て學し者は我に就る</ab>
+<ab type="verse" n="46" xml:id="John.6.46"><hi rend="superscript">46</hi> 然ど父を見し者はなし惟神より來る者のみ之を見たり</ab>
+<ab type="verse" n="47" xml:id="John.6.47"><hi rend="superscript">47</hi> 誠に實に我なんぢらに告ん我を信ずる者は永生あり</ab>
+<ab type="verse" n="48" xml:id="John.6.48"><hi rend="superscript">48</hi> 我は生命のパンなり</ab>
+<ab type="verse" n="49" xml:id="John.6.49"><hi rend="superscript">49</hi> 爾曹の先祖は野にてマナを食しかど死り</ab>
+<ab type="verse" n="50" xml:id="John.6.50"><hi rend="superscript">50</hi> 凡て食者をして死ざらしむる者は天より降れるパンなり</ab>
+<ab type="verse" n="51" xml:id="John.6.51"><hi rend="superscript">51</hi> 我は天より降し生るパンなり若人〔此｜この〕パンを食はば窮なく生べし我あたふるパンは我肉なり世の生命の爲に我これを賜へん</ab>
+<ab type="verse" n="52" xml:id="John.6.52"><hi rend="superscript">52</hi> 爰にユダヤ人たがひに爭ひ曰けるは此人いかで其肉を我儕に賜て食はしむる事を得ん乎</ab>
+<ab type="verse" n="53" xml:id="John.6.53"><hi rend="superscript">53</hi> イエス曰けるは誠に實に爾曹に告ん若の人の子の肉を食ず其血を飮ざれば爾曹に生命なし</ab>
+<ab type="verse" n="54" xml:id="John.6.54"><hi rend="superscript">54</hi> わが肉を食わが血を飮者は永生あり我末の日に之を甦らすべし</ab>
+<ab type="verse" n="55" xml:id="John.6.55"><hi rend="superscript">55</hi> 夫わが肉は誠の食物また我血は誠の飮物なり</ab>
+<ab type="verse" n="56" xml:id="John.6.56"><hi rend="superscript">56</hi> わが肉を食ひ我血を飮者は我にをり我も亦かれに居</ab>
+<ab type="verse" n="57" xml:id="John.6.57"><hi rend="superscript">57</hi> 生る父われを遣す父に由て我生る如く我を食ふ者も我に由て生べし</ab>
+<ab type="verse" n="58" xml:id="John.6.58"><hi rend="superscript">58</hi> これ天より降れるパンなり爾曹の先祖が食たれど尚死しマナの如きものに非ず此パンを食ふ者は窮なく生べし</ab>
+<ab type="verse" n="59" xml:id="John.6.59"><hi rend="superscript">59</hi> 此等の事はイエス、カペナウンの會堂にて教を爲るとき言し所なり</ab>
+<ab type="verse" n="60" xml:id="John.6.60"><hi rend="superscript">60</hi> 弟子等のうち多の人これを聞て曰けるは此は甚しき言なり誰か能これを聽んや</ab>
+<ab type="verse" n="61" xml:id="John.6.61"><hi rend="superscript">61</hi> 弟子の此言について譏をイエス自ら知て彼等に曰けるは此言に因て礙く乎</ab>
+<ab type="verse" n="62" xml:id="John.6.62"><hi rend="superscript">62</hi> もし人の子の故の處に升を見ば如何</ab>
+<ab type="verse" n="63" xml:id="John.6.63"><hi rend="superscript">63</hi> 生命を賜る者は靈なり肉は益なし我なんぢらに曰し言は靈なり生命なり</ab>
+<ab type="verse" n="64" xml:id="John.6.64"><hi rend="superscript">64</hi> 然ど爾曹の中に信ぜざる者あり夫イエスの如此いへるは信ぜざる者は誰おのれを賣す者は誰といふ事を元始より知ばなり</ab>
+<ab type="verse" n="65" xml:id="John.6.65"><hi rend="superscript">65</hi> イエスまた曰けるは是故に我さきに我父あたへざれば人よく我に就るなしと言しなり</ab>
+<ab type="verse" n="66" xml:id="John.6.66"><hi rend="superscript">66</hi> 此後その弟子おほく返往てイエスと偕に行ざりき</ab>
+<ab type="verse" n="67" xml:id="John.6.67"><hi rend="superscript">67</hi> 之に因てイエス十二の弟子に曰けるは爾曹も亦去んと意ふや</ab>
+<ab type="verse" n="68" xml:id="John.6.68"><hi rend="superscript">68</hi> シモン・ペテロ答けるは主よ我儕は誰に往んや永生の言を有る者は爾なり</ab>
+<ab type="verse" n="69" xml:id="John.6.69"><hi rend="superscript">69</hi> 又われら信じて知なんぢは活る神の子キリストなり</ab>
+<ab type="verse" n="70" xml:id="John.6.70"><hi rend="superscript">70</hi> イエス彼等に答けるは我なんぢら十二人を簡しに非ずや然ど其中の一人は惡魔なり</ab>
+<ab type="verse" n="71" xml:id="John.6.71"><hi rend="superscript">71</hi> 此はシモンの子イスカリオテのユダを指て言るなり彼は十二の一人にしてイエスを賣さんとする者なり</ab>
+</div>
+<div type="chapter" n="7">
+  <head>第7章</head>
+<ab type="verse" n="1" xml:id="John.7.1"><hi rend="superscript">1</hi> 斯事の後イエス、ガリラヤを經行りユダヤの中を巡ることを欲ざりき蓋ユダヤ人かれを殺さんと謀れば也</ab>
+<ab type="verse" n="2" xml:id="John.7.2"><hi rend="superscript">2</hi> 偖ユダヤ人の構廬の節ちかづけり</ab>
+<ab type="verse" n="3" xml:id="John.7.3"><hi rend="superscript">3</hi> 是に於てイエスの兄弟かれに曰けるは爾の行ふ所の事を弟子等に見せんが爲此を去てユダヤに往</ab>
+<ab type="verse" n="4" xml:id="John.7.4"><hi rend="superscript">4</hi> 〔蓋｜そは〕己を顯さんとして隱に事をなす者あらず爾これらの事を行はば己を世に顯せよ</ab>
+<ab type="verse" n="5" xml:id="John.7.5"><hi rend="superscript">5</hi> 是その兄弟もなほ彼を信ぜざるが故なり</ab>
+<ab type="verse" n="6" xml:id="John.7.6"><hi rend="superscript">6</hi> イエス彼等に曰けるは我時いまだ至ず爾曹の時は恆に備れり</ab>
+<ab type="verse" n="7" xml:id="John.7.7"><hi rend="superscript">7</hi> 世は爾曹を惡こと能ず我を惡そは彼等が行ふ所は惡しと我證すればなり</ab>
+<ab type="verse" n="8" xml:id="John.7.8"><hi rend="superscript">8</hi> 爾曹この節に上れ我時いまだ至らざれば我いまだ此節に上らじ</ab>
+<ab type="verse" n="9" xml:id="John.7.9"><hi rend="superscript">9</hi> 如此いひてガリラヤに留れり</ab>
+<ab type="verse" n="10" xml:id="John.7.10"><hi rend="superscript">10</hi> その兄弟の往し後イエスも昭然ならずして隱に節に上る</ab>
+<ab type="verse" n="11" xml:id="John.7.11"><hi rend="superscript">11</hi> 節の時ユダヤ人イエスを尋て曰けるは彼は何處に在や</ab>
+<ab type="verse" n="12" xml:id="John.7.12"><hi rend="superscript">12</hi> 衆多の中にて彼につき各樣のことを言爭へり或人は彼を善人なりといひ或人は否民を惑す者なりと曰</ab>
+<ab type="verse" n="13" xml:id="John.7.13"><hi rend="superscript">13</hi> 然どもユダヤ人を懼るに因て明に彼が事をいふ人なし／</ab>
+<ab type="verse" n="14" xml:id="John.7.14"><hi rend="superscript">14</hi> 節筵の半ごろイエス殿に上りて教誨ければ</ab>
+<ab type="verse" n="15" xml:id="John.7.15"><hi rend="superscript">15</hi> ユダヤ人これを奇み曰けるは此人は未だ學ばず如何して書を識や</ab>
+<ab type="verse" n="16" xml:id="John.7.16"><hi rend="superscript">16</hi> イエス彼等に答て曰けるは我教る所は我教に非ず我を遣しし者の教なり</ab>
+<ab type="verse" n="17" xml:id="John.7.17"><hi rend="superscript">17</hi> 人もし我を遣しし者の旨に從はば此教の神より出るか又己に由て言なるかを知べし</ab>
+<ab type="verse" n="18" xml:id="John.7.18"><hi rend="superscript">18</hi> 己に由て言者は己の榮を求るなり己を遣しし者の榮を求る者は眞なり其衷に不義なし</ab>
+<ab type="verse" n="19" xml:id="John.7.19"><hi rend="superscript">19</hi> モーセ爾曹に律法を與しに非ずや然ど爾曹の中には之を守る者なし爾曹なにゆゑ我を殺んと謀るや</ab>
+<ab type="verse" n="20" xml:id="John.7.20"><hi rend="superscript">20</hi> 衆人〔答｜こた〕へて曰けるは爾鬼に憑たり誰か爾を殺すことを謀らん乎</ab>
+<ab type="verse" n="21" xml:id="John.7.21"><hi rend="superscript">21</hi> イエス答て彼等に曰けるは我さきに一事を行しに爾曹みな奇とせり</ab>
+<ab type="verse" n="22" xml:id="John.7.22"><hi rend="superscript">22</hi> モーセ爾曹に割禮を授しは其己より出しに非して先祖より出し者なるが故なり之に因て爾曹割禮を安息日に行ふ</ab>
+<ab type="verse" n="23" xml:id="John.7.23"><hi rend="superscript">23</hi> 人もしモーセの律法を破ざらんがため安息日に割禮を受る時は何ぞ我安息日に人の全身を愈しし事を怒るや</ab>
+<ab type="verse" n="24" xml:id="John.7.24"><hi rend="superscript">24</hi> 外貌によりて〔審判する｜是非を定ること〕勿れ〔義審判｜義〕をもて〔審判せよ｜定めよ〕</ab>
+<ab type="verse" n="25" xml:id="John.7.25"><hi rend="superscript">25</hi> 此時エルサレムの或人〔曰｜いひ〕けるは此は人々の殺んと謀る者に非ずや</ab>
+<ab type="verse" n="26" xml:id="John.7.26"><hi rend="superscript">26</hi> 今かれ明にいふ而して之を尤る者なし有司等は彼を誠にキリストなりと知ならん乎</ab>
+<ab type="verse" n="27" xml:id="John.7.27"><hi rend="superscript">27</hi> 然ど我儕は此人の何處より來しを知もしキリストの來らん時は誰も其何處より來るを知者なからん</ab>
+<ab type="verse" n="28" xml:id="John.7.28"><hi rend="superscript">28</hi> 此時イエス殿にて教をりしが大聲に呼いひけるは爾曹われを知また我いづこより來るを知されど我は己に由て來しに非ず我を遣しし者は眞なる者にて爾曹の知ざる所なり</ab>
+<ab type="verse" n="29" xml:id="John.7.29"><hi rend="superscript">29</hi> 我は彼を知そは我は彼より出〔彼｜かれ〕は我を遣しし者なれば也</ab>
+<ab type="verse" n="30" xml:id="John.7.30"><hi rend="superscript">30</hi> 是に於て彼等イエスを執へんと謀れり然ど其時いまだ至ざるが故に措手する者なかりき</ab>
+<ab type="verse" n="31" xml:id="John.7.31"><hi rend="superscript">31</hi> 民の中おほくの人かれを信じ曰けるはキリストの來らん時その行ところの休徴この人より多らん乎</ab>
+<ab type="verse" n="32" xml:id="John.7.32"><hi rend="superscript">32</hi> パリサイの人民等のイエスに就て如此ひそかに語あふを聞すなはち祭司の長等とパリサイの人と彼を執んとて下吏を遣せり</ab>
+<ab type="verse" n="33" xml:id="John.7.33"><hi rend="superscript">33</hi> 是に於てイエス曰けるは我なほ片時なんぢらと偕にをり而して後われを遣しし者に往ん</ab>
+<ab type="verse" n="34" xml:id="John.7.34"><hi rend="superscript">34</hi> なんぢら我を尋るとも遇べからず我をる所へ爾曹きたること能ざるべし</ab>
+<ab type="verse" n="35" xml:id="John.7.35"><hi rend="superscript">35</hi> ユダヤ人相互に曰けるは我儕の遇ざらん爲に彼は何處へ往んとする乎ギリシヤに散し者に往てギリシヤの人を教んとする乎</ab>
+<ab type="verse" n="36" xml:id="John.7.36"><hi rend="superscript">36</hi> 彼が語て爾曹われを尋るとも遇べからず又わが在所へ爾曹來ること能ざる可と曰し言は何ぞや／</ab>
+<ab type="verse" n="37" xml:id="John.7.37"><hi rend="superscript">37</hi> 節筵の末の大日にイエス立て呼り曰けるは人もし渇ば我に來て飮</ab>
+<ab type="verse" n="38" xml:id="John.7.38"><hi rend="superscript">38</hi> 我を信ずる者は聖書に録しし如く其腹より活る水川の如に流出べし</ab>
+<ab type="verse" n="39" xml:id="John.7.39"><hi rend="superscript">39</hi> 如此いへるは彼を信ずる者の受んとする靈を指るなり蓋イエス未だ榮を受ざるに因て靈いまだ降ざればなり</ab>
+<ab type="verse" n="40" xml:id="John.7.40"><hi rend="superscript">40</hi> 民の中にて多の人この言を聞て此は誠に彼〔預言者｜預言者〕なりと曰</ab>
+<ab type="verse" n="41" xml:id="John.7.41"><hi rend="superscript">41</hi> 或は斯はキリストなりと曰あるひはキリストはガリラヤより出べけんや</ab>
+<ab type="verse" n="42" xml:id="John.7.42"><hi rend="superscript">42</hi> 聖書にキリストはダビデの裔にてダビデの住し郷〔ベテレヘム｜ベツレヘム〕より出んと録ししに非ずやと曰</ab>
+<ab type="verse" n="43" xml:id="John.7.43"><hi rend="superscript">43</hi> 是に於て民ども彼に縁て爭ひ別たり</ab>
+<ab type="verse" n="44" xml:id="John.7.44"><hi rend="superscript">44</hi> その中に彼を執んとする者も有けれど措手せし者なかりき</ab>
+<ab type="verse" n="45" xml:id="John.7.45"><hi rend="superscript">45</hi> 下吏ども祭司の長とパリサイの人等の所に返ければ彼等下吏に曰けるは何ぞ彼を曳來らざる乎</ab>
+<ab type="verse" n="46" xml:id="John.7.46"><hi rend="superscript">46</hi> 下吏こたへて曰けるは未だ斯人の如く言し人あらず</ab>
+<ab type="verse" n="47" xml:id="John.7.47"><hi rend="superscript">47</hi> パリサイの人いひけるは爾曹も亦惑されし乎</ab>
+<ab type="verse" n="48" xml:id="John.7.48"><hi rend="superscript">48</hi> 有司またパリサイの人の中に彼を信ずる者あらんや</ab>
+<ab type="verse" n="49" xml:id="John.7.49"><hi rend="superscript">49</hi> 律法を識ざる此衆の人は罰すべき者なり</ab>
+<ab type="verse" n="50" xml:id="John.7.50"><hi rend="superscript">50</hi> その中の一人にて夜イエスに就しニコデモと云る者かれらに曰けるは</ab>
+<ab type="verse" n="51" xml:id="John.7.51"><hi rend="superscript">51</hi> 其人に聽ず其行を知ざる先に〔之を審判く｜其罪を定むる〕は我儕の律法ならん乎</ab>
+<ab type="verse" n="52" xml:id="John.7.52"><hi rend="superscript">52</hi> 彼等こたへて曰けるは爾も亦ガリラヤより出し者なるか考見よ〔預言者｜預言者〕はガリラヤより出ることなし</ab>
+<ab type="verse" n="53" xml:id="John.7.53"><hi rend="superscript">53</hi> 是に於て各人家に歸れり</ab>
+</div>
+<div type="chapter" n="8">
+  <head>第8章</head>
+<ab type="verse" n="1" xml:id="John.8.1"><hi rend="superscript">1</hi> イエス橄欖山に往り</ab>
+<ab type="verse" n="2" xml:id="John.8.2"><hi rend="superscript">2</hi> 昧爽また聖殿に入けるが民みな彼に來ければ坐て彼等を教ふ</ab>
+<ab type="verse" n="3" xml:id="John.8.3"><hi rend="superscript">3</hi> 爰に奸淫を爲るとき執られし婦ありけるが學者とパリサイの人これをイエスの所に曳來り群集の中に置〔いひ｜云〕けるは</ab>
+<ab type="verse" n="4" xml:id="John.8.4"><hi rend="superscript">4</hi> 師よ此婦は奸淫を爲をる時そのまま執られし者なり</ab>
+<ab type="verse" n="5" xml:id="John.8.5"><hi rend="superscript">5</hi> 此の如き者を石にて撃殺すべしとモーセ律法の中に命じたり爾は如何に言や</ab>
+<ab type="verse" n="6" xml:id="John.8.6"><hi rend="superscript">6</hi> 如此いへるはイエスを試て訟の由を引出さんと欲るなりイエス身を屈め指にて地に畫り</ab>
+<ab type="verse" n="7" xml:id="John.8.7"><hi rend="superscript">7</hi> 彼等が切に問によりイエス起て之に曰けるは爾曹のうち罪なき者まづ彼を石にて撃べしと曰</ab>
+<ab type="verse" n="8" xml:id="John.8.8"><hi rend="superscript">8</hi> また身を屈て地に畫り</ab>
+<ab type="verse" n="9" xml:id="John.8.9"><hi rend="superscript">9</hi> 彼等これを聞て其良心に責られ老者をはじめ少者まで一々に出往ただイエス一人のこる婦は集の中に立り</ab>
+<ab type="verse" n="10" xml:id="John.8.10"><hi rend="superscript">10</hi> イエス起て婦に曰けるは婦よ爾を訟し者は何處へ往しや爾の罪を定る者なき乎</ab>
+<ab type="verse" n="11" xml:id="John.8.11"><hi rend="superscript">11</hi> 婦いひけるは主よ誰もなしイエス彼に曰けるは我も爾の罪を定ず往て再び罪を犯す勿れ／</ab>
+<ab type="verse" n="12" xml:id="John.8.12"><hi rend="superscript">12</hi> イエスまた人々に語て曰けるは我は世の光なり我に從ふ者は暗中を行ず生の光を得なり</ab>
+<ab type="verse" n="13" xml:id="John.8.13"><hi rend="superscript">13</hi> 是に於てパリサイの人いひけるは爾は自ら己の證をなせり爾の證は眞ならず</ab>
+<ab type="verse" n="14" xml:id="John.8.14"><hi rend="superscript">14</hi> イエス答て曰けるは我みづから己の證するとも我證は眞なり蓋われ何處より來り何處へ往を知ばなり爾曹わが何處より來り何處へ往を知ざるなり</ab>
+<ab type="verse" n="15" xml:id="John.8.15"><hi rend="superscript">15</hi> 爾曹は肉に循て人を審判く我は人を審判かず</ab>
+<ab type="verse" n="16" xml:id="John.8.16"><hi rend="superscript">16</hi> 我もし〔審判ば我審判は｜定ば我定る所は〕眞なり蓋われ獨あるに非ず我を遣しし父と同に在ばなり</ab>
+<ab type="verse" n="17" xml:id="John.8.17"><hi rend="superscript">17</hi> 二人の證は眞なりと爾曹の律法に録されたり</ab>
+<ab type="verse" n="18" xml:id="John.8.18"><hi rend="superscript">18</hi> わが證をする者は我なり我を遣しし父も亦わが證を爲なり</ab>
+<ab type="verse" n="19" xml:id="John.8.19"><hi rend="superscript">19</hi> 彼等いひけるは爾の父は〔何處｜何處〕に在やイエス答けるは爾曹は我を識ず亦わが父をも識ざるなり若われを識たるならば我父をも識たるならん</ab>
+<ab type="verse" n="20" xml:id="John.8.20"><hi rend="superscript">20</hi> イエス此等のことを殿のうち賽錢の箱を置る處にて語けれど彼の時いまだ至ざれば誰も手を出す者なかりき</ab>
+<ab type="verse" n="21" xml:id="John.8.21"><hi rend="superscript">21</hi> イエス復いひけるは我ゆかん爾曹は我を尋べし爾曹おのれの罪に死ん我ゆく所へは爾曹きたること能ざるなり</ab>
+<ab type="verse" n="22" xml:id="John.8.22"><hi rend="superscript">22</hi> 之に由てユダヤ人いひけるは我ゆく所へ爾曹きたること能ずと言り彼は自殺せんとする乎</ab>
+<ab type="verse" n="23" xml:id="John.8.23"><hi rend="superscript">23</hi> イエス彼等に曰けるは爾曹は下より出われは上より出なんぢらは此世より出われは此世より出ず</ab>
+<ab type="verse" n="24" xml:id="John.8.24"><hi rend="superscript">24</hi> 是故に爾曹は己の罪に死んと我いひしなり爾曹もし我の彼なるを信ぜずば己の罪に死ん</ab>
+<ab type="verse" n="25" xml:id="John.8.25"><hi rend="superscript">25</hi> 彼等いひけるは爾は誰なるやイエス曰けるは我は實に我なんぢらに告る所の者なり</ab>
+<ab type="verse" n="26" xml:id="John.8.26"><hi rend="superscript">26</hi> 我なんぢらに就て語る可ことと〔審判く｜罪を定む〕可こと多端あり我を遣しし者は眞なり彼に聞し事を我世に告</ab>
+<ab type="verse" n="27" xml:id="John.8.27"><hi rend="superscript">27</hi> 此は父を指て言るなれど彼等は知ざりき</ab>
+<ab type="verse" n="28" xml:id="John.8.28"><hi rend="superscript">28</hi> 是故にイエス彼等に曰けるは爾曹人の子を擧しのち我の彼なるを知また我みづから何事をも行ず惟わが父の教に從ひて此等の事を言るを知べし</ab>
+<ab type="verse" n="29" xml:id="John.8.29"><hi rend="superscript">29</hi> 我を遣しし者我と同にあり父は我を獨遺たまはず蓋われ恆に彼の心に適ふ事を行へばなり</ab>
+<ab type="verse" n="30" xml:id="John.8.30"><hi rend="superscript">30</hi> イエス此事を言るとき多の人かれを信ぜり</ab>
+<ab type="verse" n="31" xml:id="John.8.31"><hi rend="superscript">31</hi> イエス己を信ぜしユダヤ人に曰けるは爾曹もし我道に居ば誠に我弟子なり</ab>
+<ab type="verse" n="32" xml:id="John.8.32"><hi rend="superscript">32</hi> かつ眞理を識ん眞理は爾曹に自由を得さすべし</ab>
+<ab type="verse" n="33" xml:id="John.8.33"><hi rend="superscript">33</hi> 彼等こたへけるは我儕はアブラハムの裔なり未だ人の奴隸と爲しことなし爾曹に自由を得さすべしと爾の言しは如何なる事ぞ</ab>
+<ab type="verse" n="34" xml:id="John.8.34"><hi rend="superscript">34</hi> イエス彼等に曰けるは誠に實に爾曹に告ん凡て惡を行ふ者は惡の奴隸なり</ab>
+<ab type="verse" n="35" xml:id="John.8.35"><hi rend="superscript">35</hi> 奴隸は恆に家に居ず子は恆に居</ab>
+<ab type="verse" n="36" xml:id="John.8.36"><hi rend="superscript">36</hi> 是故に子もし爾曹に自由を賜なば爾曹誠に自由を得べし</ab>
+<ab type="verse" n="37" xml:id="John.8.37"><hi rend="superscript">37</hi> 我なんぢらがアブラハムの裔なるを知ざれども我を殺さんと謀る蓋わが道なんぢらの衷に在ざれば也</ab>
+<ab type="verse" n="38" xml:id="John.8.38"><hi rend="superscript">38</hi> 我は我父と偕に在て見しことを言なんぢらは爾曹の父と偕に在て見しことを行ふ</ab>
+<ab type="verse" n="39" xml:id="John.8.39"><hi rend="superscript">39</hi> 彼等こたへてイエスに曰けるは我儕の父はアブラハムなりイエス曰けるは汝等もしアブラハムの子ならばアブラハムの行をおこなふべし</ab>
+<ab type="verse" n="40" xml:id="John.8.40"><hi rend="superscript">40</hi> 然るに今なんぢらは神に聞し眞理を告る我を殺さんと謀る是アブラハムの行に非ず</ab>
+<ab type="verse" n="41" xml:id="John.8.41"><hi rend="superscript">41</hi> 爾曹は爾曹の父の行をおこなふ也かれら曰けるは我儕は奸淫に由て生れず只一人の父あり即ち神なり</ab>
+<ab type="verse" n="42" xml:id="John.8.42"><hi rend="superscript">42</hi> イエス彼等に曰けるは神もし爾曹の父ならば爾曹われを愛すべし我は神より出て來ればなり夫われは己に由て來るに非ず神われを遣し給へるなり</ab>
+<ab type="verse" n="43" xml:id="John.8.43"><hi rend="superscript">43</hi> 爾曹なんぞ我いふ言を知ざるや蓋わが道を聽ことを得ざれば也</ab>
+<ab type="verse" n="44" xml:id="John.8.44"><hi rend="superscript">44</hi> 爾曹己が父なる惡魔より出また其父の慾を行ふことを欲む彼は始より人を殺す者なり又眞理に居ず蓋かれの衷に眞理なければ也かれが誑を言ときは己より出して言なり蓋かれは誑者または誑者の父なれば也</ab>
+<ab type="verse" n="45" xml:id="John.8.45"><hi rend="superscript">45</hi> われ眞理を言に因て爾曹われを信ぜず</ab>
+<ab type="verse" n="46" xml:id="John.8.46"><hi rend="superscript">46</hi> 爾曹のうち誰か我を罪に定る者ある乎われ爾曹に眞理を語るに何故われを信ぜざる乎</ab>
+<ab type="verse" n="47" xml:id="John.8.47"><hi rend="superscript">47</hi> 神より出し者は神の言を聽なんぢらの聽ざるは神より出ざるに因てなり</ab>
+<ab type="verse" n="48" xml:id="John.8.48"><hi rend="superscript">48</hi> ユダヤ人こたへて曰けるは爾はサマリヤの人にて鬼に憑たる者なりと我儕が言るは宜ならず乎</ab>
+<ab type="verse" n="49" xml:id="John.8.49"><hi rend="superscript">49</hi> イエス答て曰けるは我は鬼に憑たる者に非ず我は吾父を尊び爾曹は我を輕んずる也</ab>
+<ab type="verse" n="50" xml:id="John.8.50"><hi rend="superscript">50</hi> 我は自己の榮を求めず之を求めかつ審判する所の者あり</ab>
+<ab type="verse" n="51" xml:id="John.8.51"><hi rend="superscript">51</hi> われ誠に實に爾曹に告ん人もし我道を守らば窮なく死を見ざるべし</ab>
+<ab type="verse" n="52" xml:id="John.8.52"><hi rend="superscript">52</hi> ユダヤ人かれに曰けるは今われらは爾が鬼に憑たる者なるを知アブラハム既に死また〔預言者｜預言者〕も死り然るに爾いふ人もし我道を守らば窮なく死じと</ab>
+<ab type="verse" n="53" xml:id="John.8.53"><hi rend="superscript">53</hi> 爾は我儕の先祖アブラハムよりも優れる者ならん乎アブラハム既に死〔預言者｜預言者〕たちも死り爾みづから誰と爲か</ab>
+<ab type="verse" n="54" xml:id="John.8.54"><hi rend="superscript">54</hi> イエス答けるは我もし自ら榮をなさば我榮は虚し我を榮る者は我父すなはち爾曹の我神と稱る所の者なり</ab>
+<ab type="verse" n="55" xml:id="John.8.55"><hi rend="superscript">55</hi> 爾曹は彼を識ず我は彼をしる我もし彼を識ずと言ば爾曹の如き誑者と爲ん然ど我は彼を識また其言を守るなり</ab>
+<ab type="verse" n="56" xml:id="John.8.56"><hi rend="superscript">56</hi> 爾曹の先祖アブラハムは我日を見んことを喜び且これを見て樂めり</ab>
+<ab type="verse" n="57" xml:id="John.8.57"><hi rend="superscript">57</hi> ユダヤ人かれに曰けるは爾いまだ五十にも及ざるにアブラハムを見しや</ab>
+<ab type="verse" n="58" xml:id="John.8.58"><hi rend="superscript">58</hi> イエス彼等に曰けるは誠に實に爾曹に告ん我はアブラハムの有ざりし先より在者なり</ab>
+<ab type="verse" n="59" xml:id="John.8.59"><hi rend="superscript">59</hi> 是に於て衆人かれを撃んとて石を取りイエス隱て其中を過り殿を出行り</ab>
+</div>
+<div type="chapter" n="9">
+  <head>第9章</head>
+<ab type="verse" n="1" xml:id="John.9.1"><hi rend="superscript">1</hi> イエス行とき生來なる瞽を見しが</ab>
+<ab type="verse" n="2" xml:id="John.9.2"><hi rend="superscript">2</hi> その弟子かれに問て曰けるはラビ此人の瞽に生しは誰の罪なるや己に由か又二親に由か</ab>
+<ab type="verse" n="3" xml:id="John.9.3"><hi rend="superscript">3</hi> イエス答けるは此人の罪に非ず亦その二親の罪にも非ず彼に由て神の作爲の顯れんため也</ab>
+<ab type="verse" n="4" xml:id="John.9.4"><hi rend="superscript">4</hi> 晝の間は我かならず我を遣しし者の行をなす可なり夜きたらん其とき誰も行をなすこと能はず</ab>
+<ab type="verse" n="5" xml:id="John.9.5"><hi rend="superscript">5</hi> われ世に在時は世の光なり</ab>
+<ab type="verse" n="6" xml:id="John.9.6"><hi rend="superscript">6</hi> 此事を言て地に唾し唾にて土を和その泥を瞽者の目に塗</ab>
+<ab type="verse" n="7" xml:id="John.9.7"><hi rend="superscript">7</hi> 彼に曰けるはシロアムの池に往て洗へ彼すなはち往て洗ひ目見ことを得て歸れりシロアム之を譯ば遣されし者との義なり</ab>
+<ab type="verse" n="8" xml:id="John.9.8"><hi rend="superscript">8</hi> 隣の人々および素より彼の乞食なりしを見し者等いひけるは此は坐て物を乞し人ならず乎</ab>
+<ab type="verse" n="9" xml:id="John.9.9"><hi rend="superscript">9</hi> 或人は彼なりと曰ある人は似たる也といふ彼いひけるは我は彼なり</ab>
+<ab type="verse" n="10" xml:id="John.9.10"><hi rend="superscript">10</hi> 彼等いひけるは爾の目は如何して啓たるや</ab>
+<ab type="verse" n="11" xml:id="John.9.11"><hi rend="superscript">11</hi> 答て曰けるはイエスといふ人土を和わが目に塗て云シロアムの池に往て洗と我ゆきて洗ければ目見ことを得たり</ab>
+<ab type="verse" n="12" xml:id="John.9.12"><hi rend="superscript">12</hi> 人々かれに曰けるは彼は何處に在や答て知ずと曰</ab>
+<ab type="verse" n="13" xml:id="John.9.13"><hi rend="superscript">13</hi> 彼等この瞽なりし者をパリサイの人の所に携詣れり</ab>
+<ab type="verse" n="14" xml:id="John.9.14"><hi rend="superscript">14</hi> 土を和てイエス彼が目を啓し日は安息日なりき</ab>
+<ab type="verse" n="15" xml:id="John.9.15"><hi rend="superscript">15</hi> パリサイの人も彼に問けるは爾の目は如何して啓たるや答けるは彼泥を我目に置われ其を洗て見ことを得たり</ab>
+<ab type="verse" n="16" xml:id="John.9.16"><hi rend="superscript">16</hi> 或パリサイの人いひけるは此人安息日を守ざるが故に神より出しに非ず或人いひけるは罪人いかで斯る奇跡を行ふことを得んや是に於て彼等あらそひ別たり</ab>
+<ab type="verse" n="17" xml:id="John.9.17"><hi rend="superscript">17</hi> また瞽者に曰けるは爾の目を啓しにより爾かれの事を何と言や答けるは彼は〔預言者｜預言者〕なり</ab>
+<ab type="verse" n="18" xml:id="John.9.18"><hi rend="superscript">18</hi> ユダヤ人かれの瞽者なりしに見得やう爲しことを其二親を呼來るまでは信ぜず即ち二親を呼來りて</ab>
+<ab type="verse" n="19" xml:id="John.9.19"><hi rend="superscript">19</hi> 之に問けるは此人は瞽者にて生しと言ところの爾曹の子なるか今いかにして見ことを得たる乎</ab>
+<ab type="verse" n="20" xml:id="John.9.20"><hi rend="superscript">20</hi> 二親かれらに答けるは此は我子なると生來の瞽なることを知</ab>
+<ab type="verse" n="21" xml:id="John.9.21"><hi rend="superscript">21</hi> 然ど今如何して目明に爲しか我儕これを知ず亦その目を啓しは誰なる乎を知ず彼は年長なり彼に問よ彼みづから言べし</ab>
+<ab type="verse" n="22" xml:id="John.9.22"><hi rend="superscript">22</hi> 二親の如此いひしはユダヤ人を懼しに因そはイエスをキリストと言明す者あらば會堂より出すべしとユダヤ人たがひに議定たれば也</ab>
+<ab type="verse" n="23" xml:id="John.9.23"><hi rend="superscript">23</hi> 二親の彼は年長なり彼に問よと言しは此故なり</ab>
+<ab type="verse" n="24" xml:id="John.9.24"><hi rend="superscript">24</hi> 瞽なりし者を復よびて曰けるは榮を神に歸せよ我儕は彼人の罪人なるを知</ab>
+<ab type="verse" n="25" xml:id="John.9.25"><hi rend="superscript">25</hi> かれ答けるは罪人なるや否われ之を知ず我は瞽者なりしが今目明になれる此一事を知</ab>
+<ab type="verse" n="26" xml:id="John.9.26"><hi rend="superscript">26</hi> 彼等また曰けるは彼は爾に何を行しや如何して爾の目を啓しや</ab>
+<ab type="verse" n="27" xml:id="John.9.27"><hi rend="superscript">27</hi> 答けるは我すでに爾曹に言しに爾曹きかず何故ふたたび聞んとするか爾曹も其弟子に爲んと欲ふや</ab>
+<ab type="verse" n="28" xml:id="John.9.28"><hi rend="superscript">28</hi> かれら詬り曰けるは爾は其人の弟子われらはモーセの弟子なり</ab>
+<ab type="verse" n="29" xml:id="John.9.29"><hi rend="superscript">29</hi> 神のモーセに語し言は我儕しれり然ど此人の何處より來れる乎を我儕しらず</ab>
+<ab type="verse" n="30" xml:id="John.9.30"><hi rend="superscript">30</hi> 其人こたへけるは此は奇き事なり彼すでに我目を啓しに其何處より來れるを爾曹しらずと曰</ab>
+<ab type="verse" n="31" xml:id="John.9.31"><hi rend="superscript">31</hi> 神は罪人に聽ず然ど神を敬ひて其旨に遵ふ者には聽たまふと我儕は知</ab>
+<ab type="verse" n="32" xml:id="John.9.32"><hi rend="superscript">32</hi> 世の元始より以來うまれつきなる瞽者の目を啓し人あるを聞ず</ab>
+<ab type="verse" n="33" xml:id="John.9.33"><hi rend="superscript">33</hi> もし此人神より出ずば何事をも行得ざるべし</ab>
+<ab type="verse" n="34" xml:id="John.9.34"><hi rend="superscript">34</hi> 彼等こたへて曰けるは爾は盡く罪孼に生し者なるに反て我儕を教るか遂に彼も逐出せり</ab>
+<ab type="verse" n="35" xml:id="John.9.35"><hi rend="superscript">35</hi> 彼等は逐出ししことを聞イエス尋て之に遇いひけるは爾神の子を信ずる乎</ab>
+<ab type="verse" n="36" xml:id="John.9.36"><hi rend="superscript">36</hi> 答て曰けるは主よ彼として我信ずべき者は誰なるや</ab>
+<ab type="verse" n="37" xml:id="John.9.37"><hi rend="superscript">37</hi> イエス曰けるは爾すでに彼をみる今なんぢと言者はそれなり</ab>
+<ab type="verse" n="38" xml:id="John.9.38"><hi rend="superscript">38</hi> 主よ我信ずと曰て彼を拜せり</ab>
+<ab type="verse" n="39" xml:id="John.9.39"><hi rend="superscript">39</hi> イエス曰けるは我審判せん爲に世に臨る即ち見ざる者をしてみえ見る者を反て瞽と爲しむ</ab>
+<ab type="verse" n="40" xml:id="John.9.40"><hi rend="superscript">40</hi> イエスと偕に居しパリサイの人この言を聞て彼に曰けるは我儕も瞽なる乎</ab>
+<ab type="verse" n="41" xml:id="John.9.41"><hi rend="superscript">41</hi> イエス彼等に曰けるは爾曹もし瞽ならば罪なかるべし然ど今われら見と言しに因て爾曹の罪は存れり</ab>
+</div>
+<div type="chapter" n="10">
+  <head>第10章</head>
+<ab type="verse" n="1" xml:id="John.10.1"><hi rend="superscript">1</hi> 誠に實に爾曹に告ん羊牢に入に門よりせずして他より踰る者は竊賊なり強盜なり</ab>
+<ab type="verse" n="2" xml:id="John.10.2"><hi rend="superscript">2</hi> 門より入者は其羊の牧者なり</ab>
+<ab type="verse" n="3" xml:id="John.10.3"><hi rend="superscript">3</hi> 門守は彼の爲に啓き羊はその聲を聽かれ己の羊の名を呼て之を引出す</ab>
+<ab type="verse" n="4" xml:id="John.10.4"><hi rend="superscript">4</hi> 彼その羊を引出すとき先に行なり羊かれの聲を識て之に從ふ</ab>
+<ab type="verse" n="5" xml:id="John.10.5"><hi rend="superscript">5</hi> 羊は別人に從はず反て避そは別人の聲を識ざれば也</ab>
+<ab type="verse" n="6" xml:id="John.10.6"><hi rend="superscript">6</hi> イエス彼等に此譬を言ど彼等はその語れる所いかなる意かを知ざりき</ab>
+<ab type="verse" n="7" xml:id="John.10.7"><hi rend="superscript">7</hi> 是故にイエス復かれらに曰けるは誠に實に爾曹に告ん我は即ち羊の門なり</ab>
+<ab type="verse" n="8" xml:id="John.10.8"><hi rend="superscript">8</hi> 凡て我より先に來し者は竊賊なり強盜なり羊その聲を聽ざりき</ab>
+<ab type="verse" n="9" xml:id="John.10.9"><hi rend="superscript">9</hi> 我は門なり若人われより入ば救れ且出入をなして草を得べし</ab>
+<ab type="verse" n="10" xml:id="John.10.10"><hi rend="superscript">10</hi> 竊賊の來るは盜んとし殺さんとし滅さんとするの他なし我きたるは羊をして生を得かつ豐ならしめん爲なり</ab>
+<ab type="verse" n="11" xml:id="John.10.11"><hi rend="superscript">11</hi> 我は善牧者なり善牧者は羊の爲に命を捐</ab>
+<ab type="verse" n="12" xml:id="John.10.12"><hi rend="superscript">12</hi> 牧者にあらず己が羊を有ず只やとはれて羊を守る者は狼の來るを見れば羊を棄てにぐ狼羊を奪て之を散す</ab>
+<ab type="verse" n="13" xml:id="John.10.13"><hi rend="superscript">13</hi> 雇工の逃るは傭れし者なれば其羊を顧ざるに因てなり</ab>
+<ab type="verse" n="14" xml:id="John.10.14"><hi rend="superscript">14</hi> 我は善牧者にて己の羊を識又己の羊に識る</ab>
+<ab type="verse" n="15" xml:id="John.10.15"><hi rend="superscript">15</hi> 父われを識ごとく我も父も識われ羊の爲に命を捐ん</ab>
+<ab type="verse" n="16" xml:id="John.10.16"><hi rend="superscript">16</hi> 我は此牢にあらざる別の羊を有り彼等をも引來らん彼等わが聲を聽ん遂に一の群一の牧者となるべし</ab>
+<ab type="verse" n="17" xml:id="John.10.17"><hi rend="superscript">17</hi> わが父われを愛す蓋われ再び命を得んが爲に命を捐るが故なり</ab>
+<ab type="verse" n="18" xml:id="John.10.18"><hi rend="superscript">18</hi> 我より之を奪ふ者なし我みづから之を捐るなり我これを捐るの權能あり亦よく之を得の權能あり〔我｜吾〕父より我この命令を受たり</ab>
+<ab type="verse" n="19" xml:id="John.10.19"><hi rend="superscript">19</hi> 偖この言に因て復ユダヤ人あらそひ別たり</ab>
+<ab type="verse" n="20" xml:id="John.10.20"><hi rend="superscript">20</hi> 其中なる多の人いひけるは鬼に憑て狂ふ者なるに何ぞ彼に聽や</ab>
+<ab type="verse" n="21" xml:id="John.10.21"><hi rend="superscript">21</hi> 又或人いひけるは是鬼に憑れし者の言に非ず鬼は瞽者の目を啓ることを能せん乎／</ab>
+<ab type="verse" n="22" xml:id="John.10.22"><hi rend="superscript">22</hi> 冬のころ修殿節の時</ab>
+<ab type="verse" n="23" xml:id="John.10.23"><hi rend="superscript">23</hi> イエス殿のソロモンの廊を行きけるに</ab>
+<ab type="verse" n="24" xml:id="John.10.24"><hi rend="superscript">24</hi> ユダヤ人かれを環圍みて曰けるは我儕を幾時まで疑はするや爾もしキリストならば明かに我儕に告よ</ab>
+<ab type="verse" n="25" xml:id="John.10.25"><hi rend="superscript">25</hi> イエス答けるは我なんぢらに告しかども爾曹信ぜず父の名に託て我が行ふ事われに就て證するなり</ab>
+<ab type="verse" n="26" xml:id="John.10.26"><hi rend="superscript">26</hi> 然ど爾曹信ぜず此は爾曹に言し如く我羊に非ざれば也</ab>
+<ab type="verse" n="27" xml:id="John.10.27"><hi rend="superscript">27</hi> 我羊は我聲を聽われは彼等を識かれら我に從ひ</ab>
+<ab type="verse" n="28" xml:id="John.10.28"><hi rend="superscript">28</hi> われ彼等に永生を賜ふ彼等いつまでも亡びず亦これを我手より奪ふ者なし</ab>
+<ab type="verse" n="29" xml:id="John.10.29"><hi rend="superscript">29</hi> 我に彼等を賜し我父は萬有よりも大なり又わが父の手より之を奪うる者なし</ab>
+<ab type="verse" n="30" xml:id="John.10.30"><hi rend="superscript">30</hi> 我と父とは一なり</ab>
+<ab type="verse" n="31" xml:id="John.10.31"><hi rend="superscript">31</hi> 是に於てユダヤ人石をとりて復かれを撃んとせり</ab>
+<ab type="verse" n="32" xml:id="John.10.32"><hi rend="superscript">32</hi> イエス彼等に答けるは〔我｜吾〕父より受て我おほくの善事を爾曹に示しに其うち何の事によりて我を石にて撃んとする乎</ab>
+<ab type="verse" n="33" xml:id="John.10.33"><hi rend="superscript">33</hi> ユダヤ人こたへて曰けるは石にて撃んとするは善事の爲に非ず爾ただ褻涜ことをいひ且なんぢ人なるに己を神となすに因てなり</ab>
+<ab type="verse" n="34" xml:id="John.10.34"><hi rend="superscript">34</hi> イエス答けるは爾曹の律法に我いふ爾曹は神なりと録されしに非ずや</ab>
+<ab type="verse" n="35" xml:id="John.10.35"><hi rend="superscript">35</hi> 聖書は毀る可らず若神の命を奉し者を神と稱んには</ab>
+<ab type="verse" n="36" xml:id="John.10.36"><hi rend="superscript">36</hi> 父の聖別ちて世に遣しし者われは神の子なりと稱ばとて何ぞ之を褻涜ことをいふと曰べけん乎</ab>
+<ab type="verse" n="37" xml:id="John.10.37"><hi rend="superscript">37</hi> もし我わが父の事を行ずば我を信ずること勿れ</ab>
+<ab type="verse" n="38" xml:id="John.10.38"><hi rend="superscript">38</hi> 若これを行ば我を信ぜずとも其事を信ぜよ蓋父の我にあり我の父に在ことを爾曹しりて信ぜんが爲なり</ab>
+<ab type="verse" n="39" xml:id="John.10.39"><hi rend="superscript">39</hi> 彼等また執んとしたりしがイエスその手を脱て去り</ab>
+<ab type="verse" n="40" xml:id="John.10.40"><hi rend="superscript">40</hi> 斯て復ヨルダンの外なるヨハネのバプテスマを施しし所に往て彼處に居けるに</ab>
+<ab type="verse" n="41" xml:id="John.10.41"><hi rend="superscript">41</hi> 多の人かれに至り曰けるはヨハネは休徴を行ず然ども此人につきてヨハネのいひし言はみな眞なり</ab>
+<ab type="verse" n="42" xml:id="John.10.42"><hi rend="superscript">42</hi> 是に於て許多の人かしこにて彼を信ぜり</ab>
+</div>
+<div type="chapter" n="11">
+  <head>第11章</head>
+<ab type="verse" n="1" xml:id="John.11.1"><hi rend="superscript">1</hi> 茲に病者ありラザロと云てベタニヤの人なりベタニヤはマリアと其姉マルタの住る村なり</ab>
+<ab type="verse" n="2" xml:id="John.11.2"><hi rend="superscript">2</hi> マリアは曩に主に香膏をぬり己の頭の髮をもて主の足を拭ひし人にて此病るラザロは彼が兄弟なり</ab>
+<ab type="verse" n="3" xml:id="John.11.3"><hi rend="superscript">3</hi> 是故にその姉妹イエスの所に主の愛する者病りと言遣せり</ab>
+<ab type="verse" n="4" xml:id="John.11.4"><hi rend="superscript">4</hi> イエス之を聞て曰けるは此は死る病に非ず神の榮の爲なり神の子をして之に因て榮を得しめんが爲なり</ab>
+<ab type="verse" n="5" xml:id="John.11.5"><hi rend="superscript">5</hi> 夫マルタと其妹およびラザロはイエスの愛する所の者なり</ab>
+<ab type="verse" n="6" xml:id="John.11.6"><hi rend="superscript">6</hi> 是故にイエスその病るを聞て此處に二日とどまり</ab>
+<ab type="verse" n="7" xml:id="John.11.7"><hi rend="superscript">7</hi> 其のち弟子に曰けるは我儕またユダヤに往べし</ab>
+<ab type="verse" n="8" xml:id="John.11.8"><hi rend="superscript">8</hi> 弟子いひけるはラビ、ユダヤ人は近來も石をもて爾を撃んとせしに復かしこに往たまふ乎</ab>
+<ab type="verse" n="9" xml:id="John.11.9"><hi rend="superscript">9</hi> イエス答けるは一日の中に十二時あるに非ずや人もし日間あるかば躓くことなし蓋この世の光を見に因てなり</ab>
+<ab type="verse" n="10" xml:id="John.11.10"><hi rend="superscript">10</hi> また人もし夜あるかば躓くべし蓋光その人に無が故なり</ab>
+<ab type="verse" n="11" xml:id="John.11.11"><hi rend="superscript">11</hi> イエス如此いひて後弟子に曰けるは我儕の友ラザロ寢たり我かれを醒さん爲に往べし</ab>
+<ab type="verse" n="12" xml:id="John.11.12"><hi rend="superscript">12</hi> 弟子いひけるは主よ彼もし寢しならば愈ん</ab>
+<ab type="verse" n="13" xml:id="John.11.13"><hi rend="superscript">13</hi> イエスは彼の死しを言るなれど弟子等は寢て臥ることを言るならんと意り</ab>
+<ab type="verse" n="14" xml:id="John.11.14"><hi rend="superscript">14</hi> 是故にイエス明かに彼等に告て曰けるはラザロは死り</ab>
+<ab type="verse" n="15" xml:id="John.11.15"><hi rend="superscript">15</hi> 爾曹をして信ぜしむる爲に我かしこに在ざりしを喜ぶ然どいま彼處に往べし</ab>
+<ab type="verse" n="16" xml:id="John.11.16"><hi rend="superscript">16</hi> デドモと稱るトマス他に弟子等に曰けるは我儕も亦ゆきて彼と偕に死べし</ab>
+<ab type="verse" n="17" xml:id="John.11.17"><hi rend="superscript">17</hi> イエス至てラザロが既に墓に葬れて四日なるを知り</ab>
+<ab type="verse" n="18" xml:id="John.11.18"><hi rend="superscript">18</hi> ベタニヤはエルサレムに近し其距ること約そ廿七丁なり</ab>
+<ab type="verse" n="19" xml:id="John.11.19"><hi rend="superscript">19</hi> 多のユダヤ人マルタとマリアを其兄弟の事に因て慰めんとて既に彼等の所に來りをれり</ab>
+<ab type="verse" n="20" xml:id="John.11.20"><hi rend="superscript">20</hi> マルタはイエス來給へりと聞て之を出迎へマリアはなほ室に坐せり</ab>
+<ab type="verse" n="21" xml:id="John.11.21"><hi rend="superscript">21</hi> マルタ、イエスに曰けるは主よ此に在せしならば我兄弟は死ざりしものを</ab>
+<ab type="verse" n="22" xml:id="John.11.22"><hi rend="superscript">22</hi> 然ながら假令今にても爾が神に求る所のものは神なんぢに賜ふと知</ab>
+<ab type="verse" n="23" xml:id="John.11.23"><hi rend="superscript">23</hi> イエス曰けるは爾の兄弟は甦るべし</ab>
+<ab type="verse" n="24" xml:id="John.11.24"><hi rend="superscript">24</hi> マルタ、イエスに曰けるは彼が末日の甦るべき時に甦らん事を知なり</ab>
+<ab type="verse" n="25" xml:id="John.11.25"><hi rend="superscript">25</hi> イエス彼に曰けるは我は復生なり生命なり我を信ずる者は死るとも生べし</ab>
+<ab type="verse" n="26" xml:id="John.11.26"><hi rend="superscript">26</hi> 凡て生て我を信ずる者は永遠も死ることなし爾これを信ずるや</ab>
+<ab type="verse" n="27" xml:id="John.11.27"><hi rend="superscript">27</hi> 彼イエスに曰けるは主よ然り我なんぢは世に臨るべきキリスト神の子なりと信ず</ab>
+<ab type="verse" n="28" xml:id="John.11.28"><hi rend="superscript">28</hi> 如此いひ竟て潛に其妹マリアをよび師きたりて爾を呼〔給｜たま〕へりと曰</ab>
+<ab type="verse" n="29" xml:id="John.11.29"><hi rend="superscript">29</hi> マリア之をきき急ぎ起てイエスの所に往り</ab>
+<ab type="verse" n="30" xml:id="John.11.30"><hi rend="superscript">30</hi> イエス未だ村に入ず仍マルタの迎し所にをれり</ab>
+<ab type="verse" n="31" xml:id="John.11.31"><hi rend="superscript">31</hi> マリアを慰めて偕に室に在しユダヤ人マリアが急ぎ起出るを見て彼は墓に往て哭ならんと曰つつ彼に隨へり</ab>
+<ab type="verse" n="32" xml:id="John.11.32"><hi rend="superscript">32</hi> マリア、イエスの所に來り彼を見て其足下に伏いひけるは主よ若ここに在せしならば我兄弟は死ざりしものを</ab>
+<ab type="verse" n="33" xml:id="John.11.33"><hi rend="superscript">33</hi> イエス、マリアの哭と彼と偕に來しユダヤ人の泣を見て心を慟しめ身ふるひて</ab>
+<ab type="verse" n="34" xml:id="John.11.34"><hi rend="superscript">34</hi> 曰けるは爾曹何處に彼を置しや彼等いひけるは主よ來て觀たまへ</ab>
+<ab type="verse" n="35" xml:id="John.11.35"><hi rend="superscript">35</hi> イエス涕を流たまへり</ab>
+<ab type="verse" n="36" xml:id="John.11.36"><hi rend="superscript">36</hi> 是に於てユダヤ人いひけるは見よ如何ばかり彼を愛する者ぞ</ab>
+<ab type="verse" n="37" xml:id="John.11.37"><hi rend="superscript">37</hi> その中なる人曰けるは瞽者の目を啓たる此人にして彼を死ざらしむること能ざりし乎</ab>
+<ab type="verse" n="38" xml:id="John.11.38"><hi rend="superscript">38</hi> イエスまた心を慟しめて墓に至る墓は洞にて其口の所に石を置り</ab>
+<ab type="verse" n="39" xml:id="John.11.39"><hi rend="superscript">39</hi> イエス曰けるは石を去よ死し者の兄弟マルタ曰けるは主よ彼ははや臭し死てより已に四日を經たり</ab>
+<ab type="verse" n="40" xml:id="John.11.40"><hi rend="superscript">40</hi> イエス彼に曰けるは爾もし信ぜば神の榮を見べしと我なんぢに言しに非ずや</ab>
+<ab type="verse" n="41" xml:id="John.11.41"><hi rend="superscript">41</hi> 遂に其石を死し者を置たる所より移去たりイエス天を仰ぎて曰けるは父よ已に我に聽り我これを爾に謝す</ab>
+<ab type="verse" n="42" xml:id="John.11.42"><hi rend="superscript">42</hi> 我なんぢが恆に我に聽ことを知しかるに我かく言は傍に立る人をして爾の我を遺ししことを信ぜしめんとて也</ab>
+<ab type="verse" n="43" xml:id="John.11.43"><hi rend="superscript">43</hi> 如此いひて大聲に呼いひけるはラザロよ出よ</ab>
+<ab type="verse" n="44" xml:id="John.11.44"><hi rend="superscript">44</hi> 死者布にて手足を縛れ面は手布にて裹れて出イエス彼等に曰けるは彼を釋て行しめよ</ab>
+<ab type="verse" n="45" xml:id="John.11.45"><hi rend="superscript">45</hi> マリアと偕に來しユダヤ人の行し事を見て多く彼を信ぜり</ab>
+<ab type="verse" n="46" xml:id="John.11.46"><hi rend="superscript">46</hi> 然ども其中にパリサイの人に往てイエスの行し事を告し者あり</ab>
+<ab type="verse" n="47" xml:id="John.11.47"><hi rend="superscript">47</hi> 是に於て祭司の長等とパリサイの人と議員を召集めて曰けるは我儕如何すべき乎この人多の奇跡を行なり</ab>
+<ab type="verse" n="48" xml:id="John.11.48"><hi rend="superscript">48</hi> もし彼を此ままに棄置ば人みな彼を信ぜん然ばロマの人きたりて我儕の地をも民をも奪べし</ab>
+<ab type="verse" n="49" xml:id="John.11.49"><hi rend="superscript">49</hi> 其中の一人にて此歳の祭司の長なるカヤパと云る者彼等に曰けるは爾曹何をも知ず</ab>
+<ab type="verse" n="50" xml:id="John.11.50"><hi rend="superscript">50</hi> 又民の爲に一人死て擧國ほろびさるは我儕の益たる事をも思ざる也</ab>
+<ab type="verse" n="51" xml:id="John.11.51"><hi rend="superscript">51</hi> 此言は己より出しに非ず此歳の祭司の長なるによりイエスの斯民の爲に死ることを預言せるなり</ab>
+<ab type="verse" n="52" xml:id="John.11.52"><hi rend="superscript">52</hi> 特に斯民の爲のみならず散たる神の子民等をも一に集んが爲なり</ab>
+<ab type="verse" n="53" xml:id="John.11.53"><hi rend="superscript">53</hi> 偖この日よりして彼等イエスを殺さんと共に議る</ab>
+<ab type="verse" n="54" xml:id="John.11.54"><hi rend="superscript">54</hi> 是故にイエス此より顯にユダヤ人の中を行かず其處を去て野に近き所なるエフライムといふ邑に往て弟子と偕に留れり</ab>
+<ab type="verse" n="55" xml:id="John.11.55"><hi rend="superscript">55</hi> ユダヤ人の逾越の節ちかづきければ人々己を潔んが爲に逾越の節の前に郷間よりエルサレムに上り</ab>
+<ab type="verse" n="56" xml:id="John.11.56"><hi rend="superscript">56</hi> イエスを尋ね殿に立て相互に曰けるは如何に意や彼は節筵に來ざる乎</ab>
+<ab type="verse" n="57" xml:id="John.11.57"><hi rend="superscript">57</hi> 祭司の長等とパリサイの人と已に令を出して若イエスの所在をしる人あらば告べしと云こは彼を執んとする也</ab>
+</div>
+<div type="chapter" n="12">
+  <head>第12章</head>
+<ab type="verse" n="1" xml:id="John.12.1"><hi rend="superscript">1</hi> 逾越の節の六日前イエス、ベタニヤに至る此處は即ち死て甦りしラザロの在所なり</ab>
+<ab type="verse" n="2" xml:id="John.12.2"><hi rend="superscript">2</hi> 是に於て或人々この處にてイエスに節筵を設くマルタ給仕を爲りラザロもイエスと偕に坐せる者のうちの一人なり</ab>
+<ab type="verse" n="3" xml:id="John.12.3"><hi rend="superscript">3</hi> マリアは眞正のナルダなる價たかき香膏一斤を携來てイエスの足に塗また己が頭髮にて其足を拭へり膏のにほひ徧く室内に滿り</ab>
+<ab type="verse" n="4" xml:id="John.12.4"><hi rend="superscript">4</hi> その弟子の一人なるイスカリオテのユダ即ちイエスを賣さんとする者〔言｜いひ〕けるは</ab>
+<ab type="verse" n="5" xml:id="John.12.5"><hi rend="superscript">5</hi> 此香膏を何ぞ銀三百に售て貧者に施さざる乎</ab>
+<ab type="verse" n="6" xml:id="John.12.6"><hi rend="superscript">6</hi> 彼が如此いへるは貧者を願に非ず竊者にて且金嚢を帶その中に入たる物を奪ふ者なれば也</ab>
+<ab type="verse" n="7" xml:id="John.12.7"><hi rend="superscript">7</hi> イエス曰けるは彼に與る勿わが葬の日の爲に之を貯へたり</ab>
+<ab type="verse" n="8" xml:id="John.12.8"><hi rend="superscript">8</hi> 貧者は常に爾曹と偕に在ど我は常に爾曹と偕に在ず</ab>
+<ab type="verse" n="9" xml:id="John.12.9"><hi rend="superscript">9</hi> 多のユダヤ人イエスが此に在を知て來る特にイエスの爲のみに非ず亦その死より甦らしし所のラザロをも見んと欲るなり</ab>
+<ab type="verse" n="10" xml:id="John.12.10"><hi rend="superscript">10</hi> 祭司の長等ラザロをも殺さんと謀る</ab>
+<ab type="verse" n="11" xml:id="John.12.11"><hi rend="superscript">11</hi> 蓋ラザロの故に因て多のユダヤ人ゆきてイエスを信ずるがゆゑ也／</ab>
+<ab type="verse" n="12" xml:id="John.12.12"><hi rend="superscript">12</hi> 明日おほくの人々節筵に來りイエスのエルサレムに來らんとするを聞</ab>
+<ab type="verse" n="13" xml:id="John.12.13"><hi rend="superscript">13</hi> 椶櫚の葉を取ゆきて彼を迎ホザナよ主の名に託て來るイスラエルの王は福なりと呼れり</ab>
+<ab type="verse" n="14" xml:id="John.12.14"><hi rend="superscript">14</hi> イエス驢馬の子を得て之に乘</ab>
+<ab type="verse" n="15" xml:id="John.12.15"><hi rend="superscript">15</hi> 録してシオンの女よ懼るる勿れ視よ爾の王は驢馬の子に乘て來るとあるが如し</ab>
+<ab type="verse" n="16" xml:id="John.12.16"><hi rend="superscript">16</hi> 弟子たち初は此事を曉ざりしがイエス榮を受し後に彼等此事の彼について録され且その事を人々彼に行ひたりしを憶起せり</ab>
+<ab type="verse" n="17" xml:id="John.12.17"><hi rend="superscript">17</hi> イエスのラザロを墓より呼出して甦らしし時かれと偕に居し者ども證を爲り</ab>
+<ab type="verse" n="18" xml:id="John.12.18"><hi rend="superscript">18</hi> この休徴を行しことを聞しに因て人々彼を迎たるなり</ab>
+<ab type="verse" n="19" xml:id="John.12.19"><hi rend="superscript">19</hi> 是に於てパリサイの人たがひに曰けるは爾曹が謀る所の益なきを知ずや見よ世は皆かれに從へり／</ab>
+<ab type="verse" n="20" xml:id="John.12.20"><hi rend="superscript">20</hi> 禮拜のため節筵に上れる者の中にギリシヤの人あり</ab>
+<ab type="verse" n="21" xml:id="John.12.21"><hi rend="superscript">21</hi> 彼等ガリラヤの〔ベテサイダ｜ベツサイダ〕の人なるピリポに來り求て曰けるは君よ我儕イエスに見えんことを欲ふ</ab>
+<ab type="verse" n="22" xml:id="John.12.22"><hi rend="superscript">22</hi> ピリポ來てアンデレに告アンデレ亦ピリポと偕にイエスに告</ab>
+<ab type="verse" n="23" xml:id="John.12.23"><hi rend="superscript">23</hi> イエス彼等に答て曰けるは人の子榮を受べき時いたれり</ab>
+<ab type="verse" n="24" xml:id="John.12.24"><hi rend="superscript">24</hi> 誠に實に爾曹に告ん一粒の麥もし地に落て死ずば唯一にて存んもし死ば多の實を結ぶべし</ab>
+<ab type="verse" n="25" xml:id="John.12.25"><hi rend="superscript">25</hi> その生命を惜む者は之を喪ひ其生命を惜ざる者は之を存て永生に至るべし</ab>
+<ab type="verse" n="26" xml:id="John.12.26"><hi rend="superscript">26</hi> 人もし我に事んとせば我に從ふべし我に事る者は我をる所に在ん人もし我に事れば〔我｜吾〕父は之を貴ぶべし</ab>
+<ab type="verse" n="27" xml:id="John.12.27"><hi rend="superscript">27</hi> 今わが心憂悼めり何を言んや父よ此時より我を救たまへと言んか否これが爲に我この時に至れるなり</ab>
+<ab type="verse" n="28" xml:id="John.12.28"><hi rend="superscript">28</hi> 願くは父よ爾の名の榮を顯せ此とき天より聲ありて云われ其榮を既に顯す再これを顯すべし</ab>
+<ab type="verse" n="29" xml:id="John.12.29"><hi rend="superscript">29</hi> 傍に立る人々これを聞て雷なれりと曰ある人は天の使者かれに語れる也と曰り</ab>
+<ab type="verse" n="30" xml:id="John.12.30"><hi rend="superscript">30</hi> イエス答て曰けるは此聲は我ために非ず爾曹の爲なり</ab>
+<ab type="verse" n="31" xml:id="John.12.31"><hi rend="superscript">31</hi> 斯世はいま〔審判せらる｜罪に定らる〕斯世の主はいま逐出さるべし</ab>
+<ab type="verse" n="32" xml:id="John.12.32"><hi rend="superscript">32</hi> 我もし地より擧れなば萬民を引て我に就せん</ab>
+<ab type="verse" n="33" xml:id="John.12.33"><hi rend="superscript">33</hi> 如此イエスの言るは其如何なる状にて死んとするを示せる也</ab>
+<ab type="verse" n="34" xml:id="John.12.34"><hi rend="superscript">34</hi> 人々かれに答て曰けるは我儕律法にてキリストは窮なく存者なりと聞しに爾人の子かならず擧れんと言は何ぞや此人の子とは誰なる乎</ab>
+<ab type="verse" n="35" xml:id="John.12.35"><hi rend="superscript">35</hi> イエス彼等に曰けるはなほ片時のあひだ光なんぢらと偕にあり光ある間に行て暗に追及れざるやう爲よ暗に行く者は其行べき方を知ず</ab>
+<ab type="verse" n="34" xml:id="John.12.34"><hi rend="superscript">34</hi> なんぢら光の子と爲べきために光のある間に光を信ぜよイエス此を言畢り彼等を避て隱たり／</ab>
+<ab type="verse" n="37" xml:id="John.12.37"><hi rend="superscript">37</hi> イエス彼等の前に如此おほくの休徴を行たれども尚かれを信ぜざりき</ab>
+<ab type="verse" n="38" xml:id="John.12.38"><hi rend="superscript">38</hi> 此は〔預言者｜預言者〕イザヤがいひし言に我儕の告し言を信ぜし者は誰ぞや主の手は誰に顯れし乎と有に應へり</ab>
+<ab type="verse" n="39" xml:id="John.12.39"><hi rend="superscript">39</hi> [39-40]イザヤ復いふ彼等目にて見心にて悟り改めて醫るることを得ざらんが爲に彼その目を瞽し其心を頑梗せり此故に彼等信ずること能ず</ab>
+<ab type="verse" n="40" xml:id="John.12.40"><hi rend="superscript">40</hi> *[39-40]イザヤ復いふ彼等目にて見心にて悟り改めて醫るることを得ざらんが爲に彼その目を瞽し其心を頑梗せり此故に彼等信ずること能ず</ab>
+<ab type="verse" n="41" xml:id="John.12.41"><hi rend="superscript">41</hi> イザヤは彼の榮を見しにより彼に就て如此は語れるなり</ab>
+<ab type="verse" n="42" xml:id="John.12.42"><hi rend="superscript">42</hi> 然ど有司等の中に多く彼を信ぜし者も有しがパリサイの人を畏て明に信ずると言ざりき其會堂より黜られんことを恐たるに因</ab>
+<ab type="verse" n="43" xml:id="John.12.43"><hi rend="superscript">43</hi> これ彼等は神の榮より人の榮を喜るなり／</ab>
+<ab type="verse" n="44" xml:id="John.12.44"><hi rend="superscript">44</hi> イエス呼り曰けるは我を信ずる者は我を信ずるに非ず我を遣しし者を信ずるなり</ab>
+<ab type="verse" n="45" xml:id="John.12.45"><hi rend="superscript">45</hi> 又われを見者は我を遣しし者を見なり</ab>
+<ab type="verse" n="46" xml:id="John.12.46"><hi rend="superscript">46</hi> 我は光にして世に臨れり凡て我を信ずる者をして暗に居ざらしめん爲なり</ab>
+<ab type="verse" n="47" xml:id="John.12.47"><hi rend="superscript">47</hi> 人もし我が言を聞て守らざるとも〔之を審判かず｜其罪を定めず〕我來しは〔世を審判かん｜世の罪を定めん〕ために非ず世を救んため也</ab>
+<ab type="verse" n="48" xml:id="John.12.48"><hi rend="superscript">48</hi> 我を棄わが言を納ざる者〔を審判｜の罪を定る〕者あり即ち我いひし言をはりの日〔これを審判す｜これが罪を定む〕べし</ab>
+<ab type="verse" n="49" xml:id="John.12.49"><hi rend="superscript">49</hi> 蓋われ己より言に非ず我を遣しし父わが言べきこと我かたる可ことを命じ給へる也</ab>
+<ab type="verse" n="50" xml:id="John.12.50"><hi rend="superscript">50</hi> その命じ給ふ所は即ち永生なるを我しる是故に我いふ所は父の告給ふままに言るなり</ab>
+</div>
+<div type="chapter" n="13">
+  <head>第13章</head>
+<ab type="verse" n="1" xml:id="John.13.1"><hi rend="superscript">1</hi> 踰越の節の前にイエス此世を去て父に歸るべき時いたれるをしり世に在し己の民を既に愛し終に至るまで之を愛せり</ab>
+<ab type="verse" n="2" xml:id="John.13.2"><hi rend="superscript">2</hi> 時に彼等晩飯の席につく惡魔はかねてイエスを賣んとする事をシモンの子イスカリヲテのユダといふ者の心に發さしめたり</ab>
+<ab type="verse" n="3" xml:id="John.13.3"><hi rend="superscript">3</hi> イエス己の手に父の萬物を賜しことと神より來り神に歸ることとを知</ab>
+<ab type="verse" n="4" xml:id="John.13.4"><hi rend="superscript">4</hi> 晩飯の席を起て上衣をぬぎ手巾を取て腰に束</ab>
+<ab type="verse" n="5" xml:id="John.13.5"><hi rend="superscript">5</hi> 而して盤に水をいれ弟子の足を濯その束たる手巾にて拭はじめ</ab>
+<ab type="verse" n="6" xml:id="John.13.6"><hi rend="superscript">6</hi> 遂にシモン・ペテロに及ぶペテロ彼に曰けるは主よ爾わが足を濯ふか</ab>
+<ab type="verse" n="7" xml:id="John.13.7"><hi rend="superscript">7</hi> イエス答て曰けるは我爲ことを爾いま知ず後これを知べし</ab>
+<ab type="verse" n="8" xml:id="John.13.8"><hi rend="superscript">8</hi> ペテロ彼に曰けるは爾斷て我足を濯べからずイエス答けるは若われ爾を濯ずば爾は我と干渉なし</ab>
+<ab type="verse" n="9" xml:id="John.13.9"><hi rend="superscript">9</hi> シモン・ペテロ彼に曰けるは主よ止に我足のみならず手と首をも濯たまへ</ab>
+<ab type="verse" n="10" xml:id="John.13.10"><hi rend="superscript">10</hi> イエス曰けるは濯たる者は足のほか濯ふに及ず然して全く潔し爾曹は潔し然ども盡くは潔者に非ず</ab>
+<ab type="verse" n="11" xml:id="John.13.11"><hi rend="superscript">11</hi> 此はイエス己を賣んとする者の誰なるを知ゆゑに盡くは潔者に非ずと曰るなり</ab>
+<ab type="verse" n="12" xml:id="John.13.12"><hi rend="superscript">12</hi> 彼等の足を濯し後その上衣を取また坐て彼等に曰けるは我なんぢらに行し事を知か</ab>
+<ab type="verse" n="13" xml:id="John.13.13"><hi rend="superscript">13</hi> 爾曹われを師と呼また主と呼なんぢらの言ところは宜われは誠に是なり</ab>
+<ab type="verse" n="14" xml:id="John.13.14"><hi rend="superscript">14</hi> 我は爾曹の師また主なるに尚なんぢらの足を濯ふ爾曹も亦たがひに足を濯ふべし</ab>
+<ab type="verse" n="15" xml:id="John.13.15"><hi rend="superscript">15</hi> 我なんぢらに例を示せり此は我なんぢらに行し如く爾曹にも行しめんが爲なり</ab>
+<ab type="verse" n="16" xml:id="John.13.16"><hi rend="superscript">16</hi> われ誠に實に爾曹に告ん僕は其主より大ならず又使者は之を遣す者より大ならず</ab>
+<ab type="verse" n="17" xml:id="John.13.17"><hi rend="superscript">17</hi> 爾曹もし之を知て此の如く行ば福なり</ab>
+<ab type="verse" n="18" xml:id="John.13.18"><hi rend="superscript">18</hi> 我いひし所は爾曹を凡て指るに非ず我は我選し者をしる然れども聖書に我と偕に食する者われに背て踵を擧しと録されしに應せん爲なり</ab>
+<ab type="verse" n="19" xml:id="John.13.19"><hi rend="superscript">19</hi> その事の至らん時なんぢら我を信じてキリストとせん爲に其事の至ざる今より之を爾曹に告</ab>
+<ab type="verse" n="20" xml:id="John.13.20"><hi rend="superscript">20</hi> 誠に實に爾曹に告ん我遣す者を接るは我を接るなり我を接るは我を遣しし者を接るなり</ab>
+<ab type="verse" n="21" xml:id="John.13.21"><hi rend="superscript">21</hi> イエス此事を言て心に憂へ證して曰けるは誠に實に爾曹に告ん一人なんぢらの中に我を賣者あり</ab>
+<ab type="verse" n="22" xml:id="John.13.22"><hi rend="superscript">22</hi> 弟子たち互に面を觀あはせ誰を指て言るなる乎を疑ふ</ab>
+<ab type="verse" n="23" xml:id="John.13.23"><hi rend="superscript">23</hi> イエスの愛する一人の弟子イエスの懷に倚てありしが</ab>
+<ab type="verse" n="24" xml:id="John.13.24"><hi rend="superscript">24</hi> シモン・ペテロ此は誰を指て言るなる乎を問しめんと首をもて示せり</ab>
+<ab type="verse" n="25" xml:id="John.13.25"><hi rend="superscript">25</hi> イエスの懷に倚て在し者イエスに曰けるは主よ誰なるか</ab>
+<ab type="verse" n="26" xml:id="John.13.26"><hi rend="superscript">26</hi> イエス答けるは我一撮の食物に物を濡て予る人は其なりとて遂に一撮の食物に物を濡てシモンの子イスカリヲテのユダに予ふ</ab>
+<ab type="verse" n="27" xml:id="John.13.27"><hi rend="superscript">27</hi> 彼が一撮の物を受し其時サタン彼に入り是に於てイエス彼に曰けるは爾が爲んとする事は速かに爲せ</ab>
+<ab type="verse" n="28" xml:id="John.13.28"><hi rend="superscript">28</hi> 彼に何故に如此いひしかを同に席に在者どもの中しる者あらざりき</ab>
+<ab type="verse" n="29" xml:id="John.13.29"><hi rend="superscript">29</hi> 或人ユダは金嚢を職れる故イエス彼をして節筵について用べき者を市しむるならんか亦は貧者に施さしむるならんと意り</ab>
+<ab type="verse" n="30" xml:id="John.13.30"><hi rend="superscript">30</hi> 偖かれは一撮の食物を受て直に出たり時は既に夜なりき</ab>
+<ab type="verse" n="31" xml:id="John.13.31"><hi rend="superscript">31</hi> 彼の出し後イエス曰けるは今人の子榮をうく神また彼に因て榮を受るなり</ab>
+<ab type="verse" n="32" xml:id="John.13.32"><hi rend="superscript">32</hi> 神もし彼に因て榮を受る時は神も亦みづからの榮の中に彼を榮しむ直に彼を榮しめん</ab>
+<ab type="verse" n="33" xml:id="John.13.33"><hi rend="superscript">33</hi> 小子よ我なほ片時なんぢらと偕にあり爾曹われを尋ん我ゆく所に爾曹は至ること能じ前に之をユダヤ人にいふ今また之を爾曹に告</ab>
+<ab type="verse" n="34" xml:id="John.13.34"><hi rend="superscript">34</hi> われ新誡を爾曹に予ふ即ち爾曹相愛すべしとの是なり我なんぢらを愛する如く爾曹も相愛すべし</ab>
+<ab type="verse" n="35" xml:id="John.13.35"><hi rend="superscript">35</hi> 爾曹もし相愛せば之に因て人々爾曹の我弟子なることを知べし</ab>
+<ab type="verse" n="36" xml:id="John.13.36"><hi rend="superscript">36</hi> シモン・ペテロ彼に曰けるは主いづこへ往給ふやイエス彼に答へけるは我往ところへは爾いま從ふこと能ず後われに從はん</ab>
+<ab type="verse" n="37" xml:id="John.13.37"><hi rend="superscript">37</hi> ペテロ彼に曰けるは主よ何故に今なんぢら從ふこと能ざるか我は爾の爲に我命を捐ん</ab>
+<ab type="verse" n="38" xml:id="John.13.38"><hi rend="superscript">38</hi> イエス彼に答けるは爾命を我ために捐るや誠に實に爾に告ん鷄なかざる前に爾三次われを識ずと言ん</ab>
+</div>
+<div type="chapter" n="14">
+  <head>第14章</head>
+<ab type="verse" n="1" xml:id="John.14.1"><hi rend="superscript">1</hi> なんぢら心に憂ること勿れ神を信じ亦われを信ずべし</ab>
+<ab type="verse" n="2" xml:id="John.14.2"><hi rend="superscript">2</hi> わが父の家には第宅おほし然ずば我預て爾曹に之を告べきなり我なんぢらの爲に所を備に往</ab>
+<ab type="verse" n="3" xml:id="John.14.3"><hi rend="superscript">3</hi> もし往て我なんぢらの爲に所を備ば又きたりて爾曹を我に納べし我をる所に爾曹をも居しめんとて也</ab>
+<ab type="verse" n="4" xml:id="John.14.4"><hi rend="superscript">4</hi> 爾曹わが往所を知また其途を知</ab>
+<ab type="verse" n="5" xml:id="John.14.5"><hi rend="superscript">5</hi> トマス曰けるは主よ我儕なんぢの往所を知ず何にして其途を知んや</ab>
+<ab type="verse" n="6" xml:id="John.14.6"><hi rend="superscript">6</hi> イエス彼に曰けるは我は途なり眞なり生命なり人もし我に由ざれば父の所に往こと能ず</ab>
+<ab type="verse" n="7" xml:id="John.14.7"><hi rend="superscript">7</hi> 若なんぢら我を識ば我父をも識べし今より爾曹かれを識なり已に爾曹彼を見たり</ab>
+<ab type="verse" n="8" xml:id="John.14.8"><hi rend="superscript">8</hi> ピリポ彼に曰けるは主よ我儕に父を示し給へ然ば足り</ab>
+<ab type="verse" n="9" xml:id="John.14.9"><hi rend="superscript">9</hi> イエス彼に曰けるはピリポ我かく久く爾曹と偕に在しに未だ我を識ざるか我を見し者は父を見しなり何ぞ父を我儕に示せと言や</ab>
+<ab type="verse" n="10" xml:id="John.14.10"><hi rend="superscript">10</hi> われ父にをり父の我に在ことを信ぜざる乎われ爾曹に語し言は自ら語しに非ず我にをる父その行をなせる也</ab>
+<ab type="verse" n="11" xml:id="John.14.11"><hi rend="superscript">11</hi> 我は父にをり父われに在と我つげし言を信ぜよ若信ぜずば我事に因て之を信ずべし</ab>
+<ab type="verse" n="12" xml:id="John.14.12"><hi rend="superscript">12</hi> 誠に實に爾曹に告ん我を信ずる者は我行ところの事を行ん且此より大なる事を行べし蓋われ我父へ往ばなり</ab>
+<ab type="verse" n="13" xml:id="John.14.13"><hi rend="superscript">13</hi> 爾曹すべて我名に託て求ふ所のことは我すべて之を行ん父の榮の子に因て顯れんが爲なり</ab>
+<ab type="verse" n="14" xml:id="John.14.14"><hi rend="superscript">14</hi> 若なんぢら何事にても我名に託て求はば我これを行ん</ab>
+<ab type="verse" n="15" xml:id="John.14.15"><hi rend="superscript">15</hi> 若なんぢら我を愛するならば我誡を守れ</ab>
+<ab type="verse" n="16" xml:id="John.14.16"><hi rend="superscript">16</hi> 我父に求ん父かならず別に慰る者を爾曹に賜て窮なく爾曹と偕に在しむべし</ab>
+<ab type="verse" n="17" xml:id="John.14.17"><hi rend="superscript">17</hi> 此は即ち眞理の靈なり世これを接ること能ず蓋これを見ず且しらざるに因されど爾曹は之を識そは彼なんぢらと偕に在かつ爾曹の衷に在ばなり</ab>
+<ab type="verse" n="18" xml:id="John.14.18"><hi rend="superscript">18</hi> 我なんぢらを捨て孤子とせず再なんぢらに就ん</ab>
+<ab type="verse" n="19" xml:id="John.14.19"><hi rend="superscript">19</hi> 暫せば世われを見ことなし然ど爾曹は我を見われ生れば爾曹も生ん</ab>
+<ab type="verse" n="20" xml:id="John.14.20"><hi rend="superscript">20</hi> その日に爾曹われ吾父に在なんぢら我に在われ爾曹に在ことを知べし</ab>
+<ab type="verse" n="21" xml:id="John.14.21"><hi rend="superscript">21</hi> 我誡を有ちて之を守る者は即ち我を愛するなり我を愛する者は〔我｜吾〕父に愛せらる我も亦これを愛して彼に自己を示すべし</ab>
+<ab type="verse" n="22" xml:id="John.14.22"><hi rend="superscript">22</hi> イスカリヲテならざるユダ彼に曰けるは主よ如何して自己を我儕に示し世には示さざる乎</ab>
+<ab type="verse" n="23" xml:id="John.14.23"><hi rend="superscript">23</hi> イエス答て彼に曰けるは若人われを愛せば我言を守ん且わが父は之を愛せん我儕きたりて彼と偕に〔住｜往〕べし</ab>
+<ab type="verse" n="24" xml:id="John.14.24"><hi rend="superscript">24</hi> 我を愛せざる者は我言を守らず爾曹の聞ところの言は我言に非ず我を遣しし父の言なり</ab>
+<ab type="verse" n="25" xml:id="John.14.25"><hi rend="superscript">25</hi> われ爾曹と偕に在て此等のことを爾曹に語ぬ</ab>
+<ab type="verse" n="26" xml:id="John.14.26"><hi rend="superscript">26</hi> わが名に託て父の遣さんとする訓慰師すなはち聖靈は衆理を爾曹に教へ亦わが凡て爾曹に言しことを爾曹に憶起さしむべし</ab>
+<ab type="verse" n="27" xml:id="John.14.27"><hi rend="superscript">27</hi> われ平安を爾曹に遺す我平安を爾曹に予ふ我あたふる所は世の予る所の如きに非ず爾曹心に憂る勿れ又懼るる勿れ</ab>
+<ab type="verse" n="28" xml:id="John.14.28"><hi rend="superscript">28</hi> 我ゆきて復なんぢらに來らんと我曰し言を爾曹きけり若われを愛せば父に往と我いへる言を爾曹喜ぶ可なり蓋わが父は我より大なれば也</ab>
+<ab type="verse" n="29" xml:id="John.14.29"><hi rend="superscript">29</hi> 事いまだ成ず我まづ爾曹につぐ事成んときに爾曹これを信ずべき爲なり</ab>
+<ab type="verse" n="30" xml:id="John.14.30"><hi rend="superscript">30</hi> 此後われ多の言をもて爾曹に語じ蓋この世の主きたる故なり彼われに與ることなし</ab>
+<ab type="verse" n="31" xml:id="John.14.31"><hi rend="superscript">31</hi> 然ど我これを爲は我の父を愛し且その命ぜしことに遵ひて行ふことを世に知しめんが爲なり起よ我儕ここを去べし</ab>
+</div>
+<div type="chapter" n="15">
+  <head>第15章</head>
+<ab type="verse" n="1" xml:id="John.15.1"><hi rend="superscript">1</hi> 我は眞の葡萄樹わが父は農夫なり</ab>
+<ab type="verse" n="2" xml:id="John.15.2"><hi rend="superscript">2</hi> 我に在て凡て實を結ざる枝は父これを剪除すべて實をむすぶ枝は之を潔む蓋ますます繁く實を結ばしめん爲なり</ab>
+<ab type="verse" n="3" xml:id="John.15.3"><hi rend="superscript">3</hi> 今なんぢら我曰し言によりて潔なれり</ab>
+<ab type="verse" n="4" xml:id="John.15.4"><hi rend="superscript">4</hi> 爾曹われに居さらば我また爾曹に居ん枝もし葡萄樹に連らざれば自ら實を結ぶこと能ず爾曹も我に連らざれば亦此の如ならん</ab>
+<ab type="verse" n="5" xml:id="John.15.5"><hi rend="superscript">5</hi> 我は葡萄樹なんぢらは其枝なり人もし我に居われ亦かれに居ば多の實を結ぶべし蓋もし爾曹われを離るる時は何事をも行能ざれば也</ab>
+<ab type="verse" n="6" xml:id="John.15.6"><hi rend="superscript">6</hi> 人もし我に居ざれば離たる枝の如く外に棄られて枯るなり人これを集め火に投入て焚べし</ab>
+<ab type="verse" n="7" xml:id="John.15.7"><hi rend="superscript">7</hi> 爾曹もし我に居また我いひし言なんぢらに居ば凡て欲ふところ求に從ひて予らるべし</ab>
+<ab type="verse" n="8" xml:id="John.15.8"><hi rend="superscript">8</hi> 爾曹おほくの實を結ばば〔我｜吾〕父これに由て榮をうく然ば爾曹わが弟子なり</ab>
+<ab type="verse" n="9" xml:id="John.15.9"><hi rend="superscript">9</hi> 父の我を愛し給ふ如く我なんぢらを愛す爾曹わが愛にをれ</ab>
+<ab type="verse" n="10" xml:id="John.15.10"><hi rend="superscript">10</hi> 若なんぢら我誡を守ば我愛に居ん我わが父の誡を守て其愛に居が如し</ab>
+<ab type="verse" n="11" xml:id="John.15.11"><hi rend="superscript">11</hi> 我この事を爾曹に語るは我が喜なんぢらに在て爾曹の喜を盈しめんが爲なり</ab>
+<ab type="verse" n="12" xml:id="John.15.12"><hi rend="superscript">12</hi> 我なんぢらを愛する如く爾曹も亦たがひに愛すべし是わが誡なり</ab>
+<ab type="verse" n="13" xml:id="John.15.13"><hi rend="superscript">13</hi> 人その友の爲に己の命を捐るは此より大なる愛はなし</ab>
+<ab type="verse" n="14" xml:id="John.15.14"><hi rend="superscript">14</hi> 凡て我なんぢらに命ずる所の事を行はば則ち我友なり</ab>
+<ab type="verse" n="15" xml:id="John.15.15"><hi rend="superscript">15</hi> 今より後われ爾曹を僕と稱ず蓋僕は其主の行ことを知ざればなり我さきに爾曹を友と呼り我なんぢらに〔我｜吾〕父より聞し所のことを盡く告しに縁</ab>
+<ab type="verse" n="16" xml:id="John.15.16"><hi rend="superscript">16</hi> なんぢら我を選ず我なんぢらを選べり且爾曹をして往て實を結せ其實を存しめんが爲また爾曹の凡て我名に託て父に求ふ所の者を彼をして爾曹に賜らせんが爲に我なんぢらを立たり</ab>
+<ab type="verse" n="17" xml:id="John.15.17"><hi rend="superscript">17</hi> なんぢら互に愛せんがため我これを命ず</ab>
+<ab type="verse" n="18" xml:id="John.15.18"><hi rend="superscript">18</hi> 世もし爾曹を惡ときは爾曹よりも先に我を惡と知</ab>
+<ab type="verse" n="19" xml:id="John.15.19"><hi rend="superscript">19</hi> 爾曹もし世の屬ならば世は己の屬を愛すべし然ど爾曹は世の屬ならず我なんぢらを世より選たり之に因て世なんぢらを惡む</ab>
+<ab type="verse" n="20" xml:id="John.15.20"><hi rend="superscript">20</hi> 僕は其主より大ならずと我なんぢらに曰し言を心に記よ人もし我を窘迫ば爾曹をも窘迫もし我言を守ば爾曹の言をも守るべし</ab>
+<ab type="verse" n="21" xml:id="John.15.21"><hi rend="superscript">21</hi> 然ど彼らは我を遣しし者を識ざるに因わが名の故をもて此等の事を爾曹に加べし</ab>
+<ab type="verse" n="22" xml:id="John.15.22"><hi rend="superscript">22</hi> 我もし來て語ざりしならば彼等罪なからん然ど今は其罪いひひらく可やうなし</ab>
+<ab type="verse" n="23" xml:id="John.15.23"><hi rend="superscript">23</hi> 我を惡む者は亦わが父をも惡なり</ab>
+<ab type="verse" n="24" xml:id="John.15.24"><hi rend="superscript">24</hi> 我もし他の人の行ざりし事を彼等の中に行はざりしならは彼等罪なからん然ど我と吾父とを已に見かつ之を惡めり</ab>
+<ab type="verse" n="25" xml:id="John.15.25"><hi rend="superscript">25</hi> 此の如は彼等の律法に故なくして我を惡めりと録し言に應せん爲なり</ab>
+<ab type="verse" n="26" xml:id="John.15.26"><hi rend="superscript">26</hi> われ訓慰師を父より遣らん即ち父より出る眞理の靈なり其きたる時わが爲に證をなすべし</ab>
+<ab type="verse" n="27" xml:id="John.15.27"><hi rend="superscript">27</hi> 爾曹も亦われと偕に始より在しに因て證を作べし</ab>
+</div>
+<div type="chapter" n="16">
+  <head>第16章</head>
+<ab type="verse" n="1" xml:id="John.16.1"><hi rend="superscript">1</hi> われ此等の言を爾曹に語れるは爾曹の礙かざらん爲なり</ab>
+<ab type="verse" n="2" xml:id="John.16.2"><hi rend="superscript">2</hi> 衆人なんぢらを會堂より黜くべし且すべて爾曹を殺す者みづから神に事ると意ふ時至らん</ab>
+<ab type="verse" n="3" xml:id="John.16.3"><hi rend="superscript">3</hi> 此等の事を爾曹に行は父と我とを識ざるが故なり</ab>
+<ab type="verse" n="4" xml:id="John.16.4"><hi rend="superscript">4</hi> 我これを爾曹に語れるは時いたりて我これを言し事を爾曹の憶起ん爲なり曩に之を爾曹に語ざりしは我なんぢらと偕に在たれば也</ab>
+<ab type="verse" n="5" xml:id="John.16.5"><hi rend="superscript">5</hi> 我いま我を遣しし者に往んとす然ど爾曹の中われに何處へ往と問る者なく</ab>
+<ab type="verse" n="6" xml:id="John.16.6"><hi rend="superscript">6</hi> 反て我この事を言しに因て憂なんぢらの心に盈り</ab>
+<ab type="verse" n="7" xml:id="John.16.7"><hi rend="superscript">7</hi> われ眞を爾曹に告ん我往は爾曹の益なり若ゆかずば訓慰師なんぢらに來じ若ゆかば彼を爾曹に遣らん</ab>
+<ab type="verse" n="8" xml:id="John.16.8"><hi rend="superscript">8</hi> かれ來らんとき罪につき義につき審判につき世をして罪ありと曉しめん</ab>
+<ab type="verse" n="9" xml:id="John.16.9"><hi rend="superscript">9</hi> 罪に就てと云るは我を信ぜざるに因てなり</ab>
+<ab type="verse" n="10" xml:id="John.16.10"><hi rend="superscript">10</hi> 義に就てと云るは我わが父へ往によりて爾曹また我を見ざれば也</ab>
+<ab type="verse" n="11" xml:id="John.16.11"><hi rend="superscript">11</hi> 審判に就てと云るは斯世の主審判を受ればなり</ab>
+<ab type="verse" n="12" xml:id="John.16.12"><hi rend="superscript">12</hi> 我なほ爾曹に多く語る可こと有ども今なんぢら曉ことを得ず</ab>
+<ab type="verse" n="13" xml:id="John.16.13"><hi rend="superscript">13</hi> 然ど彼すなはち眞理の靈の來らんとき爾曹を導きて凡の眞理を知しむべし蓋かれ己に由て語に非ず其聞し所の事を爾曹に言また來らんとする事を爾曹に示すべければ也</ab>
+<ab type="verse" n="14" xml:id="John.16.14"><hi rend="superscript">14</hi> 彼わが榮を顯さん蓋わが屬を受て爾曹に示せば也</ab>
+<ab type="verse" n="15" xml:id="John.16.15"><hi rend="superscript">15</hi> 凡て父の有給ふものは我屬なり是故に彼わが屬を受て爾曹に示すと曰り</ab>
+<ab type="verse" n="16" xml:id="John.16.16"><hi rend="superscript">16</hi> 暫せば爾曹われを見じ復しばらくして我を見るべし是われ父へ往なり</ab>
+<ab type="verse" n="17" xml:id="John.16.17"><hi rend="superscript">17</hi> 是に於て弟子の中にて或人たがひに曰けるは暫せば爾曹われを見じ復しばらくして我を見べしと言かつ是われは父へ往なりと我儕に言しは何の事ぞや</ab>
+<ab type="verse" n="18" xml:id="John.16.18"><hi rend="superscript">18</hi> 彼等また曰けるは此しばらくと言しは何の事ぞや其言る所を我儕知ず</ab>
+<ab type="verse" n="19" xml:id="John.16.19"><hi rend="superscript">19</hi> イエス彼等が問んとするを知て曰けるは暫せば我を見じ復しばらくして我を見べしと言し此事に因て爾曹たがひに詰あふ乎</ab>
+<ab type="verse" n="20" xml:id="John.16.20"><hi rend="superscript">20</hi> 誠に實に我なんぢらに告ん爾曹は哭き哀み世は喜ぶべし爾曹憂るならん然ど其憂は變て喜びとなるべし</ab>
+<ab type="verse" n="21" xml:id="John.16.21"><hi rend="superscript">21</hi> 婦子を産んとする時は憂ふ其期いたるに因てなり然ど已に生ば前の苦をわする世に人の生たる喜樂に因てなり</ab>
+<ab type="verse" n="22" xml:id="John.16.22"><hi rend="superscript">22</hi> 此の如く爾曹も今憂ふ然ど我また爾曹を見ん其時なんぢらの心喜ぶべし其喜樂を奪ふ者あらじ</ab>
+<ab type="verse" n="23" xml:id="John.16.23"><hi rend="superscript">23</hi> 其日なんぢら我に問ところ無るべし誠に實に爾曹に告ん凡そ我名に託て父に求る所のもの父これを爾曹に授たまふべし</ab>
+<ab type="verse" n="24" xml:id="John.16.24"><hi rend="superscript">24</hi> なんぢら今まで我名に託て求たることなし求よ然ば受けん而して爾曹の喜び滿べし</ab>
+<ab type="verse" n="25" xml:id="John.16.25"><hi rend="superscript">25</hi> 譬喩をもて此事を爾曹に語しが譬喩を用ずして爾曹に語り父に就て明かに示す時いたらん</ab>
+<ab type="verse" n="26" xml:id="John.16.26"><hi rend="superscript">26</hi> 其日なんぢら我名に託て求ん我なんぢらの爲に父に求ふと曰ず</ab>
+<ab type="verse" n="27" xml:id="John.16.27"><hi rend="superscript">27</hi> 蓋父みづから爾曹を愛すれば也これ爾曹われを愛し且父より我來しことを信ずるに因</ab>
+<ab type="verse" n="28" xml:id="John.16.28"><hi rend="superscript">28</hi> われ父より出て世に臨れり復世を離て父に往ん</ab>
+<ab type="verse" n="29" xml:id="John.16.29"><hi rend="superscript">29</hi> 弟子かれに曰けるは爾いま明かに言て譬喩をいはず</ab>
+<ab type="verse" n="30" xml:id="John.16.30"><hi rend="superscript">30</hi> 我儕いま爾の知ざる所なく且人の爾に問は用なきことを知これに因て我儕神より爾の出來しことを信ず</ab>
+<ab type="verse" n="31" xml:id="John.16.31"><hi rend="superscript">31</hi> イエス彼等に答けるは今なんぢら信ずる乎</ab>
+<ab type="verse" n="32" xml:id="John.16.32"><hi rend="superscript">32</hi> 時まさに至ん今いたりぬ爾曹散て各人その屬する所に往ただ我を一人のこさん然ど我獨をるに非ず父われと偕に在なり</ab>
+<ab type="verse" n="33" xml:id="John.16.33"><hi rend="superscript">33</hi> われ此事を爾曹に語しは爾曹をして我に在て平安を得させんが爲なり爾曹世に在ては患難を受ん然ど懼るる勿れ我すでに世に勝り</ab>
+</div>
+<div type="chapter" n="17">
+  <head>第17章</head>
+<ab type="verse" n="1" xml:id="John.17.1"><hi rend="superscript">1</hi> イエス此言を語畢て天を仰ぎ曰けるは父よ時いたりぬ爾の子なんぢの榮を顯さんが爲に爾の子の榮を顯し給へ</ab>
+<ab type="verse" n="2" xml:id="John.17.2"><hi rend="superscript">2</hi> これ爾われに賜し所の者に我永生を予んがため凡の者を制る權威を我に賜たれば也</ab>
+<ab type="verse" n="3" xml:id="John.17.3"><hi rend="superscript">3</hi> 永生とは唯獨の眞神なる爾と其遣ししイエス・キリストをしる是なり</ab>
+<ab type="verse" n="4" xml:id="John.17.4"><hi rend="superscript">4</hi> 我なんぢの榮を世に顯し爾の我に委し所の行は我これを成り</ab>
+<ab type="verse" n="5" xml:id="John.17.5"><hi rend="superscript">5</hi> 父よ今我をして爾と偕に榮を得させ給へ即ち創世より先に爾と偕に有し所の榮を得させ給へ</ab>
+<ab type="verse" n="6" xml:id="John.17.6"><hi rend="superscript">6</hi> なんぢ世より選て我に賜し人々に我なんぢの名を顯せり彼等は爾の屬にして爾これを已に我に賜ふ彼等また爾の道を守れり</ab>
+<ab type="verse" n="7" xml:id="John.17.7"><hi rend="superscript">7</hi> 彼等いま爾の我に賜し者は皆爾より出しと知</ab>
+<ab type="verse" n="8" xml:id="John.17.8"><hi rend="superscript">8</hi> 蓋われ爾が我に賜し言を彼等に予たればなり彼等これを受また我爾より出し事を誠に知かつ爾の我を遣ししことを信じたり</ab>
+<ab type="verse" n="9" xml:id="John.17.9"><hi rend="superscript">9</hi> 我かれらの爲に祈る我祈るは世の爲に非ず爾の我に賜ひし者の爲なる耳それ彼等は爾の屬なれば也</ab>
+<ab type="verse" n="10" xml:id="John.17.10"><hi rend="superscript">10</hi> 凡て我屬は爾の屬なんぢの屬は我屬なり且われ彼等に由て榮を受</ab>
+<ab type="verse" n="11" xml:id="John.17.11"><hi rend="superscript">11</hi> われ今より世に在ず彼等は世にをり我は爾に就る聖父よ爾の我に賜し者を爾の名に在しめ之を守て我儕の如く彼等をも一になし給へ</ab>
+<ab type="verse" n="12" xml:id="John.17.12"><hi rend="superscript">12</hi> 我かれらと偕に在し時かれらを爾の名に財しめて之を守たり爾の我に賜し者を我守りしが其中一人だに亡たる者なし唯〔沈淪｜沉淪〕の子ほろびたり是聖書に應せん爲なり</ab>
+<ab type="verse" n="13" xml:id="John.17.13"><hi rend="superscript">13</hi> 我いま爾に就る我世に在て此事を語れるは我喜樂を彼等に充しめん爲なり</ab>
+<ab type="verse" n="14" xml:id="John.17.14"><hi rend="superscript">14</hi> われ爾の道を彼等に授たり世は彼等を惡む蓋わが世の屬に非ざる如く彼等も世の屬に非ざれば也</ab>
+<ab type="verse" n="15" xml:id="John.17.15"><hi rend="superscript">15</hi> われ爾に彼等を世より取たまへと祈らず惟かれらを守て惡に陷らす勿れと祈る</ab>
+<ab type="verse" n="16" xml:id="John.17.16"><hi rend="superscript">16</hi> われ世の屬に非ざる如く彼等も世の屬に非ず</ab>
+<ab type="verse" n="17" xml:id="John.17.17"><hi rend="superscript">17</hi> 爾の眞理をもて彼等を潔め給へ爾の言は眞理なり</ab>
+<ab type="verse" n="18" xml:id="John.17.18"><hi rend="superscript">18</hi> なんぢ我を世に遣しし如く我も彼等を世に遣せり</ab>
+<ab type="verse" n="19" xml:id="John.17.19"><hi rend="superscript">19</hi> 我かれらの爲に自己を潔これ眞理に因て彼等の聖られん爲なり</ab>
+<ab type="verse" n="20" xml:id="John.17.20"><hi rend="superscript">20</hi> 我ただ彼等の爲にのみ祈らず彼等の教に因て我を信ずる者の爲にも祈なり</ab>
+<ab type="verse" n="21" xml:id="John.17.21"><hi rend="superscript">21</hi> 此はみな一にならん爲なり父よ爾われに在われ亦なんぢに在かくの如く彼等も我儕にをりて一にならん爲かつ世をして爾の我を遣しし事を信ぜしめん爲なり</ab>
+<ab type="verse" n="22" xml:id="John.17.22"><hi rend="superscript">22</hi> 爾の我に賜し榮を我かれらに授たり此は我儕の一なるが如く彼等も互に一にならん爲なり</ab>
+<ab type="verse" n="23" xml:id="John.17.23"><hi rend="superscript">23</hi> われ彼等に在なんぢ我にをる蓋彼等をして一に全ならしめ且世をして爾の我を遣ししこと又なんぢ我を愛する如く彼等をも愛することを知しめんと也</ab>
+<ab type="verse" n="24" xml:id="John.17.24"><hi rend="superscript">24</hi> 父よ爾の我に賜し者の我をる所に我と偕に在て我榮すなはち爾が我に賜し者を見んことを願そは世基を置ざりし先に爾われを愛したれば也</ab>
+<ab type="verse" n="25" xml:id="John.17.25"><hi rend="superscript">25</hi> 義き父よ世は爾を識ず我は爾を識かれらも爾の我を遣ししし事を知り</ab>
+<ab type="verse" n="26" xml:id="John.17.26"><hi rend="superscript">26</hi> 我なんぢの名を彼等に示せり復これを示さん蓋なんぢの我を愛するの愛かれらに在また我かれらに在ん爲なり</ab>
+</div>
+<div type="chapter" n="18">
+  <head>第18章</head>
+<ab type="verse" n="1" xml:id="John.18.1"><hi rend="superscript">1</hi> イエス此事を言て後その弟子と偕に出てケデロンの河を渉その處にある園の中に弟子と偕に入ぬ</ab>
+<ab type="verse" n="2" xml:id="John.18.2"><hi rend="superscript">2</hi> イエスを賣たるユダ此處を識りイエス屡その弟子と偕に此に集りたれば也</ab>
+<ab type="verse" n="3" xml:id="John.18.3"><hi rend="superscript">3</hi> 此時ユダ一隊の兵卒と下吏どもを祭司の長等およびパリサイの人よりうけ炬と提燈と兵器を携て此に來れり</ab>
+<ab type="verse" n="4" xml:id="John.18.4"><hi rend="superscript">4</hi> イエス事の己に及んとするを悉く知いでて彼等に曰けるは誰を尋るか</ab>
+<ab type="verse" n="5" xml:id="John.18.5"><hi rend="superscript">5</hi> 彼等こたへけるはナザレのイエスなりイエス彼等に曰けるは我は其なりイエスを賣ししユダ彼等と偕に立り</ab>
+<ab type="verse" n="6" xml:id="John.18.6"><hi rend="superscript">6</hi> イエス彼等に對て我なりと曰たまへる時かれら退きて地に仆たり</ab>
+<ab type="verse" n="7" xml:id="John.18.7"><hi rend="superscript">7</hi> イエス復彼らに誰を尋る乎と問たまひしかば彼等ナザレのイエス也と曰</ab>
+<ab type="verse" n="8" xml:id="John.18.8"><hi rend="superscript">8</hi> イエス答けるは我すでに爾曹に我は其なりと曰り若われを尋るならば此輩を容て去しめよ</ab>
+<ab type="verse" n="9" xml:id="John.18.9"><hi rend="superscript">9</hi> 是イエス我に賜し者の中一人だに亡る者なしと云し言に應せん爲なり</ab>
+<ab type="verse" n="10" xml:id="John.18.10"><hi rend="superscript">10</hi> 時にシモン・ペテロ〔劒｜劍〕を佩たりしが之を拔て祭司の長の僕を撃て其右の耳を削おとせり僕の名はマルコスと云</ab>
+<ab type="verse" n="11" xml:id="John.18.11"><hi rend="superscript">11</hi> イエス、ペテロに曰けるは劒を鞘に鞱よ父の我に賜し杯を我飮ざらん乎</ab>
+<ab type="verse" n="12" xml:id="John.18.12"><hi rend="superscript">12</hi> 斯て隊の兵卒および其長とユダヤ人の下吏イエスを執へ繋て</ab>
+<ab type="verse" n="13" xml:id="John.18.13"><hi rend="superscript">13</hi> 先これをアンナスの所に曳往かれは此歳の祭司の長カヤバの外舅て</ab>
+<ab type="verse" n="14" xml:id="John.18.14"><hi rend="superscript">14</hi> ユダヤ人に議て一人民の爲に死るは益なりと言しは此カヤパなりき</ab>
+<ab type="verse" n="15" xml:id="John.18.15"><hi rend="superscript">15</hi> シモン、ペテロと外に一人の弟子イエスに從へり此一人の弟子は祭司の長の識ところの者にてイエスと偕に祭司の長の庭に入</ab>
+<ab type="verse" n="16" xml:id="John.18.16"><hi rend="superscript">16</hi> ペテロは門外に立り祭司の長の識ところの弟子出て門を守る婢に告てペテロをともなひ入</ab>
+<ab type="verse" n="17" xml:id="John.18.17"><hi rend="superscript">17</hi> 是に於て門を守る婢ペテロに曰けるは爾も此人の弟子の一人ならず乎ペテロ然ずと曰</ab>
+<ab type="verse" n="18" xml:id="John.18.18"><hi rend="superscript">18</hi> 僕等と下吏たち寒に因て炭を燒その處に立て煖れり</ab>
+<ab type="verse" n="19" xml:id="John.18.19"><hi rend="superscript">19</hi> 祭司の長イエス其弟子と其教のことを問ぬ</ab>
+<ab type="verse" n="20" xml:id="John.18.20"><hi rend="superscript">20</hi> イエス彼に答けるは我あらはに世に語れり我つねにユダヤ人の平生あつまる所なる會堂および殿にて教誨をなし隱に語れる事なし</ab>
+<ab type="verse" n="21" xml:id="John.18.21"><hi rend="superscript">21</hi> 何ぞ我に問る乎われ如何かたりしか聽る者に問よ彼等わが言し所を知り</ab>
+<ab type="verse" n="22" xml:id="John.18.22"><hi rend="superscript">22</hi> イエス如此いひしに旁に立る一人の下吏掌にて彼を打いひけるは爾祭司の長に答るに此の如か</ab>
+<ab type="verse" n="23" xml:id="John.18.23"><hi rend="superscript">23</hi> イエス彼に答けるは若わが語しこと善らずば其善らざるを證せよ若し善ば何ぞ我を打や</ab>
+<ab type="verse" n="24" xml:id="John.18.24"><hi rend="superscript">24</hi> 偖アンナス、イエスを繋て祭司の長カヤパの所に遣れり</ab>
+<ab type="verse" n="25" xml:id="John.18.25"><hi rend="superscript">25</hi> シモン、ペテロ立て煖り居しが或人々いひけるは爾も彼の弟子の一人ならず乎ペテロ承ずして然ずと曰り</ab>
+<ab type="verse" n="26" xml:id="John.18.26"><hi rend="superscript">26</hi> 祭司の長の僕の中の一人すなはちペテロに耳を削れし者の親戚いひけるは我なんぢが彼と偕に園に在しを見しに非ずや</ab>
+<ab type="verse" n="27" xml:id="John.18.27"><hi rend="superscript">27</hi> ペテロまた承はず頓て鷄なきぬ／</ab>
+<ab type="verse" n="28" xml:id="John.18.28"><hi rend="superscript">28</hi> 人々イエスを曳てカヤパより公廨に往り時すでに平旦なりき彼等汚穢を受んことを恐て公廨に入ず蓋踰越の節筵を食せんとすれば也</ab>
+<ab type="verse" n="29" xml:id="John.18.29"><hi rend="superscript">29</hi> ピラト出て彼等に曰けるは如何なる訟をもて斯人を訟るや</ab>
+<ab type="verse" n="30" xml:id="John.18.30"><hi rend="superscript">30</hi> 人々こたへけるは彼もし惡を行る者に非ずば爾に解さじ</ab>
+<ab type="verse" n="31" xml:id="John.18.31"><hi rend="superscript">31</hi> ピラト彼等に曰けるは爾曹これを取なんぢらの律法に從ひて審判せよユダヤの人々かれに曰けるは我儕に人を殺の權なし</ab>
+<ab type="verse" n="32" xml:id="John.18.32"><hi rend="superscript">32</hi> 是イエスの其死んとする状を指て語れることに應へり</ab>
+<ab type="verse" n="33" xml:id="John.18.33"><hi rend="superscript">33</hi> ピラトまた公廨に入イエスを召て曰けるは爾はユダヤ人の王なるや</ab>
+<ab type="verse" n="34" xml:id="John.18.34"><hi rend="superscript">34</hi> イエス彼に答けるは爾この事を言るは自己に由か我に就て人の告しに由か</ab>
+<ab type="verse" n="35" xml:id="John.18.35"><hi rend="superscript">35</hi> ピラト答けるは我はユダヤ人ならんや爾の國の民と祭司の長と爾を我に解せり爾なにを爲しや</ab>
+<ab type="verse" n="36" xml:id="John.18.36"><hi rend="superscript">36</hi> イエス答けるは我國はこの世の國に非ず若わが國この世の國ならば我僕われをユダヤ人に付さざる爲に戰ふべし然ど我國は此世の國ならざる也</ab>
+<ab type="verse" n="37" xml:id="John.18.37"><hi rend="superscript">37</hi> ピラト彼に曰けるは然ば爾は王なるかイエス答けるは爾の言ところの如く我は王なり我これが爲に生これが爲に世に臨れり蓋眞理について證を爲んため也すべて眞理に屬者は我聲を聽</ab>
+<ab type="verse" n="38" xml:id="John.18.38"><hi rend="superscript">38</hi> ピラト彼に曰けるは眞理は如何なる者ぞ此事を言る後また出てユダヤ人に曰けるは我は斯人に罪あるを見ず</ab>
+<ab type="verse" n="39" xml:id="John.18.39"><hi rend="superscript">39</hi> 爰に爾曹に一の例あり我踰越の節に一人の囚人を爾曹に釋す爾曹ユダヤ人の王を釋さん事の欲ふや</ab>
+<ab type="verse" n="40" xml:id="John.18.40"><hi rend="superscript">40</hi> 衆人また喊叫いひけるは斯人に非ずバラバを釋せバラバは盜賊なる也</ab>
+</div>
+<div type="chapter" n="19">
+  <head>第19章</head>
+<ab type="verse" n="1" xml:id="John.19.1"><hi rend="superscript">1</hi> 其時ピラト、イエスを取て鞭つ</ab>
+<ab type="verse" n="2" xml:id="John.19.2"><hi rend="superscript">2</hi> 兵卒ども棘にて冕を編かれの首に冠しめ又紫の袍を衣せて</ab>
+<ab type="verse" n="3" xml:id="John.19.3"><hi rend="superscript">3</hi> 曰けるはユダヤ人の王やすかれ斯て掌にて之を打り</ab>
+<ab type="verse" n="4" xml:id="John.19.4"><hi rend="superscript">4</hi> ピラトまた外に出て彼等に曰けるは我かれに就て罪あるを見ず之を知せんとて爾曹に曳出せり</ab>
+<ab type="verse" n="5" xml:id="John.19.5"><hi rend="superscript">5</hi> イエス棘の冕をかぶり紫の袍を衣て外に出ピラト彼等に曰けるは視よ此その人なり</ab>
+<ab type="verse" n="6" xml:id="John.19.6"><hi rend="superscript">6</hi> 祭司の長等と下吏これを見て十字架に釘よ十字架に釘よと喊叫いふピラト彼等に曰けるは爾曹かれを取て十字架に釘よ我かれに就て罪あるを見ざる也</ab>
+<ab type="verse" n="7" xml:id="John.19.7"><hi rend="superscript">7</hi> ユダヤ人かれに答けるは我儕に律法あり其律法に從へば彼は死べき者なり蓋かれ自己を神の子と爲ばなり</ab>
+<ab type="verse" n="8" xml:id="John.19.8"><hi rend="superscript">8</hi> ピラト此言を聞て益懼る</ab>
+<ab type="verse" n="9" xml:id="John.19.9"><hi rend="superscript">9</hi> また公廨に入てイエスに曰けるは爾何處の者ぞイエス答せざりき</ab>
+<ab type="verse" n="10" xml:id="John.19.10"><hi rend="superscript">10</hi> ピラト彼に曰けるは我に答ざるか我なんぢを十字架に釘る權威あり亦なんぢを釋す權威あり此事を知ざる乎</ab>
+<ab type="verse" n="11" xml:id="John.19.11"><hi rend="superscript">11</hi> イエス答けるは爾上より權威を賜らずば我に對て權威ある事なし是故に我を爾に解しし者の罪尤も大なり</ab>
+<ab type="verse" n="12" xml:id="John.19.12"><hi rend="superscript">12</hi> 此後ピラト彼を釋さんと謀る然どもユダヤ人さけび曰けるは若これを釋さばカイザルに忠臣ならず凡て自己を王となす者はカイザルに叛く者なり</ab>
+<ab type="verse" n="13" xml:id="John.19.13"><hi rend="superscript">13</hi> ピラト此言を聞てイエスを曳出し鋪石と云る所ヘブルの言にて譯ばガバタと云ところの審判の座に自ら坐れり</ab>
+<ab type="verse" n="14" xml:id="John.19.14"><hi rend="superscript">14</hi> 其日は踰越節の備日にて時は約そ十二時ごろなりきピラト、ユダヤ人に曰けるは爾曹の王を見よ</ab>
+<ab type="verse" n="15" xml:id="John.19.15"><hi rend="superscript">15</hi> かれら喊叫て之を除け之を除け十字架に釘よと曰ピラト彼等に曰けるは我なんぢらの王を十字架に釘べけんや祭司の長等こたへけるはカイザルの他われらに王なし</ab>
+<ab type="verse" n="16" xml:id="John.19.16"><hi rend="superscript">16</hi> 遂にピラト彼を十字架に釘しめんとて彼等に付せり是に於て彼等イエスを取て曳往り</ab>
+<ab type="verse" n="17" xml:id="John.19.17"><hi rend="superscript">17</hi> イエス十字架を負て髑髏と云る所ヘブルの言にて曰ばゴルゴダといふ所に往り</ab>
+<ab type="verse" n="18" xml:id="John.19.18"><hi rend="superscript">18</hi> 此所に彼を十字架に釘たり別に二人の者かれと偕に十字架に釘らる一人は右一人は左イエス中に居り</ab>
+<ab type="verse" n="19" xml:id="John.19.19"><hi rend="superscript">19</hi> ピラト罪標を十字架につけ此はユダヤ人の王なるナザレのイエスなりと書たり</ab>
+<ab type="verse" n="20" xml:id="John.19.20"><hi rend="superscript">20</hi> 許多のユダヤ人この罪標を讀り蓋イエスを十字架に釘し所は京城に近ければ也其標はヘブル、ギリシヤ、ロマの言にて書たり</ab>
+<ab type="verse" n="21" xml:id="John.19.21"><hi rend="superscript">21</hi> ユダヤ人の祭司の長等ピラトに曰けるはユダヤ人の王と書す勿れ自らユダヤ人の王なりと言しと書すべし</ab>
+<ab type="verse" n="22" xml:id="John.19.22"><hi rend="superscript">22</hi> ピラト答けるは我書しし所すでに書たり</ab>
+<ab type="verse" n="23" xml:id="John.19.23"><hi rend="superscript">23</hi> 兵卒どもイエスを十字架に釘し後その上衣をとり四に分て各その一を取また裏衣を取り此裏衣は縫なく上より渾く織るもの也ければ</ab>
+<ab type="verse" n="24" xml:id="John.19.24"><hi rend="superscript">24</hi> 互に曰けるは之を裂ずして誰の屬にならんか鬮にすべし此は聖書に彼等たがひに我衣を分わが裏衣を鬮にすと云しに應せん爲なり兵卒ども已に此事を行り</ab>
+<ab type="verse" n="25" xml:id="John.19.25"><hi rend="superscript">25</hi> 偖イエスの母と母の姉妹およびクロパの妻のマリア並マグダラのマリアその十字架の旁に立り</ab>
+<ab type="verse" n="26" xml:id="John.19.26"><hi rend="superscript">26</hi> イエス母と愛する所の弟子と旁に立るを見て母に曰けるは婦よ此なんぢの子なり</ab>
+<ab type="verse" n="27" xml:id="John.19.27"><hi rend="superscript">27</hi> また弟子に曰けるは此なんぢの母なり是時その弟子かれを己の家に携往り</ab>
+<ab type="verse" n="28" xml:id="John.19.28"><hi rend="superscript">28</hi> 斯てイエス諸の事の已に竟るをしり聖書に應せん爲に我渇といへり</ab>
+<ab type="verse" n="29" xml:id="John.19.29"><hi rend="superscript">29</hi> 此處に醋の滿たる器皿ありしかば兵卒ども海絨を醋に漬し牛膝草に朿て其口に予ふ</ab>
+<ab type="verse" n="30" xml:id="John.19.30"><hi rend="superscript">30</hi> イエス醋を受し後いひけるは事竟ぬ首を俯て靈を付せり／</ab>
+<ab type="verse" n="31" xml:id="John.19.31"><hi rend="superscript">31</hi> 是日は節筵の備日なり此安息日は大なる安息日なれば屍を十字架の上に置ことを欲ざるが故にユダヤ人ピラトに對かれらの脛を折て其屍を取除ことを求へり</ab>
+<ab type="verse" n="32" xml:id="John.19.32"><hi rend="superscript">32</hi> 是に於て兵卒等イエスと偕に十字架に釘られし者の一人の脛を先にをり次に亦一人の脛を折</ab>
+<ab type="verse" n="33" xml:id="John.19.33"><hi rend="superscript">33</hi> 後にイエスに來しに已に死たるを見て其脛を折ざりき</ab>
+<ab type="verse" n="34" xml:id="John.19.34"><hi rend="superscript">34</hi> 一人の兵卒戈にて其骨を刺ければ直に血と水と流出たり</ab>
+<ab type="verse" n="35" xml:id="John.19.35"><hi rend="superscript">35</hi> 之を見し者證を立その證は眞なり彼また自ら言ところの眞なるをしる爾曹をして信ぜしめんが爲なり</ab>
+<ab type="verse" n="36" xml:id="John.19.36"><hi rend="superscript">36</hi> この事成り録して其脅の一をも摧ざるべしと有に應せん爲なり</ab>
+<ab type="verse" n="37" xml:id="John.19.37"><hi rend="superscript">37</hi> また他の書に彼等の刺し者を彼等觀べしと云り／</ab>
+<ab type="verse" n="38" xml:id="John.19.38"><hi rend="superscript">38</hi> 是後アリマタヤのヨセフと云る者にて前にユダヤ人を懼て隱にイエスの弟子となれる者イエスの屍を取とてピラトに求ピラト之を許ししに因きたりて其屍を取り</ab>
+<ab type="verse" n="39" xml:id="John.19.39"><hi rend="superscript">39</hi> また曩に夜間イエスに就しニコデモという人沒藥と蘆薈を和およそ百斤ばかり携來る</ab>
+<ab type="verse" n="40" xml:id="John.19.40"><hi rend="superscript">40</hi> 彼等イエスの屍を取てユダヤ人の葬の例に循ひ之を布と香にて裹り</ab>
+<ab type="verse" n="41" xml:id="John.19.41"><hi rend="superscript">41</hi> さて十字架に釘し其近傍に園あり園の中に未だ人を葬りし事なき新き墓あり</ab>
+<ab type="verse" n="42" xml:id="John.19.42"><hi rend="superscript">42</hi> 是日はユダヤ人の節筵の備日なり又墓近かりければ其處にイエスを置り</ab>
+</div>
+<div type="chapter" n="20">
+  <head>第20章</head>
+<ab type="verse" n="1" xml:id="John.20.1"><hi rend="superscript">1</hi> 一週の首の日の朝いまだ昧うちにマグダラのマリア墓に來て石の墓より取去ありしを見</ab>
+<ab type="verse" n="2" xml:id="John.20.2"><hi rend="superscript">2</hi> 遂にシモン・ペテロまたイエスの愛せし所の弟子に趨往て曰けるは墓より主を取し者あり我儕何處に置しや其處を知ず</ab>
+<ab type="verse" n="3" xml:id="John.20.3"><hi rend="superscript">3</hi> ペテロと彼一人の弟子いでて墓に往</ab>
+<ab type="verse" n="4" xml:id="John.20.4"><hi rend="superscript">4</hi> 二人ともに趨る他の弟子ペテロより疾趨て先に墓に至ぬ</ab>
+<ab type="verse" n="5" xml:id="John.20.5"><hi rend="superscript">5</hi> 俯て屍を裹し布を置るを見たれども入ず</ab>
+<ab type="verse" n="6" xml:id="John.20.6"><hi rend="superscript">6</hi> シモン・ペテロ彼に後て來り墓にいり裹し布を置るを見たり</ab>
+<ab type="verse" n="7" xml:id="John.20.7"><hi rend="superscript">7</hi> その首を裹し手巾は屍を裹し布と同に置ず離て別の處に疊て置り</ab>
+<ab type="verse" n="8" xml:id="John.20.8"><hi rend="superscript">8</hi> 是に於て先に墓に來れる他の弟子も入これを見て信ぜり</ab>
+<ab type="verse" n="9" xml:id="John.20.9"><hi rend="superscript">9</hi> 録してイエスの死より甦るべき事あるを彼等いまだ知ざる也</ab>
+<ab type="verse" n="10" xml:id="John.20.10"><hi rend="superscript">10</hi> 斯て弟子は己の宿に歸れり</ab>
+<ab type="verse" n="11" xml:id="John.20.11"><hi rend="superscript">11</hi> マリアは墓の外に立て哭つつ墓にむかひ俯て</ab>
+<ab type="verse" n="12" xml:id="John.20.12"><hi rend="superscript">12</hi> 二人の天使しろき衣を着イエスの屍を置たりし所の首の方に一人足の方に一人坐し居を見たり</ab>
+<ab type="verse" n="13" xml:id="John.20.13"><hi rend="superscript">13</hi> 天使かれに曰けるは婦よ何ぞ哭くや彼こたへけるは我主を取し者あり何處に置しかを知ざれば也</ab>
+<ab type="verse" n="14" xml:id="John.20.14"><hi rend="superscript">14</hi> 如此いひて反顧イエスの立しを見る然どもイエスなることを知ず</ab>
+<ab type="verse" n="15" xml:id="John.20.15"><hi rend="superscript">15</hi> イエス彼に曰けるは婦よ何ぞ哭や誰を尋るかマリア園を守る人ならんと意ひ彼に曰けるは君よ爾もし彼を轉移ししならば何處に置しか我に告よ我これを取べし</ab>
+<ab type="verse" n="16" xml:id="John.20.16"><hi rend="superscript">16</hi> イエス彼にマリアよといふ婦かへりみて彼にラボニと曰り之を譯ば夫子なり</ab>
+<ab type="verse" n="17" xml:id="John.20.17"><hi rend="superscript">17</hi> イエス彼に曰けるは我に捫こと勿れ我いまだ〔我｜吾〕父に升ざれば也わが兄弟に往ていへ我は我父すなはち爾曹が父わが神すなはち爾曹が神に升ると</ab>
+<ab type="verse" n="18" xml:id="John.20.18"><hi rend="superscript">18</hi> マグダラのマリア主を見しことと主の如此おのれに言給へるといふ事を弟子等に往て告／</ab>
+<ab type="verse" n="19" xml:id="John.20.19"><hi rend="superscript">19</hi> 此日の暮時すなはち一週の首の日弟子等ユダヤ人を懼るるに因て集れる所の門を閉おきしがイエス來て其中に立かれらに曰けるは爾曹安かれ</ab>
+<ab type="verse" n="20" xml:id="John.20.20"><hi rend="superscript">20</hi> 如此いひし後其手と脅を彼等に見す弟子たち主を見て喜べり</ab>
+<ab type="verse" n="21" xml:id="John.20.21"><hi rend="superscript">21</hi> イエスまた彼等に曰けるは爾曹安かれ父の我を遣しし如く我も爾曹を遣さん</ab>
+<ab type="verse" n="22" xml:id="John.20.22"><hi rend="superscript">22</hi> 如此いひしのち氣を嘘て彼等に曰けるは聖靈を受よ</ab>
+<ab type="verse" n="23" xml:id="John.20.23"><hi rend="superscript">23</hi> なんぢら誰の罪を釋すとも其罪ゆるされ誰の罪を定るとも其罪さだめらるべし</ab>
+<ab type="verse" n="24" xml:id="John.20.24"><hi rend="superscript">24</hi> イエス來しとき十二の弟子の一人なるデドモと稱るトマス彼等と偕に在ざりき</ab>
+<ab type="verse" n="25" xml:id="John.20.25"><hi rend="superscript">25</hi> 是故に他の弟子かれに曰けるは我儕主を見たりトマス彼等に曰けるは我もし其手に釘の迹を見わが指を釘の迹に探わが手を其脅に探に非ずば信ぜじ</ab>
+<ab type="verse" n="26" xml:id="John.20.26"><hi rend="superscript">26</hi> 八日を越し後また弟子たち室の内に在けるがトマスも彼等と偕に在り門を閉たるにイエス來て其中に立て曰けるは爾曹安かれ</ab>
+<ab type="verse" n="27" xml:id="John.20.27"><hi rend="superscript">27</hi> 遂にトマスに曰けるは爾の指を此に伸て我手を見なんぢの手を伸て我脅にさせ信ぜざる勿れ信ぜよ</ab>
+<ab type="verse" n="28" xml:id="John.20.28"><hi rend="superscript">28</hi> トマス答て彼に曰けるは我主よ我神よ</ab>
+<ab type="verse" n="29" xml:id="John.20.29"><hi rend="superscript">29</hi> イエス彼に曰けるは爾われを見しに因て信ず見ずして信ずる者は福なり</ab>
+<ab type="verse" n="30" xml:id="John.20.30"><hi rend="superscript">30</hi> 此書に録さるる外なほ許多の奇跡をイエス弟子の前にて行り</ab>
+<ab type="verse" n="31" xml:id="John.20.31"><hi rend="superscript">31</hi> 此書に録せるは爾曹をしてイエスの神の子キリストなる事を信ぜしめ之を信じ其名に因て生命を得させんが爲なり</ab>
+</div>
+<div type="chapter" n="21">
+  <head>第21章</head>
+<ab type="verse" n="1" xml:id="John.21.1"><hi rend="superscript">1</hi> 此後イエス復テベリアの湖にて弟子等に己を現せり其現せること左の如し</ab>
+<ab type="verse" n="2" xml:id="John.21.2"><hi rend="superscript">2</hi> シモン・ペテロとデドモと云るトマス及ガリラヤのカナのナタナエルとゼベダイの子等また他の二人の弟子ともに在</ab>
+<ab type="verse" n="3" xml:id="John.21.3"><hi rend="superscript">3</hi> シモン・ペテロ彼等に曰けるは我漁に往ん彼等いひけるは我儕も偕に往ん彼等いでて舟に登しが此夜は何の所獲も無りき</ab>
+<ab type="verse" n="4" xml:id="John.21.4"><hi rend="superscript">4</hi> 已に夜も明たるにイエス岸に立り然ど弟子等そのイエスなる事を知ず</ab>
+<ab type="verse" n="5" xml:id="John.21.5"><hi rend="superscript">5</hi> イエス彼等に曰けるは小子どもよ食物あるや彼等こたへけるは無</ab>
+<ab type="verse" n="6" xml:id="John.21.6"><hi rend="superscript">6</hi> イエス彼等に曰けるは網を舟の右に撒ば所獲あらん遂に網をうつ魚おほきに因て曳擧ること能はず</ab>
+<ab type="verse" n="7" xml:id="John.21.7"><hi rend="superscript">7</hi> 是に於てイエスの愛せし所の彼弟子ペテロに曰けるは是主なりシモン・ペテロ主なりと聞て裸なりしが衣をつけ帶して湖に投入ぬ</ab>
+<ab type="verse" n="8" xml:id="John.21.8"><hi rend="superscript">8</hi> 他の弟子等は小舟にて魚の入たる網を曳て至れり蓋岸を距こと遠からず五十間許なりければ也</ab>
+<ab type="verse" n="9" xml:id="John.21.9"><hi rend="superscript">9</hi> 岸に着しに炭火と其上に載たる魚およびパンあるを見たり</ab>
+<ab type="verse" n="10" xml:id="John.21.10"><hi rend="superscript">10</hi> イエス彼等に曰けるは今獲し所の魚を少し携來れ</ab>
+<ab type="verse" n="11" xml:id="John.21.11"><hi rend="superscript">11</hi> シモン・ペテロ舟にゆき網を岸に曳來しに其網の中に大なる魚百五十三尾いりたり如此おほかりけれど網は裂ざりき</ab>
+<ab type="verse" n="12" xml:id="John.21.12"><hi rend="superscript">12</hi> イエス彼等に曰けるは來て食せよ弟子たち敢て彼に爾は誰なると問ることをせず此は主なりと知ばなり</ab>
+<ab type="verse" n="13" xml:id="John.21.13"><hi rend="superscript">13</hi> イエス來てパンを取かれらに予ふ魚をも亦その如せり</ab>
+<ab type="verse" n="14" xml:id="John.21.14"><hi rend="superscript">14</hi> イエス死より甦りしのち己を弟子等に現せること是三次なり</ab>
+<ab type="verse" n="15" xml:id="John.21.15"><hi rend="superscript">15</hi> 偖かれら食して後イエス、シモン・ペテロに曰けるはヨナの子シモンよ爾これらの者に過て我を愛するや彼いひけるは主よ然わが爾を愛することは爾知りイエス彼に曰けるは我羔を牧</ab>
+<ab type="verse" n="16" xml:id="John.21.16"><hi rend="superscript">16</hi> また二次かれに曰けるはヨナの子シモンよ我を愛する乎かれ曰けるは主よ然わが爾を愛することは爾知りイエス彼に曰けるは我羊を牧</ab>
+<ab type="verse" n="17" xml:id="John.21.17"><hi rend="superscript">17</hi> 三次かれに曰けるはヨナの子シモンよ我を愛する乎ペテロ三次われを愛する乎と言れしに因て憂ふ斯て答けるは主しらざる所なし我なんぢを愛することは爾知りイエス彼に曰けるは我羊を牧</ab>
+<ab type="verse" n="18" xml:id="John.21.18"><hi rend="superscript">18</hi> 誠に實に爾に告ん爾いとけなき時みづから帶し意に任せて遊行ぬ老ては手を伸て人爾を束り意に欲ざる所に曳至らん</ab>
+<ab type="verse" n="19" xml:id="John.21.19"><hi rend="superscript">19</hi> 如此いへるは其如何なる死にて神を榮んといふ事を示したるなり此を言て後又彼に曰けるは我に從へ</ab>
+<ab type="verse" n="20" xml:id="John.21.20"><hi rend="superscript">20</hi> ペテロ反顧イエスの愛せし弟子の從へるを見この弟子は食する時イエスの懷に倚て主を賣す者は誰ぞやと問し弟子なり</ab>
+<ab type="verse" n="21" xml:id="John.21.21"><hi rend="superscript">21</hi> ペテロ之を見てイエスに曰けるは主よ斯人いかに</ab>
+<ab type="verse" n="22" xml:id="John.21.22"><hi rend="superscript">22</hi> イエス彼に曰けるは我もし彼が存て我來るを待を欲ば爾に何の與あらんや爾は我に從へ</ab>
+<ab type="verse" n="23" xml:id="John.21.23"><hi rend="superscript">23</hi> 是に於て此言兄弟の中に傳りて此弟子死ずと言り然どもイエス、ペテロに彼は死ずと言しに非ず我もし彼が存へて我來るを待を欲ば爾に何の與あらん乎と言しなり</ab>
+<ab type="verse" n="24" xml:id="John.21.24"><hi rend="superscript">24</hi> 此等の事について證をなし且これを書しし者は其弟子なり我儕その證の眞なる事を知り</ab>
+<ab type="verse" n="25" xml:id="John.21.25"><hi rend="superscript">25</hi> イエスの爲し事は此等の外になほ許多あり若これを一々しるしなば其書この世に載盡すこと能じと意ふ也〔アメン｜アーメン〕</ab>
+</div>
+
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
