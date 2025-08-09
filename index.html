@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Meiji Bible — New Testament (TEI Collection)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  body { font-family: "Noto Serif JP", serif; margin: 0; }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    padding: .75rem 1rem;
+    border-bottom: 1px solid #e5e5e5;
+    background: #f8f8f8;
+  }
+  select, input[type="text"], button {
+    font-size: 1rem;
+    padding: .4rem .6rem;
+  }
+  iframe {
+    width: 100vw;
+    height: calc(100vh - 58px);
+    border: none;
+  }
+  .spacer { flex: 1; }
+</style>
+</head>
+<body>
+  <header>
+    <strong>New Testament</strong>
+    <label>
+      Book:&nbsp;
+      <select id="bookSelect"></select>
+    </label>
+    <div class="spacer"></div>
+    <input id="chapterJump" type="text" placeholder="Jump to xml:id (optional)" />
+    <button id="goBtn">Go</button>
+  </header>
+
+  <!-- CANDRA viewer iframe -->
+  <iframe id="viewer" src="" allowfullscreen></iframe>
+
+  <script>
+    // Change this if CANDRA's URL changes, but keep '?file=' at the end
+    const CANDRA_BASE = "https://candra.dhii.jp/nagasaki/tei/tei_viewer/?file=";
+
+    // List your TEI XML files here
+    const BOOKS = {
+      "Matthew":  "nt/Matthew.xml",
+      "Mark":     "nt/Mark.xml",
+      "Luke":     "nt/Luke.xml",
+      "John":     "nt/John.xml",
+      "Acts":     "nt/Acts.xml",
+      "Romans":   "nt/Romans.xml",
+      "1 Corinthians": "nt/1Corinthians.xml",
+      "2 Corinthians": "nt/2Corinthians.xml",
+      "Galatians": "nt/Galatians.xml",
+      "Ephesians": "nt/Ephesians.xml",
+      "Philippians": "nt/Philippians.xml",
+      "Colossians": "nt/Colossians.xml",
+      "1 Thessalonians": "nt/1Thessalonians.xml",
+      "2 Thessalonians": "nt/2Thessalonians.xml",
+      "1 Timothy": "nt/1Timothy.xml",
+      "2 Timothy": "nt/2Timothy.xml",
+      "Titus": "nt/Titus.xml",
+      "Philemon": "nt/Philemon.xml",
+      "Hebrews": "nt/Hebrews.xml",
+      "James": "nt/James.xml",
+      "1 Peter": "nt/1Peter.xml",
+      "2 Peter": "nt/2Peter.xml",
+      "1 John": "nt/1John.xml",
+      "2 John": "nt/2John.xml",
+      "3 John": "nt/3John.xml",
+      "Jude": "nt/Jude.xml",
+      "Revelation": "nt/Revelation.xml"
+    };
+
+    const select = document.getElementById('bookSelect');
+    const iframe = document.getElementById('viewer');
+    const jump = document.getElementById('chapterJump');
+    const goBtn = document.getElementById('goBtn');
+
+    // Populate the dropdown
+    Object.entries(BOOKS).forEach(([label, href]) => {
+      const opt = document.createElement('option');
+      opt.value = href;
+      opt.textContent = label;
+      select.appendChild(opt);
+    });
+
+    function setViewer(href, fragment="") {
+      const fileURL = new URL(href, window.location.href).href; // absolute URL for GitHub Pages
+      iframe.src = CANDRA_BASE + encodeURIComponent(fileURL) +
+        (fragment ? "#" + encodeURIComponent(fragment) : "");
+      // Update page URL so links can be shared
+      const url = new URL(window.location);
+      url.searchParams.set("book", href);
+      if (fragment) url.searchParams.set("target", fragment);
+      else url.searchParams.delete("target");
+      history.replaceState(null, "", url);
+    }
+
+    // Load initial from URL params
+    const qs = new URLSearchParams(window.location.search);
+    const initial = qs.get("book") || Object.values(BOOKS)[0];
+    const target = qs.get("target") || "";
+    select.value = initial;
+    setViewer(initial, target);
+
+    select.addEventListener('change', () => setViewer(select.value));
+    goBtn.addEventListener('click', () => setViewer(select.value, jump.value.trim()));
+    jump.addEventListener('keydown', e => { if (e.key === "Enter") goBtn.click(); });
+  </script>
+</body>
+</html>
